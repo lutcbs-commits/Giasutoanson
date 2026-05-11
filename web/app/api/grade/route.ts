@@ -14,17 +14,21 @@ interface GradeRequest {
 
 function buildGradePrompt(req: GradeRequest): string {
   const steps = Array.isArray(req.studentSteps) ? req.studentSteps : [];
+  const correctSteps = Array.isArray(req.correctSteps) ? req.correctSteps : [];
   const studentStepsText = steps
     .map((s, i) => `Bước ${i + 1}: ${s}`)
     .join('\n');
+  const correctStepsText = correctSteps.length > 0
+    ? correctSteps.map((s, i) => `Bước ${i + 1}: ${s}`).join('\n')
+    : '(Hãy tự xây dựng lời giải mẫu phù hợp với đề bài)';
 
   return `Bạn là giáo viên toán lớp 5. Hãy chấm bài làm của học sinh và trả về JSON.
 
 ĐỀ BÀI: ${req.question}
 
 ĐÁP ÁN ĐÚNG:
-${req.correctSteps.map((s, i) => `Bước ${i + 1}: ${s}`).join('\n')}
-Kết quả: ${req.correctAnswer} ${req.correctUnit}
+${correctStepsText}
+Kết quả: ${req.correctAnswer ?? '?'} ${req.correctUnit ?? ''}
 
 BÀI LÀM CỦA HỌC SINH:
 ${studentStepsText || '(Học sinh không viết lời giải)'}
