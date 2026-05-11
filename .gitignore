@@ -11,5 +11,8 @@ web/.env.local
 web/.next/
 web/out/
 
+# Large binaries
+cloudflared.exe
+
 # OS
 .DS_Store

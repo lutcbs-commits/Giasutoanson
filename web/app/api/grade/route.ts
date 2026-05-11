@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import Groq from 'groq-sdk';
 import type { GradeFeedback } from '@/lib/lessonTypes';
 
 interface GradeRequest {
@@ -68,9 +68,9 @@ LƯU Ý:
 
 export async function POST(req: NextRequest) {
   try {
-    const apiKey = process.env.GEMINI_API_KEY;
+    const apiKey = process.env.GROQ_API_KEY;
     if (!apiKey) {
-      return NextResponse.json({ error: 'GEMINI_API_KEY chưa cấu hình' }, { status: 500 });
+      return NextResponse.json({ error: 'GROQ_API_KEY chưa cấu hình' }, { status: 500 });
     }
 
     const body = await req.json() as GradeRequest;
@@ -78,11 +78,13 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Thiếu dữ liệu câu hỏi' }, { status: 400 });
     }
 
-    const genAI = new GoogleGenerativeAI(apiKey);
-    const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
-
-    const result = await model.generateContent(buildGradePrompt(body));
-    const rawText = result.response.text();
+    const groq = new Groq({ apiKey });
+    const completion = await groq.chat.completions.create({
+      model: 'llama-3.3-70b-versatile',
+      messages: [{ role: 'user', content: buildGradePrompt(body) }],
+      temperature: 0.3,
+    });
+    const rawText = completion.choices[0]?.message?.content ?? '';
 
     let feedback: GradeFeedback;
     try {
@@ -112,8 +114,10 @@ export async function POST(req: NextRequest) {
 
     return NextResponse.json({ success: true, feedback });
   } catch (error) {
+    const err = error as Error;
+    console.error('Grade API error:', err.name, err.message, err.cause);
     return NextResponse.json(
-      { error: `Lỗi chấm bài: ${(error as Error).message}` },
+      { error: `Lỗi chấm bài: ${err.message}`, cause: String(err.cause ?? '') },
       { status: 500 }
     );
   }

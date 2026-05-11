@@ -27,9 +27,9 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    if (!process.env.GEMINI_API_KEY) {
+    if (!process.env.GROQ_API_KEY) {
       return NextResponse.json(
-        { error: 'GEMINI_API_KEY chưa được cấu hình. Vui lòng thêm vào file .env.local' },
+        { error: 'GROQ_API_KEY chưa được cấu hình. Vui lòng thêm vào file .env.local' },
         { status: 500 }
       );
     }

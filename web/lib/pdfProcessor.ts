@@ -1,6 +1,6 @@
 import path from 'path';
 import fs from 'fs';
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import Groq from 'groq-sdk';
 import type { LessonData } from './lessonTypes';
 
 export const CONTENT_DIR = path.resolve(process.cwd(), '../content');
@@ -125,9 +125,9 @@ YÊU CẦU:
 }
 
 export async function processLesson(fileName: string): Promise<LessonData> {
-  const apiKey = process.env.GEMINI_API_KEY;
+  const apiKey = process.env.GROQ_API_KEY;
   if (!apiKey) {
-    throw new Error('GEMINI_API_KEY chưa được cấu hình trong .env.local');
+    throw new Error('GROQ_API_KEY chưa được cấu hình trong .env.local');
   }
 
   const pdfPath = path.join(CONTENT_DIR, fileName);
@@ -146,11 +146,13 @@ export async function processLesson(fileName: string): Promise<LessonData> {
     throw new Error('PDF không có nội dung text có thể đọc được');
   }
 
-  const genAI = new GoogleGenerativeAI(apiKey);
-  const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
-
-  const result = await model.generateContent(buildPrompt(pdfText, fileName));
-  const rawText = result.response.text();
+  const groq = new Groq({ apiKey });
+  const completion = await groq.chat.completions.create({
+    model: 'llama-3.3-70b-versatile',
+    messages: [{ role: 'user', content: buildPrompt(pdfText, fileName) }],
+    temperature: 0.7,
+  });
+  const rawText = completion.choices[0]?.message?.content ?? '';
 
   let parsed: { title: string; topics: string[]; slides: LessonData['slides']; exercises: LessonData['exercises'] };
   try {
