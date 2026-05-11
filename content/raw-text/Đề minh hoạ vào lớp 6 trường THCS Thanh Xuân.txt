@@ -1,0 +1,3149 @@
+
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551     1 
+ 
+ 
+ 
+HỆ THỐNG ĐỀ MINH HOẠ VÀO LỚP 6  
+TRƯỜNG THCS THANH XUÂN 
+TRANG 
+Đề Đáp án 
+ĐỀ MINH HỌA SỐ 1 3 18 
+ĐỀ MINH HỌA SỐ 2 6 25 
+ĐỀ MINH HỌA SỐ 3 8 31 
+ĐỀ MINH HỌA SỐ 4 11 38 
+ĐỀ MINH HỌA SỐ 5 14 44 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 2 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 3 
+ 
+ 
+TRƯỜNG THCS THANH XUÂN  
+ĐỀ MINH HOẠ TUYỂN SINH VÀO LỚP 6  
+NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 1 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN I. TRẮC NGHIỆM CHỌN ĐÁP ÁN ĐÚNG 
+Câu 1. Tìm số lớn, biết hai số có hiệu bằng 9,45 và thương bằng 2,05. 
+A. 18,45 B. 19,45  C. 20,45  D. 21,45  
+Câu 2. Cho phân số 
+31
+43
+. Hỏi phải bớt cả tử số và mẫu số của phân số đó cùng số nào để được 
+phân số mới có giá trị bằng 
+5
+11
+? 
+A. 26 B.  21 C. 32 D. 36 
+Câu 3. Bạn Nam tung đồng thời hai đồng xu nhiều lần liên tiếp. Dưới đây là kết quả: 
+Khả năng Hai đồng sấp Hai đồng ngửa 
+Một đồng sấp 
+Một đồng ngửa 
+Số lần lặp lại 13 lần 14 lần 10 lần 
+Viết tỉ số của số lần lặp lại “một đồng sấp – một đồng ngửa’’ xuất hiện so với tổng số lần tung. 
+A. 
+10
+37
+ B. 
+13
+37
+ C. 
+14
+37
+ D. 
+25
+37
+ 
+Câu 4.  An dùng các Trong vườn có 200 cây ăn quả. Trong đó, số cây cam chiếm 25% tổng số cây, 
+số cây quýt chiếm 30% tổng số cây, còn lại là cây bưởi. Hỏi trong vườn có bao nhiêu cây bưởi? 
+A. 60 cây B. 70 cây  C. 80 cây D. 90 cây 
+Câu 5. Nếu gấp một cạnh của hình lập phương lên 4 lần thì thể tích của hình lập phương sẽ được 
+gấp lên mấy lần? 
+A. 16 lần B. 32 lần  C. 64 lần D. 128 lần 
+Câu 6. Hai người cùng làm chung một công việc thì sau 8 giờ sẽ xong, nếu người thứ nhất làm 
+một mình thì sau 12 giờ sẽ xong công việc. Hỏi nếu người thứ hai làm một mình thì sau bao lâu 
+sẽ xong công việc? 
+A. 18 giờ B. 20 giờ C. 22 giờ D. 24 giờ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 4 
+ 
+Câu 7. Năm nay con 4 tuổi, mẹ 34 tuổi. Hỏi sau bao nhiêu năm nữa tuổi mẹ gấp 6 lần tuổi con? 
+A. 1 năm  B. 2 năm C. 3 năm D. 5 năm 
+Câu 8.  Kết quả kiểm tra môn Toán của lớp 5A được xếp thành 3 loại: giỏi, khá và trung bình. Tỉ 
+số giữa số học sinh giỏi so với số học sinh khá là 
+1
+3
+, tỉ số giữa số học sinh khá so với số học sinh 
+trung bình là 
+2
+5
+. Hỏi có bao nhiêu học sinh xếp loại giỏi? Biết lớp 5A có 46 học sinh và tất cả các 
+bạn đều tham gia làm bài kiểm tra. 
+A.  4 học sinh B. 6 học sinh C. 12 học sinh D. 20 học sinh 
+Câu 9. Một thửa ruộng hình thang có đáy lớn 120m, đáy bé bằng 
+2
+3
+ đáy lớn và đồng thời bằng  
+4
+3
+ chiều cao. Người ta trồng ngô trên thửa ruộng đó, tính ra trung bình cứ 100m
+2
+ thu được 50kg 
+ngô. Hỏi cả thửa ruộng thu được bao nhiêu tạ ngô? 
+A. 3 tạ B. 30 tạ C. 300 tạ D. 3000 tạ 
+PHẦN II. TRẮC NGHIỆM ĐIỀN ĐÁP ÁN 
+Câu 10. Tìm 
+y
+, biết 
+1  1  1   1
+1
+3  9  27  81
+y          
+ 
+ 
+Câu 11. Tìm số có 2 chữ số 
+ab
+ biết: 
+ab a b  ba    
+. 
+ 
+Câu  12. Ba  bạn  Bắc,  Trung,  Nam  mua  một  số vở.  Biết  Bắc  và  Trung  mua  
+28 quyển vở, Trung và Nam mua 31 quyển vở, sáu lần số vở của Bắc bằng năm 
+lần số vở của Nam. Hỏi Bắc đã mua bao nhiêu quyển vở? 
+ 
+Câu 13. Cho hình tam giác ABC có diện tích bằng 
+36cm
+2
+, biết DA = DB × 2, EC = EA × 3,  MB = MC 
+(như hình vẽ). Tính diện tích hình tứ giác AEMD.  
+ 
+E
+B
+C
+D
+M
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 5 
+ 
+Câu 14. Cho 4 hình tròn như nhau và mỗi hình có diện tích bằng 63,585cm
+2
+. 
+Tính diện tích phần tô đậm. 
+ 
+ 
+PHẦN III. TỰ LUẬN 
+Bài 1.  Lúc 7 giờ 25 phút một ô tô đi từ A đến B với vận tốc 52km/giờ. Cùng lúc đó một ô tô khác 
+đi từ B về A với vận tốc 45km/giờ. Quãng đường AB dài 135,8km. Hỏi: 
+a) Hai xe gặp nhau lúc mấy giờ? 
+b) Chỗ gặp nhau cách A và cách B bao nhiêu ki-lô-mét? 
+Bài 2. Cho hai hình vuông ABCD và MNCK như hình vẽ bên. 
+Biết rằng cạnh AB dài 10cm, cạnh MN dài 6cm. 
+a) Tính diện tích tam giác ABM. 
+b) Tính diện tích tam giác BQM.    
+ 
+---------------------------------HẾT--------------------------------- 
+  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 6 
+ 
+ 
+TRƯỜNG THCS THANH XUÂN  
+ĐỀ MINH HOẠ TUYỂN SINH VÀO LỚP 6  
+NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 2 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN I. TRẮC NGHIỆM CHỌN ĐÁP ÁN ĐÚNG 
+Câu 1. Tìm 
+x
+, biết: 
+2   9   1  8
+2
+3  15   3  6
+x
+
+         
+
+
+. 
+A. 0 B. 1 C. 2 D. 3 
+Câu 2. Một lớp học có 19 học sinh nam, số học sinh nữ nhiều hơn số học sinh nam là 2 bạn. Hỏi 
+số học sinh nữ chiếm bao nhiêu phần trăm số học sinh cả lớp? 
+A. 52,5% B. 47,5% C. 45,5% D. 50,2% 
+Câu 3. Mẹ hơn con 25 tuổi. Sau 5 năm nữa thì tuổi con bằng 
+2
+7
+ tuổi mẹ. Tính tuổi con cách đây  
+3 năm.  
+A. 1 tuổi B. 2 tuổi C. 3 tuổi D. 4 tuổi 
+Câu 4.  Trong 8 ngày, 4 người thợ may được 12 bộ quần áo. Hỏi 12 người thợ trong 16 ngày may 
+được bao nhiêu bộ quần áo? (Năng suất làm việc của mỗi người là như nhau) 
+A. 36 bộ B. 48 bộ C. 60 bộ D. 72 bộ 
+Câu 5. Một khúc gỗ hình hộp chữ nhật có chiều dài 30dm, chiều rộng 8dm và chiều cao 5dm. Biết  
+2dm
+3
+ gỗ nặng 7kg. Hỏi cả khúc gỗ nặng bao nhiêu ki-lô-gam? 
+A. 420kg B. 4200kg C. 42000kg D. 42kg 
+Câu 6. Lúc 8 giờ 45 phút sáng, một người đi xe máy từ tỉnh A đến tỉnh B với vận tốc 50km/giờ. 
+Biết quãng đường AB dài 120km. Hỏi người đó đến tỉnh B lúc mấy giờ? 
+A. 10 giờ 59 phút B. 11 giờ 9 phút C. 12 giờ 9 phút D. 12 giờ 19 phút 
+Câu 7. Điền số hạng tiếp theo vào dãy số sau:  16; 25; 36; 49; ... 
+A. 60 B. 64 C. 72 D. 81 
+Câu 8.  Một người gửi tiết kiệm 20 000 000 đồng với lãi suất 5% một năm. Hỏi sau 2 năm số tiền 
+người đó được nhận về là bao nhiêu? (Biết tiền lãi năm thứ nhất được gộp vào tiền gốc để tính 
+lãi năm thứ hai) 
+A. 22 000 000 đồng B. 23 050 000 đồng C. 22 050 000 đồng D. 21 050 000 đồng 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 7 
+ 
+Câu 9. Người ta xếp 64 hình lập phương nhỏ có cạnh 1cm thành một hình lập phương lớn. Sau 
+đó sơn tất cả các mặt của hình lập phương lớn. Hỏi có bao nhiêu hình lập phương nhỏ được sơn 
+đúng 2 mặt? 
+A. 12 hình B. 16 hình C. 24 hình D. 48 hình 
+PHẦN II. TRẮC NGHIỆM ĐIỀN ĐÁP ÁN 
+Câu 10. Giảm đường kính một hình tròn đi 12% thì diện tích hình tròn đó giảm 
+bao nhiêu phần trăm? 
+ 
+Câu 11. Lúc 7 giờ sáng, một ô tô đi từ A đến B với vận tốc 45km/giờ. Sau đó  
+1 giờ một xe máy đi từ B về A với vận tốc 30km/giờ. Đến 9 giờ 30 phút thì 2 xe 
+gặp nhau. Tính quãng đường AB. 
+ 
+Câu 12. Cho dãy số sau: 
+1  1  1   1
+;   ;   ;   ; ...
+8 35 80 143
+ Tìm số thứ 20 của dãy. 
+ 
+Câu 13. Một cửa hàng có 6 thùng đựng gạo với khối lượng lần lượt là: 316kg; 
+327kg; 336kg; 338kg; 349kg và 351kg. Trong một ngày, cửa hàng đã bán được  
+5 thùng, trong đó số ki-lô-gam gạo bán buổi sáng gấp 4 lần buổi chiều. Hỏi cửa 
+hàng còn lại thùng đựng bao nhiêu ki-lô-gam gạo? 
+ 
+Câu 14. Cho hình thang ABCD như hình vẽ. 
+Biết đáy AB = 
+2
+5
+ × CD; diện tích tam giác BEC 
+là 180cm
+2
+. Tính diện tích hình thang ABCD. 
+ 
+PHẦN III. TỰ LUẬN 
+Bài 1. Một người dự định đi từ A với vận tốc 45km/giờ để đến B lúc 11 giờ 40 phút. Thực tế, sau 
+khi đi được 
+2
+5
+ quãng đường với vận tốc dự định, trên quãng đường còn lại người đó tăng vận 
+tốc lên thành 60km/giờ nên đã đến B vào lúc 10 giờ 10 phút. Tính quãng đường AB. 
+Bài 2. Bốn khối 4, 5, 6, 7 của một trường có tất cả 525 học sinh. Số học sinh khối lớp 4 chiếm 
+20% tổng số học sinh. Số học sinh khối lớp 5 bằng 
+2
+5
+ tổng số học sinh khối lớp 6 và khối lớp 7. 
+Số học sinh khối lớp 7 nhiều hơn số học sinh khối lớp 6 là 24 học sinh. Hỏi mỗi khối có bao nhiêu 
+học sinh? 
+---------------------------------HẾT--------------------------------- 
+  
+E
+AB
+C
+D
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 8 
+ 
+ 
+TRƯỜNG THCS THANH XUÂN  
+ĐỀ MINH HOẠ TUYỂN SINH VÀO LỚP 6  
+NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 3 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN I. TRẮC NGHIỆM CHỌN ĐÁP ÁN ĐÚNG 
+Câu 1. Một hình lập phương có diện tích toàn phần bằng 54cm
+2
+. Hỏi hình lập phương đó có thể 
+tích bằng bao nhiêu? 
+A. 25cm
+3
+ B. 26cm
+3
+  C. 27cm
+3
+ D. 28cm
+3
+ 
+Câu 2. Tìm một số thập phân, biết nếu lấy số đó cộng với 4,75; sau đó nhân với 2,5; rồi trừ đi 0,2 
+và cuối cùng chia cho 1,25 thì được kết quả là 12,84. 
+A. 1,75 B. 2,75 C. 3,75 D. 4,75 
+Câu 3. Dưới đây là biểu đồ nói về tỉ lệ phần trăm các loại sách có trong một giá sách: 
+ 
+Biết giá sách đó có 100 quyển sách tất cả. Hỏi có bao nhiêu quyển sách bài tập? 
+A. 40 quyển B. 30 quyển C. 20 quyển D. 15 quyển 
+Câu 4.  Tìm số có 2 chữ số biết rằng khi ta viết thêm chữ số 5 vào bên phải số đó ta được số mới 
+hơn số cần tìm 689 đơn vị. 
+A. 75 B. 76 C. 77 D. 78 
+Câu 5. Tìm 2 số lẻ có tổng bằng 2010, biết giữa chúng có đúng 10 số chẵn. 
+A. 990 và 1020 B. 995 và 1015 C. 1000 và 1010 D. 985 và 1025 
+Câu 6. Bà mang đi chợ một rổ trứng để bán. Sau khi bán được 
+3
+5
+ số trứng thì trong rổ còn lại  
+48 quả. Hỏi lúc đầu trong rổ của bà có bao nhiêu quả trứng? 
+A. 100 quả B. 110 quả  C. 120 quả  D. 130 quả 
+Câu 7. Một người nhập một chiếc áo với giá 120 000 đồng về để bán. Hỏi muốn bán chiếc áo đó 
+lãi 25% so với giá bán thì cửa hàng cần bán ra với giá bao nhiêu tiền? 
+A. 140 000 đồng B. 150 000 đồng C. 160 000 đồng D. 170 000 đồng 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 9 
+ 
+Câu 8.  Kho A chứa nhiều hơn kho B là 75 tấn gạo. Sau khi mỗi kho nhận thêm 10 tấn gạo thì số 
+gạo kho B bằng 
+2
+5
+ số gạo kho A. Hỏi lúc đầu kho B chứa bao nhiêu tấn gạo? 
+A. 50 tấn B. 40 tấn C. 30 tấn D. 20 tấn 
+Câu 9. Tính giá trị biểu thức A = 
+1    11111
+...
+5 7  7 9  9 11 11 1395 97  97 99
+      
+    
+ 
+A. 
+47
+495
+ B. 
+495
+47
+ C. 
+495
+94
+ D. 
+94
+495
+ 
+PHẦN II. TRẮC NGHIỆM ĐIỀN ĐÁP ÁN 
+Câu 10. Tìm chu vi của hình vẽ (các số đo độ 
+dài đều được tính theo đơn vị xăng-ti-mét). 
+ 
+ 
+Câu 11. Cho hình vẽ với kích thước như hình bên dưới. Tính diện tích phần 
+hình được tô đậm. 
+ 
+ 
+Câu 12. Một chiếc đồng hồ lúc 1 giờ đổ chuông 1 tiếng, lúc 2 giờ đổ chuông 2 
+tiếng, lúc 3 giờ đổ chuông 3 tiếng,... lúc 12 giờ đổ chuông 12 tiếng, lúc 13 giờ 
+đổ chuông 1 tiếng, ... Khoảng cách giữa 2 tiếng chuông là 4 giây. Ban đêm cần 
+ít nhất bao nhiêu giây để nghe đồng hồ đổ chuông ta biết được lúc đó là 3 giờ? 
+ 
+Câu 13. Tuổi em hiện nay gấp 2 lần tuổi em khi anh bằng tuổi em hiện nay. Khi 
+tuổi em bằng tuổi anh hiện nay thì 2 lần tuổi em lớn hơn tuổi anh lúc đó là  
+12 tuổi. Hỏi anh hơn em bao nhiêu tuổi? 
+ 
+Câu 14. Một phép nhân gồm 2027 số 7 nhân với nhau. Hỏi kết quả của phép 
+tính có chữ số hàng đơn vị bằng bao nhiêu? 
+ 
+  
+12
+8
+5
+6
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 10 
+ 
+PHẦN III. TỰ LUẬN 
+Bài 1. Một giá sách có ba ngăn, chứa tất cả 700 quyển sách. Số sách ngăn 1 bằng 40% tổng số 
+sách của ba ngăn. Sau đó người ta chuyển một nửa số sách từ ngăn 3 xuống ngăn 2 thì lúc này 
+3
+5
+ số sách ngăn 3 bằng 
+1
+3
+ số sách ngăn 2. Tính số sách mỗi ngăn lúc đầu. 
+Bài 2. Cho hình chữ nhật ABCD, biết BE = EC, 
+2
+160   ;
+ABCD
+Scm
+ 
+2
+CEF
+10   .Scm
+ 
+a) Tính diện tích tam giác DEC.  
+b) Tính tỉ số 
+EF
+DF
+. 
+c) Tính tỉ số 
+FIC
+FID
+S
+S
+. 
+ 
+ 
+---------------------------------HẾT--------------------------------- 
+  
+AB
+C
+D
+E
+F
+I
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 11 
+ 
+ 
+TRƯỜNG THCS THANH XUÂN  
+ĐỀ MINH HOẠ TUYỂN SINH VÀO LỚP 6  
+NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 4 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN I. TRẮC NGHIỆM CHỌN ĐÁP ÁN ĐÚNG 
+Câu 1.  3ha gấp 75m
+2
+ bao nhiêu lần? 
+A. 4 lần B. 40 lần C. 400 lần D. 4 000 lần 
+Câu 2. Tính A = 
+1
+4
+4
+ + 1,85 + 5,75 + 8,15 – 1 
+A. 17 B. 18 C. 19 D. 20 
+Câu 3. Dưới đây là biểu đồ về số học sinh các lớp khối 5 của một trường tiểu học. 
+ 
+Em hãy quan sát biểu đồ và lập tỉ số của số học sinh lớp 5A so với tổng số học sinh khối 5. 
+A. 
+1
+5
+ B. 
+1
+6
+ C. 
+1
+7
+ D. 
+1
+4
+ 
+Câu 4.  Tìm 2 số tự nhiên, biết trung bình cộng của chúng bằng 27 và giữa chúng có 21 số tự 
+nhiên liên tiếp. 
+A. 15 và 39 B. 16 và 38 C. 17 và 37 D. 18 và 36 
+Câu 5. Hai số có hiệu là 1554. Tổng của hai số là 
+2x3y
+ chia hết cho 2 và 9 nhưng khi chia cho 5 
+thì dư 3. Tìm số lớn. 
+A. 492 B. 2046 C. 984 D. 2538 
+Câu 6. Người ta cưa một khúc gỗ dài 2m thành các đoạn dài 2dm, mỗi lần cưa mất 30 giây. Hỏi 
+để cưa xong khúc gỗ cần bao nhiêu thời gian? 
+A. 200 giây B. 240 giây C. 270 giây D. 300 giây 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 12 
+ 
+Câu 7. Một người mang trứng ra chợ bán. Lần đầu người đó bán được 
+1
+3
+ số trứng. Lần thứ hai 
+người đó bán được 
+2
+5
+ số trứng. Sau hai lần bán người đó còn lại 20 quả trứng. Hỏi số trứng ban 
+đầu người đó mang ra chợ bán là bao nhiêu quả? 
+A. 55 quả B. 65 quả C. 75 quả D. 85 quả 
+Câu 8.  Một bể cá hình hộp chữ nhật có chiều dài 60cm, chiều rộng 40cm, chiều cao 50cm. Người 
+ta đổ 7 xô nước như nhau vào bể cạn thì thấy mực nước cao bằng 
+7
+10
+ chiều cao của bể. Hỏi mỗi 
+xô nước đó chứa bao nhiêu lít nước? 
+A. 11 lít B. 12 lít C. 13 lít D. 14 lít 
+Câu 9. Một chiếc thuyền đi xuôi dòng từ A đến B hết 3 giờ, đi ngược dòng từ B đến A hết 4 giờ. 
+Hỏi một khúc gỗ trôi từ A đến B hết mấy giờ? 
+A. 18 giờ B. 24 giờ C. 36 giờ D. 48 giờ 
+PHẦN II. TRẮC NGHIỆM ĐIỀN ĐÁP ÁN 
+Câu 10. Giá  vé  xem phim ngày thường là  80  000  đồng,  ngày  cuối tuần là  
+120 000 đồng. Hỏi giá vé ngày cuối tuần đã tăng bao nhiêu phần trăm so với 
+ngày thường? 
+ 
+Câu 11. Nhân dịp 8/3, bạn Nhi mua 30 bông hoa gồm hoa hồng và hoa cẩm 
+chướng về tặng mẹ, số tiền bạn Nhi phải trả là 96 000 đồng. Biết giá tiền một 
+bông hoa hồng là 5000 đồng, giá tiền một bông hoa cẩm chướng là 2000 đồng. 
+Hỏi Nhi đã mua bao nhiêu bông hoa mỗi loại? 
+ 
+Câu 12. Tam giác ABC có cạnh AB = 24cm. Một 
+đường gấp khúc MNPC chia tam giác thành 4 
+hình tam giác có diện tích bằng nhau (đó là 
+tam giác AMN, MPN, PNC, BPC như hình vẽ). 
+Tính độ dài đoạn MP.  
+ 
+Câu 13. Tìm số thứ 50 của dãy số: 2; 5; 11; 20; 32; 47; ... 
+ 
+Câu 14. Cho hình vẽ như hình bên. Biết diện tích của 
+hình  vuông  to  bằng  40cm
+2
+.  Tính  diện  tích  của  hình 
+vuông nhỏ.  
+ 
+P
+N
+M
+CB
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 13 
+ 
+PHẦN III. TỰ LUẬN 
+Bài 1. Hai người đi xe đạp từ A tới B, cùng xuất phát một lúc. Người thứ nhất đi với vận tốc  
+15km/giờ, người thứ hai đi với vận tốc 9km/giờ. Người thứ nhất sau khi đi được 3 giờ thì giảm 
+vận tốc xuống còn 5km/giờ để đợi người thứ hai. Tìm quãng đường AB biết rằng  2 người đi tới 
+B cùng lúc. 
+Bài 2. Cho tam giác ABC. Lấy điểm M trên cạnh AC sao cho AM = 
+2
+3
+AC, lấy điểm N trên cạnh BC 
+sao cho BN = 
+1
+4
+BC. 
+a) Tính tỉ số diện tích 2 tam giác CMN và ACN. 
+b) Tính tỉ số diện tích 2 tam giác BMN và ABC. 
+c) Biết diện tích tam giác ABC bằng 480cm
+2
+. Hãy tính diện tích tam giác AMN. 
+---------------------------------HẾT--------------------------------- 
+  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 14 
+ 
+ 
+TRƯỜNG THCS THANH XUÂN  
+ĐỀ MINH HOẠ TUYỂN SINH VÀO LỚP 6  
+NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 5 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN I. TRẮC NGHIỆM CHỌN ĐÁP ÁN ĐÚNG 
+Câu 1.  Tìm 
+x
+, biết: 
+31  4
+42  5
+x
+
+    
+
+
+. 
+A. 
+17
+20
+ B. 
+18
+20
+ C. 
+19
+20
+ D. 
+17
+10
+ 
+Câu 2. Một hình hộp chữ nhật có chiều rộng bằng 4cm, chiều dài bằng 10cm và có thể tích bằng 
+thể tích của hình lập phương có cạnh bằng 8cm. Tính chiều cao của hình hộp chữ nhật đó. 
+A. 11,8 cm B. 12,8 cm C. 13,8 cm D. 18,2 cm 
+Câu 3. Tìm một số có 2 chữ số, biết rằng khi viết thêm chữ số 5 vào bên phải số đó ta được một 
+số mới hơn số phải tìm 230 đơn vị. 
+A. 25 B. 35  C. 45 D. 55 
+Câu 4.  Mẹ hơn con 24 tuổi. Ba năm trước đây tuổi mẹ gấp 5 lần tuổi con. Hỏi hiện nay mẹ bao 
+nhiêu tuổi? 
+A. 24 tuổi B. 26 tuổi C. 30 tuổi D. 33 tuổi 
+Câu 5. Khi gieo một con xúc xắc nhiều lần liên tiếp, một bạn đã ghi lại số lần xuất hiện các mặt 
+ngửa trên cùng của xúc xắc theo bảng dưới đây: 
+Khả năng 1 chấm 2 chấm 3 chấm 4 chấm 5 chấm 6 chấm 
+Số lần lặp lại 11  10 9 10 12 10 
+Viết tỉ số của số lần lặp lại mặt 3 chấm xuất hiện so với tổng số lần gieo xúc xắc. 
+A. 
+3
+62
+ B. 
+9
+53
+ C. 
+9
+62
+ D. 
+3
+10
+ 
+Câu 6. Cho 3 số thập phân A, B, C có tổng bằng 19,68. Biết số A gấp 5 lần số B, nếu dời dấu phẩy 
+của C sang trái 1 hàng ta được số B. Tìm số A. 
+A. 1,23 B. 12,3 C. 4,1 D. 6,15 
+Câu 7. Năm bạn học sinh trong một nhóm của câu lạc bộ STEM cùng góp tiền để mua linh 
+kiện lắp ráp Robot. Bạn An góp 210 000 đồng; bạn Bình góp 180 000 đồng, bạn Cường góp 
+175 000 đồng, bạn Dũng góp 155 000 đồng, bạn Thắng góp nhiều hơn mức trung bình cộng 
+của cả nhóm là 4 000 đồng. Hỏi bạn Thắng đã góp bao nhiêu tiền vào quỹ chung? 
+A. 192 000 đồng B. 210 000 đồng C. 220 000 đồng D. 230 000 đồng 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 15 
+ 
+Câu 8.  Thửa ruộng hình thang có trung bình cộng hai đáy là 46m. Nếu mở rộng đáy lớn thêm 
+12m và giữ nguyên đáy bé thì được thửa ruộng mới có diện tích lớn hơn diện tích thửa ruộng 
+ban đầu là 114m². Tính diện tích thửa ruộng ban đầu. 
+A. 870m
+2
+ B. 872m
+2
+ C. 874m
+2
+ D. 876m
+2
+ 
+Câu 9. Để đánh số trang một quyển sách từ trang 1 đến trang cuối, người ta dùng hết 882 chữ 
+số. Hỏi quyển sách đó có tất cả bao nhiêu trang? 
+A. 320 trang B. 330 trang C. 340 trang D. 350 trang 
+PHẦN II. TRẮC NGHIỆM ĐIỀN ĐÁP ÁN 
+Câu 10. Tìm số có 4 chữ số khác nhau 
+abcd
+ thoả mãn: 
+10102010207abcd        
+. 
+ 
+Câu 11. Trong hộp có 60 viên bi có kích thước giống hệt nhau, trong đó có  
+15 viên bi màu đỏ, 15 viên bi màu xanh, 15 viên bi màu vàng và 15 viên bi màu 
+tím. Không nhìn vào hộp, hỏi cần lấy ra ít nhất bao nhiêu viên bi để chắc chắn 
+trong số những viên bi lấy ra có 5 viên bi cùng màu ? 
+ 
+Câu 12. Cho tam giác vuông ABC và ba nửa hình tròn có đường kính là ba cạnh 
+của tam giác như hình vẽ.  Tính diện tích phần tô đậm. 
+ 
+ 
+Câu 13. Học kỳ 1, một trường THCS có 24% học sinh đạt loại giỏi. Kết thúc học 
+kỳ 2, có thêm 8 học sinh đạt loại giỏi nên tỉ lệ học sinh giỏi của học kỳ 2 là 25%. 
+Hỏi trường THCS đó có bao nhiêu học sinh? (Số học sinh của trường không 
+thay đổi) 
+ 
+Câu 14. Một đoàn có 46 người qua sông trên hai loại thuyền với 6 người trên 
+một thuyền lớn, 4 người trên một thuyền bé (không kể lái thuyền). Có tất cả 
+10 thuyền thuộc hai loại chở vừa đủ đoàn người. Hỏi có bao nhiêu thuyền lớn, 
+bao nhiêu thuyền bé? 
+ 
+ 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 16 
+ 
+PHẦN III. TỰ LUẬN 
+Bài 1. Hai thư viện A và B tiến hành sáp nhập thành một nên người ta chuyển dần số sách từ thư 
+viện A sang thư viện B qua ba đợt: 
++ Đợt một: Chuyển đi 
+1
+5
+ số sách của thư viện A và thêm 12 quyển. 
++ Đợt hai: Chuyển đi 
+2
+3
+ số sách còn lại và thêm 20 quyển. 
++ Đợt ba: Chuyển nốt 
+3
+4
+ số sách còn lại sau hai đợt và 30 quyển cuối cùng. 
+Sau khi hoàn tất việc luân chuyển, thư viện A không còn sách còn thư viện B có tất cả 1000 quyển 
+sách. Hỏi lúc đầu, mỗi thư viện có bao nhiêu quyển sách? 
+Bài 2. Cho hai hình vuông như hình vẽ bên. Biết hình 
+vuông  lớn  có  cạnh  6cm, hình  vuông  nhỏ  có  cạnh 
+4cm. 
+a) Tính diện tích tam giác AME. 
+b) Tính diện tích tam giác MEQ. 
+c) Tính diện tích tam giác AHM. 
+ 
+ 
+---------------------------------HẾT--------------------------------- 
+ 
+ 
+  
+Q
+M
+NE
+H
+DC
+B
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 17 
+ 
+ 
+ 
+ 
+  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 18 
+ 
+ 
+TRƯỜNG THCS THANH XUÂN  
+ĐỀ MINH HOẠ TUYỂN SINH VÀO LỚP 6  
+NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 1 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN I. TRẮC NGHIỆM CHỌN ĐÁP ÁN ĐÚNG 
+Câu 1. Tìm số lớn, biết hai số có hiệu bằng 9,45 và thương bằng 2,05. 
+A. 18,45 B. 19,45  C. 20,45  D. 21,45  
+Chọn A 
+Ta có: 
+205  41
+2,05.
+100  20
+
+ 
+Số lớn là: 9,45 : (41 – 20) × 41 = 18,45. 
+Câu 2. Cho phân số 
+31
+43
+. Hỏi phải bớt cả tử số và mẫu số của phân số đó cùng số nào để được 
+phân số mới có giá trị bằng 
+5
+11
+? 
+A. 26 B.  21 C. 32 D. 36 
+Chọn B 
+Khi bớt cả tử số và mẫu số của một phân số đi cùng một số thì được phân số mới có hiệu của 
+mẫu số và tử số không thay đổi. 
+Hiệu của mẫu số và tử số là: 43 – 31= 12. 
+Tử số của phân số mới là: 12 : (11 – 5) × 5 = 10. 
+Vậy số cần bớt đi là: 31 – 10 = 21. 
+Câu 3. Bạn Nam tung đồng thời hai đồng xu nhiều lần liên tiếp. Dưới đây là kết quả: 
+Khả năng Hai đồng sấp Hai đồng ngửa 
+Một đồng sấp 
+Một đồng ngửa 
+Số lần lặp lại 13 lần 14 lần 10 lần 
+Viết tỉ số của số lần lặp lại “một đồng sấp – một đồng ngửa’’ xuất hiện so với tổng số lần tung. 
+A. 
+10
+37
+ B. 
+13
+37
+ C. 
+14
+37
+ D. 
+25
+37
+ 
+Chọn A 
+Tổng số lần Nam tung đồng xu là:  13 + 14 + 10 = 37 (lần). 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 19 
+ 
+Tỉ số của số lần lặp lại “một đồng sấp – một đồng ngửa’’ xuất hiện so với tổng số lần tung là: 
+10
+10:37
+37
+
+ 
+Câu 4.  An dùng các Trong vườn có 200 cây ăn quả. Trong đó, số cây cam chiếm 25% tổng số cây, 
+số cây quýt chiếm 30% tổng số cây, còn lại là cây bưởi. Hỏi trong vườn có bao nhiêu cây bưởi? 
+A. 60 cây B. 70 cây  C. 80 cây D. 90 cây 
+Chọn D 
+Số cây bưởi trong vườn chiếm:  100% – 25% – 30% = 45% (tổng số cây). 
+Trong vườn có số cây bưởi là: 200 × 45% = 90 (cây). 
+Câu 5. Nếu gấp một cạnh của hình lập phương lên 4 lần thì thể tích của hình lập phương sẽ được 
+gấp lên mấy lần? 
+A. 16 lần B. 32 lần  C. 64 lần D. 128 lần 
+Chọn C 
+Gọi độ dài cạnh của hình lập phương là 
+a
+ thì thể tích hình lập phương được tính theo công thức:           
+V = 
+a a a  
+ 
+Nếu cạnh hình lập phương được gấp lên 4 lần thì khi đó thể tích hình lập phương mới là: 
+
+(  4) (  4) (  4)64V  aaaa a a                 
+ 
+Vậy nếu cạnh hình lập phương được gấp lên 4 lần thì thể tích hình lập phương được gấp lên  
+64 lần. 
+Câu 6. Hai người cùng làm chung một công việc thì sau 8 giờ sẽ xong, nếu người thứ nhất làm 
+một mình thì sau 12 giờ sẽ xong công việc. Hỏi nếu người thứ hai làm một mình thì sau bao lâu 
+sẽ xong công việc? 
+A. 18 giờ B. 20 giờ C. 22 giờ D. 24 giờ 
+Chọn D 
+Trong một giờ, cả hai người làm được số phần công việc là 
+1
+1:8
+8
+
+ (công việc) 
+Trong một giờ, người thứ nhất làm riêng được số phần công việc là: 
+1
+1:12
+12
+
+ (công việc) 
+Trong một giờ, người thứ hai làm riêng được số phần công việc là: 
+1  1   1
+8  12  24
+   
+ (công việc) 
+Thời gian để người thứ hai làm một mình xong công việc là: 
+1
+1:24
+24
+
+ (giờ) 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 20 
+ 
+Câu 7. Năm nay con 4 tuổi, mẹ 34 tuổi. Hỏi sau bao nhiêu năm nữa tuổi mẹ gấp 6 lần tuổi con? 
+A. 1 năm  B. 2 năm C. 3 năm D. 5 năm 
+Chọn B 
+Hiệu số tuổi của mẹ và con không thay đổi qua các năm và luôn bằng: 
+34 4  30  
+ (tuổi) 
+Khi tuổi mẹ gấp 6 lần tuổi con nếu ta coi tuổi con là 1 phần thì tuổi mẹ là 6 phần như thế. 
+Tuổi con khi đó là: 30 : (6 – 1) × 1 = 6 (tuổi) 
+Tuổi mẹ gấp 6 lần tuổi con sau số năm nữa là: 6 – 4 = 2 (năm) 
+Câu 8.  Kết quả kiểm tra môn Toán của lớp 5A được xếp thành 3 loại: giỏi, khá và trung bình. Tỉ 
+số giữa số học sinh giỏi so với số học sinh khá là 
+1
+3
+, tỉ số giữa số học sinh khá so với số học sinh 
+trung bình là 
+2
+5
+. Hỏi có bao nhiêu học sinh xếp loại giỏi? Biết lớp 5A có 46 học sinh và tất cả các 
+bạn đều tham gia làm bài kiểm tra. 
+A.  4 học sinh B. 6 học sinh C. 12 học sinh D. 20 học sinh 
+Chọn A 
+Tỉ số giữa số học sinh giỏi so với số học sinh khá là 
+1  2
+3  6
+
+ 
+Tỉ số giữa số học sinh khá so với số học sinh trung bình là 
+2  6
+5  15
+
+ 
+Coi số học sinh khá là 6 phần bằng nhau thì số học sinh giỏi là 2 phần như vậy và số học sinh 
+trung bình là 15 phần như thế. 
+Số học sinh xếp loại giỏi của lớp 5A là:  46 : (6 + 2 + 15) × 2 = 4 (học sinh) 
+Câu 9. Một thửa ruộng hình thang có đáy lớn 120m, đáy bé bằng 
+2
+3
+ đáy lớn và đồng thời bằng  
+4
+3
+ chiều cao. Người ta trồng ngô trên thửa ruộng đó, tính ra trung bình cứ 100m
+2
+ thu được 50kg 
+ngô. Hỏi cả thửa ruộng thu được bao nhiêu tạ ngô? 
+A. 3 tạ B. 30 tạ C. 300 tạ D. 3000 tạ 
+Chọn B 
+Độ dài đáy bé thửa ruộng hình thang là: 
+2
+12080
+3
+  
+ (m) 
+Chiều cao thửa ruộng hình thang là: 
+80:4 3  60 
+(m) 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 21 
+ 
+Diện tích thửa ruộng hình thang là: 
+
+120 80  60:2  6000   
+ (m
+2
+) 
+Trên cả thửa ruộng thu được số tạ ngô là: 
+50 6000:100  3000
+ (kg) = 30 tạ 
+PHẦN II. TRẮC NGHIỆM ĐIỀN ĐÁP ÁN 
+Câu 10. Tìm 
+y
+, biết 
+1  1  1   1
+1
+3  9  27  81
+y          
+ 
+Lời giải 
+1  1  1   1
+1
+3  9  27  81
+y          
+ 
+1  1  1   1
+1
+3  9  27  81
+y        
+ 
+81  27  9   3   1
+81  81  81  81  81
+y            
+ 
+121
+.
+81
+y
+ 
+ 
+ 
+ 
+ 
+121
+y =
+81
+ 
+Câu 11. Tìm số có 2 chữ số 
+ab
+ biết: 
+ab  a  b  ba    
+. 
+Lời giải 
+ab  a  b  ba    
+ 
+1010a  b  a  bb  a             
+ 
+11210abb  a           
+ 
+108ab    
+ (bớt cả hai vế cho 
+2a   b  
+) 
+54ab    
+ (chia cả hai vế cho 2)  
+Vì a, b là các chữ số khác 0 nên a = 4; b = 5.  
+Vậy số cần tìm là 45. 
+ 
+ 
+ 
+45 
+Câu  12. Ba  bạn  Bắc,  Trung,  Nam  mua  một  số vở.  Biết  Bắc  và  Trung  mua  
+28 quyển vở, Trung và Nam mua 31 quyển vở, sáu lần số vở của Bắc bằng năm 
+lần số vở của Nam. Hỏi Bắc đã mua bao nhiêu quyển vở? 
+Lời giải 
+Nam mua được nhiều hơn Bắc số quyển vở là: 31 – 28 = 3 (quyển). 
+Ta có: 6 × Số vở của Bắc mua = 5 × Số vở của Nam mua. 
+Hay:   
+30
+5
+ × Số vở của Bắc mua = 
+30
+6
+ × Số vở của Nam mua 
+Do đó:  
+1
+5
+ × Số vở của Bắc mua = 
+1
+6
+ × Số vở của Nam mua. 
+Coi số vở của Nam mua là 6 phần bằng nhau thì số vở của Bắc mua là 5 phần như 
+thế. 
+Số vở Bắc mua là: 3 : (6 – 5) × 5 = 15 (quyển). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 quyển vở 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 22 
+ 
+Câu 13. Cho hình tam giác ABC có diện tích bằng 
+36cm
+2
+, biết DA = DB × 2, EC = EA × 3,  MB = MC 
+(như hình vẽ). Tính diện tích hình tứ giác AEMD.  
+Lời giải 
+Nối A với M.  
+Vì EC = EA × 3 nên 
+1
+4
+AEAC  
+. 
+Vì DA = DB × 2 nên
+2
+3
+ADAB  
+. 
+Ta có:  
++) 
+1
+2
+AMBAMCABC
+S    SS  
+ (vì có chung chiều cao hạ từ A tới BC và đáy 
+1
+).
+2
+MB  MCBC      
+ Do đó: 
+2
+1
+3618 (   ).
+2
+AMBAMC
+S    Scm     
+ 
++) 
+1
+4
+AMEAMC
+SS  
+ (vì có chung chiều cao hạ từ M tới AC và đáy 
+1
+4
+AEAC  
+)  
++) 
+2
+3
+AMDAMB
+SS  
+ (vì có chung chiều cao hạ từ M tới AB và đáy 
+2
+3
+ADAB  
+) 
+Do đó: 
+2
+1
+184,5 (   );
+4
+AME
+Scm     
+ 
+2
+2
+1812 (   ).
+3
+AMD
+Scm     
+ 
+Vậy 
+2
+4,5  12  16,5 (   ).
+AEMDAMEAMD
+SS    Scm      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16,5cm
+2
+ 
+Câu 14. Cho 4 hình tròn như nhau và mỗi hình có diện tích bằng 63,585cm
+2
+. Tính 
+diện tích phần tô đậm. 
+ 
+Lời giải 
+Thực hiện nối và ghép hình như hình vẽ. 
+              
+ 
+ 
+ 
+ 
+ 
+ 
+162cm
+2
+ 
+E
+B
+C
+D
+M
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 23 
+ 
+Quan sát hình vẽ ta thấy, diện tích phần tô đậm chính bằng diện tích của hình 
+vuông lớn; diện tích hình vuông lớn gấp 4 lần diện tích hình vuông nhỏ. 
+Do đó, diện tích phần hình tô đậm bằng 4 lần diện tích hình vuông nhỏ. 
+Tích bán kính và bán kính của hình tròn là:  63,585 : 3,14 = 20,25 (cm
+2
+) 
+Diện tích tam giác ABC là: 20,25 : 2 = 10,125 (cm
+2
+) 
+Diện tích hình vuông nhỏ gấp 4 lần diện tích tam giác ABC. 
+Diện tích của hình vuông nhỏ là: 10,125 × 4 = 40,5 (cm
+2
+) 
+Diện tích của hình vuông lớn hay diện tích của phần hình tô đậm là : 
+40,5 × 4 = 162 (cm
+2
+) 
+ 
+PHẦN III. TỰ LUẬN 
+Bài 1.  Lúc 7 giờ 25 phút một ô tô đi từ A đến B với vận tốc 52km/giờ. Cùng lúc đó một ô tô khác 
+đi từ B về A với vận tốc 45km/giờ. Quãng đường AB dài 135,8km. Hỏi: 
+a) Hai xe gặp nhau lúc mấy giờ? 
+b) Chỗ gặp nhau cách A và cách B bao nhiêu ki-lô-mét? 
+Đáp số: a) 8 giờ 49 phút;  b) Cách A: 72,8km; Cách B: 63km. 
+a) Sau mỗi giờ, cả hai xe đi được số ki-lô-mét là: 52 + 45 = 97 (km).  
+Thời gian đi để hai xe gặp nhau là: 135,8 : 97 = 1,4 (giờ) = 1 giờ 24 phút. 
+Hai xe gặp nhau lúc: 7 giờ 25 phút + 1 giờ 24 phút = 8 giờ 49 phút. 
+b) Chỗ gặp nhau cách A số ki-lô-mét là: 52 × 1,4 = 72,8 (km). 
+Chỗ gặp nhau cách B số ki-lô-mét là: 135,8 – 72,8 = 63 (km). 
+Bài 2. Cho hai hình vuông ABCD và MNCK như hình vẽ bên. 
+Biết rằng cạnh AB dài 10cm, cạnh MN dài 6cm. 
+a) Tính diện tích tam giác ABM. 
+b) Tính diện tích tam giác BQM.    
+Đáp số:  a) 20cm
+2
+ 
+                b) 10cm
+2
+ 
+a) Độ dài cạnh BN là:  10 – 6 = 4 (cm) 
+Diện tích tam giác ABM là:  10 × 4 : 2 = 20 (cm
+2
+) 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 24 
+ 
+b) Nối M với D 
+ 
+Độ dài cạnh DK là: 10 + 6 = 16 (cm) 
+Diện tích tam giác AMD là:  10 × 16 : 2 = 80 (cm
+2
+) 
+Ta có:  
+ABM
+AMD
+S20  1
+S80  4
+   
+ 
+Mà hai tam giác này có chung cạnh đáy AM nên chiều cao hạ từ B xuống AM bằng 
+1
+4
+ chiều cao 
+hạ từ D xuống AM. 
+Đưa tỉ số chiều cao này vào hai tam giác ABQ và ADQ ta có: 
+ABQ
+ADQ
+S
+1
+S    4
+
+ (chung đáy AQ) 
+Coi 
+ABQ
+S
+ là 1 phần thì 
+ADQ
+S
+ là 4 phần nên 
+ABD
+S
+ là 5 phần như thế. 
+Diện tích tam giác ABD là: 10 × 10 : 2 = 50 (cm
+2
+) 
+Diện tích tam giác ABQ là: 50 : (1 + 4) × 1 = 10 (cm
+2
+) 
+Diện tích tam giác BQM là: 20 – 10 = 10 (cm
+2
+) 
+---------------------------------HẾT--------------------------------- 
+  
+Q
+N
+K
+M
+A
+B
+C
+D
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 25 
+ 
+ 
+TRƯỜNG THCS THANH XUÂN  
+ĐỀ MINH HOẠ TUYỂN SINH VÀO LỚP 6  
+NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 2 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN I. TRẮC NGHIỆM CHỌN ĐÁP ÁN ĐÚNG 
+Câu 1. Tìm 
+x
+, biết: 
+2   9    1  8
+2
+3  15   3  6
+x
+
+         
+
+
+. 
+A. 0 B. 1 C. 2 D. 3 
+Chọn B 
+2   9   1  8
+2
+3  15   3  6
+2   3  7  8
+3   5  3  6
+2   3
+1
+3   5
+2    3
+1:
+3    5
+2  5
+3  3
+5  2
+3  3
+1
+x
+x
+x
+x
+x
+x
+x
+
+         
+
+
+
+       
+
+
+
+     
+
+
+  
+  
+  
+
+ 
+Câu 2. Một lớp học có 19 học sinh nam, số học sinh nữ nhiều hơn số học sinh nam là 2 bạn. Hỏi 
+số học sinh nữ chiếm bao nhiêu phần trăm số học sinh cả lớp? 
+A. 52,5% B. 47,5% C. 45,5% D. 50,2% 
+Chọn A 
+Số học sinh nữ của lớp đó là: 19 + 2 = 21 (bạn). 
+Tổng số học sinh của lớp đó là: 19 + 21 = 40 (bạn). 
+Tỉ số phần trăm của số học sinh nữ so với tổng số học sinh của lớp đó là: 
+21 : 40 = 0,525 = 52,5%. 
+Câu 3. Mẹ hơn con 25 tuổi. Sau 5 năm nữa thì tuổi con bằng 
+2
+7
+ tuổi mẹ. Tính tuổi con cách đây  
+3 năm.  
+A. 1 tuổi B. 2 tuổi C. 3 tuổi D. 4 tuổi 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 26 
+ 
+Chọn B 
+Qua mỗi năm mỗi người tăng thêm 1 tuổi nên hiệu số tuổi của mẹ và con không thay đổi qua các 
+năm và bằng 25 tuổi. 
+Sau 5 năm nữa thì tuổi con bằng 
+2
+7
+ tuổi mẹ, khi đó, coi tuổi con là 2 phần bằng nhau thì tuổi mẹ 
+là 7 phần như thế. 
+Sau 5 năm nữa, tuổi con là: 25 : (7 – 2) × 2 = 10 (tuổi). 
+Tuổi của con hiện nay là: 10 – 5 = 5 (tuổi). 
+Tuổi của con cách đây 3 năm là: 5 – 3 = 2 (tuổi). 
+Câu 4.  Trong 8 ngày, 4 người thợ may được 12 bộ quần áo. Hỏi 12 người thợ trong 16 ngày may 
+được bao nhiêu bộ quần áo? (Năng suất làm việc của mỗi người là như nhau) 
+A. 36 bộ B. 48 bộ C. 60 bộ D. 72 bộ 
+Chọn D 
+1 người thợ làm trong 8 ngày may được số bộ quần áo là: 12 : 4 = 3 (bộ) 
+1 người thợ làm trong 16 ngày may được số bộ quần áo là: 3 × (16 : 8) = 6 (bộ). 
+12 người thợ làm trong 16 ngày may được số bộ quần áo là: 6 × 12 = 72 (bộ).  
+Câu 5. Một khúc gỗ hình hộp chữ nhật có chiều dài 30dm, chiều rộng 8dm và chiều cao 5dm. Biết  
+2dm
+3
+ gỗ nặng 7kg. Hỏi cả khúc gỗ nặng bao nhiêu ki-lô-gam? 
+A. 420kg B. 4200kg C. 42000kg D. 42kg 
+Chọn B 
+Thể tích của khúc gỗ là: 30 × 8 × 5 = 1200 (dm
+3
+) 
+1dm
+3
+ gỗ nặng số ki-lô-gam là: 7 : 2 = 3,5 (kg) 
+Cả khúc gỗ nặng số ki-lô-gam là: 3,5 × 1200 = 4200 (kg). 
+Câu 6. Lúc 8 giờ 45 phút sáng, một người đi xe máy từ tỉnh A đến tỉnh B với vận tốc 50km/giờ. 
+Biết quãng đường AB dài 120km. Hỏi người đó đến tỉnh B lúc mấy giờ? 
+A. 10 giờ 59 phút B. 11 giờ 9 phút C. 12 giờ 9 phút D. 12 giờ 19 phút 
+Chọn B 
+Thời gian người đó đi từ tỉnh A đến tỉnh B là: 
+120 :50  2,4
+ (giờ) = 2 giờ 24 phút 
+Thời điểm người đó đến tỉnh B là:  
+8 giờ 45 phút + 2 giờ 24 phút = 10 giờ 69 phút = 11 giờ 9 phút 
+ 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 27 
+ 
+Câu 7. Điền số hạng tiếp theo vào dãy số sau:  16; 25; 36; 49; ... 
+A. 60 B. 64 C. 72 D. 81 
+Chọn B 
+Ta thấy: 
+16  4 4
+25  5 5
+36  6 6
+49  7 7
+  
+  
+  
+  
+ 
+Vậy số hạng tiếp theo là: 
+8 8  64 
+ 
+Câu 8.  Một người gửi tiết kiệm 20 000 000 đồng với lãi suất 5% một năm. Hỏi sau 2 năm số tiền 
+người đó được nhận về là bao nhiêu? (Biết tiền lãi năm thứ nhất được gộp vào tiền gốc để tính 
+lãi năm thứ hai) 
+A. 22 000 000 đồng B. 23 050 000 đồng C. 22 050 000 đồng D. 21 050 000 đồng 
+Chọn C 
+Sau năm đầu tiên, số tiền người đó nhận được là:  
+20 000 000 × 5% + 20 000 000 = 21 000 000 (đồng) 
+Sau 2 năm số tiền người đó nhận được là:  
+21 000 000 × 5% + 21 000 000 = 22 050 000 (đồng) 
+Câu 9. Người ta xếp 64 hình lập phương nhỏ có cạnh 1cm thành một hình lập phương lớn. Sau 
+đó sơn tất cả các mặt của hình lập phương lớn. Hỏi có bao nhiêu hình lập phương nhỏ được sơn 
+đúng 2 mặt? 
+A. 12 hình B. 16 hình C. 24 hình D. 48 hình 
+Chọn C 
+Vì 64 = 4 × 4 × 4 nên theo mỗi cạnh hình lập phương lớn xếp được 4 hình lập phương nhỏ. 
+Các hình lập phương nhỏ được sơn đúng 2 mặt là các hình nằm trên cạnh nhưng không nằm ở 
+đỉnh của hình lập phương lớn. 
+Số lượng hình lập phương nhỏ được sơn đúng 2 mặt là: 
+(4 – 2) × 12 = 24 (hình) 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 28 
+ 
+PHẦN II. TRẮC NGHIỆM ĐIỀN ĐÁP ÁN 
+Câu 10. Giảm đường kính một hình tròn đi 12% thì diện tích hình tròn đó giảm 
+bao nhiêu phần trăm? 
+Lời giải 
+Đường kính mới bằng: 100% – 12% = 88% (đường kính ban đầu). 
+Vì đường kính mới bằng 88% đường kính ban đầu nên bán kính mới bằng 88% 
+bán kính ban đầu. 
+Diện tích hình tròn mới bằng:  
+88% × 88% = 77,44% (diện tích hình tròn ban đầu). 
+Diện tích hình tròn mới giảm số phần trăm so với diện tích hình tròn ban đầu 
+là: 100%  –  77,44% = 22,56% (diện tích hình tròn ban đầu). 
+ 
+ 
+ 
+ 
+Giảm 22,56% 
+Câu 11. Lúc 7 giờ sáng, một ô tô đi từ A đến B với vận tốc 45km/giờ. Sau đó  
+1 giờ một xe máy đi từ B về A với vận tốc 30km/giờ. Đến 9 giờ 30 phút thì 2 xe 
+gặp nhau. Tính quãng đường AB. 
+Lời giải 
+Quãng đường ô tô đi trước xe máy là: 45 × 1 = 45 (km). 
+Xe máy xuất phát lúc: 7 giờ + 1 giờ = 8 giờ. 
+Kể từ lúc xe máy xuất phát, hai xe gặp nhau sau thời gian là:  
+9 giờ 30 phút – 8 giờ = 1 giờ 30 phút = 1,5 giờ. 
+Sau mỗi giờ cả hai xe đi được số ki-lô-mét là: 45 + 30 = 75 (km). 
+Kể từ lúc xe máy xuất phát cho đến khi gặp nhau, cả hai xe đi được quãng 
+đường là: 75 × 1,5 = 112,5 (km). 
+Quãng đường AB là: 45 + 112,5 = 157,5 (km). 
+ 
+ 
+ 
+ 
+ 
+157,5km 
+Câu 12. Cho dãy số sau: 
+1  1  1   1
+;   ;   ;   ; ...
+8 35 80 143
+ Tìm số thứ 20 của dãy. 
+Lời giải 
+Quy luật mẫu số:  
+8 = 2 × 4;    35 = 5 × 7;   80 = 8 × 10;  143 = 11 × 13 
+Do đó mẫu số của các phân số trong dãy là tích của hai thừa số theo thứ tự 
+tương ứng thuộc các dãy số sau: 
+- Dãy 1 là: 2; 5; 8; 11; ... 
+- Dãy 2 là: 4; 7; 10; 13; ... 
+Số hạng thứ 20 của dãy 1 là: (20 – 1) × 3 + 2 = 59.  
+Số hạng thứ 20 của dãy 2 là: (20 – 1) × 3 + 4 = 61. 
+Số hạng thứ 20 của dãy cần tìm là:  
+11
+.
+59 61  3599
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+1
+3599
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 29 
+ 
+Câu 13. Một cửa hàng có 6 thùng đựng gạo với khối lượng lần lượt là: 316kg; 
+327kg; 336kg; 338kg; 349kg và 351kg. Trong một ngày, cửa hàng đã bán được  
+5 thùng, trong đó số ki-lô-gam gạo bán buổi sáng gấp 4 lần buổi chiều. Hỏi cửa 
+hàng còn lại thùng đựng bao nhiêu ki-lô-gam gạo? 
+Lời giải 
+Tổng khối lượng gạo của 6 thùng hàng là: 
+316 + 327 + 336 + 338 + 349 + 351 = 2017 (kg) 
+Vì số ki-lô-gam gạo bán buổi sáng gấp 4 lần buổi chiều nên ta coi số ki-lô-gam 
+gạo bán buổi chiều là 1 phần thì số ki-lô-gam gạo bán buổi sáng là 4 phần như 
+thế. 
+Suy ra, tổng số ki-lô-gam gạo bán được trong 1 ngày chiếm: 1 + 4 = 5 (phần). 
+Do đó, tổng số ki-lô-gam gạo bán trong một ngày là một số chia hết cho 5.  
+Mà 2017 : 5 = 403 (dư 2) nên để tổng số ki-lô-gam gạo của các thùng hàng đã 
+bán chia hết cho 5 thì thùng còn lại cũng có số ki-lô-gam gạo chia 5 dư 2.  
+Do đó, cửa hàng còn lại thùng đựng 327kg. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+327kg 
+Câu 14. Cho hình thang ABCD như hình vẽ. 
+Biết đáy AB = 
+2
+5
+ × CD; diện tích tam giác BEC 
+là 180cm
+2
+. Tính diện tích hình thang ABCD. 
+Lời giải 
+ABC
+ADC
+S
+AB  2
+=
+SCD  5
+
+ (chiều cao hạ từ C xuống AB bằng chiều cao hạ từ A xuống DC) 
+Mà 2 tam giác này chung đáy AC nên 
+ABC
+1
+ADC2
+S
+h   2
+=
+Sh   5
+
+ 
+Đưa 2 chiều cao này vào hai tam giác BEC và 
+DEC ta có: 
+BEC
+1
+DEC2
+S
+h   2
+=
+Sh   5
+
+ (chung đáy EC) 
+Suy ra 
+    
+   
+2
+BDC
+S   =180: 2  2+5 = 630 cm
+ 
+ABD
+BDC
+SAB  2
+=
+SCD  5
+
+ (chiều cao hạ từ D xuống AB bằng chiều cao hạ từ B xuống DC) 
+Suy ra 
+    
+   
+2
+ABCD
+S   = 630 : 5   2 +5 = 882 cm
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+882cm
+2
+ 
+ 
+ 
+E
+AB
+C
+D
+h
+1
+h
+2
+E
+A
+B
+CD
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 30 
+ 
+PHẦN III. TỰ LUẬN 
+Bài 1. Một người dự định đi từ A với vận tốc 45km/giờ để đến B lúc 11 giờ 40 phút. Thực tế, sau 
+khi đi được 
+2
+5
+ quãng đường với vận tốc dự định, trên quãng đường còn lại người đó tăng vận 
+tốc lên thành 60km/giờ nên đã đến B vào lúc 10 giờ 10 phút. Tính quãng đường AB. 
+Đáp số: 450km 
+Quãng đường còn lại bằng: 
+2  3
+1
+5  5
+  
+ (quãng đường AB). 
+Trên 
+3
+5
+ quãng đường AB, thời gian đi với vận tốc 45km/giờ nhiều hơn thời gian đi với vận tốc 
+60km/giờ là: 11 giờ 40 phút – 10 giờ 10 phút = 1 giờ 30 phút = 1,5 giờ. 
+Tỉ số vận tốc 45km/giờ và 60km/giờ là: 45 : 60 = 
+3
+.
+4
+ 
+Vì trên cùng một quãng đường, vận tốc và thời gian là hai đại lượng tỉ lệ nghịch. 
+Trên 
+3
+5
+ quãng đường AB, tỉ số thời gian ô tô đi với vận tốc 45km/giờ và thời gian ô tô đi với vận 
+tốc 60km/giờ là: 
+4
+.
+3
+ 
+Coi thời gian ô tô đi với vận tốc 45km/giờ là 4 phần bằng nhau thì thời gian ô tô đi với vận tốc 
+60km/giờ là 3 phần như vậy. 
+Thời gian ô tô đi hết 
+3
+5
+ quãng đường AB với vận tốc 60km/giờ là: 1,5 : (4 – 3) × 3 = 4,5 (giờ). 
+Độ dài 
+3
+5
+ quãng đường AB là: 60 × 4,5 = 270 (km). 
+Độ dài quãng đường AB là: 270 : 3 × 5 = 450 (km). 
+Bài 2. Bốn khối 4, 5, 6, 7 của một trường có tất cả 525 học sinh. Số học sinh khối lớp 4 chiếm 
+20% tổng số học sinh. Số học sinh khối lớp 5 bằng 
+2
+5
+ tổng số học sinh khối lớp 6 và khối lớp 7. 
+Số học sinh khối lớp 7 nhiều hơn số học sinh khối lớp 6 là 24 học sinh. Hỏi mỗi khối có bao nhiêu 
+học sinh? 
+Đáp số: Khối lớp 4: 105 học sinh;     Khối lớp 5: 120 học sinh; 
+   Khối lớp 6: 138 học sinh;  Khối lớp 7: 162 học sinh. 
+Số học sinh khối lớp 4 là: 525 × 20% = 105 (học sinh). 
+Tổng số học sinh của ba khối lớp 5, 6, 7 là: 525 – 105 = 420 (học sinh). 
+Vì số học sinh khối lớp 5 bằng 
+2
+5
+ tổng số học sinh khối lớp 6 và khối lớp 7 nên số học sinh khối 
+lớp 5 bằng 
+2   2
+2  5  7
+
+
+ tổng số học sinh của ba khối lớp 5, 6, 7.  
+Số học sinh khối lớp 5 là: 
+2
+420120
+7
+  
+ (học sinh). 
+Tổng số học sinh của hai khối lớp 6, 7 là: 420 – 120 = 300 (học sinh). 
+Số học sinh khối lớp 7 là: (300 + 24) : 2 = 162 (học sinh). 
+Số học sinh khối lớp 6 là: 162 – 24 = 138 (học sinh).  
+---------------------------------HẾT--------------------------------- 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 31 
+ 
+ 
+TRƯỜNG THCS THANH XUÂN  
+ĐỀ MINH HOẠ TUYỂN SINH VÀO LỚP 6  
+NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 3 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN I. TRẮC NGHIỆM CHỌN ĐÁP ÁN ĐÚNG 
+Câu 1. Một hình lập phương có diện tích toàn phần bằng 54cm
+2
+. Hỏi hình lập phương đó có thể 
+tích bằng bao nhiêu? 
+A. 25cm
+3
+ B. 26cm
+3
+  C. 27cm
+3
+ D. 28cm
+3
+ 
+Chọn C 
+Diện tích một mặt của hình lập phương là: 54 : 6 = 9(cm
+2
+). 
+Vì 3 × 3 = 9 nên độ dài cạnh của hình lập phương là 3cm. 
+Thể tích hình lập phương là: 3 × 3 × 3 = 27 (cm
+3
+). 
+Câu 2. Tìm một số thập phân, biết nếu lấy số đó cộng với 4,75; sau đó nhân với 2,5; rồi trừ đi 0,2 
+và cuối cùng chia cho 1,25 thì được kết quả là 12,84. 
+A. 1,75 B. 2,75 C. 3,75 D. 4,75 
+Chọn A 
+Số trước khi chia cho 1,25 là: 12,84 × 1,25 = 16,05. 
+Số trước khi trừ đi 0,2 là: 16,05 + 0,2 = 16,25. 
+Số trước khi nhân với 2,5 là: 16,25 : 2,5 = 6,5. 
+Số trước khi cộng với 4,75 hay số thập phân cần tìm là: 6,5 – 4,75 = 1,75. 
+Câu 3. Dưới đây là biểu đồ nói về tỉ lệ phần trăm các loại sách có trong một giá sách: 
+ 
+Biết giá sách đó có 100 quyển sách tất cả. Hỏi có bao nhiêu quyển sách bài tập? 
+A. 40 quyển B. 30 quyển C. 20 quyển D. 15 quyển 
+Chọn D 
+Quan sát biểu đồ ta thấy, số lượng sách giáo khoa và tài liệu khác đều chiếm 30% tổng số sách. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 32 
+ 
+Số lượng sách tham khảo chiếm 25% tổng số sách. 
+Số lượng sách bài tập chiếm:  
+100% 30% 25% 30% 15%            
+ (tổng số sách). 
+Có số quyển sách bài tập là: 
+100 15% 15    
+ (quyển). 
+Câu 4.  Tìm số có 2 chữ số biết rằng khi ta viết thêm chữ số 5 vào bên phải số đó ta được số mới 
+hơn số cần tìm 689 đơn vị. 
+A. 75 B. 76 C. 77 D. 78 
+Chọn B 
+Gọi số có hai chữ số cần tìm là 
+ab
+ (a, b là các chữ số, a khác 0). 
+Theo đề bài, ta có: 
+5689ab  ab   
+ 
+10  5689abab       
+ 
+9  5  689ab    
+ (bớt cả 2 vế cho 
+ab
+) 
+9  689  5
+9  684
+684:9
+76.
+ab
+ab
+ab
+ab
+     
+  
+
+
+ 
+Vậy số cần tìm là: 76. 
+Câu 5. Tìm 2 số lẻ có tổng bằng 2010, biết giữa chúng có đúng 10 số chẵn. 
+A. 990 và 1020 B. 995 và 1015 C. 1000 và 1010 D. 985 và 1025 
+Chọn B 
+Giữa 10 số chẵn có 9 khoảng cách, mỗi khoảng cách bằng 2 đơn vị. 
+Khoảng cách giữa 1 số lẻ và 1 số chẵn liên tiếp là 1 đơn vị. 
+Hiệu của hai số lẻ cần tìm là: 
+1 2 9 1 20.   
+ 
+Số bé là: 
+
+2010  20 :2  995.
+ 
+Số lớn là: 
+2010 995 1015   
+. 
+Câu 6. Bà mang đi chợ một rổ trứng để bán. Sau khi bán được 
+3
+5
+ số trứng thì trong rổ còn lại  
+48 quả. Hỏi lúc đầu trong rổ của bà có bao nhiêu quả trứng? 
+A. 100 quả B. 110 quả  C. 120 quả  D. 130 quả 
+Chọn C 
+Phân số chỉ số trứng còn lại trong rổ là: 
+3  2
+1
+5  5
+  
+ (tổng số trứng) 
+Số trứng ban đầu có trong rổ là: 
+48:2 5 120 
+ (quả) 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 33 
+ 
+Câu 7. Một người nhập một chiếc áo với giá 120 000 đồng về để bán. Hỏi muốn bán chiếc áo đó 
+lãi 25% so với giá bán thì cửa hàng cần bán ra với giá bao nhiêu tiền? 
+A. 140 000 đồng B. 150 000 đồng C. 160 000 đồng D. 170 000 đồng 
+Chọn C 
+Giá vốn chiếm số phần trăm giá bán là: 
+100% 25%  75%    
+ (giá bán) 
+Số tiền bán áo để lãi 25% giá bán là:  
+120000:75 100 160000   
+ (đồng) 
+Câu 8.  Kho A chứa nhiều hơn kho B là 75 tấn gạo. Sau khi mỗi kho nhận thêm 10 tấn gạo thì số 
+gạo kho B bằng 
+2
+5
+ số gạo kho A. Hỏi lúc đầu kho B chứa bao nhiêu tấn gạo? 
+A. 50 tấn B. 40 tấn C. 30 tấn D. 20 tấn 
+Chọn B 
+Sau khi mỗi kho nhận thêm 10 tấn gạo thì hiệu số gạo giữa kho A và kho B là không đổi và bằng 
+75 tấn gạo. 
+Lúc sau, coi số gạo kho A là 5 phần bằng nhau thì số gạo kho B là 2 phần như thế. 
+Lúc sau, kho B có số tấn gạo là: 75 : (5 – 2) × 2 = 50 (tấn) 
+Lúc đầu, kho B có số tấn gạo là: 50 – 10 = 40 (tấn) 
+Câu 9. Tính giá trị biểu thức A = 
+1    11111
+...
+5 7  7 9  9 11 11 1395 97  97 99
+      
+    
+ 
+A. 
+47
+495
+ B. 
+495
+47
+ C. 
+495
+94
+ D. 
+94
+495
+ 
+Chọn A 
+222222
+2...
+5 7  7 9  9 11  11 1395 97  97 99
+A    
+
+ 
+1  1  1  1  1  1  1  11   1   1   1
+2...
+5  7  7  9  9  11  11  1395  97  97  99
+1  1
+2
+5  99
+94
+2
+495
+94
+:2
+495
+47
+495
+A
+A
+A
+A
+A
+                              
+    
+  
+
+
+  
+ 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 34 
+ 
+PHẦN II. TRẮC NGHIỆM ĐIỀN ĐÁP ÁN 
+Câu 10. Tìm chu vi của hình vẽ (các số đo độ 
+dài đều được tính theo đơn vị xăng-ti-mét). 
+Lời giải 
+Chu vi của hình cần tìm bằng chu vi của hình 
+chữ nhật có chiều dài là: 6 + 12 = 18 (cm) và 
+chiều rộng là:  5 + 8 = 13 (cm). 
+Chu vi của hình đó là: (18 + 13) × 2 = 62 (cm). 
+ 
+ 
+ 
+       
+       62cm 
+Câu 11. Cho hình vẽ với kích thước như hình bên dưới. Tính diện tích phần 
+hình được tô đậm. 
+ 
+Lời giải 
+Thực hiện nối hình và đặt tên điểm như hình vẽ 
+ 
+Quan sát hình vẽ: Diện tích phần tô đậm chính bằng diện tích tam giác ABC. 
+Độ dài cạnh đáy BC là: 8 + 8 = 16 (cm) 
+Chiều cao tương ứng với đáy BC của tam giác ABC chính bằng đường kính của 
+hình tròn và bằng 8cm. 
+Diện tích của tam giác ABC hay diện tích của phần hình được tô đậm là: 
+8 × 16 : 2 = 64 (cm
+2
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+64cm
+2
+ 
+12
+8
+5
+6
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 35 
+ 
+Câu 12. Một chiếc đồng hồ lúc 1 giờ đổ chuông 1 tiếng, lúc 2 giờ đổ chuông 2 
+tiếng, lúc 3 giờ đổ chuông 3 tiếng,... lúc 12 giờ đổ chuông 12 tiếng, lúc 13 giờ 
+đổ chuông 1 tiếng, ... Khoảng cách giữa 2 tiếng chuông là 4 giây. Ban đêm cần 
+ít nhất bao nhiêu giây để nghe đồng hồ đổ chuông ta biết được lúc đó là 3 giờ? 
+Lời giải 
+Khoảng cách giữa 2 tiếng chuông là 4 giây. 
+Giữa 3 tiếng chuông sẽ có 2 khoảng cách nên để nghe 3 tiếng chuông ta cần:  
+(3 – 1) × 4 = 8 (giây). 
+Tuy nhiên để biết chính xác là 3 giờ, ta cần đợi thêm 4 giây nữa để xem có tiếng 
+chuông thứ 4 hay không.  
+Vì vậy, ta cần ít nhất số giây để nghe đồng hồ đổ chuông ta biết được lúc đó là 
+3 giờ là: 8 + 4 = 12 (giây). 
+ 
+ 
+ 
+ 
+ 
+12 giây 
+Câu 13. Tuổi em hiện nay gấp 2 lần tuổi em khi anh bằng tuổi em hiện nay. Khi 
+tuổi em bằng tuổi anh hiện nay thì 2 lần tuổi em lớn hơn tuổi anh lúc đó là  
+12 tuổi. Hỏi anh hơn em bao nhiêu tuổi? 
+Lời giải 
+Theo bài ra, ta có sơ đồ: 
+ 
+Quan sát sơ đồ, ta thấy: 12 tuổi tương ứng với số phần là: 
+3 × 2 – 4 = 2 (phần) 
+Anh hơn em một số tuổi ứng với giá trị của 1 phần và bằng: 
+12 : 2 = 6 (tuổi) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 tuổi 
+Câu 14. Một phép nhân gồm 2027 số 7 nhân với nhau. Hỏi kết quả của phép 
+nhân đó có chữ số hàng đơn vị bằng bao nhiêu? 
+Lời giải 
+Ta có: 7 × 7 × 7 × 7 = 49 × 49 có chữ số hàng đơn vị là 1. 
+ 
+3 
+Tuổi anh sau này
+Tuổi em sau này
+Tuổi anh hiện nay
+Tuổi anh trước đây
+Tuổi em hiện nay
+Tuổi em trước đây
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 36 
+ 
+Cứ ghép 4 thừa số 7 ta được một nhóm tích có hàng đơn vị là 1.  
+Có 2027 : 4 = 506 (dư 3). Ta có:  
+7 × 7 × ...× 7 × 7ᇣᇧᇧᇧᇧᇧᇤᇧᇧᇧᇧᇧᇥ
+ଶ଴ଶ଻ ୱố ଻
+ = 
+(
+7 × 7 × 7 × 7
+)
+× ...×
+(
+7 × 7 × 7 × 7
+)
+ᇣᇧᇧᇧᇧᇧᇧᇧᇧᇧᇧᇧᇤᇧᇧᇧᇧᇧᇧᇧᇧᇧᇧᇧᇥ
+ହ଴଺ ୬୦ó୫
+ × 7 × 7 × 7 
+ 
+...1 ...1 ... ...1 7 7 7  ...3.               
+ 
+Do đó kết quả của phép nhân gồm 2027 số 7 nhân với nhau có chữ số hàng đơn 
+vị bằng 3. 
+PHẦN III. TỰ LUẬN 
+Bài 1. Một giá sách có ba ngăn, chứa tất cả 700 quyển sách. Số sách ngăn 1 bằng 40% tổng số 
+sách của ba ngăn. Sau đó người ta chuyển một nửa số sách từ ngăn 3 xuống ngăn 2 thì lúc này 
+3
+5
+ số sách ngăn 3 bằng 
+1
+3
+ số sách ngăn 2. Tính số sách mỗi ngăn lúc đầu. 
+Đáp số: Ngăn 1: 280 quyển sách; Ngăn 2: 120 quyển sách; Ngăn 3: 300 quyển sách. 
+Số sách ngăn 1 là: 700 × 40% = 280 (quyển). 
+Tổng số sách của ngăn 2 và ngăn 3 lúc đầu là:  
+700 – 280 = 420 (quyển). 
+Sau khi chuyển một nửa số sách từ ngăn 3 xuống ngăn 2 thì tổng số sách ở ngăn 2 và ngăn 3 
+không thay đổi và vẫn bằng 420 quyển sách. 
+Lúc sau, 
+3
+5
+ số sách ngăn 3 bằng 
+1
+3
+ số sách ngăn 2. 
+Hay 
+3
+5
+ số sách ngăn 3 bằng 
+3
+9
+ số sách ngăn 2. 
+Do đó: 
+1
+5
+ số sách ngăn 3 bằng 
+1
+9
+ số sách ngăn 2. 
+Lúc sau, coi số sách ngăn 3 là 5 phần bằng nhau thì số sách ngăn 2 là 9 phần như thế. 
+Số sách ngăn 3 lúc sau là:  
+420 : (5 + 9) × 5 = 150 (quyển). 
+150 quyển tương ứng với một nửa số sách ngăn 3 lúc đầu. 
+Số sách ngăn 3 lúc đầu là:  150 × 2 = 300 (quyển). 
+Số sách ngăn 2 lúc đầu là:  420 – 300 = 120 (quyển). 
+ 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 37 
+ 
+Bài 2. Cho hình chữ nhật ABCD, biết BE = EC, 
+2
+160   ;
+ABCD
+Scm
+ 
+2
+CEF
+10   .Scm
+ 
+a) Tính diện tích tam giác DEC.  
+b) Tính tỉ số 
+EF
+DF
+. 
+c) Tính tỉ số 
+FIC
+FID
+S
+S
+. 
+Đáp số: a) 40cm
+2
+;        b) 
+1
+3
+EF
+DF
+
+;        c) 
+2
+3
+FIC
+FID
+S
+S
+
+ 
+a) 
+1
+2
+DECDBC
+SS
+ (vì chung chiều cao hạ từ D tới BC và đáy 
+1
+2
+EC   BC
+) 
+Mà 
+1
+2
+DBCABCD
+SS
+ suy ra 
+1  11
+.
+2  24
+DECABCDABCD
+SSS    
+ 
+Diện tích tam giác DEC là: 160 : 4 = 40 (cm
+2
+). 
+b) Diện tích tam giác DFC là: 40 – 10 = 30 (cm
+2
+). 
+10  1
+.
+30  3
+CEF
+CDF
+S
+S
+   
+ Mà hai tam giác này có chung chiều cao hạ từ đỉnh C xuống DE  
+1
+.
+3
+EF
+DF
+    
+ 
+c) 
+2
+10
+EFBCEF
+S   Scm    
+ (Chung chiều cao hạ từ đỉnh F xuống BC và đáy BE = EC).  
+2
+20   .
+FBCFBECEF
+S   S   Scm            
+ 
+1
+3
+FBEFBD
+SS
+ (Chung chiều cao hạ từ đỉnh B xuống DE và đáy 
+1
+3
+EF   DF
+). 
+2
+310 3  30 (   ).
+FBDFBE
+SScm            
+ 
+20  2
+.
+30  3
+FBC
+FBD
+S
+S
+   
+ Mà hai tam giác này có chung đáy BF nên chiều cao hạ từ C xuống đáy BF bằng 
+2
+3
+ chiều cao hạ từ D xuống đáy BF. 
+Vậy 
+2
+3
+FIC
+FID
+S
+S
+
+ (Chung đáy FI và chiều cao hạ từ C xuống đáy FI bằng 
+2
+3
+ chiều cao hạ từ D xuống 
+đáy FI). 
+---------------------------------HẾT--------------------------------- 
+ 
+AB
+C
+D
+E
+F
+I
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 38 
+ 
+ 
+TRƯỜNG THCS THANH XUÂN  
+ĐỀ MINH HOẠ TUYỂN SINH VÀO LỚP 6  
+NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 4 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN I. TRẮC NGHIỆM CHỌN ĐÁP ÁN ĐÚNG 
+Câu 1. 3ha gấp 75m
+2
+ bao nhiêu lần? 
+A. 4 lần B. 40 lần C. 400 lần D. 4 000 lần 
+Chọn C 
+Đổi: 3ha = 30 000m
+2
+. 
+Vậy 3ha gấp 75m
+2
+ số lần là: 30 000 : 75 = 400 (lần) 
+Câu 2. Tính A = 
+1
+4
+4
+ + 1,85 + 5,75 + 8,15 – 1 
+A. 17 B. 18 C. 19 D. 20 
+Chọn C 
+A = 
+1
+4
+4
+ + 1,85 + 5,75 + 8,15 – 1 
+A = 4,25 + 1,85 + 5,75 + 8,15 – 1 
+A = (4,25 + 5,75) + (1,85 + 8,15) – 1 
+A = 10 + 10 – 1 = 19. 
+Câu 3. Dưới đây là biểu đồ về số học sinh các lớp khối 5 của một trường tiểu học. 
+ 
+Em hãy quan sát biểu đồ và lập tỉ số của số học sinh lớp 5A so với tổng số học sinh khối 5. 
+A. 
+1
+5
+ B. 
+1
+6
+ C. 
+1
+7
+ D. 
+1
+4
+ 
+Chọn A 
+Tổng số học sinh khối 5 là: 
+40 39 38 42 41 200        
+ (học sinh). 
+Tỉ số của số học sinh lớp 5A so với tổng số học sinh khối 5 là: 
+40  1
+40:200
+200  5
+    
+. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 39 
+ 
+Câu 4.  Tìm 2 số tự nhiên, biết trung bình cộng của chúng bằng 27 và giữa chúng có 21 số tự 
+nhiên liên tiếp. 
+A. 15 và 39 B. 16 và 38 C. 17 và 37 D. 18 và 36 
+Chọn B 
+Tổng 2 số tự nhiên cần tìm là: 27 × 2 = 54. 
+Giữa 2 số tự nhiên cần tìm có 21 số tự nhiên khác nên tổng có 23 số tự nhiên. 
+Giữa 23 số tự nhiên có 22 khoảng cách, mỗi khoảng cách là 1 đơn vị. 
+Hiệu giữa hai số tự nhiên cần tìm là: 22 × 1 = 22. 
+Số lớn là: (54 + 22) : 2 = 38. 
+Số bé là: 54 – 38 = 16. 
+Câu 5. Hai số có hiệu là 1554. Tổng của hai số là 
+2x3y
+ chia hết cho 2 và 9 nhưng khi chia cho 5 
+thì dư 3. Tìm số lớn. 
+A. 492 B. 2046 C. 984 D. 2538 
+Chọn B 
+Vì 
+2x3y
+ chia hết cho 2 và chia cho 5 dư 3 nên y = 8. 
+Khi đó, 
+2x38
+ chia hết cho 9 nên 2 + x + 3 + 8 chia hết cho 9 hay 13 + x chia hết cho 9 
+Suy ra 13 + x = 18 nên x = 5. 
+Do đó, tổng của hai số là 2538. 
+Số lớn là: (2538 + 1554) : 2 = 2046.  
+Câu 6. Người ta cưa một khúc gỗ dài 2m thành các đoạn dài 2dm, mỗi lần cưa mất 30 giây. Hỏi 
+để cưa xong khúc gỗ cần bao nhiêu thời gian? 
+A. 200 giây B. 240 giây C. 270 giây D. 300 giây 
+Chọn C 
+Đổi 2m = 20dm 
+Số đoạn gỗ 2dm cưa được là:  20 : 2 = 10 (đoạn) 
+Để cưa thành 10 đoạn gỗ thì cần 9 lần cưa, mỗi lần cưa 30 giây nên thời gian để cưa xong khúc 
+gỗ đó là: 
+30 × 9 = 270 (giây) 
+Câu 7. Một người mang trứng ra chợ bán. Lần đầu người đó bán được 
+1
+3
+ số trứng. Lần thứ hai 
+người đó bán được 
+2
+5
+ số trứng. Sau hai lần bán người đó còn lại 20 quả trứng. Hỏi số trứng ban 
+đầu người đó mang ra chợ bán là bao nhiêu quả? 
+A. 55 quả B. 65 quả C. 75 quả D. 85 quả 
+Chọn C 
+Số trứng còn lại sau hai lần bán bằng: 
+1  2  4
+1
+3  5  15
+    
+ (tổng số trứng) 
+Ban đầu người đó mang ra chợ bán số trứng là: 
+20:4 15  75  
+ (quả) 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 40 
+ 
+Câu 8.  Một bể cá hình hộp chữ nhật có chiều dài 60cm, chiều rộng 40cm, chiều cao 50cm. Người 
+ta đổ 7 xô nước như nhau vào bể cạn thì thấy mực nước cao bằng 
+7
+10
+ chiều cao của bể. Hỏi mỗi 
+xô nước đó chứa bao nhiêu lít nước? 
+A. 11 lít B. 12 lít C. 13 lít D. 14 lít 
+Chọn B 
+Thể tích bể cá là: 60 × 50 × 40 = 120 000 (cm
+3
+) = 120dm
+3
+ = 120 lít 
+Khi đổ 7 xô nước vào bể thì mực nước cao bằng 
+7
+10
+ chiều cao của bể, tức là lượng nước có trong 
+bể bằng 
+7
+10
+ thể tích bể. 
+Khi đổ 7 xô nước vào bể thì lượng nước có trong bể là:  120 × 
+7
+10
+ = 84 (lít) 
+Mỗi xô chứa số lít nước là: 84 : 7 = 12 (lít).  
+Câu 9. Một chiếc thuyền đi xuôi dòng từ A đến B hết 3 giờ, đi ngược dòng từ B đến A hết 4 giờ. 
+Hỏi một khúc gỗ trôi từ A đến B hết mấy giờ? 
+A. 18 giờ B. 24 giờ C. 36 giờ D. 48 giờ 
+Chọn B 
+1 giờ thuyền xuôi dòng được: 
+1
+1:3
+3
+
+ (quãng sông) 
+1 giờ thuyền ngược dòng được: 
+1
+1: 4
+4
+
+ (quãng sông) 
+Hiệu vận tốc của thuyền khi xuôi dòng và ngược dòng bằng 2 lần vận tốc dòng nước 
+Vận tốc khúc gỗ trôi bằng vận tốc dòng nước 
+1 giờ khúc gỗ trôi được:   
+1  11
+: 2
+3  424
+
+
+
+
+ (quãng sông) 
+Thời gian để khúc gỗ trôi từ A đến B là:  
+1
+1:24
+24
+
+ (giờ) 
+PHẦN II. TRẮC NGHIỆM ĐIỀN ĐÁP ÁN 
+Câu  10. Giá  vé  xem  phim  ngày  thường  là  80  000  đồng,  ngày  cuối  tuần  là  
+120 000 đồng. Hỏi giá vé ngày cuối tuần đã tăng bao nhiêu phần trăm so với 
+ngày thường? 
+Lời giải 
+Giá vé ngày cuối tuần hơn giá vé ngày thường là: 
+120 000 – 80 000 = 40 000 (đồng). 
+Giá vé ngày cuối tuần đã tăng số phần trăm so với ngày thường là:     
+40 000 : 80  000 = 0,5 = 50% (giá vé ngày thường) 
+ 
+ 
+50%  giá  vé 
+ngày 
+thường 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 41 
+ 
+Câu 11. Nhân dịp 8/3, bạn Nhi mua 30 bông hoa gồm hoa hồng và hoa cẩm 
+chướng về tặng mẹ, số tiền bạn Nhi phải trả là 96 000 đồng. Biết giá tiền một 
+bông hoa hồng là 5000 đồng, giá tiền một bông hoa cẩm chướng là 2000 đồng. 
+Hỏi Nhi đã mua bao nhiêu bông hoa mỗi loại? 
+Lời giải 
+Giả sử 30 bông hoa bạn Nhi mua đều là hoa hồng. Khi đó, số tiền bạn Nhi phải 
+trả là:  5000 × 30 = 150 000 (đồng) 
+Số tiền tăng thêm so với thực tế là: 150 000 – 96 000 = 54 000 (đồng) 
+Giá 1 bông hoa hồng hơn giá 1 bông hoa cẩm chướng là:  
+5 000 – 2 000 = 3 000 (đồng) 
+Số bông hoa cẩm chướng là: 54 000 : 3 000 = 18 (bông) 
+Số bông hoa hồng là: 30 – 18 = 12 (bông) 
+ 
+ 
+ 
+Hoa hồng: 
+12 bông; 
+Hoa cẩm 
+chướng: 18 
+bông 
+Câu 12. Tam giác ABC có cạnh AB = 24cm. Một 
+đường gấp khúc MNPC chia tam giác thành 4 hình 
+tam giác có diện tích bằng nhau (đó là tam giác 
+AMN, MPN, PNC, BPC như hình vẽ). Tính độ dài 
+đoạn MP.  
+Lời giải 
+Vì 
+AMNMPNPNCBPC
+S    S    S    S
+ và 
+AMNMPNPNCBPCABC
+S    S    S    S    S
+ nên 
+1
+.
+4
+AMNMPNPNCBPCABC
+S    S    S   SS  
+ 
+Hai hình tam giác BPC và ABC có chung chiều cao hạ từ C tới AB và 
+1
+4
+BPCABC
+SS  
+ nên đáy 
+1
+.
+4
+BP    AB  
+ 
+Suy ra: 
+33
+2418 (  ).
+44
+AP    ABcm         
+ 
+Hai hình tam giác AMN và MPN có chung chiều cao hạ từ N tới AP và 
+AMNMPN
+S    S
+ nên đáy AM = MP.  
+Vậy MP = AM = AP : 2 = 18 : 2 = 9 (cm). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9cm 
+Câu 13. Tìm số thứ 50 của dãy số: 2; 5; 11; 20; 32; 47; ... 
+Lời giải 
+Ta có: 
+Số thứ 1 = 2. 
+Số thứ 2 = 2 + 3 × 1. 
+3677 
+P
+N
+M
+CB
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 42 
+ 
+Số thứ 3 = 2 + 3 × 1 + 3 × 2. 
+Số thứ 4 = 2 + 3 × 1 + 3 × 2 + 3 × 3. 
+..... 
+Số thứ 50 = 2 + 3 × 1 + 3 × 2 + 3 × 3 + ... + 3 × 49. 
+     = 2 + 3 × (1 + 2 + 3 + ... + 49). 
+     = 2 + 3 × (1 + 49) × 49 : 2 = 3677. 
+Câu 14. Cho hình vẽ như hình bên. Biết diện tích của hình 
+vuông to bằng 40cm
+2
+. Tính diện tích của hình vuông nhỏ.  
+Lời giải 
+Quan sát hình vẽ ta thấy, cạnh của hình vuông lớn chính 
+là đường kính của hình tròn.  
+Gọi bán kính của hình tròn là r thì cạnh của hình vuông lớn là 2 × r. 
+Diện tích của hình vuông lớn là: 2 × r × 2 × r = 4 × r × r 
+Do đó: 4 × r × r = 40, suy ra: r × r = 10. 
+Đặt các điểm như hình vẽ bên. 
+Diện tích tam giác AOB là: r × r : 2 = 10 : 2 = 5 (cm
+2
+) 
+Diện tích hình vuông nhỏ là: 5 × 4 = 20 (cm
+2
+) 
+ 
+ 
+ 
+ 
+ 
+20cm
+2
+ 
+PHẦN III. TỰ LUẬN 
+Bài 1. Hai người đi xe đạp từ A tới B, cùng xuất phát một lúc. Người thứ nhất đi với vận tốc  
+15km/giờ, người thứ hai đi với vận tốc 9km/giờ. Người thứ nhất sau khi đi được 3 giờ thì giảm 
+vận tốc xuống còn 5km/giờ để đợi người thứ hai. Tìm quãng đường AB biết rằng  2 người đi tới 
+B cùng lúc.    
+Đáp số: 67,5km. 
+Sau mỗi giờ, khoảng cách của hai người là: 15 – 9 = 6 (km). 
+Sau 3 giờ, khoảng cách của 2 người là: 6 × 3 = 18 (km). 
+Khi người thứ nhất giảm vận tốc xuống còn 5km/giờ thì cứ mỗi giờ người thứ hai gần người thứ 
+nhất thêm số ki-lô-mét là:  9 – 5 = 4 (km). 
+Thời gian đi để người thứ hai đuổi kịp người thứ nhất là: 18 : 4 = 4,5 (giờ). 
+Thời gian người thứ hai đi từ A đến B là: 3 + 4,5 = 7,5 (giờ). 
+Quãng đường AB dài là: 9 × 7,5 = 67,5 (km). 
+2 × r 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 43 
+ 
+Bài 2. Cho tam giác ABC. Lấy điểm M trên cạnh AC sao cho AM = 
+2
+3
+AC, lấy điểm N trên cạnh BC 
+sao cho BN = 
+1
+4
+BC. 
+a) Tính tỉ số diện tích 2 tam giác CMN và ACN. 
+b) Tính tỉ số diện tích 2 tam giác BMN và ABC. 
+c) Biết diện tích tam giác ABC bằng 480cm
+2
+. Hãy tính diện tích tam giác AMN. 
+Đáp số: a) 
+1
+3
+ ;   
+1
+)
+12
+b
+ ;  c) 240cm
+2 
+. 
+a) Vì AM = 
+2
+ 
+3
+AC nên MC = 
+1
+3
+AC . 
+Ta có: 
+CMN
+ACN
+SMC  1
+SAC  3
+
+ (Vì hai tam giác có chung chiều cao hạ 
+từ N xuống đáy AC) 
+Vậy tỉ số diện tích giữa 2 tam giác CMN và ACN là: 
+1
+3
+. 
+ b) Ta có: 
+ 
+BMN
+BMC
+SBN  1
+ 
+SBC  4
+    
+ 
+(Vì hai tam giác có chung chiều cao hạ từ M xuống đáy BC) 
+BMC
+ABC
+SMC  1
+ 
+SAC  3
+
+ 
+(Vì hai tam giác có chung chiều cao hạ từ B xuống đáy AC) 
+Từ đó suy ra: 
+BMNBMNBMC
+ABCBMCABC
+SSS1  1  1
+. 
+SSS4  3  12
+    
+ 
+Vậy tỉ số diện tích giữa 2 tam giác BMN và ABC là: 
+1
+.
+12
+  
+c) Ta có: 
+ 
+AMN
+ANC
+SAM  2
+ 
+SAC  3
+
+ 
+(Vì hai tam giác có chung chiều cao hạ từ N xuống đáy AC) 
+Vì BN = 
+1
+ 
+4
+BC nên CN = 
+3
+4
+BC . 
+Ta có: 
+ 
+ANC
+ABC
+SNC  3
+ 
+SBC  4
+    
+ 
+(Vì hai tam giác có chung chiều cao hạ từ A xuống đáy BC) 
+Từ đó suy ra: 
+AMNAMNANC
+ABCANCABC
+SSS
+2  3  1
+       . 
+SSS3  4  2
+    
+ 
+Diện tích tam giác AMN là: 480 
+
+ 
+1
+2
+ = 240 (cm
+2
+). 
+---------------------------------HẾT--------------------------------- 
+B
+C
+N
+M
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 44 
+ 
+ 
+TRƯỜNG THCS THANH XUÂN  
+ĐỀ MINH HOẠ TUYỂN SINH VÀO LỚP 6  
+NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 5 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN I. TRẮC NGHIỆM CHỌN ĐÁP ÁN ĐÚNG 
+Câu 1.  Tìm 
+x
+, biết: 
+31  4
+42  5
+x
+
+    
+
+
+. 
+A. 
+17
+20
+ B. 
+18
+20
+ C. 
+19
+20
+ D. 
+17
+10
+ 
+Chọn A 
+31  4
+42  5
+x
+
+    
+
+
+ 
+  
+34 1
+:
+45 2
+x  
+ 
+  
+38
+45
+x  
+ 
+  
+8  3  17
+5  4  20
+x    
+. 
+Câu 2. Một hình hộp chữ nhật có chiều rộng bằng 4cm, chiều dài bằng 10cm và có thể tích bằng 
+thể tích của hình lập phương có cạnh bằng 8cm. Tính chiều cao của hình hộp chữ nhật đó. 
+A. 11,8 cm B. 12,8 cm C. 13,8 cm D. 18,2 cm 
+Chọn B 
+Thể tích hình hộp chữ nhật bằng thể tích hình lập phương cạnh 8cm và bằng: 
+8 × 8 × 8 = 512 (cm
+3
+). 
+Chiều cao hình hộp chữ nhật là:   
+512 : 4 : 10 = 12,8 (cm). 
+Câu 3. Tìm một số có 2 chữ số, biết rằng khi viết thêm chữ số 5 vào bên phải số đó ta được một 
+số mới hơn số phải tìm 230 đơn vị. 
+A. 25 B. 35  C. 45 D. 55 
+Chọn A 
+Gọi số có hai chữ số cần tìm là 
+ab
+ (a, b là các chữ số, a khác 0). 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 45 
+ 
+Theo đề bài, ta có: 
+5230ab  ab   
+ 
+10  5230abab       
+ 
+9  5  230ab    
+ (bớt cả 2 vế cho 
+ab
+) 
+9  230  5
+9  225
+225:9
+25.
+ab
+ab
+ab
+ab
+     
+  
+
+
+ 
+Vậy số cần tìm là: 25. 
+Câu 4.  Mẹ hơn con 24 tuổi. Ba năm trước đây tuổi mẹ gấp 5 lần tuổi con. Hỏi hiện nay mẹ bao 
+nhiêu tuổi? 
+A. 24 tuổi B. 26 tuổi C. 30 tuổi D. 33 tuổi 
+Chọn D 
+Hiệu số tuổi của mẹ và con không thay đổi qua các năm và luôn bằng 24 tuổi. 
+Ba năm trước đây tuổi mẹ gấp 5 lần tuổi con nên khi đó coi tuổi con là 1 phần thì tuổi mẹ là  
+5 phần như thế. 
+Tuổi mẹ 3 năm trước là: 24 : (5 – 1) × 5 = 30 (tuổi). 
+Tuổi mẹ hiện nay là: 30 + 3 = 33 (tuổi). 
+Câu 5. Khi gieo một con xúc xắc nhiều lần liên tiếp, một bạn đã ghi lại số lần xuất hiện các mặt 
+ngửa trên cùng của xúc xắc theo bảng dưới đây: 
+Khả năng 1 chấm 2 chấm 3 chấm 4 chấm 5 chấm 6 chấm 
+Số lần lặp lại 11  10 9 10 12 10 
+Viết tỉ số của số lần lặp lại mặt 3 chấm xuất hiện so với tổng số lần gieo xúc xắc. 
+A. 
+3
+62
+ B. 
+9
+53
+ C. 
+9
+62
+ D. 
+3
+10
+ 
+Chọn C 
+Tổng số lần gieo xúc xắc là:  
+11 + 10 + 9 + 10 + 12 + 10 = 62 (lần). 
+Số lần xuất hiện mặt 3 chấm là: 9 lần. 
+Tỉ số của số lần lặp lại mặt 3 chấm xuất hiện so với tổng số lần gieo xúc xắc là: 
+9
+62
+. 
+Câu 6. Cho 3 số thập phân A, B, C có tổng bằng 19,68. Biết số A gấp 5 lần số B, nếu dời dấu phẩy 
+của C sang trái 1 hàng ta được số B. Tìm số A. 
+A. 1,23 B. 12,3 C. 4,1 D. 6,15 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 46 
+ 
+Chọn D 
+Vì dời dấu phẩy của C sang trái 1 hàng ta được B nên C gấp B 10 lần. 
+Lại có A gấp B 5 lần. 
+Vậy coi B là 1 phần thì A là 5 phần như thế và C là 10 phần như thế. 
+Tổng số phần bằng nhau là:     
+1 + 5 + 10 = 16 (phần). 
+Số thập phân A là:                       19,68 : 16 × 5 = 6,15. 
+Câu 7. Năm bạn học sinh trong một nhóm của câu lạc bộ STEM cùng góp tiền để mua linh 
+kiện lắp ráp Robot. Bạn An góp 210 000 đồng; bạn Bình góp 180 000 đồng, bạn Cường góp 
+175 000 đồng, bạn Dũng góp 155 000 đồng, bạn Thắng góp nhiều hơn mức trung bình cộng 
+của 5 bạn là 4 000 đồng. Hỏi bạn Thắng đã góp bao nhiêu tiền vào quỹ chung? 
+A. 185 000 đồng B. 190 000 đồng C. 191 000 đồng D. 205 000 đồng 
+Chọn A 
+ 
+Bốn lần trung bình cộng số tiền góp được của cả 5 bạn là: 
+210 000 + 180 000 + 175 000 + 155 000 + 4 000 = 724 000 (đồng) 
+Trung bình cộng số tiền góp được của cả 5 bạn là: 
+724 000 : 4 = 181 000 (đồng) 
+Bạn Thắng góp được số tiền là: 
+181 000 + 4 000 = 185 000 (đồng) 
+Câu 8. Thửa ruộng hình thang có trung bình cộng hai đáy là 46m. Nếu mở rộng đáy lớn thêm 
+12m và giữ nguyên đáy bé thì được thửa ruộng mới có diện tích lớn hơn diện tích thửa ruộng 
+ban đầu là 114m². Tính diện tích thửa ruộng ban đầu. 
+A. 870m
+2
+ B. 872m
+2
+ C. 874m
+2
+ D. 876m
+2
+ 
+Chọn C 
+Chiều cao ứng với đáy 12m của phần tăng thêm là:  
+114 × 2 : 12 = 19 (m) 
+Chiều cao của thửa ruộng hình thang ban đầu bằng chiều cao 
+của phần tăng thêm và bằng 19m. 
+Diện tích thửa ruộng hình thang ban đầu là: 46 × 19 = 874 (m
+2
+)  
+4 000 đồng
+Thắng
+Bình + An + Cường + Dũng
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 47 
+ 
+Câu 9. Để đánh số trang một quyển sách từ trang 1 đến trang cuối, người ta dùng hết 882 chữ 
+số. Hỏi quyển sách đó có tất cả bao nhiêu trang? 
+A. 320 trang B. 330 trang C. 340 trang D. 350 trang 
+Chọn C 
+Từ trang 1 đến trang 9 có 9 trang có 1 chữ số. 
+Từ trang 10 đến trang 99 có:   
+(99 – 10) : 1 + 1 = 90 (trang có 2 chữ số) 
+Để đánh số trang từ trang 1 đến trang 99 cần dùng số chữ số là: 
+1 × 9 + 2 × 90 = 189 (chữ số). 
+Số chữ số còn lại để đánh số trang sách có 3 chữ số là: 882 – 189 = 693 (chữ số). 
+Số trang sách được đánh 3 chữ số là: 693 : 3 = 231 (trang) 
+Số trang của quyển sách là: 9 + 90 + 231 = 330 (trang) 
+PHẦN II. TRẮC NGHIỆM ĐIỀN ĐÁP ÁN 
+Câu 10. Tìm số có 4 chữ số khác nhau 
+abcd
+ thoả mãn: 
+10102010207abcd        
+. 
+Lời giải 
+Số cần tìm là 
+abcd
+ (a, b, c, d là các chữ số khác nhau, a khác 0) 
+Ta có: 10 × a + 10 × b + 2010 × c = 
+207d
+  
+10 × (a + b + 201 × c) = 
+207d
+ 
+Ta thấy: Tích 10 × (a + b + 201 × c) có chữ số tận cùng là 0 nên 
+207d
+ có chữ 
+số tận cùng là 0, suy ra d = 0. 
+Do đó:  
+10 × (a + b + 201 × c) = 2070 
+a + b + 201 × c = 2070 : 10 
+a + b + 201 × c = 207 
+Vì (201 × c) < 207 mà c khác d nên c = 1. 
+Ta được: a + b = 207 – 201 = 6. 
+Mà a, b khác nhau và khác 0, 1 nên a = 2; b = 4 hoặc a = 4; b = 2. 
+Do đó ta tìm được 2 số thoả mãn là: 2410; 4210. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2410 ; 4210 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 48 
+ 
+Câu 11. Trong hộp có 60 viên bi có kích thước giống hệt nhau, trong đó có  
+15 viên bi màu đỏ, 15 viên bi màu xanh, 15 viên bi màu vàng và còn lại là viên 
+bi màu tím. Không nhìn vào hộp, hỏi cần lấy ra ít nhất bao nhiêu viên bi để chắc 
+chắn trong số những viên bi lấy ra có 5 viên bi cùng màu? 
+Lời giải 
+Trường hợp xấu nhất ta lấy được 4 viên bi mỗi loại: 4 viên bi màu đỏ ; 4 viên 
+bi màu xanh ; 4 viên bi màu vàng ; 4 viên bi màu tím. Vậy cần lấy thêm 1 viên 
+bi nữa để chắc chắn lấy ra được 5 viên bi cùng màu. 
+Cần lấy ra ít nhất số viên bi là:  4 + 4 + 4 + 4 + 1 = 17 (viên bi). 
+ 
+ 
+ 
+ 
+17 viên bi 
+Câu 12. Cho tam giác vuông ABC và ba nửa hình tròn có đường kính là ba cạnh 
+của tam giác như hình vẽ. Tính diện tích phần tô đậm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lời giải 
+Diện tích nửa hình tròn đường kính AB là:  
+(3 : 2) × (3 : 2) × 3,14 : 2 = 3,5325 (cm
+2
+) 
+Diện tích nửa hình tròn đường kính AC là:  
+(4 : 2) × (4 : 2) × 3,14 : 2 = 6,28 (cm
+2
+) 
+Diện tích nửa hình tròn đường kính BC là:  
+(5 : 2) × (5 : 2) × 3,14 : 2 = 9,8125 (cm
+2
+) 
+Diện tích tam giác ABC là: 3 × 4 : 2 = 6 (cm
+2
+) 
+Diện tích phần hình được tô đậm là:  
+(3,5325 + 6,28 + 6) – 9,8125 = 6 (cm
+2
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6cm
+2
+ 
+Câu 13. Học kỳ 1, một trường THCS có 24% học sinh đạt loại giỏi. Kết thúc học 
+kỳ 2, có thêm 8 học sinh đạt loại giỏi nên tỉ lệ học sinh giỏi của học kỳ 2 là 25%. 
+Hỏi trường THCS đó có bao nhiêu học sinh? (Số học sinh của trường không 
+thay đổi) 
+Lời giải 
+8 học sinh ứng với: 25% – 24% = 1% (tổng số học sinh). 
+Coi số học của trường đó là 100 phần bằng nhau thì 8 học sinh ứng với 1 phần.  
+Số học sinh của trường THCS đó là:  8 × 100 = 800 (học sinh). 
+ 
+ 
+ 
+ 
+800 học sinh 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 49 
+ 
+Câu 14. Một đoàn có 46 người qua sông trên hai loại thuyền với 6 người trên 
+một thuyền lớn, 4 người trên một thuyền bé (không kể lái thuyền). Có tất cả 
+10 thuyền thuộc hai loại chở vừa đủ đoàn người. Hỏi có bao nhiêu thuyền lớn, 
+bao nhiêu thuyền bé? 
+Lời giải 
+Giả sử tất cả số thuyền đều là thuyền lớn. 
+Khi đó số người chở được là:  
+6 × 10 = 60 (người). 
+Số người chở được thêm so với thực tế là:  
+60 – 46 = 14 (người). 
+Khi thay một thuyền bé bằng một thuyền lớn thì chở được thêm số người là:  
+6 – 4 = 2 (người). 
+Số thuyền bé là: 14 : 2 = 7 (thuyền). 
+Số thuyền lớn là: 10 – 7 = 3 (thuyền). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+PHẦN III. TỰ LUẬN 
+Bài 1. Hai thư viện A và B tiến hành sáp nhập thành một nên người ta chuyển dần số sách từ thư 
+viện A sang thư viện B qua ba đợt: 
++ Đợt một: Chuyển đi 
+1
+5
+ số sách của thư viện A và thêm 12 quyển. 
++ Đợt hai: Chuyển đi 
+2
+3
+ số sách còn lại và thêm 20 quyển. 
++ Đợt ba: Chuyển nốt 
+3
+4
+ số sách còn lại sau hai đợt và 30 quyển cuối cùng. 
+Sau khi hoàn tất việc luân chuyển, thư viện A không còn sách còn thư viện B có tất cả 1000 quyển 
+sách. Hỏi lúc đầu, mỗi thư viện có bao nhiêu quyển sách? 
+Đáp số:  Thư viện A: 540 quyển sách; Thư viện B: 460 quyển sách. 
+30 quyển cuối cùng chiếm: 
+3  1
+1
+4  4
+  
+ (số sách còn lại sau khi chuyển đợt 2). 
+Số sách còn lại sau khi chuyển đợt 2 là: 
+1
+30:   120
+4
+
+ 
+(quyển). 
+Nếu không chuyển thêm 20 quyển thì số sách còn lại sau khi chuyển đợt 2 là:  
+120 + 20 = 140 (quyển). 
+140 quyển sách chiếm: 
+2  1
+1
+3  3
+  
+ (số sách còn lại sau khi chuyển đợt 1). 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 50 
+ 
+Số sách còn lại sau khi chuyển đợt 1 là: 140 : 1 × 3 = 420 (quyển sách). 
+Nếu không chuyển thêm 12 quyển thì số sách còn lại sau khi chuyển đợt 1 là:  
+420 + 12 = 432 (quyển). 
+432 quyển sách chiếm: 
+1  4
+1
+5  5
+  
+ (số sách của thư viện A). 
+Lúc đầu, thư viện A có số quyển sách là: 
+                                     432 : 4 × 5 = 540 (quyển). 
+Lúc đầu, thư viện B có số quyển sách là:  
+                                     1000 – 540 = 460 (quyển). 
+Bài 2. Cho hai hình vuông ABCD và MNEC như hình vẽ bên. 
+Biết hình vuông ABCD có cạnh 6cm, hình vuông MNEC có 
+cạnh 4cm. 
+a) Tính diện tích tam giác AME. 
+b) Tính diện tích tam giác MEQ. 
+c) Tính diện tích tam giác AHM. 
+Đáp số:  a) 8cm
+2
+ ;    b) 3,2cm
+2
+ ;       c) 12cm
+2
+. 
+a) Độ dài cạnh BE là: 6 – 4 = 2 (cm). 
+Diện tích tam giác ABE là: 6 × 2 : 2 = 6 (cm
+2
+). 
+Độ dài cạnh DM là: 6 + 4 = 10 (cm). 
+Diện tích tam giác ADM là: 6 × 10 : 2 = 30 (cm
+2
+). 
+Diện tích tam giác ENM là: 4 × 4 : 2 = 8 (cm
+2
+). 
+Diện tích hình vuông ABCD là: 6 × 6 = 36 (cm
+2
+). 
+Diện tích hình vuông ENMC là: 4 × 4 = 16 (cm
+2
+). 
+Diện tích tam giác AME là: (36 + 16) – (6 + 8 + 30) = 8 (cm
+2
+). 
+b) Ta có: 
+MEQ
+AEQ
+S
+MC
+3
+4
+6
+2
+ 
+SAB
+      
+ (chung cạnh đáy EQ). 
+Suy ra 
+MEQ
+AME
+S
+2   2
+S2  3  5
+
+
+.
+ 
+Diện tích tam giác MEQ là:   8 : 5 × 2 = 3,2 (cm
+2
+). 
+c) Ta có: 
+AEH
+AMH
+SEB
+3
+2
+6
+1
+ 
+SCB
+      
+ (chung cạnh đáy AH). 
+Coi diện tích tam giác AEH là 1 phần thì diện tích tam giác AMH là 3 phần như vậy. Khi đó diện 
+tích tam giác AEM là: 3 – 1 = 2 phần như thế. 
+Diện tích tam giác AHM là: 8 : 2 × 3 = 12 (cm
+2
+). 
+---------------------------------HẾT--------------------------------- 
+Q
+M
+NE
+H
+DC
+B
+A

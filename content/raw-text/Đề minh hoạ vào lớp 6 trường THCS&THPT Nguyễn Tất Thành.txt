@@ -1,0 +1,3080 @@
+
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551     1 
+ 
+MỤC LỤC 
+ 
+HỆ THỐNG ĐỀ MINH HOẠ VÀO LỚP 6  
+TRƯỜNG THCS & THPT NGUYỄN TẤT THÀNH 
+TRANG 
+Đề Đáp án 
+ĐỀ MINH HỌA SỐ 1 3 19 
+ĐỀ MINH HỌA SỐ 2 6 26 
+ĐỀ MINH HỌA SỐ 3 9 33 
+ĐỀ MINH HỌA SỐ 4 12 40 
+ĐỀ MINH HỌA SỐ 5 15 47 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 2 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 3 
+ 
+ 
+TRƯỜNG THCS & THPT  
+NGUYỄN TẤT THÀNH 
+ĐỀ KIỂM TRA TUYỂN SINH VÀO LỚP 6 
+ĐỀ MINH HỌA SỐ 1 
+Môn: Toán 
+Thời gian làm bài: 45 phút 
+(Không kể thời gian phát đề)
+ 
+---------------------------------------------------------------------------------------------------- 
+A. TRẮC NGHIỆM (7,0 điểm) 
+I. Khoanh vào chữ đặt trước câu trả lời đúng (Mỗi câu đúng được 0,5 điểm) 
+Câu 1. Tính 
+3,57 123,45 3,57 24,45  3,57    
+. 
+A. 35,8. B. 359. C. 357. D. 35,9. 
+Câu 2. Một người mang 240 quả xoài đi bán. Lần thứ nhất bán được 
+1
+5
+ tổng số xoài, lần thứ hai 
+bán được 
+2
+3
+ tổng số xoài, lần thứ ba bán nốt số quả xoài còn lại. Tính số xoài người đó bán được 
+trong lần thứ ba. 
+A. 33 quả.          B. 18 quả.            C. 36 quả.                    D. 32 quả. 
+Câu 3. Hoa tung một đồng xu 25 lần liên tiếp, trong đó có 15 lần xuất hiện mặt ngửa. Tìm tỉ số 
+mô tả số lần lặp lại khả năng xuất hiện mặt ngửa so với tổng số lần tung đồng xu. 
+A. 
+3
+5
+. B. 
+10
+25
+. C. 
+15
+40
+. D. 
+15
+10
+. 
+Câu 4. Một người đi xe đạp từ nhà lúc 6 giờ 15 phút với vận tốc 11km/giờ và đến bến xe lúc  
+7 giờ kém 15 phút. Tính quãng đường từ nhà người đó đến bến xe. 
+A. 5,5km. B. 6km. C. 8,25km D. 7,5km. 
+Câu 5. Người ta dùng hết một sợi dây thép để uốn thành hai hình tròn như hình dưới đây. Biết 
+bán kính mỗi hình tròn là 10cm. Tính chiều dài sợi dây thép đó.  
+ 
+A. 62,8cm. B. 142,8cm. C. 125,6cm. D. 628cm. 
+Câu 6. Một bể cá hình lập phương có cạnh 25cm đã sử dụng 60% thể tích bể để chứa nước. Một 
+lượng nước bị bốc hơi làm mực nước trong bể giảm đi 70mm. Tìm lượng nước còn lại trong bể. 
+A. 11 250cm
+3
+. B. 7000cm
+3
+. C. 6750cm
+3
+. D. 5000cm
+3
+. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 4 
+ 
+Câu 7. Trung bình cộng của bốn số là 49. Tổng của số thứ nhất, số thứ hai và số thứ ba là 87. Tìm 
+số thứ tư. 
+A. 109. B. 126. C. 60. D. 136. 
+Câu 8. Cửa hàng của Annie bán hai loại bánh hoa quả: Bánh vị dâu và bánh vị cam. Doanh thu 
+trong 2 ngày cuối tuần của cửa hàng được ghi lại trong bảng dưới đây. Em hãy giúp Annie tìm 
+doanh thu trong ngày Thứ Hai nhé. (Biết rằng bánh vị dâu có giá tiền như nhau, bánh vị cam có 
+giá tiền như nhau) 
+ 
+A. 60$. B. 70$. C. 75$. D. 80$. 
+II. Điền đáp số vào ô trả lời tương ứng với mỗi câu hỏi (Mỗi câu đúng được 0,75 điểm) 
+Đề bài Đáp số 
+Câu 9. Cho phân số 
+25
+31
+. Tìm số tự nhiên m sao cho khi bớt m ở tử số và thêm m vào 
+mẫu số ta được phân số mới có giá trị bằng 
+2
+5
+. 
+ 
+Câu 10. Tìm 
+x
+ biết: 
+111125
+2 33 44 55 6   3
+xxxx
+      
+         
+      
+
+      
+ 
+ 
+Câu 11. Có thể đặt được bao nhiêu hộp xà phòng vào chiếc hộp cứng hình hộp chữ 
+nhật dưới đây? Biết các hộp có kích thước như hình vẽ. 
+ 
+ 
+Câu 12. Hằng ngày cứ 7 giờ 5 phút sáng, Đạt di chuyển từ nhà đến trường Nguyễn 
+Tất Thành. Nếu Đạt đi xe đạp với vận tốc 12 km/giờ thì đến lớp sớm hơn 5 phút 
+so với giờ vào học. Nếu Đạt được bố chở bằng xe máy với vận tốc 40 km/giờ thì 
+Đạt đến sớm 19 phút so với giờ vào học. Hỏi trường Nguyễn Tất Thành vào học 
+lúc mấy giờ? 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 5 
+ 
+B. TỰ LUẬN (3,0 điểm) 
+Bài 1. Một cửa hàng có tất cả 420 quả táo và lê. Sau khi bán một số quả táo và lê, số táo bán đi 
+bằng 
+1
+6
+ số lê bán đi và số táo còn lại hơn số lê còn lại là 40 quả. Biết lúc đầu số táo bằng 
+3
+4
+ số lê. 
+a) Tính số táo và số lê lúc đầu.           
+b) Tính số lê đã bán. 
+Bài 2. Cùng một lúc, có một ô tô và một xe máy cùng đi từ A đến B, với quãng đường AB dài 
+120km. Vận tốc của ô tô là 70km/giờ, vận tốc xe máy là 40km/giờ. Hỏi sau khi cùng đi được bao 
+lâu thì quãng đường còn lại của ô tô bằng 
+1
+2
+ quãng đường còn lại của xe máy? 
+Bài 3. Cho tam giác ABC có diện tích bằng 25cm
+2
+. Kéo dài AB một đoạn AM = AB, kéo dài AC một 
+đoạn AP = AC, kéo dài BC một đoạn CN = CB. Tính diện tích tam giác MNP. 
+ 
+ 
+ 
+ 
+ 
+ 
+----------------------------------- HẾT ----------------------------------- 
+  
+N
+C
+M
+B
+P
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 6 
+ 
+ 
+TRƯỜNG THCS & THPT  
+NGUYỄN TẤT THÀNH 
+ĐỀ KIỂM TRA TUYỂN SINH VÀO LỚP 6 
+ĐỀ MINH HỌA SỐ 2 
+Môn: Toán 
+Thời gian làm bài: 45 phút 
+(Không kể thời gian phát đề)
+ 
+---------------------------------------------------------------------------------------------------- 
+A. TRẮC NGHIỆM (7,0 
+điểm
+) 
+I. Khoanh vào chữ đặt trước câu trả lời đúng (Mỗi câu đúng được 0,5 điểm) 
+Câu 1. Một người đem bán 120 quả trứng và đã bán được 
+3
+8
+ số trứng. Hỏi người đó còn lại bao 
+nhiêu quả trứng? 
+A. 75 quả trứng.      B. 45 quả trứng.      C. 30 quả trứng.      D. 60 quả trứng. 
+Câu 2. Điền số thích hợp vào chỗ chấm: 
+1  ......  4
+2   5   5
+  
+ 
+A. 2. B. 3.        C. 2 và 3.              D. 1 
+Câu 3. Một bể kính không có nắp dạng hình hộp chữ nhật có chiều dài 1,2m; chiều rộng 8dm. 
+Người ta thả vào bể một khối kim loại có thể tích 48dm
+3
+ ngập trong nước thì nước trong bể dâng 
+cao thêm bao nhiêu đề-xi-mét? (Nước không tràn ra ngoài). 
+A. 0,4dm. B. 0,5dm. C. 0,6dm. D. 5dm. 
+Câu 4. Kết quả điều tra về sự yêu thích các Câu lạc bộ của 200 học 
+sinh ở một trường tiểu học được thể hiện trong biểu đồ hình quạt 
+bên (mỗi bạn chỉ chọn một Câu lạc bộ). Hỏi có bao nhiêu học sinh 
+thích Câu lạc bộ Vẽ? 
+A. 50 học sinh   B. 30 học sinh 
+C. 60 học sinh   D. 80 học sinh 
+ 
+Câu 5. Ngày thường mua 4 quyển vở hết 12 000 đồng. Nhân ngày khai giảng, với số tiền đó mua 
+được 5 quyển vở như thế. Hỏi so với ngày thường thì giá vở ngày khai giảng tăng hay giảm bao 
+nhiêu phần trăm? 
+A. Tăng 20%. B. Tăng 25%. C. Giảm 20%. D. Giảm 25%. 
+Câu 6. Tích 
+31 33 35 37 39 41 ... 2021            
+ có tận cùng là chữ số nào? 
+A. 1. B. 3. C. 5. D. 7. 
+Câu 7. Trên bản đồ có tỉ lệ 1 : 2000, chu vi một sân vận động dạng hình chữ nhật là 18cm, chiều 
+dài hơn chiều rộng 2cm. Diện tích thực tế của sân vận động đó là bao nhiêu mét vuông? 
+A. 7900m
+2
+.   B. 79m
+2
+ C. 77m
+2
+ D. 7700m
+2
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 7 
+ 
+Câu 8. Ông An dùng các viên gạch hình vuông bằng nhau để làm một con đường dẫn từ nhà ông 
+đến cái ao như hình dưới đây. Biết rằng tổng diện tích gạch lát là 44m
+2
+. Tính chu vi con đường 
+đó. 
+ 
+A. 22m B. 24m C. 40m D. 48m 
+II. Điền đáp số vào ô trả lời tương ứng với mỗi câu hỏi (Mỗi câu đúng được 0,75 điểm) 
+Đề bài Đáp số 
+Câu 9. Một trang trại có 290 con cả gà và vịt. Sau khi bán đi 24 con gà và 35 con 
+vịt thì số gà còn lại bằng   số vịt còn lại. Hỏi lúc đầu trang trại có bao nhiêu con 
+gà? 
+ 
+Câu 10. Tại một bữa tiệc chia tay của học sinh lớp 5, cứ hai em chung một chai 
+nước ngọt, cứ ba em chung một đĩa khoai tây chiên và cứ bốn em chung một đĩa 
+thịt nướng. Hỏi có bao nhiêu học sinh tham gia bữa tiệc? Biết rằng tổng số lượng 
+đĩa và chai nước ngọt được sử dụng là 208. 
+ 
+Câu 11. Có bao nhiêu số tự nhiên chẵn có 4 chữ số khác nhau mà mỗi số không 
+có chữ số 6? 
+ 
+Câu 12. Biết hình vuông có cạnh là 4cm. Tính diện tích phần tô đậm trong hình 
+dưới đây. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. TỰ LUẬN (3,0 điểm) 
+Bài 1. Một giá sách có số sách ngăn trên bằng 
+7
+12
+ số sách ngăn dưới. Sau khi lấy đi mỗi ngăn  
+8 quyển thì số sách ngăn dưới bằng 
+32
+17
+ số sách ngăn trên. Hỏi lúc đầu mỗi ngăn có bao nhiêu 
+quyển sách? 
+4
+7
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 8 
+ 
+Bài 2. Cùng một lúc có hai xe xuất phát tại A và B đi cùng chiều với nhau về phía C và gặp nhau 
+tại C. Quãng đường AB dài 40km (B nằm giữa AC). Hai người gặp nhau sau 2 giờ. 
+a) Tính vận tốc mỗi xe. Biết vận tốc xe thứ hai bằng 
+2
+3
+ vận tốc xe thứ nhất. 
+b) Đi đến C, xe thứ hai quay lại A với vận tốc bằng vận tốc ban đầu. Sau 1 giờ tính từ lúc quay xe 
+có một chiếc xe đạp đi với vận tốc 20km/giờ từ A về C. Hỏi kể từ lúc xe đạp xuất phát, sau bao 
+lâu thì hai xe gặp nhau? 
+Bài 3. Cho hình bình hành ABCD có M là trung điểm 
+của cạnh AB. Hai đoạn thẳng AC và DM cắt nhau tại E. 
+Biết diện tích tam giác MBC = 15cm
+2
+. 
+a) Tính diện tích tam giác CMA. 
+b) Tính diện tích tam giác MEC. 
+----------------------------------- HẾT ----------------------------------- 
+  
+M
+E
+D
+C
+B
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 9 
+ 
+ 
+TRƯỜNG THCS & THPT  
+NGUYỄN TẤT THÀNH 
+ĐỀ KIỂM TRA TUYỂN SINH VÀO LỚP 6 
+ĐỀ MINH HỌA SỐ 3 
+Môn: Toán 
+Thời gian làm bài: 45 phút 
+(Không kể thời gian phát đề)
+ 
+---------------------------------------------------------------------------------------------------- 
+A. TRẮC NGHIỆM (7,0 
+điểm
+) 
+I. Khoanh vào chữ đặt trước câu trả lời đúng (Mỗi câu đúng được 0,5 điểm) 
+Câu 1. Biểu đồ dưới đây biểu diễn khối lượng khoáng sản xuất khẩu nước ngoài của nước ta 
+(đơn vị: tấn). Tính tỉ số phần trăm của tổng lượng than đá và vàng xuất khẩu so với tổng lượng 
+dầu và sắt xuất khẩu.  
+ 
+A. 40%. B. 50%. C. 250%. D. 120%. 
+Câu 2. Xe lửa đi từ ga A lúc 6 giờ 36 phút. Dọc đường xe lửa nghỉ ở các ga hết 57 phút và đến B 
+lúc 9 giờ 45 phút. Xe lửa chạy với vận tốc 45km/giờ. Tính độ dài quãng đường AB. 
+A. 99km. B. 90km. C. 100km. D. 45km. 
+Câu 3. Nam gieo đồng thời hai đồng xu 30 lần, đếm số lần lặp lại của khả năng hai đồng xu xuất 
+hiện cùng mặt sấp, hoặc xuất hiện cùng mặt ngửa hoặc xuất hiện một mặt sấp, một mặt ngửa rồi 
+ghi lại kết quả nhận được như bảng sau: 
+Khả năng xuất hiện Hai mặt sấp Hai mặt ngửa 
+Một mặt sấp, 
+một mặt ngửa 
+Số lần lặp lại 9 lần 8 lần 13 lần 
+Tính tỉ số của số lần lặp lại khả năng xuất hiện hai mặt ngửa so với tổng số lần Nam gieo hai đồng 
+xu. 
+A. 
+8
+13
+. B. 
+4
+15
+. C. 
+3
+10
+. D. 
+1
+6
+. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 10 
+ 
+Câu 4. Tìm 
+x
+ biết: 
+25,570,5   :25% 202400x x   x      
+ 
+A. 
+x
+= 2024. B. 
+x
+= 2204. C. 
+x
+= 2102.                      D. 
+x
+= 20240. 
+Câu 5. Một bể nước có dạng hình hộp chữ nhật với chiều dài 2,5m, chiều rộng 1,5m và chiều cao 
+2m. Bể đang không có nước. Người ta mở một chiếc vòi chảy vào bể, cứ 1 giờ chảy được 900 lít 
+nước. Hỏi cần bao nhiêu thời gian để vòi nước chảy đầy bể? 
+A. 8 giờ 3 phút. B. 7 giờ 50 phút. C. 8 giờ 20 phút. D. 
+50
+9
+ giờ. 
+Câu 6. Một người mang 40 con gà ra chợ bán. Lần thứ nhất người đó bán được 
+3
+8
+ tổng số gà. Lần thứ 
+hai người đó bán được 40% số gà còn lại. Hỏi sau 2 lần bán, người đó còn lại bao nhiêu con gà? 
+A. 15 con.       B. 31 con.       C. 9 con.        D. 10 con. 
+Câu 7. Cho một số tự nhiên có 3 chữ số, biết nếu thêm một chữ số 2 vào bên trái số đó thì ta được 
+một số mới gấp 6 lần số đã cho. Tính tổng các chữ số của số đó. 
+A. 5.           B. 4.                        C. 6.        D. 12. 
+Câu 8. Một người thợ mộc cưa cây gỗ dài 5m thành các đoạn bằng nhau dài 0,5m. Mỗi lần cưa 
+hết 3 phút. Hỏi người thợ cưa xong cây gỗ đó hết bao nhiêu phút? 
+A. 24 phút. B. 27 phút. C. 30 phút. D. 33 phút. 
+II. Điền đáp số vào ô trả lời tương ứng với mỗi câu hỏi (Mỗi câu đúng được 0,75 điểm) 
+Đề bài 
+Đáp số 
+Câu 9. Hiện nay, tuổi ông gấp 9 lần tuổi cháu. Tính tuổi ông hiện nay. Biết sinh 
+nhật 8 tuổi của cháu trùng vào lễ mừng thọ 80 tuổi của ông. 
+ 
+Câu 10. Cho một hình chữ nhật, biết nếu tăng 20% số đo chiều dài và giảm  
+50% số đo chiều rộng thì diện tích hình chữ nhật giảm đi 16cm
+2
+. Tính diện tích 
+hình chữ nhật đó. 
+ 
+Câu 11. Tìm chữ số tận cùng của: 
+1 2 3 4 5 6  7 8 9 10 11 12 .... 2031 2032S                     
+. 
+ 
+Câu 12. Tính diện tích phần đã tô đậm trong hình sau. Biết ABCD, MNPD và 
+CGFE là các hình vuông, MN = 5cm; DC = 10cm. 
+ 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 11 
+ 
+B. TỰ LUẬN (3,0 điểm) 
+Bài 1. Một ô tô khởi hành tại A lúc 5 giờ 30 phút với vận tốc 50km/giờ để đến B. Khi đến B, ô tô 
+nghỉ 1 giờ 30 phút rồi quay về A với vận tốc 40km/giờ và về đến A lúc 11 giờ kém 24 phút.   
+a) Tính tổng thời gian đi và về của ô tô (không tính thời gian nghỉ). 
+b) Tính độ dài quãng đường AB. 
+Bài 2. Một đội trồng rừng có 4 tổ với tổng cộng 780 người. Trong đó số người tổ 1 bằng 
+2
+3
+ tổng 
+số người của 3 tổ còn lại và tổ 2 có số người bằng 
+5
+6
+ số người tổ 1. Số người ở tổ 3 bằng 
+3
+5
+ số 
+người tổ 4. Hỏi mỗi tổ có bao nhiêu người? 
+    
+Bài 3. Cho hình thang ABCD có diện tích bằng 180cm
+2
+, biết 
+đáy CD = 2 × AB.  
+a) Tính diện tích tam giác ADC. 
+b) Trên đoạn thẳng AC lấy điểm M sao cho AM = MC. Trên 
+đoạn thẳng DC lấy điểm P sao cho PC = 3 × DP. Nối DM với 
+AP cắt nhau tại N. Tính diện tích tứ giác MNPC. 
+ 
+ 
+----------------------------------- HẾT ----------------------------------- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N
+M
+P
+AB
+C
+D
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 12 
+ 
+ 
+TRƯỜNG THCS & THPT  
+NGUYỄN TẤT THÀNH 
+ĐỀ KIỂM TRA TUYỂN SINH VÀO LỚP 6 
+ĐỀ MINH HỌA SỐ 4 
+Môn: Toán 
+Thời gian làm bài: 45 phút 
+(Không kể thời gian phát đề)
+ 
+---------------------------------------------------------------------------------------------------- 
+A. TRẮC NGHIỆM (7,0 
+điểm
+) 
+I. Khoanh vào chữ đặt trước câu trả lời đúng (Mỗi câu đúng được 0,5 điểm) 
+Câu 1. Tính: 126 × 9,8 + 126 × 0,7 – 126 × 50%. 
+A. 126. B. 1386. C. 1260. D. 1512. 
+Câu 2. Lan tung đồng thời hai đồng xu nhiều lần liên tiếp. Dưới đây là kết quả: 
+Khả năng Hai đồng sấp Hai đồng ngửa 
+Một đồng sấp và 
+một đồng ngửa 
+Số lần lặp lại 
+ 
+ 
+  
+ Viết tỉ số của số lần lặp lại khả năng xuất hiện hai đồng sấp so với tổng số lần tung hai đồng xu. 
+A. 
+3
+4
+. B. 
+13
+35
+. C. 
+12
+35
+. D. 
+2
+7
+. 
+Câu 3. Một bể nước hình hộp chữ nhật có kích thước trong lòng bể là: chiều dài 5m, chiều rộng 
+2m, chiều cao 1,2m. Hiện 
+2
+5
+ bể đang chứa nước. Hỏi phải đổ vào bể bao nhiêu lít nước nữa mới 
+đầy bể? (Biết rằng 1dm
+3
+ nước bằng 1 lít nước) 
+   A. 12000 lít.    B. 7200 lít            C. 3600 lít.             D. 4800 lít. 
+Câu 4. Trong một đợt giảm giá, tất cả sản phẩm được giảm giá 
+1
+3
+ so với giá gốc. Chị Yến mua  
+1 chiếc váy, 1 chiếc áo và 1 đôi giày có giá gốc như sau: 
+ 
+Hỏi chị Yến phải trả tổng cộng bao nhiêu tiền? 
+A. 420 000 đồng. B. 460 000 đồng. C. 480 000 đồng. D. 490 000 đồng. 
+Câu 5. Giá vé ban đầu dự định bán là 15 000 đồng, nhưng sau đó chỉ bán với 9000 đồng. Như vậy 
+người ta đã giảm giá vé so với dự định là bao nhiêu phần trăm? 
+A. 60%. B. 25%. C. 40%. D.  75%. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 13 
+ 
+Câu 6. Một tàu hỏa dài 120m chạy qua đường hầm với vận tốc 48km/giờ. Từ lúc đầu tàu bắt đầu 
+chui vào hầm cho đến lúc toa cuối của tàu ra khỏi hầm mất 8 phút 12 giây. Tính chiều dài đường 
+hầm. 
+A. 6560m. B. 6440m. C. 6680m. D.  7000m. 
+Câu 7. Trên bảng điện tử chạy liên tiếp dòng chữ: 
+“NGUYENTATTHANH NGUYENTATTHANH NGUYENTATTHANH...”. 
+Hỏi chữ cái thứ 2025 là chữ gì? 
+A. T. B. A. C. N. D.  H. 
+Câu 8. Trong chợ chim cảnh, 71 con sáo và 2 con vẹt đổi được 3 con công. Một con công và 3 con 
+sáo đổi được 6 con vẹt. Muốn đổi 1 con công cần bao nhiêu con sáo? 
+A. 35 con sáo. B. 
+27
+con sáo. C. 25 con sáo. D. 30 con sáo. 
+II. Điền đáp số vào ô trả lời tương ứng với mỗi câu hỏi (Mỗi câu đúng được 0,75 điểm) 
+Đề bài Đáp số 
+Câu 9. Một ô tô đi từ A đến B với vận tốc 50km/giờ và dự kiến tới B lúc 10 giờ. 
+Sau khi đi được 
+2
+3
+ quãng đường thì người đó giảm vận tốc còn 40km/giờ, vì 
+vậy người đó đến B lúc 10 giờ 15 phút. Tính độ dài quãng đường AB. 
+ 
+Câu 10. Người ta chia các em học sinh vào các phòng thi. Nếu mỗi phòng thi  
+30 em thì thừa 20 em, còn nếu mỗi phòng thi 32 em thì thiếu 60 em. Hỏi có bao 
+nhiêu học sinh tham gia thi? 
+ 
+Câu 11. Người ta xếp 4 hình chữ nhật bằng nhau được một hình vuông lớn có 
+cạnh 13cm và bên trong có phần trống là hình vuông nhỏ có cạnh 3cm. Tính 
+chu vi mỗi hình chữ nhật nhỏ. 
+ 
+ 
+Câu 12. Xếp 12 hình lập phương nhỏ có cạnh 3cm thành một hình hộp chữ nhật 
+có diện tích toàn phần lớn nhất. Tính diện tích toàn phần của hình hộp chữ nhật 
+đó. 
+ 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 14 
+ 
+B. TỰ LUẬN (3,0 điểm) 
+Bài 1. Lúc 7 giờ 15 phút, một ca nô đi xuôi dòng từ bến A đến bến B. Đến bến B ca nô quay ngược 
+dòng về bến A và về tới bến A lúc 11 giờ 36 phút. Tính độ dài quãng sông AB, biết vận tốc riêng 
+của ca nô là 27km/giờ, vận tốc dòng nước là 3km/giờ và ca nô nghỉ tại bến B 45 phút. 
+Bài 2. Bác Lan mang 120 quả sầu riêng đi bán. Lần thứ nhất, bác bán được 20% số sầu riêng và 
+thêm 2 quả. Lần thứ hai bác bán đi một số quả. Lần thứ ba bác bán 
+1
+2
+ số sầu riêng còn lại sau lần 
+bán thứ hai và thêm 3 quả. Lần thứ tư, bác bán 
+3
+5
+ số sầu riêng còn lại sau lần bán thứ ba và thêm 
+4 quả, cuối cùng còn lại 10 quả.  
+a) Lần thứ nhất, bác Lan bán được bao nhiêu quả sầu riêng? 
+b) Lần thứ hai, bác Lan bán được bao nhiêu quả sầu riêng? 
+Bài 3. Cho hình bên. 
+a) Tính diện tích tam giác EDF. 
+b) Tính diện tích tứ giác ADFE. 
+ 
+ 
+ 
+----------------------------------- HẾT ----------------------------------- 
+  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 15 
+ 
+ 
+TRƯỜNG THCS & THPT  
+NGUYỄN TẤT THÀNH 
+ĐỀ KIỂM TRA TUYỂN SINH VÀO LỚP 6 
+ĐỀ MINH HỌA SỐ 5 
+Môn: Toán 
+Thời gian làm bài: 45 phút 
+(Không kể thời gian phát đề)
+ 
+---------------------------------------------------------------------------------------------------- 
+A. TRẮC NGHIỆM (7,0 
+điểm
+) 
+I. Khoanh vào chữ đặt trước câu trả lời đúng (Mỗi câu đúng được 0,5 điểm) 
+Câu 1. Khi thực hiện một trò chơi quay vòng quay ngẫu nhiên 20 lần, Nam ghi 
+lại kết quả kim quay dừng lại như bảng dưới đây. Tìm tỉ số để mô tả khả năng 
+kim quay dừng ở ô ghi số lớn hơn 5 so với tổng số lần quay. 
+Ô ghi số  1 2 3 4 5 6 7 8 
+Số lần 2 3 1 5 4 1 1 3 
+A. 
+3
+4
+. B. 
+1
+4
+. C. 
+9
+20
+. D. 
+13
+20
+. 
+Câu 2. Điểm trung bình của hai môn Toán và Tiếng Việt là 7,5 điểm. Hỏi môn Tiếng Anh cần đạt 
+bao nhiêu điểm để điểm trung bình ba môn là 8 điểm? 
+A. 9 điểm. B. 8,5 điểm. C. 8 điểm. D. 9,5 điểm. 
+Câu 3. Tìm 
+x
+, biết: 
+× 0,01= 20,24 × 1,55  2024% × 55%.x 
+ 
+A. 
+20240x
+. B. 
+2024x
+. C. 
+0,2024x
+. D. 
+202400x
+.
+ 
+Câu 4. Hưởng ứng phong trào quyên góp sách vào thư viện trường học, lớp 5A quyên góp được 
+90 quyển sách trong đó có 20% là sách tham khảo, 
+4
+9
+ số sách còn lại là sách giáo khoa, còn lại là 
+sách bài tập. Hỏi lớp 5A quyên góp bao nhiêu quyển sách bài tập? 
+A. 72 quyển sách. B. 32 quyển sách. C. 40 quyển sách. D. 24 quyển sách. 
+Câu 5. Có 20 người làm xong một công việc trong 12,5 giờ. Hỏi muốn làm xong công việc đó trong 
+5 giờ thì cần thêm bao nhiêu người? (Mỗi người trong 
+1
+ giờ làm được lượng việc như nhau). 
+A. 25 người. B. 30 người. C. 35 người. D. 28 người. 
+Câu 6. Tổng của một số tự nhiên và một số thập phân là 19,23. Nếu bỏ dấu phẩy ở số thập phân 
+thì tổng của hai số mới là 240. Tìm số thập phân ban đầu. 
+A. 2,23. B. 2,5. C. 2,61. D. 3,2. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 16 
+ 
+Câu 7. Một khối lập phương lớn được ghép từ các khối lập phương nhỏ có cạnh là 1cm. Người ta 
+sơn các mặt khối lập phương lớn, sau đó tách ra thành các khối lập phương nhỏ thì thấy có đúng 
+60 khối lập phương nhỏ được sơn đúng hai mặt. Hỏi khối lập phương lớn được ghép bởi bao 
+nhiêu khối lập phương nhỏ?  
+A. 334 khối. B. 21 khối. C. 343 khối. D. 49 khối. 
+Câu 8. Dần viết lên bảng dãy số sau: 10; 15; 20; 25; 30; ..., sau đó Dần xóa đi số thứ 50 của dãy 
+số đó để đố các bạn. Hỏi Dần đã xoá số nào? 
+A. 255. B. 245. C. 250. D. 260. 
+II. Điền đáp số vào ô trả lời tương ứng với mỗi câu hỏi (Mỗi câu đúng được 0,75 điểm) 
+Đề bài Đáp số 
+Câu 9. Tính: 
+1  1   1   1   1   1
+3  15  35  63  99  143
+A             
+ 
+ 
+Câu 10. Năm nay tổng số tuổi của 2 mẹ con là 36 tuổi. Biết rằng sau 2 năm 
+nữa thì tuổi mẹ gấp 4 lần tuổi con. Tính tuổi con hiện nay. 
+ 
+Câu 11. Hãng điện thoại Mega Mobile có một số chiếc điện thoại. Tháng 
+Giêng, hãng bán được nhiều hơn một nửa số điện thoại ban đầu là 20 chiếc. 
+Tháng Hai, họ bán nhiều hơn một nửa số điện thoại còn lại sau Tháng Giêng 
+là 15 chiếc. Đến tháng Ba, họ còn lại 75 chiếc điện thoại. Hỏi ban đầu, hãng 
+có bao nhiêu chiếc điện thoại? 
+ 
+Câu 12. Tam giác đều trong hình dưới đây được ghép bởi 25 tam giác đều 
+bằng nhau, mỗi tam giác nhỏ có diện tích là 3cm
+2
+. Tính diện tích tam giác tô 
+đậm (đơn vị cm
+2
+). 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 17 
+ 
+B. TỰ LUẬN (3,0 điểm) 
+Bài 1. Lớp 5A có 5 tổ trồng cây, số người mỗi tổ đều bằng nhau. Mỗi bạn trồng được 4 cây hoặc 
+6 cây. Cả lớp trồng được tất cả 220 cây. Hỏi có bao nhiêu bạn trồng được 4 cây? Bao nhiêu bạn 
+trồng được 6 cây? Biết số học sinh ít hơn 50, nhiều hơn 40. 
+Bài 2. Cho tam giác ABC, trên AC lấy điểm I sao cho AI = 
+3
+4
+AC; 
+lấy K trên BI sao cho BK = 
+2
+3
+BI. Kéo dài AK cắt BC tại H. Biết 
+diện tích tam giác ABC bằng 60cm
+2
+.  
+a) Tính diện tích tam giác ABK. 
+b) Tính tỉ số 
+BH
+BC
+.  
+Bài 3. Mỗi tối hai chị em Hạ đi bộ vòng quanh sân vận động ngay cạnh nhà. Hai chị em đi cùng 
+chiều với vận tốc không đổi, xuất phát cùng một lúc, từ cùng một điểm thì sau 1 giờ lại gặp nhau. 
+Tính vận tốc trung bình của Hạ. Biết rằng một vòng quanh sân vận động dài 2km. Hạ đi chậm 
+hơn chị và nếu đi ngược chiều thì sau 12 phút lại gặp nhau. 
+----------------------------------- HẾT ----------------------------------- 
+ 
+H
+K
+A
+C
+B
+I
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 18 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 19 
+ 
+ 
+TRƯỜNG THCS & THPT  
+NGUYỄN TẤT THÀNH 
+ĐỀ KIỂM TRA TUYỂN SINH VÀO LỚP 6 
+ĐỀ MINH HỌA SỐ 1 
+Môn: Toán 
+Thời gian làm bài: 45 phút 
+(Không kể thời gian phát đề)
+ 
+---------------------------------------------------------------------------------------------------- 
+A. TRẮC NGHIỆM (7,0 điểm) 
+I. Khoanh vào chữ đặt trước câu trả lời đúng (Mỗi câu đúng được 0,5 điểm) 
+Câu 1. Tính 
+3,57 123,45 3,57 24,45  3,57    
+. 
+A. 35,8. B. 359. C. 357. D. 35,9. 
+Chọn C 
+
+3,57 123,4524,45  3,57
+3,57
+3,57
+123,45  24,45 1
+3,57 100  357
+
+    
+
+
+       
+ 
+Câu 2. Một người mang 240 quả xoài đi bán. Lần thứ nhất bán được 
+1
+5
+ tổng số xoài, lần thứ hai 
+bán được 
+2
+3
+ tổng số xoài, lần thứ ba bán nốt số quả xoài còn lại. Tính số xoài người đó bán được 
+trong lần thứ ba. 
+A. 33 quả.          B. 18 quả.            C. 36 quả.                    D. 32 quả. 
+Chọn D 
+Phân số chỉ số xoài người đó bán được trong lần thứ ba là: 
+1  2  2
+1
+5  3  15
+    
+ (tổng số xoài). 
+Số quả xoài người đó bán được trong lần thứ ba là: 240 : 15 × 2 = 32 (quả). 
+Câu 3. Hoa tung một đồng xu 25 lần liên tiếp, trong đó có 15 lần xuất hiện mặt ngửa. Tìm tỉ số 
+mô tả số lần lặp lại khả năng xuất hiện mặt ngửa so với tổng số lần tung đồng xu. 
+A. 
+3
+5
+. B. 
+10
+25
+. C. 
+15
+40
+. D. 
+15
+10
+. 
+Chọn A 
+Tổng số lần tung đồng xu là: 25 lần. 
+Số lần lặp lại khả năng xuất hiện mặt ngửa là: 15 lần. 
+Tỉ số mô tả số lần lặp lại khả năng xuất hiện mặt ngửa so với tổng số lần tung đồng xu là: 
+15  3
+.
+25  5
+
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 20 
+ 
+Câu 4. Một người đi xe đạp từ nhà lúc 6 giờ 15 phút với vận tốc 11km/giờ và đến bến xe lúc  
+7 giờ kém 15 phút. Tính quãng đường từ nhà người đó đến bến xe. 
+A. 5,5km. B. 6km. C. 8,25km D. 7,5km. 
+Chọn A 
+Đổi: 7 giờ kém 15 phút = 6 giờ 45 phút 
+Thời gian người đó đi từ nhà đến bến xe là: 6 giờ 45 phút – 6 giờ 15 phút = 30 phút = 0,5 giờ 
+Quãng đường người đó đi từ nhà đến bến xe là: 
+11 0,5  5,5   
+ (km) 
+Câu 5. Người ta dùng hết một sợi dây thép để uốn thành hai hình tròn như hình dưới đây. Biết 
+bán kính mỗi hình tròn là 10cm. Tính chiều dài sợi dây thép đó.  
+ 
+A. 62,8cm. B. 142,8cm. C. 125,6cm. D. 628cm. 
+Chọn C 
+Chiều dài sợi dây thép chính bằng chu vi của 2 hình tròn. 
+Chu vi 2 hình tròn hay chiều dài sợi dây thép là: 
+  
+3,14 2 10  2  125,6cm      
+ 
+Câu 6. Một bể cá hình lập phương có cạnh 25cm đã sử dụng 60% thể tích bể để chứa nước. Một 
+lượng nước bị bốc hơi làm mực nước trong bể giảm đi 70mm. Tìm lượng nước còn lại trong bể. 
+A. 11 250cm
+3
+. B. 7000cm
+3
+. C. 6750cm
+3
+. D. 5000cm
+3
+. 
+Chọn D 
+Đổi: 70mm = 7cm. 
+Thể tích của bể cá là: 25 × 25 × 25 = 15 625 (cm
+3
+). 
+Lượng nước trong bể ban đầu là: 15 625 × 60 : 100 = 9375 (cm
+3
+). 
+Lượng nước đã bị bốc hơi là: 25 × 25 × 7 = 4375 (cm
+3
+). 
+Lượng nước còn lại trong bể là: 9375 – 4375 = 5000 (cm
+3
+). 
+Câu 7. Trung bình cộng của bốn số là 49. Tổng của số thứ nhất, số thứ hai và số thứ ba là 87. Tìm 
+số thứ tư. 
+A. 109. B. 126. C. 60. D. 136. 
+Chọn A 
+Tổng của bốn số đó là: 49 × 4 = 196. 
+Số thứ tư là: 196 – 87 = 109. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 21 
+ 
+Câu 8. Cửa hàng của Annie bán hai loại bánh hoa quả: Bánh vị dâu và bánh vị cam. Doanh thu 
+trong 2 ngày cuối tuần của cửa hàng được ghi lại trong bảng dưới đây. Em hãy giúp Annie tìm 
+doanh thu trong ngày Thứ Hai nhé. (Biết rằng bánh vị dâu có giá tiền như nhau, bánh vị cam có 
+giá tiền như nhau) 
+ 
+A. 60$. B. 70$. C. 75$. D. 80$. 
+Chọn B 
+Ta thấy: 2 bánh vị cam + 3 bánh vị dâu = 130 $ 
+        2 bánh vị cam + 2 bánh vị dâu = 100 $ 
+Giá tiền một chiếc bánh vị dâu là: 130 – 100 = 30 ($). 
+Giá tiền một chiếc bánh vị cam là: (100 – 30 × 2) : 2 = 20 ($). 
+Doanh thu trong ngày Thứ Hai của cửa hàng là: 20 × 2 + 30 = 70 ($). 
+II. Điền đáp số vào ô trả lời tương ứng với mỗi câu hỏi (Mỗi câu đúng được 0,75 điểm) 
+Đề bài Đáp số 
+Câu 9. Cho phân số 
+25
+31
+. Tìm số tự nhiên m sao cho khi bớt m ở tử số và thêm m vào 
+mẫu số ta được phân số mới có giá trị bằng 
+2
+5
+. 
+Lời giải 
+Nhận xét: Khi bớt m ở tử số và thêm m vào mẫu số thì tổng của tử số và mẫu số 
+không đổi và luôn bằng: 25 + 31 = 56.  
+Ta có sơ đồ tử số mới và mẫu số mới:  
+ 
+Tử số mới là: 56 : (2 + 5) × 2 = 16.  
+Vậy số tự nhiên m là: 25 – 16 = 9. 
+m = 9 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 22 
+ 
+Câu 10. Tìm 
+x
+ biết: 
+111125
+2 33 44 55 6   3
+xxxx
+      
+         
+      
+
+      
+ 
+Lời giải 
+
+111125
+2 33 44 55 6   3
+1111   25
+2 33 44 55 6  3
+111125
+2 3  3 4  4 5  5 6   3
+1  1  1  1  1  1  1  1   25
+4
+2  3  3  4  4  5  5  6   3
+1  1   25
+4
+2  6   3
+1  25
+4
+3  3
+25  1
+4
+3  3
+xxxx
+x    x    x    x
+x x x x
+x
+x
+x
+x
+x
+      
+       
+      
+
+      
+      
+
+
+      
+
+    
+
+
+                   
+
+
+
+       
+
+
+   
+     
+4  8
+8:4
+2
+x
+x
+  
+
+
+ 
+2x
+ 
+Câu 11. Có thể đặt được bao nhiêu hộp xà phòng vào chiếc hộp cứng hình hộp chữ 
+nhật dưới đây? Biết các hộp có kích thước như hình vẽ. 
+ 
+Lời giải 
+Ta có: 5 : 2 = 2 (dư 1); 4 : 2 = 2 
+Do đó, chiều dài của hình hộp chữ nhật chứa được 2 cạnh của hộp xà phòng. 
+Chiều rộng của hình hộp chữ nhật chứa được 2 cạnh của hộp xà phòng. 
+Chiều cao của hình hộp chữ nhật chứa được 2 cạnh của hộp xà phòng. 
+Vậy có thể đặt được số hộp xà phòng vào trong chiếc hộp hình hộp chữ nhật là: 
+2 2 2  8   
+ (hộp) 
+8 hộp 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 23 
+ 
+Câu 12. Hằng ngày cứ 7 giờ 5 phút sáng, Đạt di chuyển từ nhà đến trường Nguyễn 
+Tất Thành. Nếu Đạt đi xe đạp với vận tốc 12 km/giờ thì đến lớp sớm hơn 5 phút 
+so với giờ vào học. Nếu Đạt được bố chở bằng xe máy với vận tốc 40 km/giờ thì 
+Đạt đến sớm 19 phút so với giờ vào học. Hỏi trường Nguyễn Tất Thành vào học 
+lúc mấy giờ? 
+Lời giải 
+Tỉ số vận tốc Đạt đi học bằng xe đạp và vận tốc Đạt đi học bằng xe máy là: 
+3
+12 : 40 =
+10
+. 
+Trên cùng một quãng đường, vận tốc và thời gian tỉ lệ nghịch với nhau.  
+Tỉ số thời gian Đạt đi học bằng xe đạp và thời gian Đạt đi học bằng xe máy là: 
+10
+3
+ 
+Thời gian Đạt đi học bằng xe đạp nhiều hơn thời gian Đạt đi học bằng xe máy là:  
+19 – 5 = 14 (phút). 
+Coi thời gian Đạt đi học bằng xe đạp là 10 phần bằng nhau thì thời gian Đạt đi học 
+bằng xe máy là 3 phần như vậy. 
+Thời gian Đạt đi học bằng xe đạp là:  14 : (10 – 3) × 10 = 20 (phút). 
+Trường Nguyễn Tất Thành vào học lúc: 
+7 giờ 5 phút + 20 phút + 5 phút = 7 giờ 30 phút. 
+7 giờ 30 
+phút 
+ 
+B. TỰ LUẬN (3,0 điểm) 
+Bài 1. Một cửa hàng có tất cả 420 quả táo và lê. Sau khi bán một số quả táo và lê, số táo bán đi 
+bằng 
+1
+6
+ số lê bán đi và số táo còn lại hơn số lê còn lại là 40 quả. Biết lúc đầu số táo bằng 
+3
+4
+ số lê. 
+a) Tính số táo và số lê lúc đầu.           
+b) Tính số lê đã bán. 
+Lời giải 
+a) Vì lúc đầu số táo bằng 
+3
+4
+ số lê nên ta coi số táo lúc đầu là 3 phần bằng nhau thì số lê lúc đầu 
+là 4 phần như thế. 
+Số táo lúc đầu là: 420 : (3 + 4) × 3 = 180 (quả). 
+Số lê lúc đầu là: 420 – 180 = 240 (quả). 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 24 
+ 
+b) Lúc đầu số táo ít hơn số lê là: 240 – 180 = 60 (quả). 
+Sau khi bán, số táo còn lại hơn số lê còn lại 40 quả nên số táo bán đi ít hơn số lê bán đi là: 
+60 + 40 = 100 (quả). 
+Vì số táo bán đi bằng 
+1
+6
+ số lê bán đi nên ta coi số táo bán đi là 1 phần thì số lê bán đi là 6 phần 
+như thế. 
+Giá trị 1 phần là: 100 : (6 – 1) = 20 (quả). 
+Số lê bán đi là: 20 × 6 = 120 (quả). 
+Đáp số: a) 180 quả táo; 240 quả lê     
+b) 120 quả lê. 
+Bài 2. Cùng một lúc, có một ô tô và một xe máy cùng đi từ A đến B, với quãng đường AB dài 
+120km. Vận tốc của ô tô là 70km/giờ, vận tốc xe máy là 40km/giờ. Hỏi sau khi cùng đi được bao 
+lâu thì quãng đường còn lại của ô tô bằng 
+1
+2
+ quãng đường còn lại của xe máy? 
+Lời giải 
+ 
+Quan sát sơ đồ ta thấy: “Hiệu quãng đường đã đi của ô tô và xe máy” bằng “hiệu quãng đường 
+còn lại của xe máy và ô tô”. 
++) Tỉ số vận tốc của ô tô và vận tốc của xe máy là: 70 : 40 = 
+7
+4
+. 
+Trong cùng một khoảng thời gian, vận tốc và quãng đường tỉ lệ thuận với nhau. 
+Nên tỉ số quãng đường đã đi của ô tô và quãng đường đã đi của xe máy là: 
+7
+4
+. 
+Coi quãng đường đã đi của ô tô là 7 phần bằng nhau thì quãng đường đã đi của xe máy là 4 phần 
+như thế. 
+Do đó, hiệu quãng đường đã đi của ô tô và xe máy là: 7 – 4 = 3 (phần như thế). 
+Vì vậy, hiệu quãng đường còn lại của xe máy và ô tô cũng là 3 phần như thế. 
++) Lại có: quãng đường còn lại của ô tô bằng 
+1
+2
+ quãng đường còn lại của xe máy. 
+Do đó, quãng đường còn lại của ô tô là:  3 : (2 – 1) × 1 = 3 (phần). 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 25 
+ 
+Vì thế, độ dài quãng đường AB là 120km ứng với: 7 + 3 = 10 (phần). 
+Quãng đường ô tô đã đi là: 120 : 10 × 7 = 84 (km). 
+Vậy quãng đường còn lại của ô tô bằng 
+1
+2
+ quãng đường còn lại của xe máy sau khi hai xe cùng 
+đi thời gian là:   84 : 70 = 1,2 (giờ). 
+Đáp số: 1,2 giờ. 
+Bài 3. Cho tam giác ABC có diện tích bằng 25cm
+2
+. Kéo dài AB một đoạn AM = AB, kéo dài AC một 
+đoạn AP = AC, kéo dài BC một đoạn CN = CB. Tính diện tích tam giác MNP. 
+ 
+ 
+ 
+ 
+ 
+Lời giải 
+2
+ACNABC
+S   = S   = 25 cm
+(chung chiều cao hạ từ A xuống BN, đáy BC = CN) 
+2
+ABNABCACN
+S   = S   +S   = 25+25 = 50 (cm )
+ 
+2
+AMNABN
+S   = S   = 50cm
+ (chung chiều cao hạ từ N xuống BM, đáy AB = AM) 
+2
+BMNABNAMN
+S   = S   +S   = 50+50 =100 (cm )
+ 
+2
+ABPABC
+S   = S   = 25 cm
+ (chung chiều cao hạ từ B xuống PC, đáy AP = AC) 
+2
+APMABP
+S   = S   = 25 cm
+ (chung chiều cao hạ từ P xuống BM, đáy AB = AM) 
+2
+BMPABPAPM
+S   = S  +S   = 25+25 = 50 (cm )
+ 
+2
+MNBPBMNBMP
+SSS   =100+50 =150 (cm )
+=
+
+
+ 
+Lại có: 
+MNBPMNPBNP
+SS    S
+=
+ mà 
+2
+BNPPBCABC
+S   = 2×S   = 4×S   =100 (cm
+)
+ nên suy ra: 
+2
+MNPMNBPBNP
+SSS    150 100  50 (cm ).          
+ 
+Đáp số: 50cm
+2
+ 
+----------------------------------- HẾT ----------------------------------- 
+  
+N
+C
+M
+B
+P
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 26 
+ 
+ 
+TRƯỜNG THCS & THPT  
+NGUYỄN TẤT THÀNH 
+ĐỀ KIỂM TRA TUYỂN SINH VÀO LỚP 6 
+ĐỀ MINH HỌA SỐ 2 
+Môn: Toán 
+Thời gian làm bài: 45 phút 
+(Không kể thời gian phát đề)
+ 
+---------------------------------------------------------------------------------------------------- 
+A. TRẮC NGHIỆM (7,0 
+điểm
+) 
+I. Khoanh vào chữ đặt trước câu trả lời đúng (Mỗi câu đúng được 0,5 điểm) 
+Câu 1. Một người đem bán 120 quả trứng và đã bán được 
+3
+8
+ số trứng. Hỏi người đó còn lại bao 
+nhiêu quả trứng? 
+A. 75 quả trứng.      B. 45 quả trứng.      C. 30 quả trứng.      D. 60 quả trứng. 
+Chọn A 
+Số trứng người đó đã bán là:  
+3
+12045
+8
+  
+(quả trứng) 
+Người đó còn lại số quả trứng là: 120 – 45 = 75 (quả trứng) 
+Câu 2. Điền số thích hợp vào chỗ chấm: 
+1  ......  4
+2   5   5
+  
+ 
+A. 2. B. 3.        C. 2 và 3.              D. 1 
+Chọn B 
+Gọi số cần điền vào chỗ chấm là a. 
+Ta có: 
+5   28
+10   10   10
+a
+
+ 
+Do đó, 
+2    6a  
+ hay 
+3a
+. 
+Vậy số thích hợp cần điền vào chỗ chấm là: 3. 
+Câu 3. Một bể kính không có nắp dạng hình hộp chữ nhật có chiều dài 1,2m; chiều rộng 8dm. 
+Người ta thả vào bể một khối kim loại có thể tích 48dm
+3
+ ngập trong nước thì nước trong bể dâng 
+cao thêm bao nhiêu đề-xi-mét? (Nước không tràn ra ngoài). 
+A. 0,4dm. B. 0,5dm. C. 0,6dm. D. 5dm. 
+Chọn B 
+Đổi: 1,2m = 12dm. 
+Khi thả vào bể một khối kim loại ngập trong nước thì lượng nước trong bể dâng lên chính bằng 
+thể tích của khối kim loại và bằng 48dm
+3
+. 
+Nước trong bể dâng cao thêm là: 48 : (12 × 8) = 0,5 (dm). 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 27 
+ 
+Câu 4. Kết quả điều tra về sự yêu thích các Câu lạc bộ của 200 học 
+sinh ở một trường tiểu học được thể hiện trong biểu đồ hình quạt 
+bên (mỗi bạn chỉ chọn một Câu lạc bộ). Hỏi có bao nhiêu học sinh 
+thích Câu lạc bộ Vẽ? 
+A. 50 học sinh   B. 30 học sinh 
+C. 60 học sinh   D. 80 học sinh 
+ 
+Chọn B 
+Quan sát biểu đồ ta thấy: 
+Số học sinh thích Câu lạc bộ Vẽ chiếm 15% tổng số học sinh. 
+Số học sinh thích Câu lạc bộ Vẽ là: 200 : 100 × 15 = 30 (học sinh). 
+Câu 5. Ngày thường mua 4 quyển vở hết 12 000 đồng. Nhân ngày khai giảng, với số tiền đó mua 
+được 5 quyển vở như thế. Hỏi so với ngày thường thì giá vở ngày khai giảng tăng hay giảm bao 
+nhiêu phần trăm? 
+A. Tăng 20%. B. Tăng 25%. C. Giảm 20%. D. Giảm 25%. 
+Chọn C 
+Giá 1 quyển vở ngày thường là: 12 000 : 4 = 3000 (đồng). 
+Giá 1 quyển vở ngày khai giảng là: 12 000 : 5 = 2400 (đồng). 
+Tỉ số phần trăm giữa giá vở ngày khai giảng và giá ngày thường là: 2400 : 3000 = 0,8 = 80%. 
+Giá vở ngày khai giảng đã giảm so với giá vở ngày thường là:  
+100% – 80% = 20% (giá vở ngày thường). 
+Câu 6. Tích 
+31 33 35 37 39 41 ... 2021            
+ có tận cùng là chữ số nào? 
+A. 1. B. 3. C. 5. D. 7. 
+Chọn C 
+Ta thấy: Tất cả các thừa số của tích trên đều là số lẻ. Mà số 35 có chữ số tận cùng là 5, khi nhân 
+với số lẻ nào cũng đều có tận cùng là chữ số 5, do đó, tích đã cho có tận cùng là chữ số 5. 
+Câu 7. Trên bản đồ có tỉ lệ 1 : 2000, chu vi một sân vận động dạng hình chữ nhật là 18cm, chiều 
+dài hơn chiều rộng 2cm. Diện tích thực tế của sân vận động đó là bao nhiêu mét vuông? 
+A. 7900m
+2
+.   B. 79m
+2
+ C. 77m
+2
+ D. 7700m
+2
+ 
+Chọn D 
+Nửa chu vi sân vận động trên bản đồ là: 18 : 2 = 9 (cm) 
+Chiều dài sân vận động trên bản đồ là: (9 + 2) : 2 = 5,5 (cm) 
+Chiều dài sân vận động thực tế là: 5,5 × 2000 = 11 000 (cm) = 110 (m) 
+Chiều rộng sân vận động trên bản đồ là: 5,5 – 2 = 3,5 (cm) 
+Chiều rộng sân vận động thực tế là: 3,5 × 2000 = 7000 (cm) = 70 (m) 
+Diện tích thực tế của sân vận động là: 110 × 70 = 7700 (m
+2
+)  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 28 
+ 
+Câu 8. Ông An dùng các viên gạch hình vuông bằng nhau để làm một con đường dẫn từ nhà ông 
+đến cái ao như hình dưới đây. Biết rằng tổng diện tích gạch lát là 44m
+2
+. Tính chu vi con đường 
+đó. 
+ 
+A. 22m B. 24m C. 40m D. 48m 
+Chọn C 
+Ta thấy ông An dùng 11 viên gạch hình vuông bằng nhau để lát con đường từ nhà đến ao. 
+Diện tích mỗi viên gạch là: 44 : 11 = 4 (m
+2
+). 
+Vì 4 = 2 × 2 nên độ dài cạnh của mỗi viên gạch hình vuông là 2m. 
+Chu vi xung quanh con đường đó gồm 20 cạnh của viên gạch hình vuông. 
+Chu vi xung quanh con đường đó là: 2 × 20 = 40 (m). 
+II. Điền đáp số vào ô trả lời tương ứng với mỗi câu hỏi (Mỗi câu đúng được 0,75 điểm) 
+Đề bài Đáp số 
+Câu 9. Một trang trại có 290 con cả gà và vịt. Sau khi bán đi 24 con gà và 35 con 
+vịt thì số gà còn lại bằng   số vịt còn lại. Hỏi lúc đầu trang trại có bao nhiêu con 
+gà? 
+Lời giải 
+Tổng số gà và vịt của trang trại sau khi bán là: 290 – 24 – 35 = 231 (con). 
+Ta có sơ đồ số gà và số vịt sau khi bán: 
+  
+Số gà sau khi bán là: 231 : (4 + 7) × 4 = 84 (con). 
+Lúc đầu trang trại có số con gà là: 84 + 24 = 108 (con). 
+108 con 
+Câu 10. Tại một bữa tiệc chia tay của học sinh lớp 5, cứ hai em chung một chai 
+nước ngọt, cứ ba em chung một đĩa khoai tây chiên và cứ bốn em chung một đĩa 
+thịt nướng. Hỏi có bao nhiêu học sinh tham gia bữa tiệc? Biết rằng tổng số lượng 
+đĩa và chai nước ngọt được sử dụng là 208. 
+192 học 
+sinh 
+4
+7
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 29 
+ 
+Lời giải 
+Theo đề bài ta có: 
+ 2 lần số chai nước ngọt = 3 lần số đĩa khoai tây chiên = 4 lần số đĩa thịt nướng  
+Hay: 
+12
+6
+ số chai nước ngọt = 
+12
+4
+ số đĩa khoai tây chiên = 
+12
+3
+ số đĩa thịt nướng. 
+Coi số chai nước ngọt là 6 phần bằng nhau thì số đĩa khoai tây chiên là 4 phần như 
+thế và số đĩa thịt nướng là 3 phần như thế.  
+Có số chai nước ngọt là: 208 : (4 + 3 + 6) × 6 = 96 (chai). 
+Vì cứ 2 em chung 1 chai nước ngọt nên có số học sinh là: 2 × 96 = 192 (học sinh). 
+Câu 11. Có bao nhiêu số tự nhiên chẵn có 4 chữ số khác nhau mà mỗi số không 
+có chữ số 6? 
+Lời giải 
+Gọi số có 4 chữ số là: 
+abcd
+ (a, b, c, d là các chữ số khác nhau và a khác 0) 
+Vì mỗi số lập được không có chữ số 6 nên các chữ số a, b, c, d chỉ có thể chọn 
+trong các chữ số: 0; 1; 2; 3; 4; 5; 7; 8; 9.  
+Vì 
+abcd
+ là số chẵn nên ta có thể chọn d trong các chữ số: 0; 2; 4; 8. 
+Trường hợp 1: Chọn 
+0d
+.  
+Khi đó, có 8 cách chọn a, 7 cách chọn b, 6 cách chọn c 
+Có số các số là: 
+8 7 6  336  
+ (số). 
+Trường hợp 2: Chọn d là một trong các chữ số: 2; 4; 8. Có 3 cách chọn d. 
+Khi đó, có 7 cách chọn a (trừ chữ số d và chữ số 0), 7 cách chọn b, 6 cách chọn c. 
+Có số các số là: 
+7 7 6 3  882   
+ (số). 
+Vậy số các số chẵn có 4 chữ số khác nhau mà mỗi số không có chữ số 6 là:  
+336 882 1218   
+ (số). 
+1218 số 
+Câu 12. Biết hình vuông có cạnh là 4cm. Tính diện tích phần tô đậm trong hình 
+dưới đây. 
+ 
+ 
+ 
+ 
+ 
+ 
+8 cm
+2
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 30 
+ 
+Lời giải 
+Ta đánh số và gọi r là bán kính hình tròn lớn như hình dưới đây: 
+ 
+Diện tích phần được tô đậm bằng diện tích hình vuông trừ đi tổng diện tích các 
+phần (3) và (4) trừ đi diện tích 
+1
+4
+ hình tròn lớn. 
+Diện tích hình vuông là: 4 × 4 = 16 (cm
+2
+) 
+Ta thấy hình vuông chia thành 4 tam giác vuông có diện tích bằng nhau và 
+bằng: 16 : 4 = 4 (cm
+2
+) 
+Ta có: 
+1
+4
+2
+r r   
+ hay 
+8r r 
+ 
+Diện tích 
+1
+4
+ hình tròn lớn là: 
+
+   
+2
+1
+3,14 86,28
+4
+cm    
+ 
+Ta thấy diện tích các hình (1), (2), (3), (4) bằng nhau. 
+Tổng diện tích các hình (1), (2), (3), (4) là: 
+   
+2
+16  6,28 2  3,44cm      
+ 
+Tổng diện tích hình (3), (4) là: 3,44 : 2 = 1,72 (cm
+2
+) 
+Diện tích phần tô đậm là: 
+   
+2
+16  6,28 1,72  8cm        
+ 
+B. TỰ LUẬN (3,0 điểm) 
+Bài 1. Một giá sách có số sách ngăn trên bằng 
+7
+12
+ số sách ngăn dưới. Sau khi lấy đi mỗi ngăn  
+8 quyển thì số sách ngăn dưới bằng 
+32
+17
+ số sách ngăn trên. Hỏi lúc đầu mỗi ngăn có bao nhiêu 
+quyển sách? 
+Lời giải 
+Nhận xét:  Đây là bài toán dạng “Hai tỉ số” có “Hiệu số sách của hai ngăn” là thành phần không đổi. 
+Lúc đầu, số sách ngăn trên bằng: 
+7    7
+12  7  5
+
+
+ (hiệu số sách 2 ngăn) 
+Sau khi mỗi ngăn lấy đi 8 quyển, số sách ngăn trên bằng: 
+17   17
+32 17  15
+
+
+ (hiệu số sách 2 ngăn) 
+8 quyển sách ứng với:  
+7  17  4
+5  15  15
+   
+ (hiệu số sách 2 ngăn) 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 31 
+ 
+Hiệu số sách của ngăn dưới và ngăn trên là: 8 : 4 × 15 = 30 (quyển sách) 
+Số quyển sách lúc đầu của ngăn trên là: 30 × 7 : 5 = 42 (quyển sách) 
+Số quyển sách lúc đầu của ngăn dưới là: 30 + 42 = 72 (quyển sách) 
+                          Đáp số: Ngăn trên: 42 quyển; Ngăn dưới: 72 quyển 
+Bài 2. Cùng một lúc có hai xe xuất phát tại A và B đi cùng chiều với nhau về phía C và gặp nhau 
+tại C. Quãng đường AB dài 40km (B nằm giữa AC). Hai người gặp nhau sau 2 giờ. 
+a) Tính vận tốc mỗi xe. Biết vận tốc xe thứ hai bằng 
+2
+3
+ vận tốc xe thứ nhất. 
+b) Đi đến C, xe thứ hai quay lại A với vận tốc bằng vận tốc ban đầu. Sau 1 giờ tính từ lúc quay xe 
+có một chiếc xe đạp đi với vận tốc 20km/giờ từ A về C. Hỏi kể từ lúc xe đạp xuất phát, sau bao 
+lâu thì hai xe gặp nhau? 
+Lời giải 
+ 
+Theo đề bài, ta có: Xe thứ nhất xuất phát từ A và xe thứ hai xuất phát từ B. 
+a) Lúc đầu, khoảng cách của 2 xe là 40km mà sau 2 giờ, xe thứ nhất đuổi kịp xe thứ hai nên sau 
+2 giờ xe thứ nhất đã đi được nhiều hơn xe thứ hai là 40km. 
+Sau mỗi giờ, xe thứ nhất đi được nhiều hơn xe thứ hai số ki-lô-mét là: 40 : 2 = 20 (km). 
+Hay vận tốc của xe thứ nhất lớn hơn vận tốc của xe thứ hai là 20km/giờ. 
+Vì vận tốc xe thứ hai bằng 
+2
+3
+ vận tốc xe thứ nhất nên coi vận tốc xe thứ hai là 2 phần bằng nhau 
+thì vận tốc xe thứ nhất là 3 phần như vậy. 
+Vận tốc xe thứ nhất là: 20 : (3 – 2) × 3 = 60 (km/giờ). 
+Vận tốc xe thứ hai là: 60 – 20 = 40 (km/giờ). 
+b) Độ dài quãng đường AC là: 60 × 2 = 120 (km). 
+Sau 1 giờ, tính từ lúc quay xe thì xe thứ hai đã đi được: 40 × 1 = 40 (km). 
+Khi xe đạp xuất phát tại A, khoảng cách giữa xe thứ hai và xe đạp là: 120 – 40 = 80 (km). 
+Sau 1 giờ, cả xe thứ hai và xe đạp đi được tất cả số ki-lô-mét là: 20 + 40 = 60 (km). 
+Kể từ lúc xe đạp bắt đầu xuất phát, xe thứ hai gặp xe đạp sau thời gian là:  
+4
+80:60 =
+3
+ (giờ) = 1 giờ 20 phút. 
+Đáp số: a) Xe thứ nhất: 60 km/giờ; Xe thứ hai: 40 km/giờ; 
+                    b) 1 giờ 20 phút 
+40km
+A
+Xe thứ nhất
+Xe thứ hai
+B
+C
+Điểm gặp nhau
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 32 
+ 
+Bài 3. Cho hình bình hành ABCD có M là trung điểm 
+của cạnh AB. Hai đoạn thẳng AC và DM cắt nhau tại E. 
+Biết diện tích tam giác MBC = 15cm
+2
+. 
+a) Tính diện tích tam giác CMA. 
+b) Tính diện tích tam giác MEC. 
+Lời giải 
+a) Vì M là trung điểm của cạnh AB nên ta có MA = MB. 
+Ta có: 
+2
+CMACMB
+S   =S   =15 cm
+ (Vì có chung chiều cao hạ từ C xuống AB và đáy MA = MB). 
+b) Ta có:  
+MDCDAM
+S   = 2×S
+ (Vì đáy DC = AB = 2 × AM và chiều cao hạ từ D tới AM bằng chiều cao hạ từ  
+M tới DC và bằng chiều cao hình thang AMCD). 
+Mà hai tam giác này có chung đáy DM nên chiều cao hạ từ C xuống DM gấp 2 lần chiều cao hạ từ 
+A xuống DM. 
+→ 
+CMEAME
+S   = 2×S
+ (Vì chung đáy ME và chiều cao hạ từ C xuống ME gấp 2 lần chiều cao hạ từ  
+A xuống ME)     
+Mặt khác: 
+2
+CMEAMECMA
+S   +S   = S   =15 (cm )
+ nên suy ra: 
+2
+CME
+S=10 (cm ).
+=15:(1+2) 2
+ 
+                             Đáp số: a) 15cm
+2
+;  b) 10cm
+2
+. 
+----------------------------------- HẾT ----------------------------------- 
+  
+M
+E
+D
+C
+B
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 33 
+ 
+ 
+TRƯỜNG THCS & THPT  
+NGUYỄN TẤT THÀNH 
+ĐỀ KIỂM TRA TUYỂN SINH VÀO LỚP 6 
+ĐỀ MINH HỌA SỐ 3 
+Môn: Toán 
+Thời gian làm bài: 45 phút 
+(Không kể thời gian phát đề)
+ 
+---------------------------------------------------------------------------------------------------- 
+A. TRẮC NGHIỆM (7,0 
+điểm
+) 
+I. Khoanh vào chữ đặt trước câu trả lời đúng (Mỗi câu đúng được 0,5 điểm) 
+Câu 1. Biểu đồ dưới đây biểu diễn khối lượng khoáng sản xuất khẩu nước ngoài của nước ta 
+(đơn vị: tấn). Tính tỉ số phần trăm của tổng lượng than đá và vàng xuất khẩu so với tổng lượng 
+dầu và sắt xuất khẩu.  
+ 
+A. 40%. B. 50%. C. 250%. D. 120%. 
+Chọn A 
+Tổng số tấn than đá và vàng xuất khẩu là: 22 + 6 = 28 (tấn). 
+Tổng số tấn dầu và sắt xuất khẩu là: 60 + 10 = 70 (tấn). 
+Tỉ số phần trăm của tổng lượng than đá và vàng xuất khẩu so với tổng lượng dầu và sắt xuất 
+khẩu là:      28 : 70 = 0,4 = 40%. 
+Câu 2. Xe lửa đi từ ga A lúc 6 giờ 36 phút. Dọc đường xe lửa nghỉ ở các ga hết 57 phút và đến B 
+lúc 9 giờ 45 phút. Xe lửa chạy với vận tốc 45km/giờ. Tính độ dài quãng đường AB. 
+A. 99km. B. 90km. C. 100km. D. 45km. 
+Chọn A 
+Thời gian xe lửa đi từ ga A đến B (không tính thời gian nghỉ) là: 
+9 giờ 45 phút – 6 giờ 36 phút – 57 phút = 2 giờ 12 phút = 2,2 (giờ) 
+Độ dài quãng đường AB là: 45 × 2,2 = 99 (km). 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 34 
+ 
+Câu 3. Nam gieo đồng thời hai đồng xu 30 lần, đếm số lần lặp lại của khả năng hai đồng xu xuất 
+hiện cùng mặt sấp, hoặc xuất hiện cùng mặt ngửa hoặc xuất hiện một mặt sấp, một mặt ngửa rồi 
+ghi lại kết quả nhận được như bảng sau: 
+Khả năng xuất hiện Hai mặt sấp Hai mặt ngửa 
+Một mặt sấp, 
+một mặt ngửa 
+Số lần lặp lại 9 lần 8 lần 13 lần 
+Tính tỉ số của số lần lặp lại khả năng xuất hiện hai mặt ngửa so với tổng số lần Nam gieo hai đồng 
+xu. 
+A. 
+8
+13
+. B. 
+4
+15
+. C. 
+3
+10
+. D. 
+1
+6
+. 
+Chọn B 
+Theo đề bài, ta có:  
+Tổng số lần Nam gieo hai đồng xu là: 30 lần. 
+Số lần xuất hiện hai mặt ngửa là: 8 lần. 
+Tỉ số của số lần lặp lại khả năng xuất hiện hai mặt ngửa so với tổng số lần Nam gieo hai đồng xu 
+là: 
+8   4
+30  15
+
+. 
+Câu 4. Tìm 
+x
+ biết: 
+25,570,5   :25% 202400x x   x      
+ 
+A. 
+x
+= 2024. B. 
+x
+= 2204. C. 
+x
+= 2102.                      D. 
+x
+= 20240. 
+Chọn A 
+25,570,5   : 25%  202 400
+25,570,5    4  202 400
+(25,5  70,5  4)  202 400
+100  202 400
+202 400:100
+2024
+x x   x
+x x   x
+x
+x
+x
+x
+      
+         
+      
+   
+
+
+ 
+Câu 5. Một bể nước có dạng hình hộp chữ nhật với chiều dài 2,5m, chiều rộng 1,5m và chiều cao 
+2m. Bể đang không có nước. Người ta mở một chiếc vòi chảy vào bể, cứ 1 giờ chảy được 900 lít 
+nước. Hỏi cần bao nhiêu thời gian để vòi nước chảy đầy bể? 
+A. 8 giờ 3 phút. B. 7 giờ 50 phút. C. 8 giờ 20 phút. D. 
+50
+9
+ giờ. 
+Chọn C 
+Thể tích của bể là: 
+3
+2,5 1,5 2  7,5 (  )  7500m    
+(lít). 
+Thời gian để vòi chảy đầy bể là: 
+25
+7500 :900
+3
+
+ (giờ) = 8 giờ 20 phút. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 35 
+ 
+Câu 6. Một người mang 40 con gà ra chợ bán. Lần thứ nhất người đó bán được 
+3
+8
+ tổng số gà. Lần thứ 
+hai người đó bán được 40% số gà còn lại. Hỏi sau 2 lần bán, người đó còn lại bao nhiêu con gà? 
+A. 15 con.       B. 31 con.       C. 9 con.        D. 10 con. 
+Chọn A 
+Lần thứ nhất, người đó bán được số con gà là: 40 : 8 × 3 = 15 (con) 
+Số con gà còn lại sau lần bán thứ nhất là: 
+40 15  25  
+ (con) 
+Lần thứ hai, người đó bán được số con gà là: 25 × 40 : 100 = 10 (con) 
+Sau 2 lần bán, người đó còn lại số con gà là: 
+25 10  15  
+ (con) 
+Câu 7. Cho một số tự nhiên có 3 chữ số, biết nếu thêm một chữ số 2 vào bên trái số đó thì ta được 
+một số mới gấp 6 lần số đã cho. Tính tổng các chữ số của số đó. 
+A. 5.           B. 4.                        C. 6.        D. 12. 
+Chọn B 
+Gọi số cần tìm có dạng 
+abc
+ (a, b, c là các chữ số; a khác 0). 
+Theo đề bài, ta có: 
+abc 6  2abc
+abc 6  2000  abc
+  
+  
+ 
+abc 5  2000 
+ (bớt cả 2 vế cho 
+abc
+) 
+abc  2000:5
+abc  400
+
+
+ 
+Thử lại: 400 × 6 = 2400 (thoả mãn). 
+Số tự nhiên cần tìm là 400. 
+Vậy tổng các chữ số của số đó là: 4 + 0 + 0 = 4. 
+Câu 8. Một người thợ mộc cưa cây gỗ dài 5m thành các đoạn bằng nhau dài 0,5m. Mỗi lần cưa 
+hết 3 phút. Hỏi người thợ cưa xong cây gỗ đó hết bao nhiêu phút? 
+A. 24 phút. B. 27 phút. C. 30 phút. D. 33 phút. 
+Chọn B 
+Số đoạn gỗ cưa được là:  5 : 0,5 = 10 (đoạn). 
+Để cưa được 10 đoạn gỗ cần 9 lần cưa. Mỗi lần cưa 3 phút. 
+Vậy người thợ cưa xong cây gỗ đó hết số phút là: 3 × 9 = 27 (phút).  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 36 
+ 
+II. Điền đáp số vào ô trả lời tương ứng với mỗi câu hỏi (Mỗi câu đúng được 0,75 điểm) 
+Đề bài 
+Đáp số 
+Câu 9. Hiện nay, tuổi ông gấp 9 lần tuổi cháu. Tính tuổi ông hiện nay. Biết sinh 
+nhật 8 tuổi của cháu trùng vào lễ mừng thọ 80 tuổi của ông. 
+Lời giải 
+Hiệu số tuổi của ông và cháu không thay đổi qua các năm và luôn bằng:  
+80 – 8 = 72 (tuổi). 
+Hiện nay, tuổi ông gấp 9 lần tuổi cháu nên nếu coi tuổi cháu là 1 phần thì tuổi 
+ông là 9 phần như thế. 
+Tuổi ông hiện nay là: 72 : (9 – 1) × 9 = 81 (tuổi). 
+81 tuổi 
+Câu 10. Cho một hình chữ nhật, biết nếu tăng 20% số đo chiều dài và giảm  
+50% số đo chiều rộng thì diện tích hình chữ nhật giảm đi 16cm
+2
+. Tính diện tích 
+hình chữ nhật đó. 
+Lời giải 
+Chiều dài của hình chữ nhật mới bằng: 
+100% + 20% = 120% (chiều dài hình chữ nhật ban đầu). 
+Chiều rộng của hình chữ nhật mới bằng: 
+100% – 50% = 50% (chiều rộng hình chữ nhật ban đầu). 
+Diện tích của hình chữ nhật mới bằng: 
+120% × 50% = 60% (diện tích hình chữ nhật ban đầu). 
+Diện tích của hình chữ nhật mới giảm đi số phần trăm so với diện tích hình 
+chữ nhật ban đầu là: 
+100% – 60% = 40% (diện tích hình chữ nhật ban đầu). 
+16cm
+2
+ ứng với 40% diện tích hình chữ nhật ban đầu. 
+Diện tích hình chữ nhật ban đầu là: 16 : 40 × 100 = 40 (cm
+2
+). 
+40cm
+2
+ 
+Câu 11. Tìm chữ số tận cùng của: 
+1 2 3 4 5 6  7 8 9 10 11 12 .... 2031 2032S                     
+. 
+Lời giải 
+Nhận xét: Chữ số tận cùng của các tích lặp lại theo quy luật: 2; 2; 0; 6; 0. Nếu 
+ghép 5 tích vào một nhóm thì tổng các tích trong mỗi nhóm có chữ số tận cùng 
+là 0. 
+Ta có: 
+
+2031 1 :2 1 1016     
+ (tích). 
+Vì 
+1016:5  203
+ (dư 1) 
+Do đó, ta ghép được tất cả 203 nhóm và dư ra tích 
+2031 2032
+ 
+
+
+1 2  3 4  5 6  7 8  9 10 11 12  ....  2031 2032
+1 2  3 4  5 6  7 8  9 10  ...  2031 2032
+...0  ...0  ... ...0  2031 2032
+...0  ...2  ...2
+S
+S
+S
+S
+                     
+                   
+             
+      
+ 
+Vậy S có chữ số tận cùng là 2. 
+2 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 37 
+ 
+Câu 12. Tính diện tích phần đã tô đậm trong hình sau. Biết ABCD, MNPD và 
+CGFE là các hình vuông, MN = 5cm; DC = 10cm. 
+ 
+Lời giải 
+Ta đánh số hình như sau: 
+ 
+Ta có:  
+: 2  (): 2
+(): 2  (): 2
+DGF
+BCGF
+S   DG FG   DC CG FG
+S   BC FG CG   DC CG FG
+        
+        
+DGF   BCGF
+S  S    
+ 
+Mà 
+56346
+,
+DGFBCGF
+S  S S S   S S S      
+. Suy ra: 
+53    4
+S S S  
+. 
+Do đó, tổng diện tích của các phần (2), (3), (4) chính bằng tổng diện tích của 
+phần (2) và (5) hay bằng 
+1
+4
+ diện tích hình tròn bán kính CD. 
+Tổng diện tích của phần (2), (3), (4) là: (3,14 × 10 × 10) : 4 = 78,5 (cm
+2
+). 
+Quan sát hình ta thấy, diện tích phần (1) bằng diện tích hình vuông MNPD trừ 
+đi 
+1
+4
+ diện tích hình tròn bán kính NM. 
+Diện tích hình vuông MNPD là: 5 × 5 = 25 (cm
+2
+). 
+1
+4
+ diện tích hình tròn bán kính NM là: (3,14 × 5 × 5) : 4 = 19,625 (cm
+2
+). 
+Diện tích phần (1) là: 25 – 19,625 = 5,375 (cm
+2
+). 
+Diện tích phần tô đậm bằng tổng diện tích các phần (1), (2), (3), (4) và bằng: 
+5,375 + 78,5 = 83,875 (cm
+2
+). 
+83,875cm
+2
+ 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 38 
+ 
+B. TỰ LUẬN (3,0 điểm) 
+Bài 1. Một ô tô khởi hành tại A lúc 5 giờ 30 phút với vận tốc 50km/giờ để đến B. Khi đến B, ô tô 
+nghỉ 1 giờ 30 phút rồi quay về A với vận tốc 40km/giờ và về đến A lúc 11 giờ kém 24 phút.   
+a) Tính tổng thời gian đi và về của ô tô (không tính thời gian nghỉ). 
+b) Tính độ dài quãng đường AB. 
+Lời giải 
+a) Đổi: 11 giờ kém 24 phút = 10 giờ 36 phút 
+Nếu không tính thời gian nghỉ thì tổng thời gian cả đi và về của ô tô là: 
+10 giờ 36 phút 
+
+ 5 giờ 30 phút 
+
+ 1 giờ 30 phút 
+
+ 3 giờ 36 phút = 3,6 giờ. 
+b) Tỉ số vận tốc lúc đi so với lúc về của ô tô là: 
+5
+50:40   .
+4
+
+ 
+Trên cùng một quãng đường, vận tốc và thời gian tỉ lệ nghịch với nhau.  
+Tỉ số thời gian lúc đi so với lúc về của ô tô là: 
+4
+5
+. 
+Coi thời gian lúc đi của ô tô là 4 phần bằng nhau thì thời gian lúc về của ô tô là 5 phần như thế. 
+Thời gian lúc đi của ô tô là: 
+    
+3,6: 4 5  4 1,6   
+ (giờ). 
+Độ dài quãng đường AB là: 
+   
+50 1,6  80 km .   
+ 
+                         Đáp số:  a) 3,6 giờ; b) 80km. 
+Bài 2. Một đội trồng rừng có 4 tổ với tổng cộng 780 người. Trong đó số người tổ 1 bằng 
+2
+3
+ tổng 
+số người của 3 tổ còn lại và tổ 2 có số người bằng 
+5
+6
+ số người tổ 1. Số người ở tổ 3 bằng 
+3
+5
+ số 
+người tổ 4. Hỏi mỗi tổ có bao nhiêu người? 
+Lời giải 
+Vì số người tổ 1 bằng 
+2
+3
+ tổng số người của 3 tổ còn lại nên số người tổ 1 bằng 
+2   2
+2  3  5
+
+
+ tổng số 
+người của cả 4 tổ. 
+Tổ 1 có số người là: 
+2
+780312
+5
+  
+ (người). 
+Vì số người tổ 2 bằng 
+5
+6
+ số người tổ 1 nên tổ 2 có số người là: 
+5
+312260
+6
+  
+ (người). 
+Tổng số người của tổ 3 và tổ 4 là: 780 – (312 + 260) = 208 (người). 
+Vì số người ở tổ 3 bằng 
+3
+5
+ số người ở tổ 4 nên coi số người ở tổ 3 là 3 phần bằng nhau thì số 
+người ở tổ 4 là 5 phần như thế. 
+Tổ 3 có số người là: 208 : (3 + 5) × 3 = 78 (người). 
+Tổ 4 có số người là: 208 – 78 = 130 (người). 
+Đáp số: Tổ 1: 312 người; Tổ 2: 260 người;  
+   Tổ 3: 78 người; Tổ 4: 130 người. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 39 
+ 
+Bài 3. Cho hình thang ABCD có diện tích bằng 180cm
+2
+, biết đáy 
+CD = 2 × AB.  
+a) Tính diện tích tam giác ADC. 
+b) Trên đoạn thẳng AC lấy điểm M sao cho AM = MC. Trên đoạn 
+thẳng DC lấy điểm P sao cho PC = 3 × DP. Nối DM với AP cắt nhau 
+tại N. Tính diện tích tứ giác MNPC. 
+Lời giải 
+a) 
+ABC
+ADC
+S
+AB  1
+SDC  2
+    
+ (chiều cao hạ từ C xuống AB bằng chiều cao hạ từ A xuống DC). 
+Coi 
+ABC
+S
+ là 1 phần thì 
+ADC
+S
+ là 2 phần như thế. 
+Diện tích tam giác ADC là:  180 : (1 + 2) × 2 = 120 (cm
+2
+). 
+b) Nối N với C. 
++)  
+ADM
+CDM
+S
+AM  1
+SCM  1
+
+ (chung chiều cao hạ từ D xuống AC) 
+Mà hai tam giác này có chung cạnh đáy DM nên chiều cao hạ từ 
+A xuống DM bằng chiều cao hạ từ C xuống DM. 
+Đưa hai chiều cao này tương ứng vào hai tam giác ADN và CDN 
+ta có: 
+ADN
+CDN
+S
+1
+S1
+
+ (chung cạnh đáy DN) 
++)  
+ADP
+ACP
+S
+DP  1
+SPC  3
+   
+ (chung chiều cao hạ từ A xuống DC) 
+Mà hai tam giác này có chung cạnh đáy AP nên chiều cao hạ từ D xuống AP bằng 
+1
+3
+ chiều cao hạ 
+từ C xuống AP. 
+Đưa hai chiều cao này tương ứng vào hai tam giác ADN và ANC ta có:  
+ADN
+ANC
+S
+1
+S3
+
+ (chung cạnh đáy AN) 
+Ta có: 
+ADN
+CDN
+S
+1
+S1
+
+; 
+ADN
+ANC
+S
+1
+S3
+
+ nên coi 
+ADN
+S
+ là 1 phần; 
+CDN
+S
+ là 1 phần; 
+ANC
+S
+ là 3 phần như thế. 
+Diện tích tam giác DNC là: 120 : (1 + 1 + 3) × 1 = 24 (cm
+2
+). 
+Diện tích tam giác ANC là: 24 × 3 = 72 (cm
+2
+). 
+Ta có: 
+NPC
+DNC
+S
+PC  3
+SDC  4
+    
+ (chung chiều cao hạ từ N xuống DC) 
+                 
+MNC
+ANC
+S
+MC  1
+SAC  2
+    
+(chung chiều cao hạ từ N xuống AC) 
+Diện tích tam giác NPC là: 24 : 4 × 3 = 18 (cm
+2
+). 
+Diện tích tam giác MNC là: 72 : 2 × 1 = 36 (cm
+2
+). 
+Diện tích tứ giác MNPC là: 18 + 36 = 54 (cm
+2
+).                        
+Đáp số: a) 120cm
+2
+;     b) 54cm
+2
+ 
+----------------------------------- HẾT ----------------------------------- 
+N
+M
+P
+AB
+C
+D
+N
+M
+P
+AB
+C
+D
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 40 
+ 
+ 
+TRƯỜNG THCS & THPT  
+NGUYỄN TẤT THÀNH 
+ĐỀ KIỂM TRA TUYỂN SINH VÀO LỚP 6 
+ĐỀ MINH HỌA SỐ 4 
+Môn: Toán 
+Thời gian làm bài: 45 phút 
+(Không kể thời gian phát đề)
+ 
+---------------------------------------------------------------------------------------------------- 
+A. TRẮC NGHIỆM (7,0 
+điểm
+) 
+I. Khoanh vào chữ đặt trước câu trả lời đúng (Mỗi câu đúng được 0,5 điểm) 
+Câu 1. Tính: 126 × 9,8 + 126 × 0,7 – 126 × 50%. 
+A. 126. B. 1386. C. 1260. D. 1512. 
+Chọn C 
+     126 × 9,8 + 126 × 0,7 – 126 × 50% 
+= 126 × 9,8 + 126 × 0,7 – 126 × 0,5 
+= 126 × (9,8 + 0,7 – 0,5) 
+= 126 × 10 = 1260. 
+Câu 2. Lan tung đồng thời hai đồng xu nhiều lần liên tiếp. Dưới đây là kết quả: 
+Khả năng Hai đồng sấp Hai đồng ngửa 
+Một đồng sấp và 
+một đồng ngửa 
+Số lần lặp lại 
+ 
+ 
+  
+ Viết tỉ số của số lần lặp lại khả năng xuất hiện hai đồng sấp so với tổng số lần tung hai đồng xu. 
+A. 
+3
+4
+. B. 
+13
+35
+. C. 
+12
+35
+. D. 
+2
+7
+. 
+Chọn B 
+Số lần nhận được hai đồng sấp là: 13 lần. 
+Số lần nhận được hai đồng ngửa là: 12 lần. 
+Số lần nhận được một đồng sấp, một đồng ngửa là: 10 lần. 
+Tổng số lần tung hai đồng xu là: 13 + 12 + 10 = 35 (lần). 
+Tỉ số của số lần lặp lại khả năng xuất hiện hai đồng sấp so với tổng số lần tung là: 
+13
+35
+. 
+Câu 3. Một bể nước hình hộp chữ nhật có kích thước trong lòng bể là: chiều dài 5m, chiều rộng 
+2m, chiều cao 1,2m. Hiện 
+2
+5
+ bể đang chứa nước. Hỏi phải đổ vào bể bao nhiêu lít nước nữa mới 
+đầy bể? (Biết rằng 1dm
+3
+ nước bằng 1 lít nước) 
+   A. 12000 lít.    B. 7200 lít            C. 3600 lít.             D. 4800 lít. 
+Chọn B 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 41 
+ 
+Thể tích của bể nước là: 5 × 2 × 1,2 = 12 (m
+3
+) = 12000 (dm
+3
+). 
+Trong bể đang có lượng nước là: 
+2
+120004800
+5
+  
+(dm
+3
+). 
+Cần đổ thêm vào bể số lít nước là: 12000 – 4800 = 7200 (dm
+3
+) = 7200 (lít). 
+Câu 4. Trong một đợt giảm giá, tất cả sản phẩm được giảm giá 
+1
+3
+ so với giá gốc. Chị Yến mua  
+1 chiếc váy, 1 chiếc áo và 1 đôi giày có giá gốc như sau: 
+ 
+Hỏi chị Yến phải trả tổng cộng bao nhiêu tiền? 
+A. 420 000 đồng. B. 460 000 đồng. C. 480 000 đồng. D. 490 000 đồng. 
+Chọn B 
+Số tiền chị Yến phải trả bằng: 
+1  2
+1   =
+3  3
+
+ (giá gốc). 
+Số tiền chị Yến phải trả là: 
+2
+(280 000 +170 000 + 240 000)×  = 460 000
+3
+ (đồng). 
+Câu 5. Giá vé ban đầu dự định bán là 15 000 đồng, nhưng sau đó chỉ bán với 9000 đồng. Như vậy 
+người ta đã giảm giá vé so với dự định là bao nhiêu phần trăm? 
+A. 60%. B. 25%. C. 40%. D.  75%. 
+Chọn C 
+Mỗi vé được giảm số tiền là: 15 000 – 9000 = 6000 (đồng). 
+Người ta giảm giá vé so với dự định số phần trăm là:  
+6000 : 15 000 = 0,4 = 40% (giá vé dự định). 
+Câu 6. Một tàu hỏa dài 120m chạy qua đường hầm với vận tốc 48km/giờ. Từ lúc đầu tàu bắt đầu 
+chui vào hầm cho đến lúc toa cuối của tàu ra khỏi hầm mất 8 phút 12 giây. Tính chiều dài đường 
+hầm. 
+A. 6560m. B. 6440m. C. 6680m. D.  7000m. 
+Chọn B 
+Từ lúc đầu tàu bắt đầu chui vào hầm cho đến lúc toa cuối của tàu chui ra khỏi hầm thì quãng 
+đường tàu đi được bằng chiều dài tàu + chiều dài hầm. 
+Đổi: 48km/giờ = 800m/phút           
+8 phút 12 giây = 8,2 phút 
+Chiều dài của tàu và chiều dài đường hầm là: 800 × 8,2 = 6560 (m) 
+Chiều dài của đường hầm là: 6560 – 120 = 6440 (m). 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 42 
+ 
+Câu 7. Trên bảng điện tử chạy liên tiếp dòng chữ: 
+“NGUYENTATTHANH NGUYENTATTHANH NGUYENTATTHANH...”. 
+Hỏi chữ cái thứ 2025 là chữ gì? 
+A. T. B. A. C. N. D.  H. 
+Chọn A 
+Ta thấy một nhóm chữ ‘‘NGUYENTATTHANH’’ gồm 14 chữ cái. 
+Ta có: 2025 : 14 = 144 (dư 9) 
+Vậy ta viết được 144 nhóm ‘‘NGUYENTATTHANH’’ và thêm 9 chữ cái. 
+Do đó, chữ cái thứ 2025 là chữ ‘‘T’’ thứ hai của nhóm. 
+Câu 8. Trong chợ chim cảnh, 71 con sáo và 2 con vẹt đổi được 3 con công. Một con công và 3 con 
+sáo đổi được 6 con vẹt. Muốn đổi 1 con công cần bao nhiêu con sáo? 
+A. 35 con sáo. B. 
+27
+con sáo. C. 25 con sáo. D. 30 con sáo. 
+Chọn B 
+Vì 1 con công và 3 con sáo đổi được 6 con vẹt nên 3 con công và 9 con sáo đổi được 18 con vẹt. 
+Mà 71 con sáo và 2 con vẹt đổi được 3 con công nên 71 + 9 = 80 con sáo và 2 con vẹt đổi được 
+3 con công và 9 con sáo. Do đó: 80 con sáo và 2 con vẹt đổi được 18 con vẹt. 
+Hay 80 con sáo đổi được 16 con vẹt. 
+Do đó, 2 con vẹt đổi được 10 con sáo.  
+Mà 71 con sáo và 2 con vẹt đổi được 3 con công nên 81 con sáo đổi được 3 con công. 
+Hay muốn đổi 1 con công cần 27 con sáo. 
+II. Điền đáp số vào ô trả lời tương ứng với mỗi câu hỏi (Mỗi câu đúng được 0,75 điểm) 
+Đề bài 
+Đáp số 
+Câu 9. Một ô tô đi từ A đến B với vận tốc 50km/giờ và dự kiến tới B lúc 10 giờ. 
+Sau khi đi được 
+2
+3
+ quãng đường thì người đó giảm vận tốc còn 40km/giờ, vì 
+vậy người đó đến B lúc 10 giờ 15 phút. Tính độ dài quãng đường AB. 
+Lời giải 
+Sau khi đi được 
+2
+3
+ quãng đường AB, người đó cần đi tiếp:  
+2  1
+1
+3  3
+  
+ (quãng đường AB) 
+Xét trên 
+1
+3
+ quãng đường AB sau: 
+Tỉ số vận tốc dự kiến và vận tốc thực tế là: 
+5
+50: 40
+4
+
+. 
+Trên cùng một quãng đường, vận tốc và thời gian tỉ lệ nghịch với nhau.  
+150km 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 43 
+ 
+Do đó, tỉ số thời gian dự kiến và thời gian thực tế là: 
+4
+5
+ 
+Chênh lệch thời gian là: 10 giờ 15 phút – 10 giờ = 15 phút 
+Thời gian dự kiến là: 15 : (5 – 4) × 4 = 60 (phút) = 1 (giờ) 
+1
+3
+ quãng đường AB dài là: 1 × 50 = 50 (km) 
+Quãng đường AB dài là: 50 : 1 × 3 = 150 (km) 
+Câu 10. Người ta chia các em học sinh vào các phòng thi. Nếu mỗi phòng thi  
+30 em thì thừa 20 em, còn nếu mỗi phòng thi 32 em thì thiếu 60 em. Hỏi có bao 
+nhiêu học sinh tham gia thi? 
+Lời giải 
+Vì nếu mỗi phòng thi 30 em thì thừa 20 em, còn mỗi phòng thi 32 em thì thiếu 
+60 em nên ta có sơ đồ:  
+ 
+Số học sinh đủ để chia mỗi phòng 30 em ít hơn số học sinh đủ để chia mỗi phòng 
+32 em là: 20 + 60 = 80 (em). 
+1 phòng thi 30 em ít hơn 1 phòng thi 32 em là: 32 – 30 = 2 (em). 
+Có tất cả số phòng thi là: 80 : 2 = 40 (phòng). 
+Có tất cả số học sinh là: 30 × 40 + 20 = 1220 (học sinh). 
+1220 học 
+sinh 
+Câu 11. Người ta xếp 4 hình chữ nhật bằng nhau được một hình vuông lớn có 
+cạnh 13cm và bên trong có phần trống là hình vuông nhỏ có cạnh 3cm. Tính 
+chu vi mỗi hình chữ nhật nhỏ. 
+ 
+ 
+26cm 
+60  em
+Số học sinh đủ để chia cho mỗi phòng 32 em
+20  em
+Số học sinh đủ để chia cho mỗi phòng 30 em
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 44 
+ 
+Lời giải 
+Quan sát hình vẽ ta thấy: 
+Tổng chiều dài và chiều rộng hình chữ nhật nhỏ bằng cạnh hình vuông lớn và 
+bằng 13cm. 
+Hiệu của chiều dài và chiều rộng hình chữ nhật nhỏ bằng cạnh hình vuông nhỏ 
+và bằng 3cm. 
+Chiều rộng hình chữ nhật là: (13 – 3) : 2 = 5 (cm). 
+Chiều dài hình chữ nhật là: 13 – 5 = 8 (cm). 
+Chu vi mỗi hình chữ nhật nhỏ là: 
+       
+5 8  2  26 cm    
+  
+Câu 12. Xếp 12 hình lập phương nhỏ có cạnh 3cm thành một hình hộp chữ nhật 
+có diện tích toàn phần lớn nhất. Tính diện tích toàn phần của hình hộp chữ nhật 
+đó. 
+Lời giải 
+Vì 
+12  1 1 12  1 2 6  1 3 4  2  2 3               
+ nên ta có 4 cách xếp 12 hình lập 
+phương nhỏ thành một hình hộp chữ nhật lớn. 
+Trường hợp 1: Với cách xếp 
+1 1 12 
+ thì hình hộp chữ nhật có kích thước 
+3cm 3cm 36cm   
+. 
+Diện tích toàn phần của hình hộp chữ nhật khi đó là:  
+    
+   
+2
+3 3  2 36  3 3 2  450 cm         
+ 
+Trường hợp 2: Với cách xếp 
+1 2 6 
+ thì hình hộp chữ nhật có kích thước 
+3cm 6cm 18cm   
+. 
+Diện tích toàn phần của hình hộp chữ nhật khi đó là:  
+    
+   
+2
+3  6  2 18  3 6 2  360 cm         
+ 
+Trường hợp 3: Với cách xếp 
+1 3 4 
+ thì hình hộp chữ nhật có kích thước 
+3cm 9cm 12cm   
+. 
+Diện tích toàn phần của hình hộp chữ nhật khi đó là:  
+    
+   
+2
+3 9  2 12  3 9 2  342 cm         
+ 
+Trường hợp 4: Với cách xếp 
+2 2 3 
+ thì hình hộp chữ nhật có kích thước 
+6cm 6cm 9cm   
+. 
+Diện tích toàn phần của hình hộp chữ nhật khi đó là:  
+    
+   
+2
+6  6  2 9  6 6 2  288 cm        
+ 
+Vậy diện tích toàn phần lớn nhất của hình hộp chữ nhật có thể xếp được là 
+450cm
+2
+. 
+450cm
+2 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 45 
+ 
+B. TỰ LUẬN (3,0 điểm) 
+Bài 1. Lúc 7 giờ 15 phút, một ca nô đi xuôi dòng từ bến A đến bến B. Đến bến B ca nô quay ngược 
+dòng về bến A và về tới bến A lúc 11 giờ 36 phút. Tính độ dài quãng sông AB, biết vận tốc riêng 
+của ca nô là 27km/giờ, vận tốc dòng nước là 3km/giờ và ca nô nghỉ tại bến B 45 phút. 
+Lời giải 
+Tổng thời gian ca nô đi xuôi dòng và ngược dòng (không tính thời gian nghỉ) là:  
+11 giờ 36 phút – 7 giờ 15 phút – 45 phút = 3 giờ 36 phút = 3,6 (giờ) 
+Vận tốc khi ca nô đi xuôi dòng là: 27 + 3 = 30 (km/giờ) 
+Vận tốc khi ca nô đi ngược dòng là: 27 – 3 = 24 (km/giờ) 
+Tỉ số của vận tốc xuôi dòng và vận tốc ngược dòng là: 
+30  5
+24  4
+
+. 
+Trên cùng một quãng đường, vận tốc và thời gian tỉ lệ nghịch với nhau.  
+Tỉ số của thời gian xuôi dòng và thời gian ngược dòng là: 
+4
+5
+. 
+Coi thời gian xuôi dòng là 4 phần bằng nhau thì thời gian ngược dòng là 5 phần như thế. 
+Thời gian khi ca nô đi xuôi dòng là:  3,6 : (4 + 5) × 4 = 1,6 (giờ). 
+Độ dài quãng sông AB là:  30 × 1,6 = 48 (km). 
+Đáp số: 48km. 
+Bài 2. Bác Lan mang 120 quả sầu riêng đi bán. Lần thứ nhất, bác bán được 20% số sầu riêng và 
+thêm 2 quả. Lần thứ hai bác bán đi một số quả. Lần thứ ba bác bán 
+1
+2
+ số sầu riêng còn lại sau lần 
+bán thứ hai và thêm 3 quả. Lần thứ tư, bác bán 
+3
+5
+ số sầu riêng còn lại sau lần bán thứ ba và thêm 
+4 quả, cuối cùng còn lại 10 quả.  
+a) Lần thứ nhất, bác Lan bán được bao nhiêu quả sầu riêng? 
+b) Lần thứ hai, bác Lan bán được bao nhiêu quả sầu riêng? 
+Lời giải 
+a) Lần thứ nhất, bác Lan bán được số quả sầu riêng là: 
+120 20%  2  26      
+ (quả). 
+b) Ta thấy 10 + 4 = 14 (quả) ứng với: 
+3  2
+1
+5  5
+  
+ (số quả sầu riêng sau lần bán thứ ba). 
+Sau lần bán thứ ba, bác Lan còn lại số quả sầu riêng là: 14 : 2 × 5 = 35 (quả). 
+Ta thấy 35 + 3 = 38 (quả) ứng với: 
+1  1
+1
+2  2
+  
+ (số quả sầu riêng sau lần bán thứ hai). 
+Sau lần bán thứ hai, bác Lan còn lại số quả sầu riêng là: 38 : 1 × 2 = 76 (quả). 
+Lần thứ hai, bác Lan bán được số quả sầu riêng là: 
+120 76 26  18    
+ (quả). 
+                         Đáp số:  a) 26 quả;     b) 18 quả 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 46 
+ 
+Bài 3. Cho hình bên. 
+a) Tính diện tích tam giác EDF. 
+b) Tính diện tích tứ giác ADFE. 
+Lời giải 
+a) Ta có: 
+BDF
+BCF
+S15  3
+=   =
+S20  4
+. Mà 2 hình tam giác này có chung chiều cao hạ từ B tới DC nên 
+DF  3
+=
+FC  4
+ 
+EDF
+ECF
+S3
+=
+S4
+DF
+=
+FC
+
+ (chung chiều cao hạ từ E tới DC) 
+2
+EDFECF
+3
+S   =  S   = 8×  = 6 (cm )
+4
+3
+4
+
+ 
+b) 
+22
+EDFDECEDF    EFC
+S  = 6 cm   S   = S  +S  = 6+8 =14 (cm )
+
+ 
+2
+BECBFC    EFC
+S   = S  +S  = 20+8 = 28 (cm )
+. Suy ra: 
+BEC
+DEC
+S
+28  2
+=   =
+S14  1
+ 
+Mà 2 tam giác này chung đáy EC nên chiều cao hạ từ B tới EC gấp 2 lần chiều cao hạ từ D tới EC 
+BACDAC
+S   = 2×S
+ (Chung đáy AC và chiều cao hạ từ B tới AC gấp 2 lần chiều cao hạ từ D tới AC) 
+2
+DACDBCDBF    CBF
+S   = S   = S  +S  =15+20 = 35 (cm )
+ 
+2
+ADFEDAC    CFE
+S   = S    S  = 35 8 = 27 (cm )
+
+. 
+Đáp số: a) 6cm
+2
+;   b) 27cm
+2
+ 
+----------------------------------- HẾT ----------------------------------- 
+  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 47 
+ 
+ 
+TRƯỜNG THCS & THPT  
+NGUYỄN TẤT THÀNH 
+ĐỀ KIỂM TRA TUYỂN SINH VÀO LỚP 6 
+ĐỀ MINH HỌA SỐ 5 
+Môn: Toán 
+Thời gian làm bài: 45 phút 
+(Không kể thời gian phát đề)
+ 
+---------------------------------------------------------------------------------------------------- 
+A. TRẮC NGHIỆM (7,0 
+điểm
+) 
+I. Khoanh vào chữ đặt trước câu trả lời đúng (Mỗi câu đúng được 0,5 điểm) 
+Câu 1. Khi thực hiện một trò chơi quay vòng quay ngẫu nhiên 20 lần, Nam 
+ghi lại kết quả kim quay dừng lại như bảng dưới đây. Tìm tỉ số để mô tả khả 
+năng kim quay dừng ở ô ghi số lớn hơn 5 so với tổng số lần quay. 
+Ô ghi số  1 2 3 4 5 6 7 8 
+Số lần 2 3 1 5 4 1 1 3 
+A. 
+3
+4
+. B. 
+1
+4
+. C. 
+9
+20
+. D. 
+13
+20
+. 
+Chọn B 
+Các ô ghi số lớn hơn 5 là ô ghi số 6, ô ghi số 7, ô ghi số 8 
+Số lần kim quay dừng lại ở ô ghi số lớn hơn 5 là: 1 + 1 + 3 = 5 (lần). 
+Trong 20 lần quay có 5 lần kim quay dừng lại ở ô ghi số lớn hơn 5. 
+Tỉ số của số lần lặp lại khả năng kim quay dừng ở ô ghi số lớn hơn 5 so với tổng số lần quay là: 
+5  1
+20  4
+
+. 
+Câu 2. Điểm trung bình của hai môn Toán và Tiếng Việt là 7,5 điểm. Hỏi môn Tiếng Anh cần đạt 
+bao nhiêu điểm để điểm trung bình ba môn là 8 điểm? 
+A. 9 điểm. B. 8,5 điểm. C. 8 điểm. D. 9,5 điểm. 
+Chọn A 
+Tổng số điểm hai môn Toán và Tiếng Việt là: 
+7,5 2  15  
+ (điểm). 
+Tổng số điểm ba môn Toán, Tiếng Việt, Tiếng Anh để điểm trung bình ba môn là 8 điểm là:  
+8 3  24  
+ (điểm). 
+Điểm môn Tiếng Anh cần đạt là: 
+24 15  9  
+ (điểm). 
+Câu 3. Tìm 
+x
+, biết: 
+× 0,01= 20,24 × 1,55  2024% × 55%.x 
+ 
+A. 
+20240x
+. B. 
+2024x
+. C. 
+0,2024x
+. D. 
+202400x
+.
+ 
+Chọn B 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 48 
+ 
+ × 0,01= 20,24 × 1,55  2024% × 55% 
+ × 0,01= 20,24 × 1,55  20,24 × 0,55
+ × 0,01= 20,24 × (1,55  0,55)
+ × 0,01= 20,24
+= 20,24:0,01
+= 2024
+x
+x
+x
+x
+x
+x
+
+
+
+ 
+Câu 4. Hưởng ứng phong trào quyên góp sách vào thư viện trường học, lớp 5A quyên góp được 
+90 quyển sách trong đó có 20% là sách tham khảo, 
+4
+9
+ số sách còn lại là sách giáo khoa, còn lại là 
+sách bài tập. Hỏi lớp 5A quyên góp bao nhiêu quyển sách bài tập? 
+A. 72 quyển sách. B. 32 quyển sách. C. 40 quyển sách. D. 24 quyển sách. 
+Chọn C 
+Số sách tham khảo lớp 5A quyên góp là: 
+90 20:100  18
+ (quyển). 
+Số sách giáo khoa lớp 5A quyên góp là: 
+
+4
+90 1832
+9
+     
+ (quyển). 
+Số sách bài tập lớp 5A quyên góp là: 
+
+90  18 32  40      
+ (quyển). 
+Câu 5. Có 20 người làm xong một công việc trong 12,5 giờ. Hỏi muốn làm xong công việc đó trong 
+5 giờ thì cần thêm bao nhiêu người? (Mỗi người trong 
+1
+ giờ làm được lượng việc như nhau). 
+A. 25 người. B. 30 người. C. 35 người. D. 28 người. 
+Chọn B 
+1 người hoàn thành công việc đó trong thời gian là: 12,5 × 20 = 250 (giờ). 
+Số người cần để hoàn thành công việc đó trong 
+5
+ giờ là: 250 : 5 = 50 (người). 
+Số người cần thêm là: 50 – 20 = 30 (người). 
+Câu 6. Tổng của một số tự nhiên và một số thập phân là 19,23. Nếu bỏ dấu phẩy ở số thập phân 
+thì tổng của hai số mới là 240. Tìm số thập phân ban đầu. 
+A. 2,23. B. 2,5. C. 2,61. D. 3,2. 
+Chọn A 
+Vì tổng của một số tự nhiên và một số thập phân là số có 2 chữ số ở phần thập phân nên số thập 
+phân cần tìm cũng có 2 chữ số ở phần thập phân.  
+Nếu bỏ dấu phẩy ở số thập phân ban đầu ta được số mới gấp 100 lần số thập phân ban đầu. 
+Do đó, tổng mới hơn tổng cũ một số bằng 99 lần số thập phân ban đầu. 
+Tổng mới hơn tổng cũ số đơn vị là: 240 – 19,23 = 220,77. 
+Số thập phân ban đầu là:  220,77 : 99 = 2,23. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 49 
+ 
+Câu 7. Một khối lập phương lớn được ghép từ các khối lập phương nhỏ có cạnh là 1cm. Người ta 
+sơn các mặt khối lập phương lớn, sau đó tách ra thành các khối lập phương nhỏ thì thấy có đúng 
+60 khối lập phương nhỏ được sơn đúng hai mặt. Hỏi khối lập phương lớn được ghép bởi bao 
+nhiêu khối lập phương nhỏ?  
+A. 334 khối. B. 21 khối. C. 343 khối. D. 49 khối. 
+Chọn C 
+Khối lập phương nhỏ được sơn đúng 2 mặt khi nó nằm trên cạnh và không nằm ở đỉnh. 
+Khối lập phương lớn có 12 cạnh nên trên mỗi cạnh có số khối lập phương nhỏ được sơn đúng  
+2 mặt là: 60 : 12 = 5 (khối). 
+Thêm 2 khối ở đỉnh, trên mỗi cạnh khối lập phương lớn có số khối lập phương nhỏ là:  
+5 + 2 = 7 (khối). 
+Vậy khối lập phương lớn được ghép từ số khối lập phương nhỏ là:  
+7 × 7 × 7 = 343 (khối). 
+Câu 8. Dần viết lên bảng dãy số sau: 10; 15; 20; 25; 30; ..., sau đó Dần xóa đi số thứ 50 của dãy 
+số đó để đố các bạn. Hỏi Dần đã xoá số nào? 
+A. 255. B. 245. C. 250. D. 260. 
+Chọn A 
+Dãy số Dần viết là dãy số cách đều, khoảng cách giữa hai số liền nhau là 5 đơn vị. 
+Số hạng thứ 50 của dãy số trên là: (50 – 1) × 5 + 10 = 255. 
+Vậy Dần đã xoá đi số 255. 
+II. Điền đáp số vào ô trả lời tương ứng với mỗi câu hỏi (Mỗi câu đúng được 0,75 điểm) 
+Đề bài Đáp số 
+Câu 9. Tính: 
+1  1   1   1   1   1
+3  15  35  63  99  143
+A             
+ 
+Lời giải 
+1  1   1   1   1   1
+3  15  35  63  99  143
+1    11111
+1 3  3 5  5 7  7 9  9 11  11 13
+2    22222
+2
+1 3  3 5  5 7  7 9  9 11  11 13
+1  1  1  1  1  1  1  1  1  1   1   1
+2
+1  3  3  5  5  7  7  9  9  11  11  13
+1  1  12
+2
+1  13  13
+126
+:2
+13    13
+A
+A
+A
+A
+A
+A
+              
+    
+
+      
+
+                         
+       
+
+ 
+6
+13
+A
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 50 
+ 
+Câu 10. Năm nay tổng số tuổi của 2 mẹ con là 36 tuổi. Biết rằng sau 2 năm nữa 
+thì tuổi mẹ gấp 4 lần tuổi con. Tính tuổi con hiện nay. 
+Lời giải 
+Tổng số tuổi của 2 mẹ con sau 2 năm nữa là: 36 + 2 + 2 = 40 (tuổi) 
+Ta có sơ đồ tuổi mẹ và tuổi con sau 2 năm nữa: 
+ 
+Tuổi con sau 2 năm nữa là: 40 : (1 + 4) × 1 = 8 (tuổi)  
+Tuổi con hiện nay là: 8 – 2 = 6 (tuổi) 
+6 tuổi 
+Câu 11. Hãng điện thoại Mega Mobile có một số chiếc điện thoại. Tháng Giêng, 
+hãng bán được nhiều hơn một nửa số điện thoại ban đầu là 20 chiếc. Tháng 
+Hai, họ bán nhiều hơn một nửa số điện thoại còn lại sau Tháng Giêng là 15 
+chiếc. Đến tháng Ba, họ còn lại 75 chiếc điện thoại. Hỏi ban đầu, hãng có bao 
+nhiêu chiếc điện thoại? 
+Lời giải 
+Ta có: 
+75 15  90  
+ (chiếc điện thoại) ứng với:  
+1  1
+1
+2  2
+  
+ (số chiếc điện thoại còn lại sau Tháng Giêng) 
+Số điện thoại còn lại sau Tháng Giêng là: 90 : 1 × 2 = 180 (chiếc) 
+Ta có: 180 + 20 = 200 (chiếc điện thoại) ứng với: 
+1  1
+1
+2  2
+  
+ (số chiếc điện thoại ban đầu) 
+Số chiếc điện thoại ban đầu là: 200 : 1 × 2 = 400 (chiếc)
+ 
+400 chiếc
+ 
+Câu 12. Tam giác đều trong hình dưới đây được ghép bởi 25 tam giác đều bằng 
+nhau, mỗi tam giác nhỏ có diện tích là 3cm
+2
+. Tính diện tích tam giác tô đậm 
+(đơn vị cm
+2
+). 
+ 
+30cm
+2
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 51 
+ 
+Lời giải 
+Ta đánh dấu điểm trên hình như sau: 
+ 
+Diện tích tam giác tô đậm DEF chính bằng diện tích tam giác ABC trừ đi diện 
+tích các tam giác ADE, BEF và DCF. 
+Ta có:  
+2
+ABC
+S  = 3×25 = 75 (cm ).
+ 
+ADE
+ADB
+SAE  3
+=    =
+SAB  5
+ (vì chung chiều cao hạ từ D tới AB) 
+ADB
+ACB
+SAD  1
+=    =
+SAC  5
+ (vì chung chiều cao hạ từ B tới AC) 
+ADEADEADB
+ACBADBACB
+SS    S3  1   3
+=×=  ×  =
+SS    S5  5  25
+
+2
+ADE
+3
+S   = 75×   = 9 (cm ).
+25
+
+ 
+Tương tự ta chứng minh được: 
+2
+BEFABC
+88
+S  =   S   = 75×   = 24 (cm )
+2525
+.            
+2
+DCFABC
+44
+S   =   S   = 75×   =12 (cm )
+2525
+. 
+Vậy diện tích của phần tam giác được tô đậm DEF là: 
+75 – (9 + 24 + 12) = 30 (cm
+2
+). 
+B. TỰ LUẬN (3,0 điểm) 
+Bài 1. Lớp 5A có 5 tổ trồng cây, số người mỗi tổ đều bằng nhau. Mỗi bạn trồng được 4 cây hoặc 
+6 cây. Cả lớp trồng được tất cả 220 cây. Hỏi có bao nhiêu bạn trồng được 4 cây? Bao nhiêu bạn 
+trồng được 6 cây? Biết số học sinh ít hơn 50, nhiều hơn 40. 
+Lời giải 
+Vì lớp có 5 tổ trồng cây, số người mỗi tổ đều bằng nhau nên số học sinh lớp 5A là số chia hết cho 
+5. Mà số học sinh ít hơn 50, nhiều hơn 40 nên lớp 5A có 45 học sinh. 
+F
+E
+D
+CB
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 52 
+ 
+Giả sử mỗi bạn trong lớp đều trồng được 6 cây thì tổng số cây trồng được là:  
+6 × 45 = 270 (cây). 
+Số cây tăng thêm so với thực tế là: 270 – 220 = 50 (cây). 
+Thay 1 học sinh trồng 4 cây thành 1 học sinh trồng 6 cây thì số cây tăng thêm là:  
+6 – 4 = 2 (cây). 
+Số học sinh trồng được 4 cây là: 50 : 2 = 25 (học sinh) 
+Số học sinh trồng được 6 cây là: 45 – 25 = 20 (học sinh) 
+Đáp số: 25 học sinh trồng 4 cây;  20 học sinh trồng 6 cây. 
+Bài 2. Cho tam giác ABC, trên AC lấy điểm I sao cho AI = 
+3
+4
+AC; 
+lấy K trên BI sao cho BK = 
+2
+3
+BI. Kéo dài AK cắt BC tại H. Biết 
+diện tích tam giác ABC bằng 60cm
+2
+.  
+a) Tính diện tích tam giác ABK. 
+b) Tính tỉ số 
+BH
+BC
+.  
+Lời giải 
+a) Ta có: 
+ABI
+ABC
+SAI  3
+SAC  4
+    
+ (chung chiều cao hạ từ B xuống AC) 
+Diện tích tam giác ABI là: 60 : 4 × 3 = 45 (cm
+2
+) 
+Ta có: 
+ABK
+ABI
+S
+BK  2
+SBI  3
+    
+ (chung chiều cao hạ từ A xuống BI) 
+Diện tích tam giác ABK là: 45 : 3 × 2 = 30 (cm
+2
+) 
+b) Nối K với C. 
++)  Diện tích tam giác AKI là: 45 – 30 = 15 (cm
+2
+) 
+AKI
+AKC
+S
+AI  3
+SAC  4
+    
+ (chung chiều cao hạ từ K xuống AC) 
+Diện tích tam giác AKC là: 15 : 3 × 4 = 20 (cm
+2
+) 
+Ta có: 
+ABK
+ACK
+S30  3
+S20  2
+   
+. 
+Mà hai tam giác này có chung cạnh đáy AK nên chiều cao hạ từ B xuống AK bằng 
+3
+2
+ chiều cao hạ 
+từ C xuống AK. 
+H
+K
+A
+C
+B
+I
+H
+K
+A
+C
+B
+I
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 53 
+ 
+Đưa hai chiều cao này tương ứng vào hai tam giác ABH và ACH ta có:  
+ABH
+ACH
+S
+3
+S2
+
+ (chung cạnh đáy AH) 
+Mà hai tam giác này có chung chiều cao hạ từ A xuống BC nên: 
+ABH
+ACH
+S
+BH
+SCH
+
+. 
+Suy ra 
+BH  3
+CH  2
+
+ nên 
+BH3
+CH  BH  2  3
+
+
+ hay 
+BH  3
+BC  5
+
+. 
+Đáp số: a) 30cm
+2
+;       b) 
+3
+5
+. 
+Bài 3. Mỗi tối hai chị em Hạ đi bộ vòng quanh sân vận động ngay cạnh nhà. Hai chị em đi cùng 
+chiều với vận tốc không đổi, xuất phát cùng một lúc, từ cùng một điểm thì sau 1 giờ lại gặp nhau. 
+Tính vận tốc trung bình của Hạ. Biết rằng một vòng quanh sân vận động dài 2km. Hạ đi chậm 
+hơn chị và nếu đi ngược chiều thì sau 12 phút lại gặp nhau. 
+Lời giải 
+Vì hai chị em xuất phát cùng chiều, cùng một lúc, từ cùng một điểm thì sau 1 giờ lại gặp nhau 
+nên trong 1 giờ thì chị đi được nhiều hơn em quãng đường chính bằng 1 vòng quanh sân vận 
+động. 
+Do đó, quãng đường chị đi được trong 1 giờ hơn quãng đường em đi được trong 1 giờ là 2km. 
+Hay vận tốc của chị lớn hơn vận tốc của em là 2km/giờ.  
+Vì khi hai chị em xuất phát ngược chiều, cùng một lúc, từ cùng một điểm thì sau 12 phút gặp 
+nhau nên trong 12 phút cả hai chị em đi được quãng đường bằng 1 vòng quanh sân vận động. 
+Do đó, sau 12 phút, hai chị em đã đi được 2km. 
+Đổi: 12 phút = 
+1
+5
+ giờ. 
+Sau 1 giờ, hai chị em đã đi được: 
+1
+2:   10
+5
+
+ (km).  
+Do đó, tổng vận tốc của hai chị em là 10km/giờ. 
+Vận tốc trung bình của Hạ là: (10 – 2) : 2 = 4 (km/giờ).  
+  Đáp số: 4km/giờ 
+----------------------------------- HẾT ----------------------------------- 
+ 

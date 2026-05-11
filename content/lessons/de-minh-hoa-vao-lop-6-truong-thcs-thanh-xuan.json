@@ -1,0 +1,256 @@
+{
+  "id": "de-minh-hoa-vao-lop-6-truong-thcs-thanh-xuan",
+  "fileName": "Đề minh hoạ vào lớp 6 trường THCS Thanh Xuân.pdf",
+  "title": "Hệ thống đề minh họa vào lớp 6 - THCS Thanh Xuân (5 đề 2026-2027)",
+  "topics": ["Phân số và phương trình", "Tỉ số phần trăm", "Toán tuổi", "Toán chuyển động", "Hình học phẳng", "Số học", "Lãi suất và tài chính"],
+  "processedAt": "2026-05-09T00:00:00.000Z",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Tìm số lớn từ hiệu và thương",
+      "content": "Khi biết hiệu (a - b = d) và thương (a ÷ b = k) của hai số, ta tính được hai số đó: b = d ÷ (k - 1) và a = b × k.",
+      "keyFormula": "b = hiệu ÷ (thương - 1); a = b × thương",
+      "example": {
+        "problem": "Hai số có hiệu bằng 9,45 và thương bằng 2,05. Tìm số lớn.",
+        "steps": [
+          "Gọi số bé là b, số lớn là a = 2,05b",
+          "Hiệu: a - b = 9,45 → 2,05b - b = 9,45 → 1,05b = 9,45 → b = 9",
+          "Số lớn: a = 2,05 × 9 = 18,45"
+        ],
+        "result": "Số lớn = 18,45"
+      },
+      "miniGame": {
+        "question": "Tìm số lớn, biết hai số có hiệu bằng 9,45 và thương bằng 2,05.",
+        "options": ["A. 18,45", "B. 19,45", "C. 20,45", "D. 21,45"],
+        "answer": "A. 18,45",
+        "explanation": "1,05b = 9,45 → b = 9; a = 2,05 × 9 = 18,45."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Phân số - Bớt tử và mẫu cùng một số",
+      "content": "Khi bớt cùng một số n ở tử và mẫu: (a-n)/(b-n) = c/d. Ta lập phương trình để tìm n. Lưu ý: tích chéo hai phân số bằng nhau khi phân số bằng nhau.",
+      "keyFormula": "(a-n)×d = (b-n)×c; Giải tìm n",
+      "example": {
+        "problem": "Phân số 31/43. Bớt tử và mẫu cùng số n để được 5/11. Tìm n.",
+        "steps": [
+          "(31-n)/(43-n) = 5/11",
+          "11(31-n) = 5(43-n)",
+          "341 - 11n = 215 - 5n",
+          "126 = 6n → n = 21"
+        ],
+        "result": "n = 21"
+      },
+      "miniGame": {
+        "question": "Phân số 31/43. Bớt tử và mẫu cùng một số để được 5/11. Số đó là bao nhiêu?",
+        "options": ["A. 26", "B. 21", "C. 32", "D. 36"],
+        "answer": "B. 21",
+        "explanation": "(31-n)/(43-n) = 5/11 → 11(31-n) = 5(43-n) → 126 = 6n → n = 21."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Tỉ số phần trăm - Phân tích biểu đồ và tính tỉ số",
+      "content": "Từ dữ liệu thực nghiệm, tỉ số xác suất thực nghiệm = số lần sự kiện xảy ra ÷ tổng số lần thí nghiệm. Luôn tính tổng trước khi lập tỉ số.",
+      "keyFormula": "Tỉ số = Số lần sự kiện / Tổng số lần; Tổng = tất cả khả năng cộng lại",
+      "example": {
+        "problem": "Tung hai xu: hai sấp 13 lần, hai ngửa 14 lần, một sấp một ngửa 10 lần. Tỉ số của 'một sấp một ngửa' so với tổng?",
+        "steps": [
+          "Tổng số lần: 13 + 14 + 10 = 37",
+          "Tỉ số = 10/37"
+        ],
+        "result": "10/37"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Toán hình học - Thể tích hình lập phương tăng bao nhiêu lần",
+      "content": "Khi gấp cạnh hình lập phương lên k lần, thể tích gấp lên k³ lần (vì V = cạnh³). Diện tích toàn phần gấp k² lần.",
+      "keyFormula": "V mới = V cũ × k³; S mới = S cũ × k²",
+      "example": {
+        "problem": "Gấp cạnh hình lập phương lên 4 lần. Thể tích gấp lên mấy lần?",
+        "steps": [
+          "V = a³",
+          "V mới = (4a)³ = 64a³",
+          "Thể tích gấp 64 lần"
+        ],
+        "result": "64 lần"
+      },
+      "miniGame": {
+        "question": "Gấp cạnh hình lập phương lên 4 lần thì thể tích gấp lên mấy lần?",
+        "options": ["A. 16 lần", "B. 32 lần", "C. 64 lần", "D. 128 lần"],
+        "answer": "C. 64 lần",
+        "explanation": "Thể tích = cạnh³. Khi cạnh × 4: thể tích = (4a)³ = 64a³, gấp 64 lần."
+      }
+    },
+    {
+      "id": 5,
+      "title": "Toán làm việc - Hai người cùng làm hoặc một mình",
+      "content": "Nếu hai người làm chung xong trong T giờ, người 1 làm một mình xong trong T₁ giờ, thì người 2 làm một mình xong trong T₂ giờ: 1/T = 1/T₁ + 1/T₂.",
+      "keyFormula": "1/T₂ = 1/T - 1/T₁; T₂ = T×T₁/(T₁-T)",
+      "example": {
+        "problem": "Hai người làm chung 8 giờ xong. Người 1 làm một mình 12 giờ. Người 2 làm một mình bao lâu?",
+        "steps": [
+          "1/T₂ = 1/8 - 1/12 = 3/24 - 2/24 = 1/24",
+          "T₂ = 24 giờ"
+        ],
+        "result": "24 giờ"
+      },
+      "miniGame": {
+        "question": "Hai người làm chung 8 giờ xong. Người 1 làm một mình 12 giờ. Người 2 làm một mình bao lâu?",
+        "options": ["A. 18 giờ", "B. 20 giờ", "C. 22 giờ", "D. 24 giờ"],
+        "answer": "D. 24 giờ",
+        "explanation": "1/T₂ = 1/8 - 1/12 = 1/24. T₂ = 24 giờ."
+      }
+    },
+    {
+      "id": 6,
+      "title": "Toán tuổi - Tìm năm tuổi mẹ gấp n lần tuổi con",
+      "content": "Dạng 'sau bao nhiêu năm tuổi A gấp k lần tuổi B': sau x năm A+x = k(B+x). Hiệu tuổi không đổi: A - B = (k-1)×(B+x) → x = (A-B)/(k-1) - B.",
+      "keyFormula": "Sau x năm: a+x = k(b+x) → x = (a - k×b)/(k-1)",
+      "example": {
+        "problem": "Năm nay con 4 tuổi, mẹ 34 tuổi. Sau bao nhiêu năm tuổi mẹ gấp 6 lần tuổi con?",
+        "steps": [
+          "Sau x năm: 34+x = 6(4+x)",
+          "34+x = 24+6x → 10 = 5x → x = 2"
+        ],
+        "result": "Sau 2 năm"
+      },
+      "miniGame": {
+        "question": "Năm nay con 4 tuổi, mẹ 34 tuổi. Sau bao nhiêu năm tuổi mẹ gấp 6 lần tuổi con?",
+        "options": ["A. 1 năm", "B. 2 năm", "C. 3 năm", "D. 5 năm"],
+        "answer": "B. 2 năm",
+        "explanation": "34+x = 6(4+x) → 34+x = 24+6x → 10=5x → x=2."
+      }
+    },
+    {
+      "id": 7,
+      "title": "Lãi suất kép - Gửi tiết kiệm tính lãi cộng dồn",
+      "content": "Lãi suất kép: lãi năm 1 được cộng vào gốc để tính lãi năm 2. Số tiền sau n năm = gốc × (1 + lãi suất)^n.",
+      "keyFormula": "Số tiền sau n năm = Gốc × (1 + r)^n; r là lãi suất một năm",
+      "example": {
+        "problem": "Gửi 20 000 000đ lãi suất 5%/năm. Sau 2 năm (lãi kép) nhận được bao nhiêu?",
+        "steps": [
+          "Sau năm 1: 20 000 000 × 1,05 = 21 000 000đ",
+          "Sau năm 2: 21 000 000 × 1,05 = 22 050 000đ"
+        ],
+        "result": "22 050 000 đồng"
+      },
+      "miniGame": {
+        "question": "Gửi 20 000 000đ lãi suất 5%/năm. Sau 2 năm (lãi kép) nhận được bao nhiêu?",
+        "options": ["A. 22 000 000 đồng", "B. 23 050 000 đồng", "C. 22 050 000 đồng", "D. 21 050 000 đồng"],
+        "answer": "C. 22 050 000 đồng",
+        "explanation": "Năm 1: 20tr × 1,05 = 21tr. Năm 2: 21tr × 1,05 = 22,05tr."
+      }
+    },
+    {
+      "id": 8,
+      "title": "Toán chuyển động - Đến đúng giờ với vận tốc thực tế",
+      "content": "Khi người đi được một phần quãng đường với vận tốc dự kiến rồi tăng vận tốc, thời gian thực tế thay đổi. Lập phương trình so sánh thời gian dự kiến và thực tế.",
+      "keyFormula": "Thời gian thực = d₁/v₁ + d₂/v₂; Thời gian dự kiến = (d₁+d₂)/v₁",
+      "example": {
+        "problem": "Đi 2/5 quãng đường với 45km/h, phần còn lại 60km/h, đến lúc 10h10'. Dự kiến đến 11h40'. Tính quãng đường AB.",
+        "steps": [
+          "Dự kiến đến 11h40', thực tế 10h10' → sớm 1,5 giờ",
+          "Gọi AB = d, thời gian dự kiến = d/45",
+          "Thực tế: (2d/5)/45 + (3d/5)/60 = 2d/225 + d/100",
+          "Tiết kiệm = d/45 - (2d/225 + d/100) = d(5-2)/225 - d/100",
+          "= d/75 - d/100 = d/300 = 3/2h → d = 450km"
+        ],
+        "result": "AB = 450 km"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Tìm số lớn, biết hai số có hiệu bằng 9,45 và thương bằng 2,05.",
+      "options": ["A. 18,45", "B. 19,45", "C. 20,45", "D. 21,45"],
+      "answer": "A. 18,45",
+      "explanation": "1,05b = 9,45 → b = 9; a = 2,05 × 9 = 18,45.",
+      "steps": ["Gọi số bé b, số lớn a = 2,05b", "a - b = 9,45 → 1,05b = 9,45 → b = 9", "a = 9 × 2,05 = 18,45"],
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Phân số 31/43. Bớt tử và mẫu cùng một số để được 5/11. Số đó là bao nhiêu?",
+      "options": ["A. 26", "B. 21", "C. 32", "D. 36"],
+      "answer": "B. 21",
+      "explanation": "11(31-n) = 5(43-n) → 341-11n = 215-5n → 126 = 6n → n = 21.",
+      "steps": ["(31-n)/(43-n) = 5/11", "11(31-n) = 5(43-n)", "341-11n = 215-5n → 6n = 126 → n = 21"],
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "question": "Trong vườn có 200 cây ăn quả: 25% cam, 30% quýt, còn lại bưởi. Có bao nhiêu cây bưởi?",
+      "options": ["A. 60 cây", "B. 70 cây", "C. 80 cây", "D. 90 cây"],
+      "answer": "D. 90 cây",
+      "explanation": "Bưởi: 100% - 25% - 30% = 45%. 200 × 45% = 90 cây.",
+      "steps": ["Phần trăm bưởi: 100% - 25% - 30% = 45%", "Số cây bưởi: 200 × 45% = 90 cây"],
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "Gấp cạnh hình lập phương lên 4 lần thì thể tích gấp lên mấy lần?",
+      "options": ["A. 16 lần", "B. 32 lần", "C. 64 lần", "D. 128 lần"],
+      "answer": "C. 64 lần",
+      "explanation": "V = a³. Khi a → 4a: V = (4a)³ = 64a³. Gấp 64 lần.",
+      "steps": ["Thể tích = cạnh³", "Cạnh mới = 4a → V mới = (4a)³ = 64a³", "Gấp 64 lần"],
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "Hai người làm chung 8 giờ xong. Người 1 làm một mình 12 giờ. Người 2 làm một mình bao lâu?",
+      "options": ["A. 18 giờ", "B. 20 giờ", "C. 22 giờ", "D. 24 giờ"],
+      "answer": "D. 24 giờ",
+      "explanation": "1/T₂ = 1/8 - 1/12 = 3/24 - 2/24 = 1/24. T₂ = 24 giờ.",
+      "steps": ["1/8 = 1/12 + 1/T₂", "1/T₂ = 1/8 - 1/12 = 1/24", "T₂ = 24 giờ"],
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "question": "Năm nay con 4 tuổi, mẹ 34 tuổi. Sau bao nhiêu năm tuổi mẹ gấp 6 lần tuổi con?",
+      "options": ["A. 1 năm", "B. 2 năm", "C. 3 năm", "D. 5 năm"],
+      "answer": "B. 2 năm",
+      "explanation": "34+x = 6(4+x) → 10=5x → x=2.",
+      "steps": ["Sau x năm: mẹ = 34+x, con = 4+x", "34+x = 6(4+x) = 24+6x", "10 = 5x → x = 2 năm"],
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "Gửi tiết kiệm 20 000 000đ, lãi suất 5%/năm (lãi kép). Sau 2 năm nhận bao nhiêu?",
+      "options": ["A. 22 000 000 đồng", "B. 23 050 000 đồng", "C. 22 050 000 đồng", "D. 21 050 000 đồng"],
+      "answer": "C. 22 050 000 đồng",
+      "explanation": "Năm 1: 20tr×1,05=21tr. Năm 2: 21tr×1,05=22,05tr.",
+      "steps": ["Năm 1: 20 000 000 × 1,05 = 21 000 000", "Năm 2: 21 000 000 × 1,05 = 22 050 000 đồng"],
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "Người đi xe máy từ A đến B lúc 8h45' với vận tốc 50km/h, quãng đường AB = 120km. Đến B lúc mấy giờ?",
+      "options": ["A. 10 giờ 59 phút", "B. 11 giờ 9 phút", "C. 12 giờ 9 phút", "D. 12 giờ 19 phút"],
+      "answer": "B. 11 giờ 9 phút",
+      "explanation": "Thời gian đi: 120÷50 = 2,4 giờ = 2h24'. Đến B: 8h45' + 2h24' = 11h9'.",
+      "steps": ["Thời gian: 120 ÷ 50 = 2,4 giờ = 2 giờ 24 phút", "Giờ đến: 8h45' + 2h24' = 11h9'"],
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "Lớp có 46 học sinh. Tỉ số giỏi:khá = 1:3, tỉ số khá:trung bình = 2:5. Có bao nhiêu học sinh giỏi?",
+      "options": ["A. 4 học sinh", "B. 6 học sinh", "C. 12 học sinh", "D. 20 học sinh"],
+      "answer": "A. 4 học sinh",
+      "explanation": "Giỏi:khá:TB = 1:3 và khá:TB = 2:5 → Giỏi:khá:TB = 2:6:15. Tổng 23 phần = 46 → 1 phần = 2. Giỏi = 2×2 = 4.",
+      "steps": ["Giỏi:Khá = 1:3 → 2:6", "Khá:TB = 2:5 → 6:15", "Tỉ lệ: 2:6:15, tổng = 23 phần", "46 ÷ 23 = 2 học sinh/phần", "Giỏi = 2 × 2 = 4 học sinh"],
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "question": "Thửa ruộng hình thang: đáy lớn 120m, đáy bé = 2/3 đáy lớn và bằng 4/3 chiều cao. Trung bình 100m² thu 50kg ngô. Cả thửa ruộng thu được bao nhiêu tạ ngô?",
+      "options": ["A. 3 tạ", "B. 30 tạ", "C. 300 tạ", "D. 3000 tạ"],
+      "answer": "B. 30 tạ",
+      "explanation": "Đáy bé = 2/3 × 120 = 80m. h = 3/4 × 80 = 60m. S = (120+80)/2 × 60 = 6000m². Ngô = 6000/100 × 50 = 3000kg = 30 tạ.",
+      "steps": ["Đáy bé: 2/3 × 120 = 80m", "Chiều cao: 3/4 × 80 = 60m", "S = (120+80)/2 × 60 = 6000 m²", "Ngô: 6000 ÷ 100 × 50 = 3000 kg = 30 tạ"],
+      "difficulty": "medium"
+    }
+  ]
+}

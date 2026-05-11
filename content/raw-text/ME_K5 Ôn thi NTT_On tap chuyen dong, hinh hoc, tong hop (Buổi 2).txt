@@ -1,0 +1,133 @@
+
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551     1 
+ 
+ÔN TẬP VỀ TOÁN CHUYỂN ĐỘNG, HÌNH HỌC  
+VÀ MỘT SỐ DẠNG TỔNG HỢP KHÁC  
+1. Toán chuyển động 
+Bài 1. Lúc 9 giờ một ca nô đi xuôi dòng từ A đến B. Khi đến B, ca nô lập tức quay về A và về tới A 
+lúc 10 giờ. Biết rằng vận tốc ca nô khi xuôi dòng bằng 12 km/giờ và bằng 
+3
+2
+ vận tốc ca nô khi 
+ngược dòng.  
+a) Tính vận tốc của ca nô khi ngược dòng.  
+b) Tính độ dài quãng sông AB. 
+c) Một cụm bèo trôi từ A đến B mất bao nhiêu thời gian? 
+Bài 2. Một xe ô tô dự định đi từ A đến B với vận tốc trung bình là 50 km/giờ. Khi đi được 30 
+phút, xe nhận được thông báo đoạn đường CD đang sửa nên phải đi đường vòng dài hơn đoạn 
+đường cũ 10km để tới D. Để đến B đúng thời gian đã định, trên quãng đường từ C đến B tài xế 
+tăng vận tốc thêm 20km/giờ. Tính độ dài quãng đường từ A đến B mà xe ô tô đó đã đi. 
+Bài 3. Lúc 7 giờ 30 phút, một xe máy khởi hành từ A đi về B với vận tốc 36 km/giờ. Cùng lúc đó, 
+một ô tô khởi hành từ B về A với vận tốc 45 km/giờ. Biết quãng đường AB dài 162 km.  
+a) Hỏi hai xe gặp nhau lúc mấy giờ?  
+b) Sau bao lâu kể từ lúc hai xe gặp nhau thì khoảng cách từ xe máy đến B gấp đôi khoảng cách 
+từ ô tô đến A? 
+Bài 4. Mỗi sáng hai anh em Việt chạy bộ quanh bờ hồ trong công viên ngay cạnh nhà. Hai anh em 
+chạy cùng chiều với vận tốc không đổi, xuất phát cùng một lúc, từ cùng một điểm thì sau 48 phút 
+lại gặp nhau. Tính vận tốc trung bình của Việt. Biết rằng một vòng quanh bờ hồ dài 2,4km. Việt 
+chạy chậm hơn anh và nếu chạy ngược chiều thì sau 12 phút lại gặp nhau. 
+Bài 5. Việt và Nam chạy trên một đường tròn khép kín, hai bạn xuất phát cùng một lúc tại một 
+vị trí nhưng chạy ngược chiều nhau. Việt và Nam lần lượt chạy hết đường tròn trong 4 phút và 
+5 phút. Hỏi sau bao nhiêu lần gặp nhau thì hai bạn gặp nhau lần đầu ở điểm xuất phát (không 
+tính lần gặp nhau khi xuất phát)? 
+Bài 6. Hai người tham gia chạy đua vòng quanh một hồ nước (cùng xuất phát một lúc, tại cùng 
+một vị trí). Một vòng hồ có chiều dài là 4,5km. Người thứ nhất chạy với vận tốc 12km/giờ, người 
+thứ hai chạy với vận tốc 9km/giờ. Hai người phải hoàn thành 10 vòng đua. Hỏi sau khi người 
+thứ nhất về đích thì hai người đã gặp nhau bao nhiêu lần, không kể lúc xuất phát? 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 2 
+ 
+2. Hình học (Các bài toán liên quan đến tỉ số diện tích tam giác, hình tròn) 
+Bài 7. Cho tam giác ABC, điểm M nằm trên cạnh BC sao cho 
+BM = 
+2
+3
+BC, điểm N trên cạnh CA sao cho CN = 3NA. Gọi D là 
+giao điểm của AM và BN.  
+a) Tính tỉ số 
+ADN
+ADB
+S
+.
+S
+ 
+b) Tính diện tích tam giác ABC, biết diện tích tam giác ADN là 2,5cm
+2
+. 
+ 
+Bài 8. Trong hình vẽ, ABCD và MNPC là hai hình vuông. Tính diện tích tam giác AMP, biết chu vi 
+hình vuông MNPC là 48cm. 
+ 
+ 
+Bài 9. Cho hình thang ABCD, có M là trung điểm của BD. Qua 
+M kẻ đường thẳng song song với AC, đường thẳng đó cắt CD 
+tại N (như hình vẽ).  Tính diện tích hình thang ABCD, biết diện 
+tích tam giác AND là 60cm
+2
+.  
+ 
+Bài 10.  Cho hình thang ABCD có 2 đáy AB và CD. Biết AB = 
+2
+3
+ CD; 
+diện tích tam giác ABC 30cm
+2
+.  
+a) Tính diện tích hình thang ABCD và diện tích tam giác AOD. 
+b) Trên BC lấy điểm T sao cho BT = 2×CT. Kéo dài OT cắt DC tại 
+M. Tính tỉ số 
+MC
+DC
+. 
+P
+N
+M
+D
+C
+BA
+N
+M
+DC
+B
+A
+O
+C
+B
+A
+D
+D
+N
+M
+CB
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 3 
+ 
+Bài 11. Hình dưới đây được ghép bởi một hình vuông và hai nửa hình tròn. Biết độ dài cạnh của 
+hình vuông là 8cm. Tính diện tích của phần hình được tô đậm.  
+ 
+3. Một số dạng tổng hợp khác  
+Bài 12. Cho các chữ số 1;2;3;4. Lập được bao nhiêu số thập phân có 2 chữ số ở phần thập phân 
+và các chữ số trong số thập phân phải khác nhau? 
+Bài 13. Khôi viết lên bảng dãy số gồm 30 số hạng: 6; 12; 18; 24; ..., sau đó Khôi xoá đi số thứ 30 
+của dãy số đó để đố các bạn.  
+a) Hỏi Khôi đã xoá số nào? 
+b) Tính trung bình cộng dãy số Khôi viết. 
+Bài 14. Một bể nước hình chữ nhật có chiều dài là 1,5m, chiều rộng 1m, chiều cao bằng 
+4
+5
+ chiều 
+rộng. Bể đã hết nước, một người vừa đổ vào bể 25 gánh nước, mỗi gánh 45 lít. Mặt nước còn 
+cách miệng bể một khoảng bằng bao nhiêu xăng-ti-mét? 
+Bài 15. Một khối lập phương lớn được ghép từ các khối lập phương nhỏ có cạnh là 1cm. Người 
+ta sơn các mặt khối lập phương lớn, sau đó tách ra thành các khối lập phương nhỏ thì thấy có 
+đúng 48 khối lập phương nhỏ được sơn đúng 2 mặt. Hỏi khối lập phương lớn được ghép bởi bao 
+nhiêu khối lập phương nhỏ? 
+ 

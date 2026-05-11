@@ -1,0 +1,3104 @@
+
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551     1 
+ 
+ 
+ 
+HỆ THỐNG ĐỀ MINH HOẠ VÀO LỚP 6  
+TRƯỜNG THCS NĂNG KHIẾU ĐẠI HỌC SƯ PHẠM 
+TRANG 
+Đề Đáp án 
+ĐỀ MINH HỌA SỐ 1 3 23 
+ĐỀ MINH HỌA SỐ 2 6 32 
+ĐỀ MINH HỌA SỐ 3 10 42 
+ĐỀ MINH HỌA SỐ 4 14 50 
+ĐỀ MINH HỌA SỐ 5 18 58 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 2 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 3 
+ 
+ 
+TRƯỜNG THCS NĂNG KHIẾU  
+ĐẠI HỌC SƯ PHẠM  
+ĐỀ ĐÁNH GIÁ NĂNG LỰC  
+TUYỂN SINH LỚP 6 NĂM HỌC 2026 – 2027 
+ĐỀ MINH HỌA SỐ 1 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN A. TRẮC NGHIỆM TỔNG HỢP 
+Câu 1 đến Câu 10 (mỗi câu 1 điểm, tổng điểm 10 điểm): Học sinh chọn đáp án đúng 
+Câu 1. Một tàu du lịch khởi hành từ đảo A đến đảo B với khoảng cách trên hải đồ là 65 hải lí. Hỏi 
+quãng đường tàu đi dài bao nhiêu ki-lô-mét? (Biết 1 hải lí = 1,852km) 
+A. 120,38km.     B. 121,36km.     C. 120,68km.      D. 100,64km 
+Câu 2. Hàm lượng Protein (chất đạm) có trong 100 gram của mỗi loại thực phẩm được cho trong 
+bảng sau: 
+Thực phẩm Ức gà Cá hồi Thịt ba chỉ Thịt bò 
+Hàm lượng Protein (gram)/100 gram 31g 22g 16,5g 21g 
+Bác sĩ khuyên An mỗi ngày nên nạp khoảng 45 gram đến 50 gram Protein. Hỏi trong các thực 
+đơn sau, An nên chọn thực đơn nào cho phù hợp với lời khuyên của bác sĩ? 
+A. 100 gram Cá hồi; 50 gram Thịt ba chỉ; 50 gram Thịt bò.       
+B. 100 gram Ức gà; 50 gram Cá hồi; 50 gram Thịt ba chỉ.       
+C. 50 gram Ức gà; 50 gram Cá hồi; 100 gram Thịt bò.      
+D. 50 gram Cá hồi; 150 gram Thịt ba chỉ; 100 gram Thịt bò.  
+Câu 3. Một lớp học có 40 bạn học sinh cùng nhau đi xem phim. Mỗi học sinh cần 1 vé để vào xem. 
+Giá mỗi vé cho học sinh là 50 000 đồng. Nếu mua 5 vé thì được tặng 1 vé. Vậy lớp đó cần trả ít 
+nhất bao nhiêu tiền để mua đủ số vé cho cả lớp vào xem phim? 
+A. 1 650 000 đồng   B. 1 700 000 đồng   C. 2 000 000 đồng   D. 950 000 đồng 
+Câu 4. An dùng các khối lập phương nhỏ giống nhau xếp thành mô hình 
+như hình bên và sơn toàn bộ mặt ngoài. Lượng sơn đã dùng là 32 lít. Sau 
+đó, An tháo rời mô hình và sơn nốt các mặt chưa có màu của từng khối 
+lập phương. Hỏi An cần thêm bao nhiêu lít sơn nữa? 
+A. 32 lít.        B. 34 lít.        
+C. 30 lít.        D. 40 lít. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 4 
+ 
+Câu 5. Sofia có các thanh gỗ dạng hình hộp chữ nhật có kích thước 1cm × 1cm × 2cm. Bạn ấy có 
+thể dùng chúng để xếp thành các tòa tháp như hình minh họa bên dưới. 
+ 
+Theo quy luật đó, với 28 thanh gỗ, Sofia có thể xếp được tòa tháp cao bao nhiêu xăng-ti-mét? 
+A. 9cm.  B. 11cm.        C. 12cm.        D. 14cm. 
+Câu 6. Một hồ sen ở trường tiểu học Hạnh Phúc đang bị xâm lấn bởi bèo lục bình. Ban đầu, diện 
+tích bèo bao phủ là 1 024m
+2
+. Để bảo vệ hồ, các bạn học sinh lớp 5A đã sử dụng một loại chế 
+phẩm sinh học để diệt bèo. Cứ sau 1 ngày, nhờ tác dụng của chế phẩm, diện tích bèo lại giảm đi 
+25% so với ngày trước đó. Hỏi sau 4 ngày, diện tích bèo còn lại trong hồ là bao nhiêu mét vuông? 
+A. 256m
+2
+. B. 324m
+2
+.       C. 432m
+2
+.       D. 700m
+2
+. 
+Câu 7. Trên hòn đảo Evenland, người dân chỉ biết đến sự tồn tại của các chữ số chẵn. Các số tự 
+nhiên họ biết theo thứ tự từ bé đến lớn là 0; 2; 4; 6; 8; 20; 22; 24; 26; 28; 40; 42;... (mỗi số đều 
+chỉ được tạo bởi các chữ số chẵn). Hỏi số thứ 100 theo quy tắc đó là số nào? 
+A. 686 B. 688          C. 800          D. 804 
+Câu 8. Doraemon và Nobita đi chụp ảnh photobooth và nhận được một khung ảnh hình chữ nhật, 
+bên trong có ba tấm ảnh hình tròn bằng nhau như hình dưới đây. Biết diện tích của khung ảnh 
+hình chữ nhật là 150cm
+2
+. Hãy tính diện tích phần nền của khung ảnh (không tính diện tích của 
+3 tấm ảnh hình tròn). 
+ 
+A. 117,75cm
+2
+ B. 32,25cm
+2
+       C. 110,75cm
+2
+     D. 39,25cm
+2 
+Câu 9. Một người bán cam, buổi sáng bán được 
+3
+5
+ 
+số cam mang đi, buổi chiều bán thêm được  
+52 quả và số cam còn lại đúng bằng 
+1
+8
+ 
+số cam đã bán. Tính số quả cam mà người đó đã mang đi 
+bán. 
+A. 156 quả B. 180 quả       C. 200 quả       D. 130 quả 
+Câu 10. Có 2 hộp kẹo A và B. Mỗi hộp có 10 viên kẹo dâu, 10 viên kẹo cam và 10 viên kẹo bạc hà. 
+Người ta lấy từ hộp A chuyển sang hộp B 12 viên kẹo. Hỏi cần chuyển ít nhất bao nhiêu viên từ 
+hộp B sang hộp A để chắc chắn rằng hộp A có ít nhất 9 viên kẹo mỗi loại? 
+A. 12 viên kẹo B. 9 viên kẹo      C. 20 viên kẹo    D. 31 viên kẹo 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 5 
+ 
+PHẦN B. TỰ LUẬN 
+Câu 1 đến Câu 4 (mỗi câu 2,5 điểm, tổng điểm 10 điểm): Học sinh điền đáp án đúng 
+Câu 1. Có một ổ khóa số với mật mã gồm 3 chữ số. Dựa vào 4 gợi ý dưới 
+đây, em hãy suy luận để tìm ra mật mã đúng để mở khóa:  
+(1) Trong số 318: Có một chữ số đúng và nằm đúng vị trí. 
+      (2) Trong số 379: Có một chữ số đúng nhưng nằm sai vị trí. 
+(3) Trong số 863: Có hai chữ số đúng nhưng cả hai đều nằm sai vị trí. 
+(4) Trong số 421: Tất cả các chữ số trong số này đều sai.  
+ 
+Câu 2. Chú kiến T đang trên đường kiếm mồi cho đàn kiến, nhưng 
+phải cẩn thận (tránh) chú nhện tại điểm A (như hình vẽ). Hỏi có bao 
+nhiêu cách để chú kiến T thực hiện?   
+(Chú kiến T chỉ có thể đi sang trái hoặc đi xuống dưới)
+.  
+ 
+Câu 3. Một ô tô chạy từ A đến B. Sau khi chạy được 2 giờ thì ô tô tăng vận tốc bằng 
+3
+2
+ vận tốc 
+ban đầu, vì thế nên ô tô đến B sớm hơn dự định 1 giờ 20 phút. Nếu từ A, sau khi chạy được 2 giờ, 
+ô tô chạy thêm 60km nữa rồi mới tăng vận tốc thì ô tô đến B sớm hơn dự định 50 phút. Tính 
+quãng đường AB. 
+Câu 4. Cho diện tích hình vuông ABCD là 150cm
+2
+. Trên cạnh AD lấy 
+điểm G, H sao cho 
+AG  GH  HD
+  
+. Trên cạnh AB và DC lần lượt lấy 
+điểm E và F sao cho 
+11
+AE   AB; DF   DC.
+33
+
+ Tính diện tích phần  
+tô đậm.  
+ 
+ 
+Câu 5 và Câu 6 (mỗi câu 10 điểm, tổng điểm 20 điểm): Học sinh trình bày câu trả lời, viết quá 
+trình và kết quả suy luận. 
+Câu 5. Tính giá trị của các biểu thức sau: 
+a)  A = 2025 × 98 765 + 98 765 – 88 765 × 2026 
+b) 
+1  1   1  1   1  1   1  11   1   1
+B...
+2  15  3  20  4  25  5  3010  55  55
+           
+ 
+Câu 6. Trong hộp bút của Ann có 9 chiếc bút chì, với ít nhất một cái màu xanh dương. Biết rằng 
+nếu chọn ngẫu nhiên 4 chiếc bút chì thì chắc chắn có ít nhất 2 cái cùng màu còn nếu lấy ra ngẫu 
+nhiên 5 chiếc bút bất kỳ thì có không quá 3 cái cùng màu. Hỏi cần lấy ra ít nhất bao nhiêu chiếc 
+bút chì để chắc chắn lấy được ít nhất 2 chiếc bút màu xanh dương? 
+---------------------------------HẾT--------------------------------- 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 6 
+ 
+ 
+TRƯỜNG THCS NĂNG KHIẾU  
+ĐẠI HỌC SƯ PHẠM  
+ ĐỀ ĐÁNH GIÁ NĂNG LỰC  
+TUYỂN SINH LỚP 6 NĂM HỌC 2026 – 2027 
+ĐỀ MINH HỌA SỐ 2 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN A. TRẮC NGHIỆM TỔNG HỢP 
+Câu 1 đến Câu 10 (mỗi câu 1 điểm, tổng điểm 10 điểm): Học sinh chọn đáp án đúng 
+Câu 1. Tại một máy bán đồ chơi “Blind box” ở trung tâm thương mại, bên trong máy còn đúng 
+30 hộp chứa các mô hình nhân vật được bọc kín giống hệt nhau và mỗi hộp có giá 70 000 đồng. 
+Cụ thể gồm có: 
+ 
+12 hộp chứa mô hình Bé Mèo. 
+ 
+10 hộp chứa mô hình Bé Cún. 
+ 
+8 hộp chứa mô hình Bé Rồng (phiên bản secret). 
+Bạn Tí rất đam mê sưu tầm và muốn có bằng được ít nhất 1 mô hình Bé Rồng. Vì không thể nhìn 
+thấy bên trong, Tí phải mua ngẫu nhiên từng hộp. Hỏi bạn Tí phải cần ít nhất bao nhiêu tiền để 
+chắc chắn mua được ít nhất 1 hộp có mô hình Bé Rồng? 
+A. 1 400 000 đồng.  B.  1 540 000 đồng.  C. 1 610 000 đồng.  D. 560 000 đồng. 
+Câu 2.  Bạn Lan tự làm một cuốn sổ tay nhỏ và đánh số trang từ trang 1 đến trang 158. Hỏi bạn 
+Lan đã phải viết chữ số 5 tất cả bao nhiêu lần? 
+A. 32 lần.       B. 35 lần.       C. 28 lần.       D. 30 lần. 
+Câu 3.  Một lớp học có chương trình sticker đổi quà cho các bạn. Biểu đồ dưới đây biểu diễn số 
+sticker tích luỹ được của 5 học sinh. Biết rằng, bạn đang có nhiều sticker nhất hơn bạn đang có 
+ít sticker nhất là 8 sticker. Hỏi bạn Charles cần tích luỹ thêm bao nhiêu sticker nữa để có thể đổi 
+được 1 con gấu bông? 
+          
+A. 4 sticker       B. 5 sticker       C. 6 sticker       D. 10 sticker 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 7 
+ 
+Câu 4. Ngày 01/06/2021 rơi vào thứ Ba. Hỏi ngày 06/09/2021 rơi vào ngày thứ mấy trong tuần? 
+A. Thứ Hai       B. Thứ Năm      C. Thứ Bảy       D. Chủ Nhật 
+Câu 5.  Quan sát quy luật của dãy hình dưới đây. 
+ 
+Theo quy luật đó, tính diện tích phần tô đậm trong hình thứ 16, biết diện tích hình 1 là 27cm
+2
+. 
+A. 72cm
+2
+.  B. 99cm
+2
+.       C. 108cm
+2
+.       D. 70cm
+2
+. 
+Câu 6. Bạn Minh sử dụng 4 màu để tô một bản đồ có 4 thành phố A, B, C, D 
+như hình bên. Hỏi có bao nhiêu cách tô màu bản đồ sao cho không có 2 
+thành phố nào kề nhau có cùng màu? 
+A. 24 cách.   B. 30 cách.       
+C. 36 cách.     D. 48 cách. 
+Câu 7.  Ta viết các số có ba chữ số liên tiếp nhau tạo thành một số có dạng:  
+A = 100101102103104... Các chữ số của số chẵn được viết bằng màu đỏ, các chữ số của số lẻ 
+được viết bằng màu xanh. Hỏi chữ số thứ 2026 là chữ số mấy và có màu gì? 
+A. Chữ số 8, màu đỏ.                                                     B. Chữ số 7, màu xanh.    
+C. Chữ số 7, màu đỏ.                                                             D. Chữ số 5, màu xanh.  
+Câu 8. Cho tấm bìa như sau: 
+ 
+Khi trải phẳng tấm bìa đó, ta có thể nhận được kết quả nào dưới đây? 
+A.  
+B.  
+C.  
+D.  
+Hình 4 Hình 3 
+Hình 2 
+Hình 1 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 8 
+ 
+Câu 9. Trong một lần đi dã ngoại, Alex và Tony đã mang theo những gói bánh giống hệt nhau, 
+Alex mang 8 gói và Tony mang 7 gói. Do sơ suất nên Clara đã quên mang theo đồ ăn, vì thế nên 
+số gói bánh của Alex và Tony đã được chia đều cho ba bạn. Khi trở về, Clara muốn trả tiền bánh 
+cho hai người bạn của mình với tổng số tiền là 30 đồng. Alex sẽ nhận được bao nhiêu đồng nếu 
+số tiền được chia công bằng theo số gói bánh mà mỗi bạn bỏ ra? 
+A. 15 đồng. B. 22 đồng.       C. 20 đồng.       D. 18 đồng. 
+Câu 10. Trong một cuộc bầu cử giữa ba ứng viên, số phiếu họ nhận được từ 60 người bầu cử đầu 
+tiên lần lượt là 10, 35 và 15 phiếu bầu. Hiện còn 40 người nữa sắp bỏ phiếu bầu, mỗi phiếu chỉ 
+bầu cho một trong ba ứng cử viên. Hỏi có bao nhiêu cách để ứng cử viên hiện đang có 10 phiếu 
+bầu trở thành người chiến thắng duy nhất? (Biết rằng không có ai bằng điểm nhau) 
+A. 120 cách.      B. 64 cách.       C. 65 cách.       D. 100 cách. 
+PHẦN B. TỰ LUẬN 
+Câu 1 đến Câu 4 (mỗi câu 2,5 điểm, tổng điểm 10 điểm): Học sinh điền đáp án đúng 
+Câu 1.  Cho 
+MEET 4  TEAM  
+, biết các chữ cái khác nhau biểu diễn một chữ số khác nhau,  
+M và T đều khác 0. Tính T + E + A + M. 
+Câu 2.  Một ô tô đi từ địa điểm A đến địa điểm B và từ địa điểm B đến địa điểm C. Thời gian đi từ 
+A đến B là 2 giờ, thời gian đi từ B đến C là 4 giờ. Vận tốc đi từ B đến C lớn hơn vận tốc đi từ A 
+đến B là 10km/giờ. Quãng đường BC dài hơn quãng đường AB là 120km. Tính độ dài quãng 
+đường AC. 
+Câu 3. Cho hình bình hành ABCD. Kéo dài AB về phía B và lấy điểm 
+E bất kì, kéo dài AD về phía D và lấy điểm F bất kì. Nối BF và DE 
+cắt nhau ở K. Tính diện tích tứ giác ABKD, biết diện tích tam giác 
+CKE và diện tích tam giác CKF lần lượt là 30cm
+2
+ và 24cm
+2
+.  
+ 
+Câu 4. Các số tự nhiên được điền vào bảng như quy luật dưới đây. Tìm số ở hàng thứ 50 và cột 
+thứ 20. 
+1 2 4 7 11 16 ... 
+3 5 8 12 17 23 ... 
+6 9 13 18 24 ... ... 
+10 14 19 25 ... ... ... 
+... ... ... ... ... ... ... 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 9 
+ 
+Câu 5 và Câu 6 (mỗi câu 10 điểm, tổng điểm 20 điểm): Học sinh trình bày câu trả lời, viết quá 
+trình và kết quả suy luận. 
+Câu 5. Một thư viện có tổng cộng 458 quyển sách Toán và Văn. Sau khi cho mượn 
+2
+3
+ số sách 
+Toán và 35 quyển sách Văn thì số sách Toán còn lại bằng 
+2
+3
+ số sách Văn còn lại. Hỏi thư viện đã 
+cho mượn bao nhiêu quyển sách Toán? 
+Câu 6. Trong một giải bóng đá có 4 đội A, B, C, D thi đấu, mỗi đội phải đấu 1 trận với mỗi đội 
+còn lại, thắng được 3 điểm, hòa được 1 điểm, thua không được điểm nào. Kết thúc giải, 3 đội 
+A, B, C đạt được số điểm lần lượt là 6; 5; 1. Hãy tìm xem đội D được bao nhiêu điểm và đưa ra 
+kết quả từng trận của các đội đấu với đội D. 
+---------------------------------HẾT--------------------------------- 
+ 
+ 
+  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 10 
+ 
+ 
+TRƯỜNG THCS NĂNG KHIẾU  
+ĐẠI HỌC SƯ PHẠM  
+ĐỀ ĐÁNH GIÁ NĂNG LỰC  
+TUYỂN SINH LỚP 6 NĂM HỌC 2026 – 2027 
+ĐỀ MINH HỌA SỐ 3 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN A. TRẮC NGHIỆM TỔNG HỢP 
+Câu 1 đến Câu 10 (mỗi câu 1 điểm, tổng điểm 10 điểm): Học sinh chọn đáp án đúng 
+Câu 1 đến Câu 3: Học sinh dùng thông tin dưới đây để trả lời.  
+BẢNG THÔNG TIN VỀ MỘT SỐ LOẠI NƯỚC UỐNG 
+Tên nước uống Nhóm chất chính Lượng calo / 100ml 
+Nước lọc Nước tinh khiết 0 kcal 
+Nước cam tươi Vitamin + Đường 50 kcal 
+Sữa đậu nành Đạm + Béo thực vật 90 kcal 
+Nước ngọt có ga Đường 45 kcal 
+Sữa tươi nguyên kem Đạm + Đường + Béo động vật 70 kcal 
+Trà xanh không đường Chất chống ôxy hóa 0 kcal 
+Trà sữa Đường + Béo + Chất tạo vị 110 kcal 
+Nước dừa Vitamin + Khoáng + Đường nhẹ 30 kcal 
+Câu 1. Một bạn uống 250ml sữa tươi nguyên kem. Hỏi bạn đó đã nạp vào cơ thể bao nhiêu kcal? 
+A. 175 kcal.       B. 155 kcal.       C. 140 kcal.       D. 135 kcal.   
+Câu 2. Một ly trà sữa 200ml, hỏi ly trà sữa đó chứa bao nhiêu kcal? 
+A. 110 kcal.       B. 200 kcal.       C. 220 kcal       D. 225 kcal. 
+Câu 3. Loại nước nào dưới đây không cung cấp calo? 
+A. Nước cam tươi.                   B. Trà xanh không đường.  
+C. Nước dừa.                      D. Sữa đậu nành. 
+Câu 4. Ngô Quyền đã chiến thắng giặc ngoại xâm trên sông Bạch Đằng vào năm 938. Hỏi năm đó 
+thuộc thế kỷ bao nhiêu? 
+A. Thế kỷ 8.       B. Thế kỷ 9.       C. Thế kỷ 10.      D. Thế kỷ 11. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 11 
+ 
+Câu 5. Hỏi có bao nhiêu que diêm được sử dụng trong hình thứ 10?  
+ 
+A. 38 que diêm.  B. 40 que diêm.    C. 42 que diêm.    D. 44 que diêm. 
+Câu 6. Tính giá trị biểu thức: 0,48 × 5 + 48% × 2 + 3 × 0,48. 
+A. 48. B. 4,8.          C. 58.          D. 5,8. 
+Câu 7. Một bạn vẽ 100 hình lập phương rồi tô màu các hình đó theo thứ tự lần lượt: xanh, đỏ, 
+tím, vàng, nâu, xanh, đỏ, tím, vàng, nâu ... Hỏi hình lập phương cuối cùng được tô màu gì? 
+A. Xanh. B. Đỏ.          C. Vàng.        D. Nâu. 
+Câu 8. Cho tấm bìa như sau: 
+ 
+Hãy cho biết, tấm bìa trên có thể ghép được thành hình nào dưới đây? 
+A.  
+B.  
+C.  
+D.  
+Câu 9. Nhân dịp khai trương, một cửa hàng giảm giá một mặt hàng 20% so với giá định bán 
+nhưng vẫn lãi 30% so với tiền vốn. Nếu không hạ giá thì cửa hàng đó lãi bao nhiêu phần trăm so 
+với tiền vốn? 
+A. 60%. B. 62,5%.       C. 50%.        D. 40%. 
+Câu 10. Bạn Tí sưu tầm các loại thẻ ghi số chẵn từ 0 đến 20 và để trong cùng 1 chiếc hộp, trong 
+đó Tí đã sưu tầm được: 1 thẻ ghi số 0; 3 thẻ ghi số 2; 5 thẻ ghi số 4; 7 thẻ ghi số 6; ...; 21 thẻ ghi 
+số 20. Tí lấy các thẻ từ trong hộp ra mà không nhìn vào hộp. Hỏi Tí phải lấy ra ít nhất bao nhiêu 
+thẻ để chắc chắn lấy được 13 thẻ có ghi số giống nhau? 
+A. 101. B. 97.           C. 120.        D. 121. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 12 
+ 
+PHẦN B. TỰ LUẬN 
+Câu 1 đến Câu 4 (mỗi câu 2,5 điểm, tổng điểm 10 điểm): Học sinh điền đáp án đúng 
+Câu 1. Cho 4 số 637, 148, 685, 209. Tìm một số tự nhiên có 3 chữ số biết rằng trong 4 số đã cho, 
+mỗi số đều có đúng 1 chữ số chính xác và ở đúng vị trí trong số cần tìm. 
+Câu 2. Cho tam giác ABC. I là một điểm ở trong tam giác. Từ I kẻ các đường thẳng song song với 
+các cạnh BC, AB, AC. Các đường thẳng này lần lượt cắt các cạnh AB, AC, BC tại các điểm E, F, K. 
+Nối C với E, nối B với F, nối A với K, chúng cắt nhau tại các điểm M, N, P như hình vẽ. Biết diện 
+tích tam giác MPN là 40cm
+2
+, diện tích tam giác NEB là 12cm
+2
+. Tính diện tích phần tô đậm trong 
+hình. 
+ 
+Câu 3. Trên một tuyến đường thẳng từ A đến B dài 160km, có vị trí C nằm giữa A và B, biết rằng 
+quãng đường từ A đến C dài 30km. 
+Lúc 7 giờ sáng, một xe tải đi từ A đến B với tốc độ 40km/giờ. 
+Lúc 8 giờ 30 phút sáng, một xe khách đi từ C đến B với vận tốc 60km/giờ và gặp xe tải. Biết rằng 
+khi xe khách đi được 45 phút thì dừng nghỉ 15 phút, sau đó tiếp tục đi với vận tốc cũ. 
+Hỏi: Hai xe gặp nhau tại điểm cách B bao nhiêu ki-lô-mét? 
+Câu 4. Các số tự nhiên 1, 2, 3, ... được điền vào bảng theo quy luật như hình vẽ bên dưới. Hỏi số 
+được điền ở ô ngoài cùng bên trái của hàng thứ 2023 là số nào? 
+1      
+3 2     
+4 5 6    
+10 9 8 7   
+11 12 13 14 15  
+... ... ... ... ... ... 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 13 
+ 
+Câu 5 và Câu 6 (mỗi câu 10 điểm, tổng điểm 20 điểm): Học sinh trình bày câu trả lời, viết quá 
+trình và kết quả suy luận. 
+Câu 5. Bạn Nam có 3 hộp bi. Nếu chuyển 
+1
+5
+ số bi ở hộp thứ nhất sang hộp thứ hai thì số bi ở hộp 
+thứ hai bằng 
+9
+8
+ số bi ở hộp thứ nhất. Nếu chuyển 
+1
+5
+ số bi ở hộp thứ hai sang hộp thứ ba thì số 
+bi ở hộp thứ hai và hộp thứ ba bằng nhau. 
+a) Tính tỉ số số bi của hộp thứ nhất và hộp thứ hai. 
+b) Tính số bi ở mỗi hộp biết tổng số bi của hộp thứ hai và hộp thứ ba là 56 viên bi. 
+Câu 6. Cho dãy số 1, 2, 3, ..., 2025. Chọn ra các số để tổng của 2 số bất kì chia hết cho 34. Hỏi có 
+thể chọn được nhiều nhất bao nhiêu số? 
+---------------------------------HẾT--------------------------------- 
+ 
+  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 14 
+ 
+ 
+TRƯỜNG THCS NĂNG KHIẾU  
+ĐẠI HỌC SƯ PHẠM  
+ĐỀ ĐÁNH GIÁ NĂNG LỰC  
+TUYỂN SINH LỚP 6 NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 4 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN A. TRẮC NGHIỆM TỔNG HỢP 
+Câu 1 đến Câu 10 (mỗi câu 1 điểm, tổng điểm 10 điểm): Học sinh chọn đáp án đúng 
+Câu 1 đến 3: Học sinh dùng thông tin dưới đây để trả lời. 
+BẢNG THÔNG TIN VỀ MỘT SỐ LOẠI THỨC ĂN NHANH 
+Tên món ăn Nhóm chất chính Lượng calo / 100g 
+ Khoai tây chiên  Tinh bột + Chất béo 320 kcal 
+ Bánh hamburger bò  Đạm + Chất béo + Tinh bột 300 kcal 
+ Gà rán  Đạm + Chất béo động vật 250 kcal 
+ Pizza phô mai  Tinh bột + Đạm + Chất béo 230 kcal 
+ Xúc xích  Đạm + Chất béo + Muối 280 kcal 
+ Mì ăn liền (nấu chín)  Tinh bột + Chất béo + Muối 220 kcal 
+ Bánh mì trứng  Tinh bột + Đạm 230 kcal 
+ Cơm gà  Tinh bột + Đạm + Chất béo 260 kcal 
+Câu 1. Một bạn đã ăn 100g khoai tây chiên và 150g gà rán. Hỏi bạn đó đã nạp vào cơ thể bao 
+nhiêu kcal? 
+A. 500 kcal B. 600 kcal C. 695 kcal D. 715 kcal 
+Câu 2. Một suất ăn gồm 100g xúc xích và 200g mì ăn liền (nấu chín). Suất ăn này cung cấp bao 
+nhiêu kcal? 
+A. 720 kcal B. 650 kcal C. 500 kcal D. 480 kcal 
+Câu 3. Lượng thức ăn nào trong số các loại thức ăn dưới đây cung cấp calo thấp nhất? 
+A. Khoai tây chiên. B. Gà rán. C. Cơm gà. D. Mì ăn liền (nấu chín). 
+Câu 4. Ngày 5 tháng 6 năm 1911, Bác Hồ rời Bến cảng Nhà Rồng ra đi tìm đường cứu nước. Hỏi 
+năm đó thuộc thế kỷ bao nhiêu? 
+A. Thế kỷ 18. B. Thế kỷ 19. C. Thế kỷ 20. D. Thế kỷ 21. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 15 
+ 
+Câu 5. Quan sát hình vẽ dưới đây và cho biết hình thứ 100 có bao nhiêu tam giác được tô đậm? 
+ 
+A. 5000. B. 5050. C. 10100. D. 10000. 
+Câu 6. Một người viết liên tiếp nhóm chữ TO QUOC VIET NAM thành dãy: 
+TOQUOCVIETNAMTOQUOCVIETNAM...... 
+Chữ cái thứ 2025 trong dãy là chữ gì? 
+A. Chữ T. B. Chữ V. C. Chữ N. D. Chữ A. 
+Câu 7. Gấp một hình lập phương từ mảnh giấy dưới đây:  
+ 
+Hỏi mặt có số 1 đối diện với mặt có số nào? 
+A. Số 5. B. Số 3. C. Số 6. D. Số 4. 
+Câu 8. Để động viên các bạn học sinh giữ môi trường sạch đẹp, một cửa hàng bán kẹo có chính 
+sách: cứ 5 vỏ kẹo mua từ cửa hàng thì có thể đổi được 1 viên kẹo. Bạn Nam chỉ có đủ tiền để mua 
+21 viên kẹo. Hỏi Nam có thể nhận được nhiều nhất bao nhiêu viên kẹo từ cửa hàng thông qua 
+chính sách đổi vỏ kẹo lấy kẹo của cửa hàng? 
+A. 28 viên kẹo B. 32 viên kẹo C. 26 viên kẹo D. 17 viên kẹo 
+Câu 9. Một hình chữ nhật nếu tăng chiều dài thêm 20%, giảm chiều rộng đi 20% thì diện tích 
+hình chữ nhật đó giảm đi 200dm
+2
+. Tính diện tích của hình chữ nhật đó. 
+A. 5000 dm
+2
+ B. 800 dm
+2
+ C. 8 000 dm
+2
+ D. 500 dm
+2
+ 
+Câu 10. Trong một hộp bi có 20 viên bi xanh, 20 viên bi đỏ và 20 viên bi vàng. Các viên bi mỗi 
+màu đều được đánh số thứ tự từ 1 đến 20. Hỏi phải lấy ra ít nhất bao nhiêu viên bi để có thể 
+chắc chắn trong số bi bốc ra có 3 viên cùng màu được đánh 3 số tự nhiên liên tiếp?  
+A. 35. B. 58. C. 43. D. 60. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 16 
+ 
+PHẦN B. TỰ LUẬN 
+Câu 1 đến Câu 4 (mỗi câu 2,5 điểm, tổng điểm 10 điểm): Học sinh điền đáp án đúng 
+Câu 1. Bốn bạn Bảo, Thy, Linh và Thảo tham gia cuộc thi chạy về 4 vị trí khác nhau. Khi các bạn 
+hỏi thứ tự của mỗi bạn thì nhận được 4 câu trả lời: 
+- Bảo về số 2 còn Thảo về số 3. 
+- Bảo về số 1 còn Linh về số 3. 
+- Thy về số 2 còn Linh về số 1. 
+- Thy về số 4 còn Thảo về số 3. 
+Biết trong mỗi câu trả lời thì chỉ đúng 1 bạn và sai 1 bạn. Vậy Thảo về số mấy? 
+Câu 2. Cho hình chữ nhật ABCD. Trên AD và BC lấy hai điểm M và N sao cho AM = CN. Lấy I tùy 
+ý trên cạnh AB. MN cắt DI và IC lần lượt tại E và F. Tính diện tích phần tô đậm, biết rằng diện 
+tích các hình tam giác MED và FNC lần lượt bằng 85cm² và 79cm². 
+ 
+Câu 3. Nam dự định đi từ A đến B với vận tốc 40 km/giờ. Khi đi được 
+1
+2
+ quãng đường thì Nam 
+dừng nghỉ 15 phút. Để đến B đúng giờ thì Nam phải đi với vận tốc 50 km/giờ. Tính độ dài quãng 
+đường AB. 
+Câu 4. Người ta xếp các số tự nhiên lẻ liên tiếp kể từ 1 thành 5 cột như hình dưới đây. Hỏi số 
+2025 nằm ở cột nào? 
+A B C D E 
+1 3 5 7 9 
+ 17 15 13 11 
+19 21 23 25  
+ 33 31 29 27 
+35 37 39 41  
+ ... ... ... ... 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 17 
+ 
+Câu 5 và Câu 6 (mỗi câu 10 điểm, tổng điểm 20 điểm): Học sinh trình bày câu trả lời, viết quá 
+trình và kết quả suy luận. 
+Câu 5. Một cửa hàng có tất cả 420 quả táo và lê. Sau khi bán một số quả táo và lê, số táo bán đi 
+bằng 
+1
+6
+ số lê bán đi và số táo còn lại hơn số lê còn lại 40 quả. Biết lúc đầu số táo bằng 
+3
+4
+ số lê.  
+a) Tính số quả mỗi loại lúc đầu. 
+b) Tính số lê đã bán. 
+Câu 6. Cho các số tự nhiên 1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12; 13, mỗi số được điền vào một vòng 
+tròn nhỏ sao cho hiệu của 2 số bất kỳ (số lớn trừ số nhỏ) cạnh nhau luôn nhỏ hơn 3 (mỗi số chỉ 
+điền đúng 1 lần). Số 
+6, ,x y
+ được điền sẵn như hình vẽ bên dưới. Tính giá trị của 
+x  y
+. 
+ 
+---------------------------------HẾT--------------------------------- 
+ 
+  
+y
+x
+6
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 18 
+ 
+ 
+TRƯỜNG THCS NĂNG KHIẾU  
+ĐẠI HỌC SƯ PHẠM  
+ĐỀ ĐÁNH GIÁ NĂNG LỰC  
+TUYỂN SINH LỚP 6 NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 5 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN A. TRẮC NGHIỆM TỔNG HỢP  
+Câu 1 đến Câu 10 (mỗi câu 1 điểm, tổng điểm 10 điểm): Học sinh chọn đáp án đúng 
+Câu 1 đến Câu 3: Học sinh dùng thông tin dưới đây để trả lời.  
+BẢNG THÔNG TIN VỀ MỘT SỐ LOẠI THỨC ĂN VÀ NƯỚC UỐNG 
+Câu 1. Một bạn đã ăn 150g bánh hamburger bò, 100g khoai tây chiên và 200ml nước lọc. Hỏi 
+bạn ấy đã nạp bao nhiêu kcal sau bữa ăn này? 
+A. 700 kcal.       B. 720 kcal.       C. 750 kcal.       D. 770 kcal. 
+Câu 2. Trong các suất ăn dưới đây, suất ăn nào chứa nhiều calo nhất?  
+A. 200g gà rán, 100g xúc xích và 200ml nước ngọt có ga. 
+B. 150g pizza phô mai, 100g khoai tây chiên và 200ml trà sữa. 
+C. 150g bánh hamburger bò, 100g khoai tây chiên và 200ml nước lọc. 
+D. 200g mì ăn liền (nấu chín), 100g xúc xích và 200ml nước ngọt có ga. 
+Tên món ăn Nhóm chất chính 
+Lượng calo / 100g (với thức ăn) 
+Lượng calo / 100ml (với đồ uống) 
+Khoai tây chiên Tinh bột + Chất béo 320 kcal 
+Bánh hamburger bò Đạm + Chất béo + Tinh bột 300 kcal 
+Gà rán Đạm + Chất béo động vật 250 kcal 
+Pizza phô mai Tinh bột + Đạm + Chất béo 230 kcal 
+Xúc xích Đạm + Chất béo + Muối 280 kcal 
+Mì ăn liền (nấu chín) Tinh bột + Chất béo + Muối 220 kcal 
+Bánh mì trứng Tinh bột + Đạm 230 kcal 
+Cơm gà Tinh bột + Đạm + Chất béo 260 kcal 
+Nước lọc Nước tinh khiết 0 kcal 
+Nước cam tươi Vitamin + Đường 50 kcal 
+Nước ngọt có ga Đường 45 kcal 
+Trà sữa Đường + Béo + Chất tạo vị 110 kcal 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 19 
+ 
+Câu 3. Theo khoa học, nhu cầu năng lượng trong bữa trưa của một học sinh tiểu học dao động 
+từ 550 kcal đến 650 kcal. Bữa ăn nào dưới đây đủ Calo trong mức khoa học đưa ra: 
+A. 150g cơm gà, 50g xúc xích và 200ml nước cam tươi. 
+B. 200g bánh hamburger bò, 100g khoai tây chiên và 200ml nước ngọt có ga. 
+C. 100g bánh hamburger bò, 100g pizza phô mai và 200ml nước lọc. 
+D. 200g bánh mì trứng, 200g gà rán và 200ml nước ngọt có ga. 
+Câu 4. Beethoven là một nhà soạn nhạc cổ điển người Đức. Ông sinh vào tháng 12 năm 1770. 
+Hỏi ông được sinh ra vào thế kỷ nào? 
+A. Thế kỷ 18.      B. Thế kỷ 19.      C. Thế kỷ 20.      D. Thế kỷ 21. 
+Câu 5. Quan sát hình vẽ dưới đây và cho biết hình thứ 10 được ghép bởi bao nhiêu que diêm? 
+ 
+A. 150 que diêm   B. 155 que diêm   C. 160 que diêm   D. 165 que diêm 
+Câu 6. Một người viết liên tiếp nhóm chữ THANHPHOHANOI thành dãy: 
+THANHPHOHANOITHANHPHOHANOI ... 
+Hỏi chữ cái thứ 2002 trong dãy trên là chữ gì? 
+A. Chữ H.       B. Chữ A.        C. Chữ N.       D. Chữ I. 
+Câu 7. 
+Trong 4 miếng bìa như hình dưới đây thì miếng bìa không thể gấp thành một chiếc hộp kín 
+có 6 mặt là miếng bìa số mấy? 
+ 
+A. Bìa số 1.       B. Bìa số 2.       C. Bìa số 3.       D. Bìa số 4. 
+Quan sát các hình vẽ, ta thấy: Miếng bìa số 2 không thể gấp thành một chiếc hộp kín có 6 mặt. 
+Câu 8. Dung dịch nước biển chứa 5% muối. Hỏi cần đổ thêm bao nhiêu gam nước tinh khiết vào 
+45 gam dung dịch nước biển để được một dung dịch nước muối chứa 3% muối? 
+A. 75 g. B. 30 g .        C. 45 g.        D. 105 g. 
+Câu 9. Người ta viết liền nhau dãy các số tự nhiên chẵn liên tiếp: 
+24681012141618202224... 
+Hỏi chữ số thứ 2000 của dãy trên là chữ số nào? 
+A. Chữ số 0.       B. Chữ số 3.       C. Chữ số 6.       D. Chữ số 7. 
+4
+3
+2
+1
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 20 
+ 
+Câu 10. Những quả bóng có cùng kích thước và khối lượng được đặt trong một thùng chứa. Có 
+8 màu sắc khác nhau và 90 quả bóng mỗi màu. Hỏi cần lấy ra ít nhất bao nhiêu quả bóng để chắc 
+chắn có được 4 loại màu khác nhau và mỗi màu có ít nhất 9 quả? 
+A. 308 .        B. 309 .        C. 310.        D. 311. 
+PHẦN B. TỰ LUẬN 
+Câu 1 đến Câu 4 (mỗi câu 2,5 điểm, tổng điểm 10 điểm): Học sinh điền đáp án đúng 
+Câu 1. Bạn Phương nghĩ ra một số chia hết cho 5 và gồm 5 chữ số 1; 2; 3; 4; 5. Bạn Việt đoán số 
+đó là 12345, bạn Nam đoán là 14235. Phương nói “Trong số của Việt thì tất cả các thứ tự liền 
+nhau của các chữ số đều sai (1 không đứng liền trước 2; 2 không đứng liền trước 3...) và có  
+4 chữ số đứng vị trí sai. Trong số Nam đoán thì có 3 chữ số có vị trí đúng”. Hãy tìm số bạn Phương 
+đã nghĩ. 
+Câu 2. Cho tứ giác ABCD như hình vẽ có M, N, P, Q lần lượt nằm trên AB, BC, CD, DA sao cho:  
+MA = MB; NB = NC; PC = PD; QA = QD. Nối CM, AP, BQ, DN và cắt nhau tại các điểm E, F, G, H 
+như hình vẽ. Cho diện tích tam giác AQE bằng 20 cm
+2
+, diện tích tam giác MFB bằng 8 cm
+2
+, diện 
+tích tứ giác EFGH bằng 48 cm
+2
+. Tính tổng diện tích của tam giác DHP và tam giác CGN. 
+ 
+Câu 3. Mỗi sáng hai anh em Nam chạy bộ quanh bờ hồ trong công viên ngay cạnh nhà. Hai anh 
+em chạy cùng chiều với vận tốc không đổi, xuất phát cùng một lúc, từ cùng một điểm thì sau  
+48 phút lại gặp nhau. Tính vận tốc trung bình của Nam. Biết rằng một vòng quanh bờ hồ dài 
+2,4km. Nam chạy chậm hơn anh và nếu chạy ngược chiều thì sau 12 phút lại gặp nhau. 
+Câu 4. Bạn An nghĩ một số tự nhiên n và viết tất cả các số tự nhiên từ 1 đến n lên bảng. Sau đó, 
+bạn ấy cộng tất cả các số đã viết lại với nhau nhưng do sơ suất bạn đã cộng một số tự nhiên nào 
+đó hai lần nên đã thu được tổng bằng 2026. Tìm số mà bạn An đã vô tình cộng 2 lần.  
+ 
+H 
+G 
+F 
+E 
+P 
+N 
+M 
+Q 
+D 
+C 
+B 
+A 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 21 
+ 
+Câu 5 và Câu 6 (mỗi câu 10 điểm, tổng điểm 20 điểm): Học sinh trình bày câu trả lời, viết quá 
+trình và kết quả suy luận. 
+Câu 5. Số thứ nhất bằng 
+1
+4
+ trung bình cộng của ba số. Số thứ hai hơn số thứ nhất 48 đơn vị. Số 
+thứ ba bằng 
+3
+2
+ trung bình cộng của ba số.  
+a) Tìm tỉ số của số thứ hai và tổng ba số. 
+b) Tìm 3 số đó. 
+Câu 6. Có 2 người bạn A và B lâu ngày gặp nhau và trò chuyện như sau: 
+A hỏi: Anh có mấy cháu rồi? 
+B trả lời: Tôi có 3 cháu. 
+A hỏi: Tuổi của các cháu thế nào? 
+B trả lời: Tích tuổi của chúng là 36, tổng tuổi là ngày hôm qua. 
+- Suy nghĩ một lúc anh bạn A nói tôi cần thêm dữ liệu để biết chính xác tuổi của các cháu? 
+B trả lời: Đứa lớn biết chơi đàn violon.  
+Hỏi tuổi của mỗi cháu như thế nào? (chú ý, có thể sinh đôi, sinh ba,... Nếu sinh đôi, sinh ba,... thì 
+coi là như nhau, không có đứa lớn, đứa bé) 
+---------------------------------HẾT--------------------------------- 
+ 
+ 
+ 
+  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 22 
+ 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 23 
+ 
+ 
+TRƯỜNG THCS NĂNG KHIẾU  
+ĐẠI HỌC SƯ PHẠM  
+ĐỀ ĐÁNH GIÁ NĂNG LỰC  
+TUYỂN SINH LỚP 6 NĂM HỌC 2026 – 2027 
+ĐỀ MINH HỌA SỐ 1 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN A. TRẮC NGHIỆM TỔNG HỢP 
+Câu 1 đến Câu 10 (mỗi câu 1 điểm, tổng điểm 10 điểm): Học sinh chọn đáp án đúng 
+Câu 1. Một tàu du lịch khởi hành từ đảo A đến đảo B với khoảng cách trên hải đồ là 65 hải lí. Hỏi 
+quãng đường tàu đi dài bao nhiêu ki-lô-mét? (Biết 1 hải lí = 1,852km) 
+A. 120,38km.     B. 121,36km.     C. 120,68km.      D. 100,64km 
+Chọn A 
+Độ dài quãng đường tàu đi là: 1,852 × 65 = 120,38 (km). 
+Câu 2. Hàm lượng Protein (chất đạm) có trong 100 gram của mỗi loại thực phẩm được cho trong 
+bảng sau: 
+Thực phẩm Ức gà Cá hồi Thịt ba chỉ Thịt bò 
+Hàm lượng Protein (gram)/100 gram 31g 22g 16,5g 21g 
+Bác sĩ khuyên An mỗi ngày nên nạp khoảng 45 gram đến 50 gram Protein. Hỏi trong các thực 
+đơn sau, An nên chọn thực đơn nào cho phù hợp với lời khuyên của bác sĩ? 
+A. 100 gram Cá hồi; 50 gram Thịt ba chỉ; 50 gram Thịt bò.       
+B. 100 gram Ức gà; 50 gram Cá hồi; 50 gram Thịt ba chỉ.       
+C. 50 gram Ức gà; 50 gram Cá hồi; 100 gram Thịt bò.      
+D. 50 gram Cá hồi; 150 gram Thịt ba chỉ; 100 gram Thịt bò.  
+Chọn C 
+Lượng Protein có trong thực đơn gồm 100 gram Cá hồi, 50 gram Thịt ba chỉ, 50 gram Thịt bò là: 
+22 + 16,5 × (50 : 100) + 21 × (50 : 100) = 40,75 (gram) 
+Lượng Protein có trong thực đơn gồm 100 gram Ức gà, 50 gram Cá hồi, 50 gram Thịt ba chỉ là: 
+31 + 22 × (50 : 100) + 16,5 × (50 : 100) = 50,25 (gram) 
+Lượng Protein có trong thực đơn gồm 50 gram Ức gà, 50 gram Cá hồi, 100 gram Thịt bò là: 
+31 × (50 : 100) + 22 × (50 : 100) + 21 = 47,5 (gram) 
+Lượng Protein có trong thực đơn gồm 50 gram Cá hồi; 150 gram Thịt ba chỉ; 100 gram Thịt bò là: 
+22 × (50 : 100) + 16,5 × (150 : 100) + 21 = 56,75 (gram) 
+Vì 45 gram < 47,5 gram < 50 gram nên thực đơn phù hợp với lời khuyên của bác sĩ là: 
+50 gram Ức gà; 50 gram Cá hồi; 100 gram Thịt bò. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 24 
+ 
+Câu 3. Một lớp học có 40 bạn học sinh cùng nhau đi xem phim. Mỗi học sinh cần 1 vé để vào xem. 
+Giá mỗi vé cho học sinh là 50 000 đồng. Nếu mua 5 vé thì được tặng 1 vé. Vậy lớp đó cần trả ít 
+nhất bao nhiêu tiền để mua đủ số vé cho cả lớp vào xem phim? 
+A. 1 650 000 đồng   B. 1 700 000 đồng   C. 2 000 000 đồng   D. 950 000 đồng 
+Chọn B 
+Vì nếu mua 5 vé thì được tặng 1 vé nên coi 6 bạn học sinh vào một nhóm. 
+Một nhóm gồm 6 bạn cần trả số tiền vé là:  50 000 × 5 = 250 000 (đồng) 
+Ta có: 40 : 6 = 6 (nhóm) dư 4 bạn. 
+4 bạn dư cần mua 4 vé nữa. 
+Lớp đó cần trả số tiền để mua đủ số vé cho cả lớp vào xem phim là: 
+250 000 × 6 + 50 000 × 4 = 1 700 000 (đồng) 
+Câu 4. An dùng các khối lập phương nhỏ giống nhau xếp thành mô hình 
+như hình bên và sơn toàn bộ mặt ngoài. Lượng sơn đã dùng là 32 lít. Sau 
+đó, An tháo rời mô hình và sơn nốt các mặt chưa có màu của từng khối 
+lập phương. Hỏi An cần thêm bao nhiêu lít sơn nữa? 
+A. 32 lít.        B. 34 lít.        
+C. 30 lít.        D. 40 lít. 
+Chọn A 
++) Quan sát hình vẽ, ta thấy số mặt khối lập phương nhỏ được sơn: 
+Tính theo chiều nhìn từ trên xuống dưới và từ dưới lên trên đều có: 7 mặt  
+Tính theo chiều nhìn từ trái qua phải và từ phải qua trái đều có:         6 mặt  
+Tính theo chiều nhìn từ trước ra sau và từ sau ra trước đều có:           8 mặt  
+An đã sơn tất cả số mặt khối lập phương nhỏ là: 7 × 2 + 6 × 2 + 8 × 2 = 42 (mặt) 
++) Quan sát hình vẽ, ta thấy: 
+Tầng dưới cùng có 7 khối lập phương nhỏ. 
+Tầng thứ hai có 5 khối lập phương nhỏ. 
+Tầng thứ ba có 2 khối lập phương nhỏ. 
+Do đó, có tổng cộng: 7 + 5 + 2 = 14 khối lập phương nhỏ. 
+Tổng số mặt của các khối lập phương nhỏ là: 14 × 6 = 84 (mặt) 
+Số mặt khối lập phương nhỏ An cần phải sơn thêm là: 84 – 42 = 42 (mặt) 
+Do đó, số lượng mặt của khối lập phương nhỏ đã sơn bằng số lượng mặt của khối lập phương 
+nhỏ chưa sơn. Vậy An cần thêm 32 lít sơn nữa.  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 25 
+ 
+Câu 5. Sofia có các thanh gỗ dạng hình hộp chữ nhật có kích thước 1cm × 1cm × 2cm. Bạn ấy có 
+thể dùng chúng để xếp thành các tòa tháp như hình minh họa bên dưới. 
+ 
+Theo quy luật đó, với 28 thanh gỗ, Sofia có thể xếp được tòa tháp cao bao nhiêu xăng-ti-mét? 
+A. 9cm.  B. 11cm.        C. 12cm.        D. 14cm. 
+Chọn B  
++) Quan sát quy luật của dãy hình, mỗi hình có số thanh gỗ là: 
+Hình 1 có:  1 + 2 = 3 (thanh gỗ)  
+Hình 2 có:  1 + 2 + 3 = 6 (thanh gỗ)            
+Hình 3 có:  1 + 2 + 3 + 4 = 10 (thanh gỗ)            
+Hình 4 có:  1 + 2 + 3 + 4 + 5 = 15  (thanh gỗ)            
+Vì 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28 nên hình thứ 6 sẽ có 28 thanh gỗ. 
++) Xét theo chiều từ dưới lên, tòa tháp của hình thứ 6 có 7 lớp tất cả, trong đó: 
+Các lớp 1, 3, 5, 7 có chiều cao là: 2cm;      Các lớp 2, 4, 6 có chiều cao là: 1cm 
+Chiều cao của tòa tháp ở hình thứ 6 là:  2 × 4 + 1 × 3 = 11 (cm). 
+Vậy với 28 thanh gỗ, Sofia có thể xếp được tòa tháp cao 11cm. 
+Câu 6. Một hồ sen ở trường tiểu học Hạnh Phúc đang bị xâm lấn bởi bèo lục bình. Ban đầu, diện 
+tích bèo bao phủ là 1 024m
+2
+. Để bảo vệ hồ, các bạn học sinh lớp 5A đã sử dụng một loại chế 
+phẩm sinh học để diệt bèo. Cứ sau 1 ngày, nhờ tác dụng của chế phẩm, diện tích bèo lại giảm đi 
+25% so với ngày trước đó. Hỏi sau 4 ngày, diện tích bèo còn lại trong hồ là bao nhiêu mét vuông? 
+A. 256m
+2
+. B. 324m
+2
+.       C. 432m
+2
+.       D. 700m
+2
+. 
+Chọn B 
+Sau 1 ngày, diện tích bèo còn lại trong hồ là: 1 024 × (100% – 25%) = 768 (m
+2
+) 
+Sau 2 ngày, diện tích bèo còn lại trong hồ là: 768 × (100% – 25%) = 576 (m
+2
+) 
+Sau 3 ngày, diện tích bèo còn lại trong hồ là: 576 × (100% – 25%) = 432 (m
+2
+) 
+Sau 4 ngày, diện tích bèo còn lại trong hồ là: 432 × (100% – 25%) = 324 (m
+2
+) 
+Câu 7. Trên hòn đảo Evenland, người dân chỉ biết đến sự tồn tại của các chữ số chẵn. Các số tự 
+nhiên họ biết theo thứ tự từ bé đến lớn là 0; 2; 4; 6; 8; 20; 22; 24; 26; 28; 40; 42;... (mỗi số đều 
+chỉ được tạo bởi các chữ số chẵn). Hỏi số thứ 100 theo quy tắc đó là số nào? 
+A. 686 B. 688          C. 800          D. 804 
+Chọn B 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 26 
+ 
+Cách 1: 
+Chia các số tự nhiên trên hòn đảo Evenland thành các nhóm 5 số liên tiếp: 
+(0; 2; 4; 6; 8)         ;              (20; 22; 24; 26; 28)             ;           (40; 42; 44; 46; 48)      
+(60; 62; 64; 66; 68)    ;       (80; 82; 84; 86; 88)            ;           (200; 202; 204; 206; 208);   .... 
+Ta có:  100 : 5 = 20. 
+Như vậy số tự nhiên thứ 100 ở hòn đảo Evenland chính là số cuối cùng trong nhóm thứ 20 theo 
+cách liệt kê đó.  
+Các số đầu tiên của các nhóm tạo thành dãy số sau (cứ mỗi số đầu tiên tương ứng tạo thành  
+1 nhóm gồm 5 số):  
+0; 20; 40; 60; 80; 200; 220; ...; 280; 400; 420; ...; 480; ... 
+Theo dãy số trên: 
+Từ 0 đến 80 có: 5 số nên có 5 nhóm 
+Từ 200 đến 280 có: 5 số nên có 5 nhóm 
+Từ 400 đến 480 có: 5 số nên có 5 nhóm 
+Từ 600 đến 680 có: 5 số nên có 5 nhóm 
+→ Đã có tất cả 20 nhóm. 
+Nhóm thứ 20 gồm: 680; 682; 684; 686; 688, có số cuối cùng là 688. 
+Vậy số thứ 100 theo quy tắc đã cho là: 688. 
+Cách 2: Dãy số: 0; 2; 4; 6; 8; 20; 22; 24; 26; 28; 40; 42;... 
+- Xét các số có 1 chữ số: có 5 số 
+- Xét các số có 2 chữ số, có dạng 
+ab
+ (a, b được chọn trong các chữ số: 0; 2; 4; 6; 8 và a khác 0) 
+→ Có 4 × 5 = 20 (số). 
+- Xét các số có 3 chữ số, có dạng 
+abc
+ (a, b, c được chọn trong các chữ số: 0; 2; 4; 6; 8 và a khác 0) 
++) Với 
+abc  2bc
+ → Có 5 × 5 = 25 (số). 
++) Với 
+abc  4bc
+ → Có 5 × 5 = 25 (số). 
++) Với 
+abc  6bc
+ → Có 5 × 5 = 25 (số). 
+→ Dãy 0; 2; 4; 6; 8; 20; 22; 24; 26; 28; 40; 42; ...; 688 có tất cả: 5 + 20 + 25 × 3 = 100 (số). 
+Vậy số thứ 100 theo quy tắc đã cho là: 688. 
+Câu 8. Doraemon và Nobita đi chụp ảnh photobooth và nhận được một khung ảnh hình chữ nhật, 
+bên trong có ba tấm ảnh hình tròn bằng nhau như hình dưới đây. Biết diện tích của khung ảnh 
+hình chữ nhật là 150cm
+2
+. Hãy tính diện tích phần nền của khung ảnh (không tính diện tích của 
+3 tấm ảnh hình tròn). 
+ 
+A. 117,75cm
+2
+ B. 32,25cm
+2
+       C. 110,75cm
+2
+     D. 39,25cm
+2 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 27 
+ 
+Chọn B 
+Coi bán kính của mỗi hình tròn là r. 
+Diện tích của mỗi hình tròn là: r × r × 3,14 
+Quan sát hình vẽ ta thấy: 
++) Chiều dài của hình chữ nhật bằng 6 lần bán kính của hình tròn. 
++) Chiều rộng của hình chữ nhật bằng 2 lần bán kính của hình tròn. 
+Do đó: Diện tích của hình chữ nhật = (r × 6) × (r × 2) = r × r × 12 
+Do đó: (r × r) × 12 = 150cm
+2
+.  Suy ra r × r = 150 : 12 = 12,5 (cm
+2
+) 
+Diện tích của mỗi hình tròn là: 12,5 × 3,14 = 39,25 (cm
+2
+) 
+Diện tích phần nền của khung ảnh (không tính diện tích của 3 tấm ảnh hình tròn) là:  
+150 – 39,25 × 3 = 32,25 (cm
+2
+) 
+Câu 9. Một người bán cam, buổi sáng bán được 
+3
+5
+ 
+số cam mang đi, buổi chiều bán thêm được  
+52 quả và số cam còn lại đúng bằng 
+1
+8
+ 
+số cam đã bán. Tính số quả cam mà người đó đã mang đi 
+bán. 
+A. 156 quả B. 180 quả       C. 200 quả       D. 130 quả 
+Chọn B 
+Vì số cam còn lại bằng 
+1
+8
+ 
+số cam đã bán nên số cam còn lại bằng 
+1
+9
+ 
+tổng số cam. 
+Phân số chỉ 52 quả cam là:  
+3  1   13
+1
+5  9   45
+
+      
+
+
+ (tổng số cam) 
+Số quả cam mà người đó đã mang đi bán là:  52 : 
+13
+45
+ = 180 (quả) 
+Câu 10. Có 2 hộp kẹo A và B. Mỗi hộp có 10 viên kẹo dâu, 10 viên kẹo cam và 10 viên kẹo bạc hà. 
+Người ta lấy từ hộp A chuyển sang hộp B 12 viên kẹo. Hỏi cần chuyển ít nhất bao nhiêu viên từ 
+hộp B sang hộp A để chắc chắn rằng hộp A có ít nhất 9 viên kẹo mỗi loại? 
+A. 12 viên kẹo B. 9 viên kẹo      C. 20 viên kẹo    D. 31 viên kẹo 
+Chọn D 
++) Vì mỗi hộp có 10 viên kẹo dâu, 10 viên kẹo cam và 10 viên kẹo bạc hà nên tổng số kẹo mỗi 
+hộp sẽ là: 10 + 10 + 10 = 30 (viên kẹo) 
+Tổng số viên kẹo của 2 hộp là: 30 + 30 = 60 (viên) 
+Khi chuyển từ hộp A sang hộp B 12 viên kẹo thì khi đó hộp B có số viên kẹo là:  
+30 + 12 = 42 (viên kẹo) 
++) Khi chuyển qua lại số kẹo mỗi hộp thì tổng số kẹo mỗi loại là không đổi 
+Có tất cả: 10 + 10 = 20 viên kẹo dâu   
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 28 
+ 
+Có tất cả: 10 + 10 = 20 viên kẹo cam 
+Có tất cả: 10 + 10 = 20 viên kẹo bạc hà 
+Trường hợp xấu nhất, giả sử chuyển hết các viên kẹo dâu và cam sang hộp A. Để hộp A có ít nhất 
+9 viên kẹo mỗi loại thì hộp A cần có ít nhất: 20 + 20 + 9 = 49 (viên). 
+Khi đó hộp B còn lại nhiều nhất: 60 – 49 = 11 (viên). 
+Vậy số kẹo ít nhất ta cần bốc từ hộp B chuyển về hộp A để chắc chắn hộp A có ít nhất 9 viên kẹo 
+mỗi loại là:  42 – 11 = 31 (viên kẹo). 
+PHẦN B. TỰ LUẬN 
+Câu 1 đến Câu 4 (mỗi câu 2,5 điểm, tổng điểm 10 điểm): Học sinh điền đáp án đúng 
+Câu 1. Có một ổ khóa số với mật mã gồm 3 chữ số. Dựa vào 4 gợi ý dưới đây, em hãy suy luận để 
+tìm ra mật mã đúng để mở khóa:  
+(1) Trong số 318: Có một chữ số đúng và nằm đúng vị trí. 
+      (2) Trong số 379: Có một chữ số đúng nhưng nằm sai vị trí. 
+(3) Trong số 863: Có hai chữ số đúng nhưng cả hai đều nằm sai vị trí. 
+(4) Trong số 421: Tất cả các chữ số trong số này đều sai.  
+Đáp số: 698. 
++) Theo gợi ý số (4), số 421 có tất cả các chữ số đều sai nên trong mật mã sẽ không có các chữ 
+số 4; 2 và 1. 
++) Theo gợi ý số (1), số 318 có một chữ số đúng và nằm đúng vị trí.  
+Giả sử 3 đúng và nằm đúng vị trí 
+→ mâu thu
+ẫn với gợi ý số (2) số 379: Có một chữ số đúng nhưng 
+nằm sai vị trí. Do đó mật mã không thể có chữ số 3. Vậy mật mã có chữ số 8 đã nằm đúng vị trí 
+và có dạng * * 8. 
++) Theo gợi ý số (3), số 863: có hai chữ số đúng nhưng cả hai đều nằm sai vị trí nên hai chữ số 
+có trong mật mã là 8 và 6 nhưng bị sai vị trí. Do đó mật mã có dạng 6 * 8. 
++) Theo gợi ý số (2), còn chữ số 7 hoặc chữ số 9 là đúng. Giả sử chữ số 7 đúng thì mật mã là 678 
+→ chữ số 7 đã nằm đúng vị trí 
+→ mâu thu
+ẫn với gợi ý số (2). Do đó chữ số đúng là chữ số 9. 
+Vậy mật mã đúng để mở khóa là 698. 
+Câu 2. Chú kiến T đang trên đường kiếm mồi cho đàn kiến, nhưng 
+phải cẩn thận (tránh) chú nhện tại điểm A (như hình vẽ). Hỏi có bao 
+nhiêu cách để chú kiến T thực hiện?   
+(Chú kiến T chỉ có thể đi sang trái hoặc đi xuống dưới)
+.  
+Đáp số: 40 cách 
+Vì chú kiến T chỉ có thể đi sang trái hoặc đi xuống dưới và không đi qua chỗ vị trí con nhện ở 
+điểm A nên ta thực hiện phép đếm như sau: 
+Điền số 1 vào các vị trí điểm dọc theo chiều dọc và chiều ngang từ chỗ xuất phát của chú kiến so 
+với chiếc bánh. Vị trí điểm có con nhện (điểm A) điền số 0. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 29 
+ 
+ 
+Vậy có 40 cách chú kiến T thực hiện.  
+Câu 3. Một ô tô chạy từ A đến B. Sau khi chạy được 2 giờ thì ô tô tăng vận tốc bằng 
+3
+2
+ vận tốc 
+ban đầu, vì thế nên ô tô đến B sớm hơn dự định 1 giờ 20 phút. Nếu từ A, sau khi chạy được 2 giờ, 
+ô tô chạy thêm 60km nữa rồi mới tăng vận tốc thì ô tô đến B sớm hơn dự định 50 phút. Tính 
+quãng đường AB. 
+Đáp số: 240km 
+ 
+Tăng vận tốc từ C thì đến B sớm hơn dự định 1 giờ 20 phút. 
+Tăng vận tốc từ D thì đến B sớm hơn dự định 50 phút. 
+* Xét trên quãng đường CD: 
+Trên cùng một quãng đường, vận tốc và thời gian là hai đại lượng tỉ lệ nghịch. 
+Tỉ số vận tốc lúc sau và lúc đầu là: 
+3
+2
+ 
+Tỉ số thời gian đi trên đoạn đường CD với vận tốc lúc sau và lúc đầu là: 
+2
+3
+ 
+Hiệu thời gian là: 1 giờ 20 phút – 50 phút = 30 (phút) 
+Thời gian đi trên đoạn đường CD với vận tốc lúc đầu là: 30 : (3 – 2) × 3 = 90 (phút) = 
+3
+2
+ (giờ) 
+Vận tốc của xe ô tô lúc đầu là: 60 : 
+3
+2
+ = 40 (km/giờ) 
+* Xét trên quãng đường CB:  
+Trên cùng một quãng đường, vận tốc và thời gian là hai đại lượng tỉ lệ nghịch. 
+Tỉ số vận tốc lúc sau và lúc đầu là: 
+3
+2
+ 
+Tỉ số thời gian đi trên đoạn đường CB với vận tốc lúc sau và lúc đầu là: 
+2
+3
+ 
+Hiệu thời gian là: 1 giờ 20 phút = 
+4
+3
+ (giờ) 
+Thời gian đi trên đoạn đường CB với vận tốc lúc đầu là: 
+4
+3
+ : (3 – 2) × 3 = 4 (giờ) 
+Tổng thời gian đi trên đoạn đường AB với vận tốc lúc đầu là: 2 + 4 = 6 (giờ) 
+Quãng đường AB dài: 40 × 6 = 240 (km) 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 30 
+ 
+Câu 4. Cho diện tích hình vuông ABCD là 150cm
+2
+. Trên cạnh AD 
+lấy điểm G, H sao cho 
+AG  GH  HD
+  
+. Trên cạnh AB và DC lần 
+lượt lấy điểm E và F sao cho 
+11
+AE   AB; DF   DC.
+33
+
+ Tính diện 
+tích phần tô đậm.  
+Đáp số: 31,25cm
+2
+. 
++) Gọi EC và FB cắt nhau tại I. 
+ Ta có: 
+ABG
+ABD
+SAG  1
+SAD  3
+
+ (chung chiều cao AB)  
+Do đó, 
+2
+ABGABDABCD
+11  11  1
+SSS150  25(cm )
+33  23  2
+         
+ 
+Suy ra, 
+2
+CDHABG
+SS25cm
+ (chiều cao bằng nhau, đáy HD = AG). 
+Diện tích hình thang GHCB là: 
+   
+2
+150  25  25  100  cm      
+ 
++) Vì 
+AG  GH  HD
+  
+ nên 
+1
+GH   AD
+3
+
+ hay 
+1
+GH   BC.
+3
+
+ 
+Xét 
+GHB
+HBC
+SGH  1
+SBC  3
+
+ (chiều cao từ B xuống GH bằng chiều cao từ H xuống BC). 
+Suy ra 
+   
+   
+2
+HBC
+S    100 : 1  3  3  75  cm    
+  
+Ta có: 
+GHB
+HBC
+SGH  1
+SBC  3
+
+, mà hai tam giác này chung đáy HB nên chiều cao từ G xuống HB bằng  
+1
+3
+ chiều cao từ C xuống HB.  
+Đưa 2 chiều cao này vào 2 tam giác GOB và tam giác BOC, ta được: 
+GOB
+BOC
+S1
+S3
+
+ (chung đáy OB). 
+Ta có 
+2
+GBCHBC
+S    S    75cm    
+ (vì chung đáy BC, chiều cao từ G đến BC bằng chiều cao từ H đến BC). 
+Suy ra: 
+2
+GOBBOCGBC
+S    S    S    75cm        
+ 
+Do đó, 
+   
+   
+2
+BOC
+S75: 1 3  3  56,25 cm    
+. 
++) Ta thấy EBCF là hình chữ nhật, EC và FB cắt nhau tại I nên hình chữ nhật EBCF được chia 
+thành 4 tam giác có diện tích bằng nhau. 
+   
+2
+BICEBCFABCD
+11  21  2
+SSS150  25 cm
+44  34  3
+         
+ 
+Diện tích phần tô đậm là: 
+   
+2
+56,25  25  31,25 cm   
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 31 
+ 
+Câu 5 và Câu 6 (mỗi câu 10 điểm, tổng điểm 20 điểm): Học sinh trình bày câu trả lời, viết quá 
+trình và kết quả suy luận. 
+Câu 5. Tính giá trị của các biểu thức sau: 
+a)  A = 2025 × 98 765 + 98 765 – 88 765 × 2026 
+b) 
+1  1   1  1   1  1   1  11   1   1
+B...
+2  15  3  20  4  25  5  3010  55  55
+           
+ 
+Đáp số:  a) 20 260 000;     b) 
+1
+10
+ 
+a) A = 2025 × 98 765 + 98 765 – 88 765 × 2026 
+     A = 98 765 × (2025 + 1) – 88 765 × 2026 
+     A = 98 765 × 2026 – 88 765 × 2026 
+     A = 2026 × (98 765 – 88 765) 
+     A = 2026 × 10 000 
+     A = 20 260 000 
+b) 
+1  1   1  1   1  1   1  11   1   1
+B...
+2  15  3  20  4  25  5  3010  55  55
+           
+ 
+     
+1   1   1   1   1   1   1   11    1   1
+B...
+2  3  5  3  4  5  4  5  5  5  6  510 11  5  55
+                 
+            
+ 
+      
+1    111111  1
+B...
+5  2  3  3  4  4  5  5  610 11   5  11
+
+
+
+               
+
+
+
+
+
+      
+ 
+      
+1  1  1  1  1  1  1  1  11   1   1
+B...
+5  2  3  3  4  4  5  5  610  11  11
+
+
+
+            
+
+
+
+
+
+ 
+      
+1  1   1
+B
+5  2  10
+  
+ 
+Câu 6. Trong hộp bút của Ann có 9 chiếc bút chì, với ít nhất một cái màu xanh dương. Biết rằng 
+nếu chọn ngẫu nhiên 4 chiếc bút chì thì chắc chắn có ít nhất 2 cái cùng màu còn nếu lấy ra ngẫu 
+nhiên 5 chiếc bút bất kỳ thì có không quá 3 cái cùng màu. Hỏi cần lấy ra ít nhất bao nhiêu chiếc 
+bút chì để chắc chắn lấy được ít nhất 2 chiếc bút màu xanh dương? 
+Đáp số: 8 chiếc bút. 
++) Vì “nếu lấy ra ngẫu nhiên 4 chiếc bút chì thì chắc chắn có ít nhất 2 cái cùng màu”  
+Do đó, những chiếc bút trong hộp gồm ít hơn 4 màu. 
++) Vì “nếu lấy ra ngẫu nhiên 5 chiếc bút chì bất kì thì không quá 3 cái cùng màu” 
+Do đó, những chiếc bút trong hộp gồm nhiều hơn 2 màu. 
+ Số bút chì của Ann gồm đúng 3 màu. 
+Mặt khác, “nếu lấy ra ngẫu nhiên 4 chiếc bút chì thì chắc chắn có ít nhất 2 cái cùng màu”  
+Do đó, số bút mỗi màu chỉ có thể tối đa là 3 chiếc. 
+Do đó, số bút chì của Ann gồm 3 màu, mỗi màu có 3 chiếc. 
++) Trường hợp xấu nhất, bạn Ann lấy ra được 6 chiếc bút chì đều không phải màu xanh dương. 
+Khi đó, nếu lấy thêm 2 chiếc nữa thì sẽ lấy được 2 chiếc màu xanh dương. 
+Vậy cần lấy ra ít nhất số chiếc bút chì để chắc chắn lấy được ít nhất 2 chiếc bút màu xanh dương là:     
+6 + 2 = 8 (chiếc bút). 
+---------------------------------HẾT--------------------------------- 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 32 
+ 
+ 
+TRƯỜNG THCS NĂNG KHIẾU  
+ĐẠI HỌC SƯ PHẠM  
+ ĐỀ ĐÁNH GIÁ NĂNG LỰC  
+TUYỂN SINH LỚP 6 NĂM HỌC 2026 – 2027 
+ĐỀ MINH HỌA SỐ 2 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN A. TRẮC NGHIỆM TỔNG HỢP 
+Câu 1 đến Câu 10 (mỗi câu 1 điểm, tổng điểm 10 điểm): Học sinh chọn đáp án đúng 
+Câu 1. Tại một máy bán đồ chơi “Blind box” ở trung tâm thương mại, bên trong máy còn đúng 
+30 hộp chứa các mô hình nhân vật được bọc kín giống hệt nhau và mỗi hộp có giá 70 000 đồng. 
+Cụ thể gồm có: 
+ 
+12 hộp chứa mô hình Bé Mèo. 
+ 
+10 hộp chứa mô hình Bé Cún. 
+ 
+8 hộp chứa mô hình Bé Rồng (phiên bản secret). 
+Bạn Tí rất đam mê sưu tầm và muốn có bằng được ít nhất 1 mô hình Bé Rồng. Vì không thể nhìn 
+thấy bên trong, Tí phải mua ngẫu nhiên từng hộp. Hỏi bạn Tí phải cần ít nhất bao nhiêu tiền để 
+chắc chắn mua được ít nhất 1 hộp có mô hình Bé Rồng? 
+A. 1 400 000 đồng.  B.  1 540 000 đồng.  C. 1 610 000 đồng.  D. 560 000 đồng. 
+Chọn C 
+Trường hợp xấu nhất ta mua hết 12 hộp chứa mô hình Bé Mèo và 10 hộp chứa mô hình Bé Cún 
+mà chưa xuất hiện hộp chứa mô hình Bé Rồng nào. Vậy cần mua thêm một hộp nữa để chắc 
+chắn trong số hộp đã mua có ít nhất 1 hộp chứa mô hình Bé Rồng. 
+Cần mua ít nhất số hộp là: 12 + 10 + 1 = 23 (hộp) 
+Số tiền bạn Tí cần là: 70 000 × 23 = 1 610 000 (đồng) 
+Câu 2.  Bạn Lan tự làm một cuốn sổ tay nhỏ và đánh số trang từ trang 1 đến trang 158. Hỏi bạn 
+Lan đã phải viết chữ số 5 tất cả bao nhiêu lần? 
+A. 32 lần.       B. 35 lần.       C. 28 lần.       D. 30 lần. 
+Chọn B 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 33 
+ 
+Xét chữ số 5 ở hàng đơn vị gồm: 5; 15; 25; 35; ...; 155 
+→ Có: (155 – 5) : 10 + 1 = 16 (chữ số 5 ở hàng đơn vị) 
+Xét chữ số 5 ở hàng chục gồm:  
++) Các số: 50; 51; 52; ...; 59 → Có 10 chữ số 5. 
++) Các số: 150; 151; 152; ...; 158 → Có 9 chữ số 5. 
+→ Có 10 + 9 = 19 (chữ số 5 ở hàng chục) 
+Vậy để đánh số trang từ trang 1 đến trang 158, bạn Lan đã viết chữ số 5 số lần là: 
+16 + 19 = 35 (lần). 
+Câu 3.  Một lớp học có chương trình sticker đổi quà cho các bạn. Biểu đồ dưới đây biểu diễn số 
+sticker tích luỹ được của 5 học sinh. Biết rằng, bạn đang có nhiều sticker nhất hơn bạn đang có 
+ít sticker nhất là 8 sticker. Hỏi bạn Charles cần tích luỹ thêm bao nhiêu sticker nữa để có thể đổi 
+được 1 con gấu bông? 
+          
+A. 4 sticker       B. 5 sticker       C. 6 sticker       D. 10 sticker 
+Chọn A 
+Nhìn vào biểu đồ, ta thấy: 
++) Bạn có nhiều sticker nhất là bạn Ben. 
++) Bạn có ít sticker nhất là bạn Darwin. 
+Coi số sticker của bạn Ben là 6 phần bằng nhau thì số sticker của bạn Darwin là 2 phần như thế, 
+số sticker của bạn Charles là 3 phần như vậy. 
+1 phần ứng với số sticker là:  8 : (6 – 2) = 2 (sticker) 
+Bạn Charles có số sticker là: 3 × 2 = 6 (sticker) 
+Quan sát bảng quy đổi quà ta thấy: Để đổi 1 con gấu bông cần 10 sticker. 
+Do đó, bạn Charles cần tích luỹ thêm số sticker nữa để đổi được 1 con gấu bông là:  
+10 – 6 = 4 (sticker) 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 34 
+ 
+Câu 4. Ngày 01/06/2021 rơi vào thứ Ba. Hỏi ngày 06/09/2021 rơi vào ngày thứ mấy trong tuần? 
+A. Thứ Hai       B. Thứ Năm      C. Thứ Bảy       D. Chủ Nhật 
+Chọn A 
+Tháng 6 có 30 ngày, tháng 7 và tháng 8 đều có 31 ngày. 
+Từ ngày 01/06/2021 đến ngày 06/09/2021 cách nhau số ngày là:  
+30 + 31 + 31 + 5 = 97 (ngày). 
+Một tuần lễ có 7 ngày nên ta có:   97 : 7 = 13 (tuần) và dư 6 ngày. 
+Do đó, ngày 06/09/2021 sẽ rơi vào thứ Hai. 
+Câu 5.  Quan sát quy luật của dãy hình dưới đây. 
+ 
+Theo quy luật đó, tính diện tích phần tô đậm trong hình thứ 16, biết diện tích hình 1 là 27cm
+2
+. 
+A. 72cm
+2
+.  B. 99cm
+2
+.       C. 108cm
+2
+.       D. 70cm
+2
+. 
+Chọn C 
+Ta thấy số hình vuông nhỏ được tô đậm trong các hình trên theo quy luật sau: 
+Hình 1 có:  3 × 2 – 1 = 5 (hình) 
+Hình 2 có:  4 × 2 = 8 (hình) 
+Hình 3 có:  5 × 2 – 1 = 9 (hình) 
+Hình 4 có:  6 × 2 = 12 (hình) 
+... 
+Theo quy luật trên, hình thứ 16 có số hình vuông nhỏ được tô đậm là: 18 × 2 = 36 (hình). 
+Hình 1 có 9 hình vuông nhỏ nên diện tích của 1 hình vuông nhỏ là:  27 : 9 = 3 (cm
+2
+)  
+Diện tích phần tô đậm trong hình thứ 16 là: 3 × 36 = 108 (cm
+2
+) 
+Câu 6. Bạn Minh sử dụng 4 màu để tô một bản đồ có 4 thành phố A, B, 
+C, D như hình bên. Hỏi có bao nhiêu cách tô màu bản đồ sao cho không 
+có 2 thành phố nào kề nhau có cùng màu? 
+A. 24 cách.   B. 30 cách.       
+C. 36 cách.     D. 48 cách. 
+Chọn D 
+Hình 4 Hình 3 
+Hình 2 
+Hình 1 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 35 
+ 
+Thành phố A có 4 cách chọn màu 
+Thành phố B có 3 cách chọn màu (khác thành phố liền kề A) 
+Thành phố C có 2 cách chọn màu (khác hai thành phố liền kề A và B) 
+Thành phố D có 2 cách chọn màu (khác hai thành phố liền kề B và C) 
+Vậy ta có số cách tô màu cho bản đồ sao cho không có 2 thành phố nào kề nhau có cùng màu là:  
+4 × 3 × 2 × 2 = 48 (cách) 
+Câu 7.  Ta viết các số có ba chữ số liên tiếp nhau tạo thành một số có dạng:  
+A = 100101102103104... Các chữ số của số chẵn được viết bằng màu đỏ, các chữ số của số lẻ 
+được viết bằng màu xanh. Hỏi chữ số thứ 2026 là chữ số mấy và có màu gì? 
+A. Chữ số 8, màu đỏ.                                                     B. Chữ số 7, màu xanh.    
+C. Chữ số 7, màu đỏ.                                                             D. Chữ số 5, màu xanh.  
+Chọn B 
+Nhìn vào số A =100101102103104..., ta thấy số này được tạo thành bằng cách viết liên tiếp các 
+số tự nhiên có 3 chữ số bắt đầu từ 100. 
+Xét dãy: 100; 101; 102; 103; ... 
+Ta có: 2026 : 3 = 675 (dư 1) 
+Do đó, chữ số thứ 2026 là chữ số hàng trăm trong số hạng thứ 676 của dãy. 
+Số hạng thứ 676 của dãy là: (676 – 1) × 1 + 100 = 775. 
+Do vậy, chữ số thứ 2026 của số A là chữ số 7 trong số 775, mà số 775 là số lẻ nên được viết bằng 
+màu xanh. 
+Vậy chữ số thứ 2026 của số A là chữ số 7 và được viết bằng màu xanh. 
+Câu 8. Cho tấm bìa như sau: 
+ 
+Khi trải phẳng tấm bìa đó, ta có thể nhận được kết quả nào dưới đây? 
+A.  
+B.  
+C.  
+D.  
+Chọn D   
+Quan sát khối lập phương, nhận thấy hai phần lõm của khối lập phương phải ở vị trí đối diện 
+nhau. Kiểm tra các phương án nhận thấy, phương án (A), (B) (C) hai phần lõm của hình lập 
+phương nằm ở các mặt kề nhau, chỉ có duy nhất phương án (D) là thỏa mãn. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 36 
+ 
+Câu 9. Trong một lần đi dã ngoại, Alex và Tony đã mang theo những gói bánh giống hệt nhau, 
+Alex mang 8 gói và Tony mang 7 gói. Do sơ suất nên Clara đã quên mang theo đồ ăn, vì thế nên 
+số gói bánh của Alex và Tony đã được chia đều cho ba bạn. Khi trở về, Clara muốn trả tiền bánh 
+cho hai người bạn của mình với tổng số tiền là 30 đồng. Alex sẽ nhận được bao nhiêu đồng nếu 
+số tiền được chia công bằng theo số gói bánh mà mỗi bạn bỏ ra? 
+A. 15 đồng. B. 22 đồng.       C. 20 đồng.       D. 18 đồng. 
+Chọn D 
+Tổng số gói bánh mà hai bạn Alex và Tony đã mang đi là: 8 + 7 = 15 (gói). 
+Số gói bánh được chia đều cho 3 bạn Alex, Tony và Clara thì mỗi bạn nhận được: 15 : 3 = 5 (gói) 
+1 gói bánh ứng với: 30 : 5 = 6 (đồng). 
+Alex đưa cho Clara số gói bánh: 8 – 5 = 3 (gói). 
+Số tiền mà Alex nhận được là:  6 ×  3 = 18 (đồng). 
+Câu 10. Trong một cuộc bầu cử giữa ba ứng viên, số phiếu họ nhận được từ 60 người bầu cử đầu 
+tiên lần lượt là 10, 35 và 15 phiếu bầu. Hiện còn 40 người nữa sắp bỏ phiếu bầu, mỗi phiếu chỉ 
+bầu cho một trong ba ứng cử viên. Hỏi có bao nhiêu cách để ứng cử viên hiện đang có 10 phiếu 
+bầu trở thành người chiến thắng duy nhất? (Biết rằng không có ai bằng điểm nhau) 
+A. 120 cách.      B. 64 cách.       C. 65 cách.       D. 100 cách. 
+Chọn B 
+Gọi 3 ứng cử viên lần lượt là người A; người B; người C. 
+Người A hiện có 10 phiếu bầu, người B hiện có 35 phiếu bầu, người C hiện có 15 phiếu bầu. 
++) Hiện tại người B đang có nhiều số phiếu bầu nhất là 35 phiếu bầu nên để người A là người 
+chiến thắng thì tối thiểu người A phải có ít nhất 36 phiếu bầu.  
+Do đó, số phiếu bầu người A phải lấy thêm được ít nhất là: 36 – 10 = 26 (phiếu) 
+Số phiếu bầu còn lại là: 40 – 26 = 14 (phiếu). 
++) Nếu như 14 phiếu bầu còn lại đều là của người C thì C cũng không thể nào là người chiến 
+thắng (14 + 15 = 29 phiếu < 36 phiếu). 
+Do đó, ta có các trường hợp để người A giành chiến thắng: 
+Trường hợp 1: Người B không nhận thêm phiếu bầu nào. Khi đó, số phiếu bầu hiện tại của mỗi 
+người là: Người A: 36 phiếu; người B: 35 phiếu; người C: 15 phiếu và còn lại tất cả 14 phiếu bầu. 
+Do đó, cứ mỗi lần người A nhận được (x phiếu bầu) từ 14 phiếu bầu còn lại thì người C nhận 
+được 14 – x (phiếu bầu)  (x có thể bằng 0; 1; 2; 3; ...; 14) 
+ Có số cách là: 15 cách. 
+Trường hợp 2: Người B nhận được thêm 1 phiếu bầu. Khi đó, số phiếu bầu hiện tại của mỗi 
+người là: Người A: 36 phiếu; người B: 36 phiếu; người C: 15 phiếu và còn lại tất cả 13 phiếu bầu. 
+Do đó, cứ mỗi lần người A nhận được (x phiếu bầu) từ 13 phiếu bầu còn lại thì người C nhận 
+được 13 – x (phiếu bầu)  (x có thể bằng 1; 2; 3; 4; ...; 13) 
+ Có số cách là: 13 cách. 
+Trường hợp 3: Người B nhận được thêm 2 phiếu bầu. Khi đó, số phiếu bầu hiện tại của mỗi 
+người là: Người A: 36 phiếu; người B: 37 phiếu; người C: 15 phiếu và còn lại tất cả 12 phiếu bầu. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 37 
+ 
+Do đó, cứ mỗi lần người A nhận được (x phiếu bầu) từ 12 phiếu bầu còn lại thì người C nhận 
+được 12 – x (phiếu bầu)  (x có thể bằng 2; 3; 4; 5; ...; 12) 
+ Có số cách là: 11 cách. 
+Tương tự quy luật trên ta có: 
+Trường hợp 4: Người B nhận được thêm 3 phiếu bầu  Số cách là 9 cách 
+Trường hợp 5: Người B nhận được thêm 4 phiếu bầu  Số cách là 7 cách 
+Trường hợp 6: Người B nhận được thêm 5 phiếu bầu  Số cách là 5 cách 
+Trường hợp 7: Người B nhận được thêm 6 phiếu bầu  Số cách là 3 cách 
+Trường hợp 8: Người B nhận được thêm 7 phiếu bầu  Số cách là 1 cách 
+Trường hợp nếu người B nhận thêm 8 phiếu bầu thì số phiếu bầu của người B lúc này là: 
+35 + 8 = 43 (phiếu bầu) nên để người A thắng thì người A cần phải có tối thiểu 44 phiếu bầu, 
+nên số phiếu bầu người A cần phải nhận thêm là: 44 – 10 = 34 (phiếu bầu) mà số phiếu bầu còn 
+lại là: 40 – 8 = 32 (phiếu bầu)  Loại. 
+Có tất cả số cách để người hiện đang có 10 phiếu bầu (người A) trở thành người chiến thắng 
+duy nhất là:       15 + 13 + 11 + 9 + ... + 1 = 64 (cách). 
+PHẦN B. TỰ LUẬN 
+Câu 1 đến Câu 4 (mỗi câu 2,5 điểm, tổng điểm 10 điểm): Học sinh điền đáp án đúng 
+Câu 1.  Cho 
+MEET 4  TEAM  
+, biết các chữ cái khác nhau biểu diễn một chữ số khác nhau,  
+M và T đều khác 0. Tính T + E + A + M. 
+Đáp số: 13 
++) Từ 
+MEET 4  TEAM  
+ suy ra M < 3, vì nếu M không nhỏ hơn 3 thì 
+MEET  4  3000 4  
+,  
+hay 
+TEAM
+ > 12 000 (mâu thuẫn, vì 
+TEAM
+ < 10 000). 
++) Quan sát phép tính ta thấy:  T × 4 = 
+...M
+ suy ra M là chữ số chẵn mà M < 3 và M khác 0 nên 
+M = 2. 
+Ta có: T × 4 = 
+...2
+. Do đó T = 3 hoặc T = 8. 
+Nhận thấy M × 4 = 2 × 4 = 8 > 3 nên T = 8. 
++) Khi đó ta có:  
+
+2EE8 4  8EA2
+2008  EE0  4  8002  EA0
+8032  EE0 4  8002  EA0
+  
+  
+      
+ 
+30  EE0 4  EA0
+3  EE 4  EA
+3  E 11 4  E 10  A
+3  E 44  E 10  A
+      
+     
+          
+         
+ 
+3 E 34  A    
+ (bớt cả 2 vế cho 
+E 10
+) 
+Mà A và E là các chữ số nên suy ra E = 0 và A = 3. 
+Thử lại phép tính:  2008 × 4 = 8032 (đúng). 
+Vậy  T + E + A + M = 8 + 0 + 3 + 2 = 13. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 38 
+ 
+Câu 2.  Một ô tô đi từ địa điểm A đến địa điểm B và từ địa điểm B đến địa điểm C. Thời gian đi từ 
+A đến B là 2 giờ, thời gian đi từ B đến C là 4 giờ. Vận tốc đi từ B đến C lớn hơn vận tốc đi từ A 
+đến B là 10km/giờ. Quãng đường BC dài hơn quãng đường AB là 120km. Tính độ dài quãng 
+đường AC. 
+Đáp số: 280km 
+Giả sử từ B đến C ô tô giảm vận tốc đi 10km/giờ. Khi đó, vận tốc đi trên quãng đường BC bằng 
+vận tốc đi trên quãng đường AB và sau 4 giờ ô tô chỉ đến điểm E cách C là:  
+10 × 4 = 40 (km). 
+ 
+Quãng đường BE dài hơn quãng đường AB là:   
+120 – 40 = 80 (km). 
+Tỉ số thời gian của ô tô đi trên quãng đường AB và BE là: 
+1
+2 : 4
+2
+
+ 
+Với cùng vận tốc, quãng đường và thời gian tỉ lệ thuận với nhau. 
+Tỉ số độ dài quãng đường AB và quãng đường BE là 
+1
+2
+. 
+Độ dài quãng đường AB là:   
+80 : (2 – 1) × 1 = 80 (km) 
+Độ dài quãng đường BC là:  80 + 120 = 200 (km) 
+Độ dài quãng đường AC là:  80 + 200 = 280 (km) 
+Câu 3. Cho hình bình hành ABCD. Kéo dài AB về phía B và lấy 
+điểm E bất kì, kéo dài AD về phía D và lấy điểm F bất kì. Nối BF 
+và DE cắt nhau ở K. Tính diện tích tứ giác ABKD, biết diện tích 
+tam giác CKE và diện tích tam giác CKF lần lượt là 30cm
+2
+ và 
+24cm
+2
+.  
+Đáp số: 54cm
+2
+ 
+Nối B với D. 
++) Ta có:  
+BAFABDBDFABCDBDF
+1
+S    S    SSS
+2
+        
+ (1) 
++) Ta có: 
+ECFDEDCCDF
+SS    S    
+ 
+Mà 
+EDCBDC
+S    S
+ (chung đáy DC; chiều cao hạ từ E và B xuống 
+DC bằng nhau) 
+40km
+E
+B
+C
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 39 
+ 
+CDFBDF
+S    S
+ (chung đáy DF; chiều cao hạ từ B và C xuống DF bằng nhau) 
+Suy ra 
+ECFDEDCCDFBDCBDFABCDBDF
+1
+SS    S    S    SSS
+2
+                
+ (2) 
+Từ (1) và (2) ta có:  
+BAFECFD
+S    S
+. Mà hai phần diện tích này có phần diện tích chung là 
+DKF
+S
+. 
+Do đó,  
+   
+2
+ABKDECFK
+SS30  24  54 cm      
+ 
+Câu 4. Các số tự nhiên được điền vào bảng như quy luật dưới đây. Tìm số ở hàng thứ 50 và cột 
+thứ 20. 
+1 2 4 7 11 16 ... 
+3 5 8 12 17 23 ... 
+6 9 13 18 24 ... ... 
+10 14 19 25 ... ... ... 
+... ... ... ... ... ... ... 
+Đáp số: 2396 
++) Xét các số đầu tiên của các hàng ngang: 1; 3; 6; 10;...  
+Ta có:  3 = 1 + 2  
+             6 = 1 + 2 + 3  
+            10 = 1 + 2 + 3 + 4  
+             .....  
+Quy luật: Số đầu tiên của mỗi hàng ngang bằng tổng của dãy số tự nhiên liên tiếp bắt đầu từ  
+1 đến đúng số thứ tự của hàng đó.  
+Vậy số đầu tiên của hàng thứ 50 là: 1 + 2 + 3 + 4 + ... + 50 = 1275. 
++) Xét hàng ngang thứ 1: Số hạng đầu là 1  
+Ta có:  Cột thứ 2:                2 = 1 + 1  
+             Cột thứ 3:                4 = 1 + 1 + 2  
+             Cột thứ 4:                7 = 1 + 1 + 2 + 3  
+             Cột thứ 5:               11 = 1 + 1 + 2 + 3 + 4  
+Xét hàng ngang thứ 2: Số hạng đầu là 3  
+Ta có: Cột thứ 2:                5 = 3 + 2   
+             Cột thứ 3:               8 = 3 + 2 + 3  
+             Cột thứ 4:              12 = 3 + 2 + 3 + 4  
+             Cột thứ 5:              17 = 3 + 2 + 3 + 4 + 5  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 40 
+ 
+Quy luật: Mỗi số hạng (kể từ cột thứ 2) sẽ bằng số hạng đầu tiên của hàng ngang tương ứng 
+cộng với tổng của dãy số tự nhiên liên tiếp bắt đầu từ số thứ tự của hàng ngang đó, sao cho số  
+lượng số hạng của dãy ít hơn số thứ tự của cột dọc 1 số.  
+Vậy số ở hàng thứ 50 và cột thứ 20 là: 1275 + (50 + 51 + 52+ ... + n)   
+                                                                                                           19 số   
+Ta có: 50; 51; 52;...; n là dãy số tự nhiên liên tiếp có số đầu là 50, số cuối là n và số lượng số  
+hạng là 19 số.  
+Do đó, n = (19 – 1) × 1 + 50 = 68.  
+Vậy số ở hàng thứ 50 và cột thứ 20 là:  1275 + (50 + 51 + 52+ .... + 68) = 2396.  
+Câu 5 và Câu 6 (mỗi câu 10 điểm, tổng điểm 20 điểm): Học sinh trình bày câu trả lời, viết quá 
+trình và kết quả suy luận. 
+Câu 5. Một thư viện có tổng cộng 458 quyển sách Toán và Văn. Sau khi cho mượn 
+2
+3
+ số sách 
+Toán và 35 quyển sách Văn thì số sách Toán còn lại bằng 
+2
+3
+ số sách Văn còn lại. Hỏi thư viện đã 
+cho mượn bao nhiêu quyển sách Toán? 
+Đáp số: 188 quyển sách.  
+Sau khi cho mượn, số sách Toán còn lại là:  1 – 
+2
+3
+ = 
+1
+3
+ (tổng số sách Toán) 
+Do đó, 
+1
+3
+ tổng số sách Toán bằng 
+2
+3
+ số sách Văn còn lại.  
+Số sách Văn còn lại chiếm: 
+1 2  1
+:
+3 3  2
+
+ (tổng số sách Toán)  
+Nếu chỉ cho mượn 35 quyển sách Văn thì tổng số sách Văn còn lại và tổng số sách Toán là: 
+458 – 35 = 423 (quyển sách) 
+Ta có sơ đồ: 
+ 
+Tổng số sách Toán của thư viện là:  423 : (1 + 2) × 2 =  282 (quyển sách). 
+Số sách Toán thư viện đã cho mượn là:  282 × 
+2
+3
+ = 188 (quyển). 
+Câu 6. Trong một giải bóng đá có 4 đội A, B, C, D thi đấu, mỗi đội phải đấu 1 trận với mỗi đội 
+còn lại, thắng được 3 điểm, hòa được 1 điểm, thua không được điểm nào. Kết thúc giải, 3 đội 
+A, B, C đạt được số điểm lần lượt là 6; 5; 1. Hãy tìm xem đội D được bao nhiêu điểm và đưa ra 
+kết quả từng trận của các đội đấu với đội D. 
+Đáp số: Đội D thua đội A; đội D hòa đội B;  đội D thắng đội C và đội D đạt được 4 điểm. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 41 
+ 
+Do có 4 đội thi đấu, mỗi đội phải đấu 1 trận với mỗi đội còn lại nên mỗi đội phải tham gia 3 trận 
+thi đấu. 
+Do 6 = 3 + 3 + 0 nên đội A có 2 trận thắng, 1 trận thua. 
+Do 5 = 3 + 1 + 1 nên đội B có 1 trận thắng, 2 trận hòa. 
+Do 1 = 1 + 0 + 0 nên đội C có 1 trận hòa, 2 trận thua. 
++) Do đội A thắng 2 trận mà đội B không thua trận nào nên đội A đã thắng 2 đội còn lại là đội C 
+và đội D. 
++) Đội A thua 1 trận nên đội A thua đội B. 
++) Đội B hòa 2 trận mà đội B đã thắng đội A nên đội B sẽ hòa với 2 đội còn lại là đội C và đội D. 
++) Đội C thua 2 trận mà đội C đã hòa đội B và đội C thua 1 trận đội A nên trận thua còn lại là 
+đội C thua đội D. 
+ Đội D thua đội A; đội D hòa đội B;  đội D thắng đội C. 
+Tổng số điểm đội D đạt được là: 1 + 3 = 4 (điểm). 
+---------------------------------HẾT--------------------------------- 
+ 
+ 
+  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 42 
+ 
+ 
+TRƯỜNG THCS NĂNG KHIẾU  
+ĐẠI HỌC SƯ PHẠM  
+ĐỀ ĐÁNH GIÁ NĂNG LỰC  
+TUYỂN SINH LỚP 6 NĂM HỌC 2026 – 2027 
+ĐỀ MINH HỌA SỐ 3 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN A. TRẮC NGHIỆM TỔNG HỢP 
+Câu 1 đến Câu 10 (mỗi câu 1 điểm, tổng điểm 10 điểm): Học sinh chọn đáp án đúng 
+Câu 1 đến Câu 3: Học sinh dùng thông tin dưới đây để trả lời.  
+BẢNG THÔNG TIN VỀ MỘT SỐ LOẠI NƯỚC UỐNG 
+Tên nước uống Nhóm chất chính Lượng calo / 100ml 
+Nước lọc Nước tinh khiết 0 kcal 
+Nước cam tươi Vitamin + Đường 50 kcal 
+Sữa đậu nành Đạm + Béo thực vật 90 kcal 
+Nước ngọt có ga Đường 45 kcal 
+Sữa tươi nguyên kem Đạm + Đường + Béo động vật 70 kcal 
+Trà xanh không đường Chất chống ôxy hóa 0 kcal 
+Trà sữa Đường + Béo + Chất tạo vị 110 kcal 
+Nước dừa Vitamin + Khoáng + Đường nhẹ 30 kcal 
+Câu 1. Một bạn uống 250ml sữa tươi nguyên kem. Hỏi bạn đó đã nạp vào cơ thể bao nhiêu kcal? 
+A. 175 kcal.       B. 155 kcal.       C. 140 kcal.       D. 135 kcal.   
+Chọn A 
+Quan sát bảng thông tin, ta thấy: 100ml sữa tươi nguyên kem chứa 70 kcal.  
+250ml gấp 100ml số lần là: 250 : 100 = 2,5 (lần) 
+250ml sữa tươi nguyên kem chứa: 70 × 2,5 = 175 (kcal) 
+Vậy bạn đó đã nạp vào cơ thể 175 kcal. 
+Câu 2. Một ly trà sữa 200ml, hỏi ly trà sữa đó chứa bao nhiêu kcal? 
+A. 110 kcal.       B. 200 kcal.       C. 220 kcal       D. 225 kcal. 
+Chọn C 
+Quan sát bảng thông tin, ta thấy: 100ml trà sữa chứa 110 kcal.  
+200ml gấp 100ml số lần là: 200 : 100 = 2 (lần) 
+200ml trà sữa chứa: 110 × 2 = 220 (kcal) 
+Vậy ly trà sữa đó chứa 220 kcal. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 43 
+ 
+Câu 3. Loại nước nào dưới đây không cung cấp calo? 
+A. Nước cam tươi.                   B. Trà xanh không đường.  
+C. Nước dừa.                      D. Sữa đậu nành. 
+Chọn B 
+Trong các loại nước đã cho, loại nước không cung cấp calo là: Trà xanh không đường. 
+Câu 4. Ngô Quyền đã chiến thắng giặc ngoại xâm trên sông Bạch Đằng vào năm 938. Hỏi năm đó 
+thuộc thế kỷ bao nhiêu? 
+A. Thế kỷ 8.       B. Thế kỷ 9.       C. Thế kỷ 10.      D. Thế kỷ 11. 
+Chọn C 
+Năm 938 nằm trong khoảng thời gian từ năm 901 đến năm 1000 (thế kỷ 10). 
+Do đó, năm 938 thuộc thế kỷ 10. 
+Câu 5. Hỏi có bao nhiêu que diêm được sử dụng trong hình thứ 10?  
+ 
+A. 38 que diêm.  B. 40 que diêm.    C. 42 que diêm.    D. 44 que diêm. 
+Chọn C 
+Quan sát hình vẽ, ta thấy: 
+Hình thứ nhất có: 6 que diêm 
+Hình thứ 2 có: 6 + 4 × 1 = 10 (que diêm) 
+Hình thứ 3 có: 6 + 4 × 2 = 14 (que diêm) 
+...  
+Tiếp tục quy luật của dãy hình như trên, hình thứ 10 có:  
+6 + 4 × 9 = 42 (que diêm) 
+Vậy có 42 que diêm được sử dụng trong hình thứ 10. 
+Câu 6. Tính giá trị biểu thức: 0,48 × 5 + 48% × 2 + 3 × 0,48. 
+A. 48. B. 4,8.          C. 58.          D. 5,8. 
+Chọn B 
+     0,48 × 5 + 48% × 2 + 3 × 0,48 
+=  0,48 × 5 + 0,48 × 2 + 3 × 0,48 
+=  0,48 × (5 + 2 + 3) 
+=  0,48 × 10  
+=  4,8 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 44 
+ 
+Câu 7. Một bạn vẽ 100 hình lập phương rồi tô màu các hình đó theo thứ tự lần lượt: xanh, đỏ, 
+tím, vàng, nâu, xanh, đỏ, tím, vàng, nâu ... Hỏi hình lập phương cuối cùng được tô màu gì? 
+A. Xanh. B. Đỏ.          C. Vàng.        D. Nâu. 
+Chọn D 
+Theo đề bài, 100 hình lập phương được tô màu theo quy luật lặp lại: (xanh, đỏ, tím, vàng, nâu) 
+Nhóm màu được lặp có tất cả 5 màu. 
+Ta có: 100 : 5 = 20. 
+Vậy hình lập phương cuối cùng được tô màu nâu. 
+Câu 8. Cho tấm bìa như sau: 
+ 
+Hãy cho biết, tấm bìa trên có thể ghép được thành hình nào dưới đây? 
+A.  
+B.  
+C.  
+D.  
+Chọn C 
+Ta đánh số như sau: 
+ 
+Quan sát tấm bìa, ta thấy:  
+Mặt (1) đối diện với mặt (6); Mặt (2) đối diện với mặt (4); Mặt (3) đối diện với mặt (5). 
+Do đó, chỉ có hình ở phương án C thỏa mãn đề bài.  
+Câu 9. Nhân dịp khai trương, một cửa hàng giảm giá một mặt hàng 20% so với giá định bán 
+nhưng vẫn lãi 30% so với tiền vốn. Nếu không hạ giá thì cửa hàng đó lãi bao nhiêu phần trăm so 
+với tiền vốn? 
+A. 60%. B. 62,5%.       C. 50%.        D. 40%. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 45 
+ 
+Chọn B 
+Giá bán sau khi giảm bằng: 100% – 20% = 80% (giá định bán) 
+Giá bán sau khi giảm bằng: 100% + 30% = 130% (tiền vốn) 
+Do đó, 80% giá định bán = 130% tiền vốn 
+Giá định bán bằng: 130% : 80% = 162,5% (tiền vốn) 
+Nếu không giảm giá, cửa hàng đó đã lãi số phần trăm so với tiền vốn là:  
+162,5% – 100% = 62,5% (tiền vốn) 
+Câu 10. Bạn Tí sưu tầm các loại thẻ ghi số chẵn từ 0 đến 20 và để trong cùng 1 chiếc hộp, trong 
+đó Tí đã sưu tầm được: 1 thẻ ghi số 0; 3 thẻ ghi số 2; 5 thẻ ghi số 4; 7 thẻ ghi số 6; ...; 21 thẻ ghi 
+số 20. Tí lấy các thẻ từ trong hộp ra mà không nhìn vào hộp. Hỏi Tí phải lấy ra ít nhất bao nhiêu 
+thẻ để chắc chắn lấy được 13 thẻ có ghi số giống nhau? 
+A. 101. B. 97.           C. 120.        D. 121. 
+Chọn B 
+Theo đề bài, Tí đã sưu tầm được: 1 thẻ ghi số 0; 3 thẻ ghi số 2; 5 thẻ ghi số 4; 7 thẻ ghi số 6; ...; 
+21 thẻ ghi số 20. 
+Trong trường hợp xấu nhất: Tí lấy được 1 thẻ ghi số 0; 3 thẻ ghi số 2;...; 11 thẻ ghi số 10; 12 thẻ 
+ghi số 12; 12 thẻ ghi số 14; 12 thẻ ghi số 16; 12 thẻ ghi số 18 và 12 thẻ ghi số 20. 
+Do đó, số thẻ Tí đã lấy được là: 1 + 3 + ... + 11 + 12 × 5 = 96 (thẻ) 
+Để chắc chắn lấy được 13 thẻ có số giống nhau thì Tí cần lấy thêm 1 tấm thẻ nữa.  
+Vậy Tí cần phải lấy ít nhất: 96 + 1 = 97 (thẻ) để đảm bảo trong đó có 13 thẻ có số giống nhau. 
+PHẦN B. TỰ LUẬN 
+Câu 1 đến Câu 4 (mỗi câu 2,5 điểm, tổng điểm 10 điểm): Học sinh điền đáp án đúng 
+Câu 1. Cho 4 số 637, 148, 685, 209. Tìm một số tự nhiên có 3 chữ số biết rằng trong 4 số đã cho, 
+mỗi số đều có đúng 1 chữ số chính xác và ở đúng vị trí trong số cần tìm. 
+Đáp số: 649 
+Gọi số cần tìm có dạng 
+abc
+ (a, b, c là các chữ số; a khác 0) 
+Vì 
+abc
+ là số có 3 chữ số nên trong 4 số đã cho sẽ có 2 số có chung 1 chữ số chính xác và ở đúng 
+vị trí trong số 
+abc
+. 
+Xét hai số: 637 và 685 đều có chữ số 6 và đều ở vị trí hàng trăm (thỏa mãn). 
+Xét hai số: 148 và 685 đều có chữ số 8 nhưng ở vị trí khác nhau (loại). 
+Do đó, a = 6. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 46 
+ 
+Vì mỗi số đều có đúng 1 chữ số chính xác và ở đúng vị trí trong số cần tìm nên b có thể là 4 hoặc 
+0; c có thể là 8 hoặc 9. 
+Xét số 685; 637 có chữ số 6 đúng nên b, c phải khác 8; 5; 3; 7. 
+Do đó, c = 9. 
+Xét số 209 có chữ số 9 đúng nên b phải khác 0. Do đó b = 4. 
+Do đó, a = 6; b = 4; c = 9.  
+Vậy số cần tìm là 649. 
+Câu 2. Cho tam giác ABC. I là một điểm ở trong tam giác. Từ I kẻ các đường thẳng song song với 
+các cạnh BC, AB, AC. Các đường thẳng này lần lượt cắt các cạnh AB, AC, BC tại các điểm E, F, K. 
+Nối C với E, nối B với F, nối A với K, chúng cắt nhau tại các điểm M, N, P như hình vẽ. Biết diện 
+tích tam giác MPN là 40cm
+2
+, diện tích tam giác NEB là 12cm
+2
+. Tính diện tích phần tô đậm trong 
+hình. 
+ 
+Đáp số: 28cm
+2
+ 
+Ta đánh số như sau: 
+ 
+Theo đề bài: 
+  
+22
+42
+40   ;12    
+MPNNEB
+S   Scm S   Scm
+ 
+Vì FI song song với AB nên tứ giác FABI là hình thang. Do đó, chiều cao hạ từ đỉnh F xuống AB 
+bằng chiều cao hạ từ đỉnh I xuống AB. 
+Mà tam giác ABI và tam giác AFB có chung đáy AB nên 
+(1)(5)(2)AIBAFB
+S    S    S   S   S       
+. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 47 
+ 
+Tương tự, ta có: 
+(2)(7)(3)BICBEC
+S    S    S   S   S        
+; 
+(3)(6)(1)AICAKC
+S    S    S   S   S        
+ 
+Ta lại có: 
+ABCAIB    BICAIC
+S   S   S   S      
+ 
+Suy ra, 
+(1)(5)(2)(2)(7)(3)(3)(6)(1)ABC
+S    S   S   S   S   S   S   S   S   S                               
+ 
+
+(1)(2)(3)(5)(6)(7)(1)(2)(3)ABC
+SS   S   S   S   S   S   S   S   S                      
+ 
+
+(4)(1)(2)(3)ABCABC
+SS   S   S   S   S          
+ 
+Do đó, 
+(4)(1)(2)(3)
+S   S   S   S       
+ 
+Suy ra, 
+2
+(1)(3)(4)(2)
+40 12  28 (   )             S  S  S  Scm
+. 
+Vậy diện tích phần tô đậm trong hình đã cho là 28cm
+2
+. 
+Câu 3. Trên một tuyến đường thẳng từ A đến B dài 160km, có vị trí C nằm giữa A và B, biết rằng 
+quãng đường từ A đến C dài 30km. 
+Lúc 7 giờ sáng, một xe tải đi từ A đến B với tốc độ 40km/giờ. 
+Lúc 8 giờ 30 phút sáng, một xe khách đi từ C đến B với vận tốc 60km/giờ và gặp xe tải. Biết rằng 
+khi xe khách đi được 45 phút thì dừng nghỉ 15 phút, sau đó tiếp tục đi với vận tốc cũ. 
+Hỏi: Hai xe gặp nhau tại điểm cách B bao nhiêu ki-lô-mét? 
+Đáp số: 10km 
+Khi xe khách xuất phát, xe tải đã đi được khoảng thời gian là:  
+8 giờ 30 phút – 7 giờ  = 1 giờ 30 phút = 1,5 (giờ). 
+Khi xe khách xuất phát, xe tải đã đi được quãng đường là:    40 × 1,5 = 60 (km). 
+Trong 45 phút = 
+3
+4
+ giờ, xe khách đi được quãng đường là:  60 × 
+3
+4
+ = 45 (km). 
+Trong 45 phút = 
+3
+4
+ giờ, xe tải đi được quãng đường là:  40 × 
+3
+4
+ = 30 (km). 
+Khi xe khách dừng nghỉ 15 phút = 
+1
+4
+ giờ, xe tải đi được quãng đường là:  
+40 × 
+1
+4
+ = 10 (km). 
+Khoảng cách của hai xe lúc này là: (60 + 30 + 10) – (30 + 45) = 25 (km). 
+Kể từ sau khi xe khách nghỉ 15 phút, thời gian hai xe đi để gặp nhau là:   
+25 : (60 – 40) = 1,25 (giờ). 
+Kể từ sau khi xe khách nghỉ 15 phút, quãng đường xe khách đã đi thêm để gặp xe tải là:  
+60 × 1,25 = 75 (km). 
+Điểm gặp nhau của 2 xe cách B số ki-lô-mét là:  160 – (75 + 30 + 45) = 10 (km). 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 48 
+ 
+Câu 4. Các số tự nhiên 1, 2, 3, ... được điền vào bảng theo quy luật như hình vẽ bên dưới. Hỏi số 
+được điền ở ô ngoài cùng bên trái của hàng thứ 2023 là số nào? 
+1      
+3 2     
+4 5 6    
+10 9 8 7   
+11 12 13 14 15  
+... ... ... ... ... ... 
+Đáp số: 2 045 254 
+Quy luật: Ở các hàng có thứ tự lẻ, số được điền ở ô ngoài cùng bên trái của hàng bằng tổng số ô 
+ở tất cả các hàng trước đó cộng thêm 1. 
+- Số được điền ở ô ngoài cùng bên trái hàng 1 là: 1. 
+- Số được điền ở ô ngoài cùng bên trái hàng 3 là: (1 + 2) + 1 = 4. 
+- Số được điền ở ô ngoài cùng bên trái hàng 5 là: (1 + 2 + 3 + 4) + 1 = 11. 
+... 
+Vậy số được điền ở ô ngoài cùng bên trái hàng 2023 là: 
+(1 + 2 + 3 + ... + 2022) + 1 = (1 + 2022) × 2022 : 2 + 1 = 2 045 254. 
+Câu 5 và Câu 6 (mỗi câu 10 điểm, tổng điểm 20 điểm): Học sinh trình bày câu trả lời, viết quá 
+trình và kết quả suy luận. 
+Câu 5. Bạn Nam có 3 hộp bi. Nếu chuyển 
+1
+5
+ số bi ở hộp thứ nhất sang hộp thứ hai thì số bi ở hộp 
+thứ hai bằng 
+9
+8
+ số bi ở hộp thứ nhất. Nếu chuyển 
+1
+5
+ số bi ở hộp thứ hai sang hộp thứ ba thì số 
+bi ở hộp thứ hai và hộp thứ ba bằng nhau. 
+a) Tính tỉ số số bi của hộp thứ nhất và hộp thứ hai. 
+b) Tính số bi ở mỗi hộp biết tổng số bi của hộp thứ hai và hộp thứ ba là 56 viên bi. 
+Đáp số: a) 
+10
+7
+; b) Hộp thứ nhất: 50 viên bi; Hộp thứ hai: 35 viên bi; Hộp thứ ba: 21 viên bi 
+a) Nếu chuyển 
+1
+5
+ số bi ở hộp thứ nhất sang hộp thứ hai thì số bi ở hộp thứ nhất lúc sau bằng  
+4
+5
+ số bi ở hộp thứ nhất lúc đầu. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 49 
+ 
+Vì số bi ở hộp thứ hai lúc sau bằng 
+9
+8
+ số bi ở hộp thứ nhất lúc sau nên số bi ở hộp thứ hai lúc 
+sau bằng: 
+4  9  9
+5  8  10
+  
+ (số bi ở hộp thứ nhất lúc đầu). 
+Do đó, số bi ở hộp thứ hai lúc đầu bằng: 
+9  1  7
+10  5  10
+  
+ (số bi ở hộp thứ nhất lúc đầu). 
+Vậy tỉ số số bi ở hộp thứ nhất và hộp thứ hai là 
+10
+7
+. 
+b) Nếu chuyển 
+1
+5
+ số bi ở hộp thứ hai sang hộp thứ ba thì số bi ở hộp thứ hai lúc sau bằng 
+4
+5
+ số 
+bi ở hộp thứ hai lúc đầu. 
+Vì số bi ở hộp thứ hai lúc sau bằng số bi ở hộp thứ ba lúc sau nên số bi ở hộp thứ ba lúc sau 
+bằng 
+4
+5
+ số bi ở hộp thứ hai lúc đầu. 
+Do đó, số bi ở hộp thứ ba lúc đầu bằng: 
+4  1  3
+5  5  5
+  
+ (số bi ở hộp thứ hai lúc đầu). 
+Số bi ở hộp thứ ba lúc đầu là: 56 : (3 + 5) × 3 = 21 (viên bi) 
+Số bi ở hộp thứ hai lúc đầu là: 21 : 3 × 5 = 35 (viên bi) 
+Số bi ở hộp thứ nhất lúc đầu là: 35 : 7 × 10 = 50 (viên bi) 
+Câu 6. Cho dãy số 1, 2, 3, ..., 2025. Chọn ra các số để tổng của 2 số bất kì chia hết cho 34. Hỏi có 
+thể chọn được nhiều nhất bao nhiêu số? 
+Đáp số: 60 số. 
+Nhận xét:  Để 2 số bất kì trong các số chọn ra đều có tổng chia hết cho 34 thì các số chọn ra phải 
+cùng chia hết cho 34 hoặc các số chọn ra phải cùng chia cho 34 dư 17. 
+- Trường hợp 1:  Các số chọn ra đều chia hết cho 34. Các số đó là: 34, 68, 102, ..., 1972, 2006. 
+Như vậy có tất cả: (2006 – 34) : 34 + 1 = 59 (số). 
+- Trường hợp 2:  Các số chọn ra đều chia cho 34 dư 17. Các số đó là 17, 51, 85, ..., 1989, 2023. 
+Như vậy có tất cả: (2023 – 17) : 34 + 1 = 60 (số) 
+Vậy có thể chọn được nhiều nhất 60 số thoả mãn yêu cầu bài toán. 
+---------------------------------HẾT--------------------------------- 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 50 
+ 
+ 
+TRƯỜNG THCS NĂNG KHIẾU  
+ĐẠI HỌC SƯ PHẠM  
+ĐỀ ĐÁNH GIÁ NĂNG LỰC  
+TUYỂN SINH LỚP 6 NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 4 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN A. TRẮC NGHIỆM TỔNG HỢP 
+Câu 1 đến Câu 10 (mỗi câu 1 điểm, tổng điểm 10 điểm): Học sinh chọn đáp án đúng 
+Câu 1 đến 3: Học sinh dùng thông tin dưới đây để trả lời. 
+BẢNG THÔNG TIN VỀ MỘT SỐ LOẠI THỨC ĂN NHANH 
+Tên món ăn Nhóm chất chính Lượng calo / 100g 
+ Khoai tây chiên  Tinh bột + Chất béo 320 kcal 
+ Bánh hamburger bò  Đạm + Chất béo + Tinh bột 300 kcal 
+ Gà rán  Đạm + Chất béo động vật 250 kcal 
+ Pizza phô mai  Tinh bột + Đạm + Chất béo 230 kcal 
+ Xúc xích  Đạm + Chất béo + Muối 280 kcal 
+ Mì ăn liền (nấu chín)  Tinh bột + Chất béo + Muối 220 kcal 
+ Bánh mì trứng  Tinh bột + Đạm 230 kcal 
+ Cơm gà  Tinh bột + Đạm + Chất béo 260 kcal 
+Câu 1. Một bạn đã ăn 100g khoai tây chiên và 150g gà rán. Hỏi bạn đó đã nạp vào cơ thể bao 
+nhiêu kcal? 
+A. 500 kcal B. 600 kcal C. 695 kcal D. 715 kcal 
+Chọn C 
+Quan sát bảng thông tin, ta thấy: 100g khoai tây chiên chứa 320 kcal và 100g gà rán chứa  
+250 kcal. 
+150g gấp 100g số lần là: 150 : 100 = 1,5 (lần) 
+100g khoai tây chiên và 150g gà rán chứa:  320 +  250 × 1,5 = 695 (kcal) 
+Vậy bạn đó đã nạp vào cơ thể 695 kcal. 
+Câu 2. Một suất ăn gồm 100g xúc xích và 200g mì ăn liền (nấu chín). Suất ăn này cung cấp bao 
+nhiêu kcal? 
+A. 720 kcal B. 650 kcal C. 500 kcal D. 480 kcal 
+Chọn A 
+Quan sát bảng thông tin, ta thấy: 100g xúc xích chứa 280 kcal và 100g mì ăn liền (nấu chín) chứa 
+220 kcal. 
+200g gấp 100g số lần là: 200 : 100 = 2 (lần) 
+Do đó, 1 suất ăn gồm 100g xúc xích và 200g mì ăn liền (nấu chín) chứa:  
+280 + 220 × 2 = 720 (kcal). 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 51 
+ 
+Câu 3. Lượng thức ăn nào trong số các loại thức ăn dưới đây cung cấp calo thấp nhất? 
+A. Khoai tây chiên. B. Gà rán. C. Cơm gà. D. Mì ăn liền (nấu chín). 
+Chọn D 
+Quan sát bảng thông tin, trong các loại thức ăn trên thì mì ăn liền (nấu chín) cung cấp Calo thấp 
+nhất. 
+Câu 4. Ngày 5 tháng 6 năm 1911, Bác Hồ rời Bến cảng Nhà Rồng ra đi tìm đường cứu nước. Hỏi 
+năm đó thuộc thế kỷ bao nhiêu? 
+A. Thế kỷ 18. B. Thế kỷ 19. C. Thế kỷ 20. D. Thế kỷ 21. 
+Chọn C 
+Năm 1911 nằm trong khoảng thời gian từ năm 1901 đến năm 2000 (thế kỷ 20). 
+Do đó, năm 1911 thuộc thế kỷ 20. 
+Câu 5. Quan sát hình vẽ dưới đây và cho biết hình thứ 100 có bao nhiêu tam giác được tô đậm? 
+ 
+A. 5000. B. 5050. C. 10100. D. 10000. 
+Chọn B 
+Quan sát hình, ta thấy: 
+Hình 1 có:   1 hình tam giác được tô đậm 
+Hình 2 có:   1 + 2 = 3  (hình tam giác được tô đậm) 
+Hình 3 có:   1 + 2 + 3 = 6  (hình tam giác được tô đậm) 
+Hình 4 có:   1 + 2 + 3 + 4 = 10  (hình tam giác được tô đậm) 
+... 
+Tiếp tục quy luật của dãy hình trên, hình thứ 100 có số hình tam giác được tô đậm là:  
+1 + 2 + 3 + 4 + 5 + ... + 100 =  (1 + 100) × 100 : 2 = 5050 (hình). 
+Câu 6. Một người viết liên tiếp nhóm chữ TO QUOC VIET NAM thành dãy: 
+TOQUOCVIETNAMTOQUOCVIETNAM...... 
+Chữ cái thứ 2025 trong dãy là chữ gì? 
+A. Chữ T. B. Chữ V. C. Chữ N. D. Chữ A. 
+Chọn A 
+Ta thấy 1 nhóm chữ TO QUOC VIET NAM gồm 13 chữ cái. 
+Ta có: 2025 : 13 = 155 (dư 10) 
+Vậy chữ cái thứ 2025 là chữ cái thứ 10 của nhóm chữ thứ 156 và là chữ T thứ hai của nhóm. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 52 
+ 
+Câu 7. Gấp một hình lập phương từ mảnh giấy dưới đây:  
+ 
+Hỏi mặt có số 1 đối diện với mặt có số nào? 
+A. Số 5. B. Số 3. C. Số 6. D. Số 4. 
+Chọn A 
+Quan sát hình ta thấy: mặt số 2 đối diện với mặt số 4, mặt số 3 đối diện với mặt số 6, mặt số 1 
+đối diện với mặt số 5. 
+Câu 8. Để động viên các bạn học sinh giữ môi trường sạch đẹp, một cửa hàng bán kẹo có chính 
+sách: cứ 5 vỏ kẹo mua từ cửa hàng thì có thể đổi được 1 viên kẹo. Bạn Nam chỉ có đủ tiền để mua 
+21 viên kẹo. Hỏi Nam có thể nhận được nhiều nhất bao nhiêu viên kẹo từ cửa hàng thông qua 
+chính sách đổi vỏ kẹo lấy kẹo của cửa hàng? 
+A. 28 viên kẹo B. 32 viên kẹo C. 26 viên kẹo D. 17 viên kẹo 
+Chọn  C 
+Đầu tiên bạn Nam mua 21 viên kẹo, sẽ có 21 vỏ kẹo. Sau đó, cứ 5 vỏ kẹo đổi được 1 cái kẹo. 
+Ta có: 21 : 5 = 4 (dư 1). 
+Do đó, Nam có thể đổi được thêm 4 viên kẹo nữa từ cửa hàng. Từ 4 viên kẹo này ta có 4 vỏ kẹo, 
+thêm 1 vỏ kẹo còn dư từ trước nữa là được 5 vỏ kẹo, ta có thể đổi thêm được 1 viên kẹo nữa. 
+Vậy số viên kẹo Nam có thể nhận được nhiều nhất là:  21 + 4 + 1 = 26 (viên). 
+Câu 9. Một hình chữ nhật nếu tăng chiều dài thêm 20%, giảm chiều rộng đi 20% thì diện tích 
+hình chữ nhật đó giảm đi 200dm
+2
+. Tính diện tích của hình chữ nhật đó. 
+A. 5000 dm
+2
+ B. 800 dm
+2
+ C. 8 000 dm
+2
+ D. 500 dm
+2
+ 
+Chọn A 
+Chiều dài hình chữ nhật mới bằng:    100% + 20% = 120% (chiều dài ban đầu) 
+Chiều rộng hình chữ nhật mới bằng:  100% – 20% = 80% (chiều rộng ban đầu) 
+Diện tích hình chữ nhật mới bằng:      120%  80% = 96% (diện tích ban đầu) 
+Khi đó diện tích mảnh đất giảm đi số phần trăm so với diện tích ban đầu là:  
+100% – 96% = 4% (diện tích ban đầu) 
+Diện tích ban đầu của hình chữ nhật đó là:   
+200 : 4  100 = 5000 (dm
+2
+) 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 53 
+ 
+Câu 10. Trong một hộp bi có 20 viên bi xanh, 20 viên bi đỏ và 20 viên bi vàng. Các viên bi mỗi 
+màu đều được đánh số thứ tự từ 1 đến 20. Hỏi phải lấy ra ít nhất bao nhiêu viên bi để có thể 
+chắc chắn trong số bi bốc ra có 3 viên cùng màu được đánh 3 số tự nhiên liên tiếp?  
+A. 35. B. 58. C. 43. D. 60. 
+Chọn C 
+Trường hợp xấu nhất ta bốc được như sau: 
+6 viên bi đầu tiên gồm 2 bi xanh, 2 bi đỏ, 2 bi vàng được đánh số thứ tự 1, 2.  
+6 viên bi tiếp theo gồm 2 bi xanh, 2 bi đỏ, 2 bi vàng được đánh số thứ tự 4, 5. 
+6 viên bi tiếp theo gồm 2 bi xanh, 2 bi đỏ, 2 bi vàng được đánh số thứ tự 7, 8. 
+6 viên bi tiếp theo gồm 2 bi xanh, 2 bi đỏ, 2 bi vàng được đánh số thứ tự 10, 11. 
+6 viên bi tiếp theo gồm 2 bi xanh, 2 bi đỏ, 2 bi vàng được đánh số thứ tự 13, 14. 
+6 viên bi tiếp theo gồm 2 bi xanh, 2 bi đỏ, 2 bi vàng được đánh số thứ tự 16, 17. 
+6 viên bi tiếp theo gồm 2 bi xanh, 2 bi đỏ, 2 bi vàng được đánh số thứ tự 19, 20. 
+Khi đó, nếu lấy 6 × 7 = 42 viên bi theo cách trên thì mỗi màu xanh, đỏ, vàng đều đã có 2 viên bi 
+được đánh 2 số tự nhiên liên tiếp. 
+Do đó, nếu lấy thêm 1 viên bi nữa ta sẽ được 3 viên bi cùng màu được đánh 3 số tự nhiên liên 
+tiếp. 
+Vậy để chắc chắn trong số bi bốc ra có 3 viên cùng màu được đánh 3 số tự nhiên liên tiếp ta cần 
+lấy ra ít nhất 43 viên bi.  
+PHẦN B. TỰ LUẬN 
+Câu 1 đến Câu 4 (mỗi câu 2,5 điểm, tổng điểm 10 điểm): Học sinh điền đáp án đúng 
+Câu 1. Bốn bạn Bảo, Thy, Linh và Thảo tham gia cuộc thi chạy về 4 vị trí khác nhau. Khi các bạn 
+hỏi thứ tự của mỗi bạn thì nhận được 4 câu trả lời: 
+- Bảo về số 2 còn Thảo về số 3. 
+- Bảo về số 1 còn Linh về số 3. 
+- Thy về số 2 còn Linh về số 1. 
+- Thy về số 4 còn Thảo về số 3. 
+Biết trong mỗi câu trả lời thì chỉ đúng 1 bạn và sai 1 bạn. Vậy Thảo về số mấy? 
+Đáp số: Thảo về số 3. 
+Giả sử, Bảo về số 2 là đúng thì Thảo về số 3 là sai. 
+→ Bảo về số 1 là sai và Linh về số 3 là đúng. 
+→ Linh về số 1 là sai và Thy về số 2 là đúng (mâu thuẫn vì Bảo cũng về số 2). 
+Do đó, Bảo về số 2 là sai nên Thảo về số 3 là đúng. 
+Câu 2. Cho hình chữ nhật ABCD. Trên AD và BC lấy hai điểm M và N sao cho AM = CN. Lấy I tùy 
+ý trên cạnh AB. MN cắt DI và IC lần lượt tại E và F. Tính diện tích phần tô đậm, biết rằng diện 
+tích các hình tam giác MED và FNC lần lượt bằng 85cm² và 79cm². 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 54 
+ 
+Đáp số: 164cm
+2
+. 
+Vì AD = BC mà AM = CN nên suy ra DM = BN. 
+Ta có: 
+AMNBCNMD
+SS
+ 
+(vì đáy bé AM = CN, đáy lớn BN = DM, chiều cao AB = CD) 
+Mà 
+AMNBCNMDABCD
+SSS
+ suy ra 
+AMNBCNMDABCD
+1
+SSS   .
+2
+
+ (1) 
+Nối A với C. 
+ 
+Vì 
+IDCADC
+S   S
+ (vì chung cạnh đáy DC và chiều cao hạ từ I tới DC = chiều cao hạ từ A tới DC) mà  
+ADCABCD
+1
+SS
+2
+
+ nên 
+IDCABCD
+1
+SS   .
+2
+
+ (2) 
+Từ (1) và (2) suy ra: 
+CNMDIDC
+SS
+ 
+MDEEDCFFCNIEFEDCF
+S    SS    S   S       
+ 
+MDEFCNEDCFIEFEDCF
+(S    S  ) SS   S   
+ 
+MDEFCNIEF
+S    S    S    
+ (cùng bớt cả 2 vế cho 
+EDCF
+S
+) 
+Vậy diện tích của phần tô đậm hay diện tích của hình tam giác IEF là:  
+85 + 79 = 164 (cm
+2
+). 
+Câu 3. Nam dự định đi từ A đến B với vận tốc 40 km/giờ. Khi đi được 
+1
+2
+ quãng đường thì Nam 
+dừng nghỉ 15 phút. Để đến B đúng giờ thì Nam phải đi với vận tốc 50 km/giờ. Tính độ dài quãng 
+đường AB. 
+Đáp số: 100 km 
+ 
+Gọi C là điểm ở chính giữa quãng đường AB. 
+Xét trên quãng đường CB: 
+Vận tốc dự định khi đi quãng đường CB là: 40 km/ giờ 
+Vận tốc thực tế khi đi quãng đường CB là: 50 km/giờ 
+Tỉ số vận tốc dự định và vận tốc thực tế khi đi quãng đường CB là: 
+4
+40:50
+5
+
+. 
+Nghỉ 15 phút
+B
+C
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 55 
+ 
+Trên cùng một quãng đường, vận tốc tăng lên (hay giảm đi) bao nhiêu lần thì thời gian giảm đi 
+(hay tăng lên) bấy nhiêu lần. 
+Tỉ số thời gian dự định và thời gian thực tế khi đi quãng đường CB là: 
+5
+4
+ 
+Để Nam đến B đúng giờ thì thời gian thực tế Nam đi trên quãng đường CB ít hơn thời gian dự 
+định Nam đi trên quãng đường CB là 15 phút. 
+Đổi: 15 phút = 0,25 giờ 
+Coi thời gian dự định trên quãng đường CB là 5 phần bằng nhau thì thời gian thực tế trên quãng 
+đường CB là 4 phần như thế. 
+Thời gian thực tế Nam đi trên quãng đường CB là: 0,25 : (5 – 4) × 4 = 1 (giờ). 
+Độ dài quãng đường CB là:  50 × 1 = 50 (km). 
+Độ dài quãng đường AB là:  50 × 2 = 100 (km). 
+Câu 4. Người ta xếp các số tự nhiên lẻ liên tiếp kể từ 1 thành 5 cột như hình dưới đây. Hỏi số 
+2025 nằm ở cột nào? 
+A B C D E 
+1 3 5 7 9 
+ 17 15 13 11 
+19 21 23 25  
+ 33 31 29 27 
+35 37 39 41  
+ ... ... ... ... 
+Đáp số: Cột D 
+Dãy các số lẻ liên tiếp từ 1 đến 2025 là: 1; 3; 5; 7; ...; 2025. 
+Từ 1 đến 2025 có số số lẻ là:  (2025 – 1) : 2 + 1 = 1013 (số). 
+Trừ hàng 1 có 5 số lẻ, mỗi hàng còn lại đều có 4 số lẻ. 
+Trừ hàng 1, bảng trên có số hàng là: (1013 – 5) : 4 = 252 (hàng). 
+Do đó, bảng trên có tất cả 253 hàng và số 2025 thuộc hàng thứ 253. 
+Trong 252 hàng đầu tiên có tất cả số số lẻ là:  5 + 251 × 4 = 1009 (số). 
+Số lẻ lớn nhất ở hàng 252 là: 1 + (1009 – 1) × 2 = 2017. 
+Nhận xét: 
+– Hàng 1 hay các hàng có thứ tự lẻ thì các số lẻ liên tiếp tăng dần từ trái qua phải. 
+– Hàng 2 hay các hàng có thứ tự chẵn thì các số lẻ liên tiếp tăng dần từ phải qua trái. 
+Số 2025 nằm ở hàng thứ 253 nên các số liên tiếp tăng dần từ trái qua phải. 
+Các số ở hàng 253 là:  2019    2021     2023    2025 
+Vậy số 2025 nằm ở cột D. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 56 
+ 
+Câu 5 và Câu 6 (mỗi câu 10 điểm, tổng điểm 20 điểm): Học sinh trình bày câu trả lời, viết quá 
+trình và kết quả suy luận. 
+Câu 5. Một cửa hàng có tất cả 420 quả táo và lê. Sau khi bán một số quả táo và lê, số táo bán đi 
+bằng 
+1
+6
+ số lê bán đi và số táo còn lại hơn số lê còn lại 40 quả. Biết lúc đầu số táo bằng 
+3
+4
+ số lê.  
+a) Tính số quả mỗi loại lúc đầu. 
+b) Tính số lê đã bán. 
+Đáp số: a) 180 quả táo; 240 quả lê;     b) 120 quả. 
+ 
+a) Ta có sơ đồ số táo, số lê lúc đầu: 
+ 
+Số táo ban đầu là: 420 : (3 + 4)  3 = 180 (quả). 
+Số lê ban đầu là: 420 – 180 = 240 (quả). 
+b) Ban đầu số lê hơn số táo là: 240 – 180 = 60 (quả). 
+Sau khi bán thì số táo còn lại hơn số lê còn lại 40 quả nên số lê bán đi phải nhiều hơn số táo 
+bán đi là:   60 + 40 = 100 (quả). 
+Ta có sơ đồ số táo, số lê bán đi: 
+ 
+Số lê đã bán đi là: 100 : (6 – 1)  6 = 120 (quả).  
+Câu 6. Cho các số tự nhiên 1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12; 13, mỗi số được điền vào một vòng 
+tròn nhỏ sao cho hiệu của 2 số bất kỳ (số lớn trừ số nhỏ) cạnh nhau luôn nhỏ hơn 3 (mỗi số chỉ 
+điền đúng 1 lần). Số 
+6, ,x y
+ được điền sẵn như hình vẽ bên dưới. Tính giá trị của 
+x  y
+. 
+ 
+Đáp số: 13 
+100 quả
+Số táo
+Số lê
+y
+x
+6
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 57 
+ 
+Vì mỗi vòng tròn nhỏ điền các số khác nhau từ 1 đến 13 và hiệu hai số kế nhau luôn nhỏ hơn 3 
+nên hiệu hai số kế nhau chỉ có thể là 1 hoặc 2. 
+ Hai vòng tròn kế bên số 13 sẽ là 11 và 12. 
+ Hai vòng tròn kế bên số 12 sẽ là 10 và 13. 
+ Hai vòng tròn kế bên số 11 sẽ là 9 và 13. 
+ Hai vòng tròn kế bên số 10 sẽ là 8 và 12. 
+ Hai vòng tròn kế bên số 9 sẽ là 7 và 11. 
+ Hai vòng tròn kế bên số 8 sẽ là 6 và 10. 
+ Hai vòng tròn kế bên số 7 sẽ là 5 và 9. 
+ Hai vòng tròn kế bên số 6 sẽ là 4 và 8. 
+ Hai vòng tròn kế bên số 5 sẽ là 3 và 7. 
+ Hai vòng tròn kế bên số 4 sẽ là 2 và 6. 
+ Hai vòng tròn kế bên số 3 sẽ là 1 và 5. 
+Từ phân tích trên, ta điền các số vào các vòng tròn như sau: 
+ 
+ 
+Vậy 
+12 1 1 12 13x y        
+. 
+---------------------------------HẾT--------------------------------- 
+  
+12
+6
+2
+13
+11
+9
+7
+5
+4
+8
+10
+3
+1
+12
+13
+2
+4
+8
+11
+9
+7
+5
+3
+10
+6
+1
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 58 
+ 
+ 
+TRƯỜNG THCS NĂNG KHIẾU  
+ĐẠI HỌC SƯ PHẠM  
+ĐỀ ĐÁNH GIÁ NĂNG LỰC  
+TUYỂN SINH LỚP 6 NĂM HỌC 2026 - 2027 
+ĐỀ MINH HỌA SỐ 5 
+Môn: Toán
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN A. TRẮC NGHIỆM TỔNG HỢP  
+Câu 1 đến Câu 10 (mỗi câu 1 điểm, tổng điểm 10 điểm): Học sinh chọn đáp án đúng 
+Câu 1 đến Câu 3: Học sinh dùng thông tin dưới đây để trả lời.  
+BẢNG THÔNG TIN VỀ MỘT SỐ LOẠI THỨC ĂN VÀ NƯỚC UỐNG 
+Câu 1. Một bạn đã ăn 150g bánh hamburger bò, 100g khoai tây chiên và 200ml nước lọc. Hỏi 
+bạn ấy đã nạp bao nhiêu kcal sau bữa ăn này? 
+A. 700 kcal.       B. 720 kcal.       C. 750 kcal.       D. 770 kcal. 
+Chọn D 
+Lượng calo trong 150g bánh hamburger bò là: 300 × (150 : 100) = 450 (kcal) 
+Lượng calo trong 100g khoai tây chiên là: 320 kcal 
+Lượng calo trong 200ml nước lọc là: 0 kcal 
+Lượng calo mà bạn đó đã nạp được sau bữa ăn là:  
+450 + 320 = 770 (kcal) 
+Tên món ăn Nhóm chất chính 
+Lượng calo / 100g (với thức ăn) 
+Lượng calo / 100ml (với đồ uống) 
+Khoai tây chiên Tinh bột + Chất béo 320 kcal 
+Bánh hamburger bò Đạm + Chất béo + Tinh bột 300 kcal 
+Gà rán Đạm + Chất béo động vật 250 kcal 
+Pizza phô mai Tinh bột + Đạm + Chất béo 230 kcal 
+Xúc xích Đạm + Chất béo + Muối 280 kcal 
+Mì ăn liền (nấu chín) Tinh bột + Chất béo + Muối 220 kcal 
+Bánh mì trứng Tinh bột + Đạm 230 kcal 
+Cơm gà Tinh bột + Đạm + Chất béo 260 kcal 
+Nước lọc Nước tinh khiết 0 kcal 
+Nước cam tươi Vitamin + Đường 50 kcal 
+Nước ngọt có ga Đường 45 kcal 
+Trà sữa Đường + Béo + Chất tạo vị 110 kcal 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 59 
+ 
+Câu 2. Trong các suất ăn dưới đây, suất ăn nào chứa nhiều calo nhất?  
+A. 200g gà rán, 100g xúc xích và 200ml nước ngọt có ga. 
+B. 150g pizza phô mai, 100g khoai tây chiên và 200ml trà sữa. 
+C. 150g bánh hamburger bò, 100g khoai tây chiên và 200ml nước lọc. 
+D. 200g mì ăn liền (nấu chín), 100g xúc xích và 200ml nước ngọt có ga. 
+Chọn B 
+Lượng calo trong suất ăn có 200g gà rán, 100g xúc xích và 200ml nước ngọt có ga là:  
+250 × (200 : 100) + 280 + 45 × (200 : 100) = 870 (kcal) 
+Lượng calo trong suất ăn có 150g pizza phô mai, 100g khoai tây chiên và 200ml trà sữa là: 
+230 × (150 : 100) + 320 + 110 × (200 : 100) = 885 (kcal) 
+Lượng calo trong suất ăn có 150g bánh hamburger bò, 100g khoai tây chiên và 200ml nước lọc 
+là: 
+300 × (150 : 100) + 320 = 770 (kcal) 
+Lượng calo trong suất ăn có 200g mì ăn liền (nấu chín), 100g xúc xích và 200ml nước ngọt có 
+ga là: 
+220 × (200 : 100) + 280 + 45 × (200 : 100) = 810 (kcal) 
+Vì 770 kcal < 810 kcal < 870 kcal < 885 kcal nên suất ăn chứa nhiều calo nhất là:  
+150g pizza phô mai, 100g khoai tây chiên và 200ml trà sữa  
+Câu 3. Theo khoa học, nhu cầu năng lượng trong bữa trưa của một học sinh tiểu học dao động 
+từ 550 kcal đến 650 kcal. Bữa ăn nào dưới đây đủ Calo trong mức khoa học đưa ra: 
+A. 150g cơm gà, 50g xúc xích và 200ml nước cam tươi. 
+B. 200g bánh hamburger bò, 100g khoai tây chiên và 200ml nước ngọt có ga. 
+C. 100g bánh hamburger bò, 100g pizza phô mai và 200ml nước lọc. 
+D. 200g bánh mì trứng, 200g gà rán và 200ml nước ngọt có ga. 
+Chọn A 
+Lượng calo trong 150g cơm gà, 50g xúc xích và 200ml nước cam tươi là: 
+260 × (150 : 100) + 280 × (50 : 100) + 50 × (200 : 100) = 630 (kcal) 
+Lượng calo trong 200g bánh hamburger bò, 100g khoai tây chiên và 200ml nước ngọt có ga là: 
+300 × (200 : 100) + 320 + 45 × (200 : 100) = 1010 (kcal) 
+Lượng calo trong 100g bánh hamburger bò, 100g pizza phô mai và 200ml nước lọc là: 
+300 + 230 = 530 (kcal) 
+Lượng calo trong 200g bánh mì trứng, 200g gà rán và 200ml nước ngọt có ga là: 
+230 × (200 : 100) + 250 × (200 : 100) +  45 × (200 : 100) = 1050 (kcal) 
+Vì 550 kcal < 630 kcal < 650 kcal nên bữa ăn đủ Calo trong mức khoa học đưa ra là:   
+150g cơm gà, 50g xúc xích và 200ml nước cam tươi 
+Câu 4. Beethoven là một nhà soạn nhạc cổ điển người Đức. Ông sinh vào tháng 12 năm 1770. 
+Hỏi ông được sinh ra vào thế kỷ nào? 
+A. Thế kỷ 18.      B. Thế kỷ 19.      C. Thế kỷ 20.      D. Thế kỷ 21. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 60 
+ 
+Chọn A 
+Năm 1770 nằm trong khoảng thời gian từ năm 1701 đến năm 1800 (thế kỷ 18). 
+Do đó, năm 1770 thuộc thế kỷ 18. 
+Câu 5. Quan sát hình vẽ dưới đây và cho biết hình thứ 10 được ghép bởi bao nhiêu que diêm? 
+ 
+A. 150 que diêm   B. 155 que diêm   C. 160 que diêm   D. 165 que diêm 
+Chọn D 
+Quan sát hình trên, ta thấy:  
+Hình thứ nhất có:   3 × 1 = 3 (que diêm) 
+Hình thứ 2 có:         3 × (1 + 2) = 9 (que diêm) 
+Hình thứ 3 có:         3 × (1 + 2 + 3) = 18 (que diêm) 
+Hình thứ 4 có:         3 × (1 + 2 + 3 + 4) = 30 (que diêm) 
+Theo quy luật trên, hình thứ 10 được ghép bởi:  
+3 × (1 + 2 + 3 + ... + 10) = 165 (que diêm). 
+Câu 6. Một người viết liên tiếp nhóm chữ THANHPHOHANOI thành dãy: 
+THANHPHOHANOITHANHPHOHANOI ... 
+Hỏi chữ cái thứ 2002 trong dãy trên là chữ gì? 
+A. Chữ H.       B. Chữ A.        C. Chữ N.       D. Chữ I. 
+Chọn D 
+Ta thấy nhóm chữ ”THANHPHOHANOI” gồm 13 chữ cái.  
+Ta có: 2002 : 13 = 154  
+Do đó, ta viết được 154 nhóm ”THANHPHOHANOI”. 
+Vậy chữ cái thứ 2002 trong dãy là chữ I. 
+Câu 7. 
+Trong 4 miếng bìa như hình dưới đây thì miếng bìa không thể gấp thành một chiếc hộp kín 
+có 6 mặt là miếng bìa số mấy? 
+ 
+A. Bìa số 1.       B. Bìa số 2.       C. Bìa số 3.       D. Bìa số 4. 
+Chọn B 
+4
+3
+2
+1
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 61 
+ 
+Một chiếc hộp kín gồm có 6 mặt, có 4 mặt xung quanh và 2 mặt đáy. 
+Vì 2 mặt đáy của chiếc hộp kín ở vị trí đối diện nhau nên hình khai triển của chiếc hộp đó có 2 mặt 
+đáy ở vị trí khác phía nhau so với 4 mặt xung quanh. 
+Quan sát các hình vẽ, ta thấy: Miếng bìa số 2 không thể gấp thành một chiếc hộp kín có 6 mặt. 
+Câu 8. Dung dịch nước biển chứa 5% muối. Hỏi cần đổ thêm bao nhiêu gam nước tinh khiết vào 
+45 gam dung dịch nước biển để được một dung dịch nước muối chứa 3% muối? 
+A. 75 g. B. 30 g .        C. 45 g.        D. 105 g. 
+Chọn B 
+Lượng muối có trong 45 gam dung dịch nước biển là: 45 × 5% = 2,25 (g). 
+Lượng dung dịch nước muối sau khi đổ thêm nước tinh khiết vào là:  
+2,25 : 3 × 100 = 75 (g). 
+Lượng nước tinh khiết cần phải đổ thêm vào là: 75 – 45  = 30 (g). 
+Câu 9. Người ta viết liền nhau dãy các số tự nhiên chẵn liên tiếp: 
+24681012141618202224... 
+Hỏi chữ số thứ 2000 của dãy trên là chữ số nào? 
+A. Chữ số 0.       B. Chữ số 3.       C. Chữ số 6.       D. Chữ số 7. 
+Chọn C 
+Từ 2 đến 8 có tất cả 4 số chẵn có 1 chữ số. 
+Từ 10 đến 98 có số số chẵn là: (98 – 10) : 2 + 1 = 45 (số). 
+Từ 100 đến 998 có số số chẵn là:  
+(998 – 100) : 2 + 1 = 450 (số). 
+Số chữ số dùng để viết các số chẵn từ 2 đến 998 là: 
+1 × 4 + 2 × 45 + 3 × 450 = 1444 (chữ số). 
+Số chữ số còn lại dùng để viết các số chẵn có 4 chữ số là: 
+2000 – 1444 = 556 (chữ số). 
+Số các số chẵn có 4 chữ số cần viết là: 
+556 : 4 = 139 (số). 
+Chữ số thứ 2000 của dãy số đã cho là chữ số ở hàng đơn vị của số chẵn có bốn chữ số thứ 139. 
+Số chẵn bé nhất có 4 chữ số là 1000. 
+Số chẵn có 4 chữ số thứ 139 là: (139 – 1) × 2 + 1000 = 1276. 
+Vậy chữ số thứ 2000 của dãy số đã cho là 6. 
+Câu 10. Những quả bóng có cùng kích thước và khối lượng được đặt trong một thùng chứa. Có 
+8 màu sắc khác nhau và 90 quả bóng mỗi màu. Hỏi cần lấy ra ít nhất bao nhiêu quả bóng để chắc 
+chắn có được 4 loại màu khác nhau và mỗi màu có ít nhất 9 quả? 
+A. 308 .        B. 309 .        C. 310.        D. 311. 
+Chọn D 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 62 
+ 
+Trường hợp xấu nhất, 90 quả bóng đầu tiên lấy ra có cùng 1 màu, 90 quả bóng tiếp theo lấy ra 
+có cùng 1 màu khác, 90 quả bóng tiếp nữa có cùng 1 màu khác nữa. Khi đó ta lấy được 270 quả 
+bóng nhưng chỉ có 3 loại màu khác nhau. 
+Tiếp tục nếu ở 5 màu còn lại, mỗi màu ta lấy ra được 8 quả bóng. Khi đó ta đã lấy được: 
+270 + 8 × 5 = 310 (quả bóng). 
+Trong 310 quả này có đủ các màu nhưng mới có 3 màu thoả mãn có ít nhất 9 quả bóng, các màu 
+còn lại mới có 8 quả bóng.  
+Vậy để chắc chắn có được 4 loại màu khác nhau và mỗi màu có ít nhất 9 quả ta cần lấy ra ít nhất 
+số quả bóng là: 
+310 + 1 = 311 (quả bóng). 
+PHẦN B. TỰ LUẬN 
+Câu 1 đến Câu 4 (mỗi câu 2,5 điểm, tổng điểm 10 điểm): Học sinh điền đáp án đúng 
+Câu 1. Bạn Phương nghĩ ra một số chia hết cho 5 và gồm 5 chữ số 1; 2; 3; 4; 5. Bạn Việt đoán số 
+đó là 12345, bạn Nam đoán là 14235. Phương nói “Trong số của Việt thì tất cả các thứ tự liền 
+nhau của các chữ số đều sai (1 không đứng liền trước 2; 2 không đứng liền trước 3...) và có  
+4 chữ số đứng vị trí sai. Trong số Nam đoán thì có 3 chữ số có vị trí đúng”. Hãy tìm số bạn Phương 
+đã nghĩ. 
+Đáp số: 24 135 
+Vì số bạn Phương nghĩ ra là một số chia hết cho 5 và gồm 5 chữ số 1; 2; 3; 4; 5 nên chữ số hàng 
+đơn vị của số Phương nghĩ là chữ số 5.  
+Vì số 12345 Việt đoán có 4 chữ số ở vị trí sai mà chữ số 5 ở vị trí đúng nên các chữ số 1; 2; 3; 4 
+ở vị trí sai. 
+Do đó, trong số 14235 Nam đoán có chữ số 1 ở vị trí sai, chữ số 5 ở vị trí đúng. 
+Vì chữ số 2 không đứng liền trước chữ số 3 nên một trong hai chữ số 2 hoặc 3 trong số Nam 
+đoán ở vị trí sai. 
+Nếu chữ số 3 trong số Nam đoán ở vị trí sai thì vì chữ số 1 đã ở vị trí sai nên ba chữ số còn lại là 
+4, 2, 5 phải ở vị trí đúng. 
+Khi đó, cần đổi vị trí của chữ số 1 và chữ số 3 cho nhau, ta được số: 34215. 
+Lúc này chữ số 3 lại đứng liền trước chữ số 4 (mâu thuẫn). 
+Do đó chữ số 3 đúng vị trí. Vì thế, chữ số 2 sai vị trí.  
+Mặt khác, trong số Nam đoán có 3 chữ số ở vị trí đúng và có 2 chữ số ở vị trí sai. 
+ Trong số Nam đoán: chữ số 1; 2 ở vị trí sai; chữ số 3; 4; 5 ở vị trí đúng. 
+ Đổi vị trí của chữ số 1 và chữ số 2 cho nhau ta tìm được số bạn Phương đã nghĩ là: 24 135. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 63 
+ 
+Câu 2. Cho tứ giác ABCD như hình vẽ có M, N, P, Q lần lượt nằm trên AB, BC, CD, DA sao cho:  
+MA = MB; NB = NC; PC = PD; QA = QD. Nối CM, AP, BQ, DN và cắt nhau tại các điểm E, F, G, H 
+như hình vẽ. Cho diện tích tam giác AQE bằng 20 cm
+2
+, diện tích tam giác MFB bằng 8 cm
+2
+, diện 
+tích tứ giác EFGH bằng 48 cm
+2
+. Tính tổng diện tích của tam giác DHP và tam giác CGN. 
+ 
+Đáp số: 20 cm
+2
+ 
+Ta tô đậm các tam giác, tứ giác và gọi 
+1   2
+S , S
+ là diện tích hai tứ giác như hình vẽ. 
+ 
+Quan sát hình vẽ ta thấy: 
+Tổng diện tích các tam giác được tô đậm bằng: 
+
+ABQDNC12
+S   + SS + S
+ 
+Diện tích tứ giác EFGH bằng: 
+
+MCPA12
+SS + S  .
+ 
+Ta có: 
+AMCABC
+1
+S   =  ×S
+2
+ (vì chung đường cao hạ từ C tới AB và đáy 
+1
+AM =  ×AB
+2
+) 
+APCACD
+1
+S  =  ×S
+2
+ (vì chung đường cao hạ từ A tới CD và đáy 
+1
+PC =  ×DC
+2
+) 
+Do đó 
+
+MCPAAMCAPCABCACDABCD
+11
+S   = S   +S  =  × S  +S   =  S
+22
+. 
+Ta có: 
+ABQABD
+1
+SS
+2
+
+ (chung đường cao hạ từ B tới AD, đáy 
+1
+AQ   AD
+2
+
+) 
+DNCDBC
+1
+SS
+2
+
+ (chung đường cao hạ từ D xuống BC, đáy 
+1
+NC   BC
+2
+
+) 
+H 
+G 
+F 
+E 
+P 
+N 
+M 
+Q 
+D 
+C 
+B 
+A 
+S
+2 
+ 
+S
+1 
+H 
+G 
+F 
+E 
+P 
+N 
+M 
+Q 
+D 
+C 
+B 
+A 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 64 
+ 
+Do đó: 
+
+ABQDNCABDDBCABCD
+11
+S    SS    SS   .
+22
+      
+ 
+Suy ra: 
+ABQDNCMCPAABCD
+1
+S    S    SS   .
+2
+    
+ 
+Do đó: 
+
+ABQDNC12
+S   + SS + S
+
+MCPA12
+= SS + S  .
+ 
+Do đó, tổng diện tích các tam giác được tô đậm bằng diện tích tứ giác EFGH và bằng 48cm
+2
+. 
+Vậy tổng diện tích của tam giác DHP và tam giác CGN là: 48 – (20 + 8) = 20 (cm
+2
+).  
+Câu 3. Mỗi sáng hai anh em Nam chạy bộ quanh bờ hồ trong công viên ngay cạnh nhà. Hai anh 
+em chạy cùng chiều với vận tốc không đổi, xuất phát cùng một lúc, từ cùng một điểm thì sau  
+48 phút lại gặp nhau. Tính vận tốc trung bình của Nam. Biết rằng một vòng quanh bờ hồ dài 
+2,4km. Nam chạy chậm hơn anh và nếu chạy ngược chiều thì sau 12 phút lại gặp nhau. 
+Đáp số: 75 m/phút 
+Đổi 2,4km = 2400m 
+Mỗi phút cả hai anh em chạy được: 2400 : 12 = 200 (m). 
+Hay tổng vận tốc của hai anh em là 200 m/phút. 
+Mỗi phút anh chạy nhanh hơn em số mét là: 2400 : 48 = 50 (m). 
+Hay hiệu vận tốc của hai anh em là: 50 m/phút. 
+Vận tốc của Nam là: (200 – 50) : 2 = 75 (m/phút) 
+Câu 4. Bạn An nghĩ một số tự nhiên n và viết tất cả các số tự nhiên từ 1 đến n lên bảng. Sau đó, 
+bạn ấy cộng tất cả các số đã viết lại với nhau nhưng do sơ suất bạn đã cộng một số tự nhiên nào 
+đó hai lần nên đã thu được tổng bằng 2026. Tìm số mà bạn An đã vô tình cộng 2 lần.  
+Đáp số: 10 
+Ta có tổng các số từ 1 đến n là: 
+    
+n 1  n
+1 2 3 ... n
+2
+  
+      
+ 
+Vì khi cộng các số lại với nhau có một số được cộng hai lần nên thu được tổng bằng 2026. 
+Do đó: 
+    
+n 1  n
+2026
+2
+  
+
+ nên 
+    
+n 1  n  4052  4160  65 64      
+ 
+Suy ra 
+n 64
+. 
+Giả sử số mà bạn An vô tình cộng 2 lần là số m (m không lớn hơn n). Khi đó: 
+    
+n 1  n
+m  2026
+2
+  
+  
+ 
++) Với n = 63 ta có: 2016 + m = 2026. Suy ra: m = 2026 – 2016 = 10 (thoả mãn) 
++) Với n = 62 ta có: 1953 + m = 2026. Suy ra: m = 2026 – 1953 = 73 (không thoả mãn điều 
+kiện m không lớn hơn n) 
+Nhận thấy, khi n giảm đi thì m tăng lên và không thoả mãn điều kiện m không lớn hơn n. 
+Vậy số mà bạn An đã vô tình cộng 2 lần là 10. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 65 
+ 
+Câu 5 và Câu 6 (mỗi câu 10 điểm, tổng điểm 20 điểm): Học sinh trình bày câu trả lời, viết quá 
+trình và kết quả suy luận. 
+Câu 5. Số thứ nhất bằng 
+1
+4
+ trung bình cộng của ba số. Số thứ hai hơn số thứ nhất 48 đơn vị. Số 
+thứ ba bằng 
+3
+2
+ trung bình cộng của ba số.  
+a) Tìm tỉ số của số thứ hai và tổng ba số. 
+b) Tìm 3 số đó. 
+Đáp số: a) 
+5
+12
+;         b) Số thứ nhất: 12; Số thứ hai:  60;  Số thứ ba: 72. 
+a) Số thứ nhất bằng 
+1
+4
+ trung bình cộng của ba số nên số thứ nhất bằng: 
+1  1  1
+4  3  12
+  
+ (tổng của ba số) 
+Số thứ ba bằng 
+3
+2
+ trung bình cộng của ba số nên số thứ ba bằng: 
+3  1  1
+2  3  2
+  
+ (tổng của ba số) 
+Số thứ hai bằng:    
+1  1  5
+1
+12  2  12
+     
+ (tổng của ba số) 
+Hay tỉ số của số thứ hai và tổng ba số là: 
+5
+12
+. 
+b) Số thứ hai hơn số thứ nhất là:  
+5  1  1
+12  12  3
+   
+ (tổng của ba số) 
+Do đó, 48 đơn vị ứng với 
+1
+3
+ tổng của ba số. 
+Tổng của ba số là:   48 : 1 × 3 = 144. 
+Số thứ nhất là: 144 × 
+1
+12
+ = 12. 
+Số thứ hai là: 144 × 
+5
+12
+ = 60. 
+Số thứ ba là:  144 – 12 – 60 = 72. 
+ 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 66 
+ 
+Câu 6. Có 2 người bạn A và B lâu ngày gặp nhau và trò chuyện như sau: 
+A hỏi: Anh có mấy cháu rồi? 
+B trả lời: Tôi có 3 cháu. 
+A hỏi: Tuổi của các cháu thế nào? 
+B trả lời: Tích tuổi của chúng là 36, tổng tuổi là ngày hôm qua. 
+- Suy nghĩ một lúc anh bạn A nói tôi cần thêm dữ liệu để biết chính xác tuổi của các cháu? 
+B trả lời: Đứa lớn biết chơi đàn violon.  
+Hỏi tuổi của mỗi cháu như thế nào? (chú ý, có thể sinh đôi, sinh ba,... Nếu sinh đôi, sinh ba,... thì 
+coi là như nhau, không có đứa lớn, đứa bé) 
+Đáp số:  Đứa lớn: 9 tuổi; Hai đứa sinh đôi: 2 tuổi. 
+Từ các câu nói của người B ta thấy có 3 người, tích số tuổi của 3 người là 36 và tổng số tuổi 
+không thể lớn hơn 31. 
+Ta có 
+36  1 1 36  1  2 18  1 3 12  1 4  9  1 6  6                        
+ 
+           
+2 2 9  2 3 6
+3 3 4
+        
+  
+ 
+Từ đó vì tổng các tuổi không lớn hơn 31 nên loại trường hợp 
+1  1  36 
+ 
+ Với các trường hợp còn lại ta thấy tổng các số là: 
+Tích Tổng 
+1  2  18  
+ 
+1  2  18  21     
+ 
+1  3  12  
+ 
+1  3  12  16     
+ 
+1  4  9  
+ 
+1  4  9  14    
+ 
+1  6  6  
+ 
+1 + 6 + 6 = 13
+ 
+2  2  9  
+ 
+2 + 2 + 9 = 13
+ 
+2  3  6  
+ 
+2  3  6  11    
+ 
+3  3  4  
+ 
+3  3  4  10    
+ 
+Nhìn vào bảng ta thấy nếu tổng số tuổi (hay ngày hôm qua) là 21, 16, 14, 11, 10 thì ta đều suy 
+ra ngay được tuổi của 3 người. Với 2 trường hợp bôi đậm có tổng là 13 thì ta không biết lấy 
+trường hợp nào. 
+Vì đứa lớn biết chơi đàn nên không thể lấy trường hợp 1 × 6 × 6
+ 
+được vì khi đó không có đứa 
+lớn do có 2 người nhiều tuổi nhất lại bằng nhau. Vậy phải lấy trường hợp 2 × 2 × 9, khi đó đứa 
+lớn là 9 tuổi, còn hai đứa sau là sinh đôi và cùng là 2 tuổi. 

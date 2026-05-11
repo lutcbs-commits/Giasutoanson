@@ -1,0 +1,204 @@
+
+
+   MathExpress Education                                         www.mathexpress.vn                                                    
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 1 - 
+ 
+ HƯỚNG DẪN BTVN - ĐỀ ÔN LUYỆN TỔNG HỢP 03 
+Bài 1.  a) Tính nhanh: 
+2, 4   150    8, 6   240    24
+×+× −
+ 
+Hướng dẫn: 2,4 × 15 × 10 + 8,6 × 24 × 10 – 24 = 24 × 15 + 86 × 24 – 24  
+= 24 × (15 + 86 – 1) = 24 × 100 = 2 400 
+b) Tìm 
+x
+ biết: 
+5
+8
+31
+×
+44
+−=x
+            
+Hướng dẫn: 
+51
+88
+1
+8
+11
+84
+13
+×
+44
+1
+×
+4
+:
+−
+=
+=
+=
+=
+=
+1
+2
+x
+x
+x
+x
+ 
+Bài 2. Tìm số   tự nhiên có hai chữ số, biết nếu viết thêm chữ số   2 vào bên phải ta được số mới hơn số cũ 335 
+đơn vị. 
+Hướng dẫn: Khi viết thêm chữ số 2 vào bên phải ta được số mới gấp 10 lần số cũ và 2 đơn vị. 
+10 – 1 = 9 lần số ban đầu là: 335 – 2= 333 
+Số ban đầu là: 333 : 9 = 37 
+Đáp số: 37 
+Bài 3. Hai số có hiệu là 
+1554.
+ Tổng của hai số là 
+23xy
+ chia hết cho 
+2,5,9.
+ Tìm số lớn. 
+Hướng dẫn: Để 
+23xy
+chia hết cho 2 và 5 thì y = 0. Thay y = 0, ta được: 
+2  30x
+ 
+Để 
+2  30x
+chia hết cho 9 thì (2 + 3 + x + 0) chia hết cho 9. Hay x = 4. Vậy tổng hai số là: 2430.  
+Số lớn là: (2430 + 1554) : 2 = 1992 
+Đáp số: 1992 
+Bài 4. Một bể bơi dạng hình hộp chữ nhật có chiều dài 12 m, chiều rộng 8,5 m, chiều cao 2 m. Người ta chỉ 
+lát gạch bên trong các mặt xung quanh và đáy bể. Hỏi phải dùng hết bao nhiêu viên gạch hình vuông có cạnh 
+5 dm? 
+Hướng dẫn: Diện tích viên gạch là: 5 × 5 = 25 (dm
+2
+) 
+Diện tích lát gạch là: (12 + 8,5) × 2 × 2 + 12 × 8,5 = 184 (m
+2
+) = 18 400 (dm
+2
+) 
+Phải dùng hết số viên gạch hình vuông là: 18 400 : 25  = 736 (viên) 
+Đáp số: 736 viên 
+Bài 5. Cùng một lúc xe thứ nhất xuất phát tại A và xe thứ hai xuất phát tại B đi cùng chiều với nhau về phía 
+C và gặp nhau tại C. Quãng đường AB dài 20km (B nằm giữa A và C). Hai người gặp nhau sau 2 giờ. 
+a) Tính hiệu vận tốc hai xe.          
+b) Tính vận tốc mỗi xe. Biết vận tốc xe thứ hai bằng 
+5
+6
+ vận tốc xe thứ nhất.   
+Hướng dẫn: a) Hiệu vận tốc hai xe là: 20 : 2 = 10 (km/giờ) 
+b) Ta có sơ đồ:   
+Vận tốc xe thứ nhất : |--------|--------|--------|--------|--------|--------| 
+Vận tốc xe thứ hai : |--------|--------|--------|--------|--------| 10 km/giờ 
+
+   MathExpress Education                                         www.mathexpress.vn                                                    
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 2 - 
+ 
+Vận tốc xe thứ hai là: 10 : (6 – 5) × 5 = 50 (km/giờ) 
+Vận tốc xe thứ nhất là: 50 + 10 = 60 (km/giờ) 
+Đáp số: a) 10 km/giờ; b) Xe thứ nhất: 60 km/giờ; Xe thứ hai: 50 km/giờ 
+Bài 6. Tổng số   cây trồng của 4 bạn Xuân, Hạ, Thu, Đông là 14 cây. Thu trồng được 
+1
+7
+ tổng số   cây và bằng 
+2
+3
+ 
+số   cây của Đông. Nếu Xuân trồng thêm 1 cây và Hạ bớt 1 cây thì số   cây của Xuân gấp 2 lần số cây của Hạ. 
+Tính số cây mỗi bạn trồng được. 
+Hướng dẫn: Thu trồng được số cây là: 14 : 7 × 1 = 2 (cây) 
+Đông trồng được số cây là: 2 : 2 × 3 = 3 (cây) 
+Tổng số cây của Xuân và Hạ l à: 14 – 2 – 3 = 9 (cây) 
+Nếu Xuân trồng thêm 1 cây và Hạ bớt 1 cây thì tổng số cây hai bạn không đổi. Ta có sơ đ  ồ khi đó: 
+Xuân : |--------------|--------------|           9 cây 
+Hạ  : |--------------|      
+Ban đầu, Hạ trồng được số cây là: 9 : (2 + 1) × 1 + 1 = 4 (cây) 
+Ban đầu, Xuân trồng được số cây là: 9 – 4 = 5 (cây) 
+Đáp số: Xuân: 5 cây; Hạ: 4 cây; Thu: 2 cây; Đông: 3 cây 
+Bài 7. Cho tam giác ABC. Trên cạnh BC lấy điểm N sao cho 
+2
+3
+=BNBC
+. 
+Trên cạnh AC lấy điểm P sao cho 
+2
+.
+3
+=
+APAC
+ Biết diện tích tam giác NPC 
+là 
+2
+5 cm
+. Tính diện tích tam giác ABC. 
+Hướng dẫn: 
+NPC
+ANC
+S
+PC1
+SAC3
+=    =
+(Chung chiều cao hạ từ N xuống AC). S
+ANC
+ = 
+S
+NPC
+ : 1 × 3 = 5 : 1 × 3 = 15 (cm
+2
+) 
+ANC
+ABC
+S
+NC1
+SBC3
+=    =
+(Chung chiều cao hạ từ A xuống BC).  S
+ABC
+ = S
+ANC
+ : 1 × 3 = 15 : 1 × 3 = 45 (cm
+2
+) 
+Đáp số: 45 cm
+2
+ 
+*   Thử   thách: Con kiến đi t   ừ A đ  ến B theo các cạnh của ô vuông, độ dài đường đi gấp 6 lần cạnh ô vuông 
+nhỏ và không đi qua C. Hỏi có bao nhiêu cách đi? 
+Hướng dẫn: Con kiến đi 6 bước, đi theo 3 cạnh ô vuông nhỏ ngang, 3 cạnh ô vuông nhỏ dọc, không đi qua 
+C và có 8 cách đi như sau: 
+        
+Đáp số: 8 cách 
+B
+C
+A
+A
+C
+B
+A
+C
+B
+B
+C
+A
+B
+C
+A
+B
+C
+A
+A
+C
+B
+A
+C
+B

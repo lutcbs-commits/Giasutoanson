@@ -1,0 +1,15 @@
+node_modules/
+.next/
+*.log
+.DS_Store
+Thumbs.db
+
+# Secrets - KHÔNG commit file này lên GitHub
+web/.env.local
+
+# Build output
+web/.next/
+web/out/
+
+# OS
+.DS_Store

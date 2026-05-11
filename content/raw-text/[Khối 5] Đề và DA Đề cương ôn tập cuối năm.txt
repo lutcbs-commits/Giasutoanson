@@ -1,0 +1,1916 @@
+
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 1 -
+ 
+ĐỀ CƯƠNG ÔN TẬP KHẢO SÁT ĐỊNH KÌ LỚP 5 
+A. NỘI DUNG ÔN TẬP 
+1. Phân số 
+a) Cần nắm được các kiến thức: 
+- Khái niệm của phân số, các tính chất cơ bản của phân số, rút gọn phân số, quy đồng mẫu số, 
+so sánh phân số. 
+- Các phép tính cộng, trừ, nhân, chia với phân số. 
+- Các bài toán tính thuận tiện, tính nhanh phân số. 
+- Tìm thành phần chưa biết trong phép tính. 
+b) Các bài toán với phân số 
+- Tìm tỉ số của 2 số 
+Tỉ số của 2 số a và b là a : b hay là 
+a
+b
+ (b khác 0). 
+- Tìm giá trị phân số của một số cho trước 
+Quy tắc: Muốn tìm  
+m
+n
+ 
+của một số A; ta lấy A × 
+m
+n
+ hay A chia cho n rồi nhân với m. 
+- Tìm một số biết một giá trị phân số của nó 
+Quy tắc: Muốn tìm một số khi biết  
+m
+n
+ của nó bằng A, ta lấy A chia m rồi nhân với n. 
+2. Các bài toán về tổng (hiệu) - tỉ 
+a) Bài toán tìm 2 số khi biết tổng và tỉ số 2 số đó 
+Cách giải: 
+- Coi số bé hoặc số lớn gồm một số phần bằng nhau, từ đó xác định số phần bằng nhau của số 
+còn lại. 
+- Tìm tổng số phần bằng nhau của hai số. 
+- Tìm một phần bằng cách lấy tổng của hai số chia cho tổng số phần bằng nhau. 
+- Tìm số bé, số lớn. 
+b) Bài toán tìm 2 số khi biết hiệu và tỉ số 2 số đó 
+Cách giải: 
+- Coi số bé hoặc số lớn gồm một số phần bằng nhau, từ đó xác định số phần bằng nhau của số 
+còn lại. 
+- Tìm hiệu số phần bằng nhau của hai số. 
+- Tìm một phần bằng cách lấy hiệu của hai số chia cho hiệu số phần bằng nhau. 
+- Tìm số bé, số lớn. 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 2 -
+ 
+3. Tỉ số phần trăm 
+a) Dạng 1: Tìm tỉ số phần trăm của 2 số 
+Muốn tìm tỉ số phần trăm của hai số: ta tìm thương hai số viết dưới dạng số thập phân, nhân 
+nhẩm thương đó với 100 được kết quả rồi viết kí hiệu % vào bên phải. 
+b) Dạng 2: Tìm giá trị phần trăm của một số 
+Muốn tìm n% của số A ta có thể lấy A chia cho 100 rồi nhân với n hoặc lấy A nhân với n rồi 
+chia cho 100. 
+c) Dạng 3: Tìm một số biết một giá trị phần trăm của nó 
+Muốn tìm một số biết n% của nó là A; ta lấy A chia cho n rồi nhân với 100. 
+4. Diện tích hình tam giác, hình thang 
+a) Công thức tính diện tích hình tam giác, hình thang 
+- Diện tích hình tam giác bằng đáy nhân với chiều cao tương ứng (cùng đơn vị đo) rồi chia  
+cho 2. 
+(Diện tích hình tam giác vuông bằng tích độ dài hai cạnh góc vuông (cùng đơn vị đo) chia  
+cho 2) 
+- Diện tích hình thang bằng tổng độ dài hai đáy nhân với chiều cao (cùng đơn vị đo) rồi chia 
+cho 2. 
+Hoặc: Diện tích hình thang bằng trung bình cộng độ dài hai đáy nhân với chiều cao. 
+b) Tỉ số diện tích của các tam giác chung đáy, chung chiều cao 
+- Với 2 tam giác có chung đáy hoặc đáy bằng nhau, tỉ số diện tích bằng tỉ số các chiều cao tương 
+ứng. 
+- Với 2 tam giác có chung chiều cao hoặc chiều cao bằng nhau, tỉ số diện tích bằng tỉ số các đáy 
+tương ứng. 
+Lưu ý: Trong hình thang ABCD ta có thể kẻ được nhiều đường cao, nhưng mọi đường cao trong 
+hình thang ABCD đều có độ dài bằng nhau. 
+5. Hình tròn. Hình hộp chữ nhật, hình lập phương 
+a) Hình tròn 
+Cho đường tròn có tâm O, bán kính r, đường kính d = 2 × r. Khi đó: 
+- Diện tích hình tròn S = 3,14 × r × r 
+- Chu vi hình tròn C = 3,14 × r × 2 hoặc C = 3,14 × d 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 3 -
+ 
+b) Hình hộp chữ nhật, hình lập phương 
+*Hình hộp chữ nhật  
+- Diện tích xung quanh của hình hộp chữ nhật bằng chu vi đáy nhân với chiều cao (cùng một 
+đơn vị đo). 
+S
+xq 
+= (Chiều dài + Chiều rộng) × 2 × Chiều cao 
+- Diện tích toàn phần của hình hộp chữ nhật là tổng của diện tích xung quanh và diện tích hai 
+đáy. 
+S
+tp 
+= S
+xq  
++ Chiều dài × Chiều rộng × 2 
+- Thể tích của hình hộp chữ nhật bằng tích của chiều dài, chiều rộng và chiều cao (cùng một 
+đơn vị đo). 
+V
+ 
+= Chiều dài × Chiều rộng × Chiều cao 
+*Hình lập phương  
+- Diện tích xung quanh của hình lập phương bằng diện tích một mặt nhân với 4. 
+S
+xq 
+= S
+1 mặt 
+× 4
+ 
+= Cạnh × Cạnh × 4 
+- Diện tích toàn phần của hình lập phương bằng diện tích một mặt nhân với 6. 
+S
+tp 
+= S
+1 mặt 
+× 6
+ 
+= Cạnh × Cạnh × 6 
+- Thể tích của hình lập phương bằng cạnh nhân cạnh nhân cạnh. 
+V
+ 
+= Cạnh × Cạnh × Cạnh 
+6. Toán chuyển động 
+a) Một số công thức cơ bản 
+ 
+b) Mối quan hệ tỉ lệ quãng đường, vận tốc, thời gian 
+1. Trên cùng một quãng đường, vận tốc và thời gian tỉ lệ nghịch với nhau. 
+2. Với cùng một vận tốc, thời gian và quãng đường tỉ lệ thuận với nhau.
+ 
+3. Với cùng một thời gian, vận tốc và quãng đường tỉ lệ thuận với nhau. 
+ 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 4 -
+ 
+c) Chuyển động cùng chiều, ngược chiều 
+*Chuyển động cùng chiều 
+Hai vật chuyển động cùng chiều trên cùng quãng đường, khởi hành cùng một lúc để đuổi kịp 
+nhau thì:                          
+Thời gian để hai xe đuổi kịp nhau = Khoảng cách ban đầu  :  Hiệu vận tốc 
+Khoảng cách ban đầu = Thời gian để hai xe đuổi kịp nhau  ×  Hiệu vận tốc 
+Hiệu vận tốc = Khoảng cách ban đầu : Thời gian để hai xe đuổi kịp nhau 
+*Chuyển động ngược chiều 
+Hai vật chuyển động ngược chiều trên cùng một quãng đường và khởi hành cùng lúc để gặp 
+nhau thì: 
+  Thời gian để hai xe gặp nhau = Quãng đường : Tổng vận tốc 
+  Quãng đường = Tổng vận tốc  × Thời gian để hai xe gặp nhau 
+  Tổng vận tốc = Quãng đường  :  Thời gian để hai xe gặp nhau 
+d) Chuyển động trên dòng nước 
+- Vận tốc xuôi dòng = Vận tốc thực + Vận tốc dòng nước.
+ 
+- Vận tốc ngược dòng = Vận tốc thực – Vận tốc dòng nước. 
+- Hiệu vận tốc xuôi dòng và vận tốc ngược dòng bằng 2 lần vận tốc dòng nước. 
+- Vận tốc thực = (Vận tốc xuôi + Vận tốc ngược) : 2. 
+Chú ý: Bài toán có cây bèo, khúc gỗ hay một vật trôi trên dòng nước thì vận tốc của vật đó 
+chính bằng vận tốc dòng nước. 
+e) Chuyển động của vật có chiều dài đáng kể 
+*Ghi nhớ: Bài toán chuyển động của vật có chiều dài đáng kể thì quãng đường vật đó đi được 
+phải cộng thêm chiều dài của nó. Coi vật đó là đoàn tàu có chiều dài là d. 
+Bài toán 1: Đoàn tàu chạy qua cột điện. 
+Thời gian tàu chạy qua cột điện là:   t = d : v  (với v là vận tốc của đoàn tàu) 
+Bài toán 2: Đoàn tàu chạy qua cây cầu có chiều dài m 
+Thời gian chạy qua cái cầu được xác định là:  
+t = (d + m) : v (với v là vận tốc của đoàn tàu) 
+Bài toán 3: Đoàn tàu chạy ngược chiều với ô tô. 
+Trường hợp đoàn tàu chạy qua một ô tô đang chạy ngược chiều (chiều dài của ô tô không đáng 
+kể) được xem xét như bài toán về hai chuyển động ngược chiều: một vật xuất phát ở A (đuôi 
+của đoàn tàu) và vật kia xuất phát ở B (ô tô). 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 5 -
+ 
+Bài toán 4: Đoàn tàu chạy cùng chiều với ô tô. 
+Trường hợp đoàn tàu chạy qua một ô tô đang chạy cùng chiều (chiều dài của ô tô không đáng 
+kể) được xem xét như bài toán về hai vật chuyển động cùng chiều: một vật xuất phát ở A (đuôi 
+của đoàn tàu) và vật kia xuất phát ở B (ô tô). 
+7. Một số bài toán khác 
+- Giải quyết được bài toán liên quan đến bài toán trồng cây, trung bình cộng, tổng - hiệu, bài 
+toán rút về đơn vị, công việc chung, hai tỉ số, hai hiệu số, giả thiết tạm, .... 
+- Rèn thêm về những bài toán tư duy logic. 
+B. BÀI TẬP VẬN DỤNG 
+I. BÀI TẬP CƠ BẢN 
+Bài 1. Tìm 
+x
+, biết: 
+a) 
+1 3  5
+:
+2 4  8
+x
+  
+ b) 
+1  2  5
+3  3  6
+x
+  
+    c) 
+32  4   23
+:
+5  5   10
+x
+  
+ 
+Bài 2. Ba xe ô tô chở được tất cả 240kg gạo. Biết xe thứ nhất chở được 
+1
+2
+ tổng số gạo, xe thứ 
+hai chở được số gạo bằng 
+2
+3
+ xe thứ nhất. Hỏi mỗi xe chở được bao nhiêu ki-lô-gam gạo? 
+Bài 3. Mẹ mang tiền đi chợ. Mẹ mua thịt hết 
+2
+5
+ số tiền, mua cá hết 
+1
+3
+ số tiền, mua rau hết  
+20 000 đồng thì còn lại 80 000 đồng. Hỏi lúc đầu mẹ mang đi chợ bao nhiêu tiền? 
+Bài 4. Hai kệ sách có tất cả 48 quyển sách. Nếu chuyển 6 quyển từ kệ thứ nhất sang kệ thứ hai 
+thì số sách ở kệ thứ hai sẽ bằng 
+3
+5
+ số sách ở kệ thứ nhất. Hỏi lúc đầu mỗi kệ có bao nhiêu quyển 
+sách? 
+Bài 5. Nhà Nam có một số quả cam và quả quýt, biết số cam ít hơn số quýt là 14 quả và 
+3
+4
+ số 
+cam bằng 
+2
+5
+ số quýt. Tính số quả cam, số quả quýt nhà Nam có. 
+Bài 6. Rạn san hô là nơi sống lí tưởng cho các loài cá ở đại dương. Người ta ước tính, rạn san 
+hô cung cấp môi trường sống cho 25% tất cả các loại cá biển. Hỏi cứ 200 con cá biển thì có bao 
+nhiêu con cá sống ở rạn san hô? 
+Bài 7. Trên một mảnh đất, người ta sử dụng 60% diện tích đất để làm nhà, 20% diện tích đất 
+làm sân chơi, còn lại 60m
+2
+ đất để trồng cây. Tính diện tích của mảnh đất đó. 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 6 -
+ 
+Bài 8. Một bể nước hình hộp chữ nhật có diện tích xung quanh bằng 448dm
+2
+, chiều cao 8dm, chiều 
+dài hơn chiều rộng 4dm. 
+a) Tính thể tích của bể nước hình hộp chữ nhật đó. 
+b) Một vòi nước chảy vào bể đó, cứ 2 giờ chảy được 96 lít nước. Hỏi sau bao lâu thì vòi đó chảy 
+đầy bể? Biết ban đầu bể không có nước. 
+Bài 9. Một hình hộp chữ nhật có chiều dài 14cm, chiều rộng 10cm và chiều cao bằng 
+6
+5
+ chiều 
+rộng. Một hình lập phương có cạnh bằng trung bình cộng ba kích thước của hình hộp chữ nhật 
+đó. Tính thể tích của hình lập phương. 
+Bài 10. Một xe máy đi từ A lúc 6 giờ 30 phút và đến B lúc 9 giờ, dọc đường người đó nghỉ mất 
+30 phút. Một ô tô đi trên quãng đường đó với vận tốc bằng 150% vận tốc của xe máy. Tính vận 
+tốc của ô tô. Biết quãng đường AB dài 64km. 
+Bài 11. Hằng ngày, anh Minh lái xe đi làm với vận tốc 40km/giờ. Hôm nay anh Minh đi tàu điện 
+với vận tốc 60km/giờ nên đến cơ quan sớm hơn mọi ngày 16 phút. Tính độ dài quãng đường 
+từ nhà anh Minh đến cơ quan. 
+Bài 12. Tìm một số tự nhiên, biết nếu xóa chữ số 3 ở hàng đơn vị của số đó thì số đó giảm đi 
+1794 đơn vị. 
+Bài 13. Hai anh em cùng làm việc nhà. Nếu một mình anh làm thì sau 4 giờ sẽ xong việc, còn 
+nếu em làm một mình thì sau 6 giờ sẽ xong việc đó. Hỏi cả 2 người cùng làm thì sau mấy giờ 
+sẽ xong việc đó? 
+II. BÀI TẬP MỞ RỘNG 
+Bài 14. Tính giá trị biểu thức: 
+a) 
+6  4  5  6  6
+A
+19 9  9 19 19
+    
+        
+b) 
+5 7  5 3  11
+B
+8 4  8 4  8
+    
+ 
+c) 
+2   2    22
+C...
+1 5  5 9  9 1393 97
+        
+    
+     
+d) 
+1111
+D111 ...1
+2342024
+              
+      
+      
+          
+      
+      
+      
+      
+              
+ 
+Bài 15. Cuối năm học, 4 tổ của một lớp 5 thi đua hái hoa điểm 10. Số điểm 10 của tổ 1 bằng  
+1
+2
+ tổng số điểm 10 của 3 tổ còn lại. Số điểm 10 của tổ 2 bằng 
+1
+3
+ tổng số điểm 10 của 3 tổ còn 
+lại. Số điểm 10 của tổ 3 bằng 
+1
+4
+ tổng số điểm 10 của 3 tổ còn lại. Tổ 4 có tổng cộng 26 điểm 10. 
+Hỏi cả lớp có bao nhiêu điểm 10? 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 7 -
+ 
+Bài 16. Ba lớp 6A, 6B, 6C trồng được tất cả 90 cây xanh. Số cây trồng được của lớp 6C ít hơn 
+tổng số cây trồng được của lớp 6A và 6B là 50 cây. Tính số cây trồng được của mỗi lớp, biết 
+rằng 
+1
+3
+ số cây trồng được của lớp 6A bằng 
+1
+4
+ số cây trồng được của lớp 6B. 
+Bài 17. Giá gạo tháng 5 so với giá gạo tháng 4 tăng 10%, giá gạo tháng 6 so với giá gạo tháng 5 
+lại giảm 10%. Hỏi giá gạo tháng 6 so với tháng 4 tăng hay giảm bao nhiêu phần trăm? 
+Bài 18. Một trường tiểu học bán xúc xích để lập quỹ ủng hộ người khó khăn. Biết buổi sáng 
+bán với giá 10 000 đồng một cây xúc xích. Buổi chiều do hạ giá nên số xúc xích bán được tăng 
+25%, số tiền thu về tăng 12,5% so với buổi sáng. Tính số tiền bán một cây xúc xích buổi chiều. 
+Bài 19. Một loại dung dịch nước đường chứa 8% đường (theo khối lượng). Để có được một 
+loại dung dịch nước đường chứa 5% đường, người ta cần phải đổ thêm vào 25kg dung dịch đó 
+bao nhiêu ki-lô-gam nước tinh khiết?  
+Bài 20. Cho tam giác ABC, trên AB lấy điểm M sao cho AM gấp rưỡi MB. Trên cạnh AC lấy điểm 
+N sao cho AN = 
+1
+2
+ AC. Biết diện tích tam giác AMN là 36 cm
+2
+. Tính diện tích tứ giác MNCB. 
+Bài 21. Cho hình vẽ dưới đây. Biết BM = MC, AN = 
+1
+5
+ AC. Tính tỉ số  
+ANP
+ABC
+S
+S
+. 
+ 
+Bài 22. Tìm tổng diện tích các phần tô đậm. Biết diện tích của mỗi hình tròn nhỏ bằng nhau và 
+bán kính hình tròn nhỏ là 10cm. 
+ 
+Bài 23. Một ca nô xuôi dòng từ A đến B hết 2 giờ và ngược dòng từ B về A hết 4 giờ. Hỏi một 
+cụm bèo trôi theo dòng nước từ A đến B hết mấy giờ? 
+P
+A
+CBM
+N
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 8 -
+ 
+Bài 24. Một xe lửa đi qua cột điện trong 
+1
+4
+ phút và vượt qua 1 cây cầu dài 0,7km trong 50 giây. 
+Tính vận tốc và chiều dài của xe lửa. 
+Bài 25. Năm nay tuổi bố gấp 3 lần tuổi con. 12 năm trước, tuổi bố gấp 7 lần tuổi con. Tính tuổi 
+hiện nay của mỗi người. 
+III. BÀI TẬP NÂNG CAO - TƯ DUY (Dành cho lớp nâng cao và học sinh mong muốn phát 
+triển tư duy nâng cao) 
+Bài 26. Cho hình chữ nhật ABCD có AB = 10cm, AD = 6cm. Điểm M nằm trên AC sao cho  
+AM = 2× MC. Kéo dài DM cắt cạnh BC ở E. Tính diện tích tam giác MEC. 
+ 
+Bài 27. Cho hình vẽ bên, D là điểm chính giữa cạnh CB và E là điểm 
+chính giữa cạnh AB. Đoạn thẳng CE cắt AD tại K. Biết rằng diện 
+tích tam giác AKE là 14cm
+2
+, tính diện tích tam giác ABC. 
+ 
+ 
+Bài 28. Tính diện tích phần tô đậm trong hình dưới đây. Biết cạnh hình vuông là 12cm. 
+ 
+Bài 29. Vào lúc 9 giờ sáng, một xe tải và một xe máy cùng bắt đầu đi từ A đến B. Vận tốc của xe 
+tải là 55km/giờ, vận tốc của xe máy là 35km/giờ. Vào lúc 11 giờ, một xe con bắt đầu đi từ A 
+đến B với vận tốc 70km/giờ. Hỏi lúc mấy giờ thì xe con đó ở vị trí cách đều xe tải và xe máy? 
+Bài 30. Nếu chia mỗi người 2 quả táo thì còn thừa 12 quả. Nếu chia mỗi người 3 quả thì còn lại 
+2 quả. Hỏi có bao nhiêu người được chia táo? Số táo có bao nhiêu quả? 
+6cm
+10cm
+E
+A
+C
+B
+M
+D
+C
+D
+K
+E
+B
+A
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 9 -
+ 
+Bài 31. Hùng có 6 viên bi trong đó có: 2 viên bi xanh, 2 viên bi đỏ và 2 viên bi vàng. Biết có một 
+viên bi đỏ, một viên bi vàng, một viên bi xanh nặng 99g còn lại mỗi viên bi nặng 101g. Trên 
+bàn có 1 cân thăng bằng có 2 đĩa cân. Hỏi chỉ với 2 lần cân, làm thế nào để tìm ra mỗi viên bi 
+nặng bao nhiêu gam? 
+Bài 32. Bạn An đi học từ nhà đến trường và phải đi qua cửa hàng bánh mì để mua đồ ăn sáng 
+(như hình bên dưới). Hỏi có bao nhiêu cách đi từ nhà đến trường? Biết quy tắc đi như sau:  
+Quy tắc 1: An không được quay lại bất kỳ điểm nào đã đi qua. 
+Quy tắc 2: Quãng đường di chuyển từ nhà đến cửa hàng bánh mì phải đúng bằng 5 bước, quãng 
+đường từ cửa hàng bánh mì đến trường phải đúng bằng 4 bước (mỗi bước tương ứng với độ 
+dài một cạnh ô vuông) 
+ 
+ 
+ 
+ 
+  
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 10 -
+ 
+HƯỚNG DẪN GIẢI CHI TIẾT 
+I. BÀI TẬP CƠ BẢN 
+Bài 1. Tìm 
+x
+, biết: 
+a) 
+1 3  5
+:
+2 4  8
+x
+  
+ b) 
+1  2  5
+3  3  6
+x
+  
+    c) 
+32  4   23
+:
+5  5   10
+x
+  
+ 
+Hướng dẫn: 
+a) 
+1 3  5
+:
+2 4  8
+x
+  
+ 
+1 4  5
+2 3  8
+x
+  
+ 
+2  5
+3  8
+x
+ 
+ 
+5  2
+8  3
+x
+ 
+ 
+31
+24
+x
+
+ 
+b) 
+1  2  5
+3  3  6
+x
+  
+ 
+    
+1  5  2
+3  6  3
+x
+  
+ 
+    
+1  1
+3  6
+x
+ 
+ 
+    
+1 1
+:
+6 3
+x
+
+ 
+    
+1 3
+6 1
+x
+ 
+ 
+    
+1
+2
+x
+
+ 
+c) 
+32  4   23
+:
+5  5   10
+x
+  
+ 
+    
+4   32  23
+:
+5    5  10
+x
+ 
+ 
+    
+4   41
+:
+5   10
+x
+
+ 
+    
+4 41
+:
+5 10
+x
+
+ 
+    
+4 10
+5 41
+x
+ 
+ 
+    
+8
+41
+x
+
+ 
+Bài 2. Ba xe ô tô chở được tất cả 240kg gạo. Biết xe thứ nhất chở được 
+1
+2
+ tổng số gạo, xe thứ 
+hai chở được số gạo bằng 
+2
+3
+ xe thứ nhất. Hỏi mỗi xe chở được bao nhiêu ki-lô-gam gạo? 
+Hướng dẫn: 
+Xe thứ nhất chở được số ki-lô-gam gạo là: 
+ 
+1
+240    120 kg
+2
+ 
+.
+ 
+Xe thứ hai chở được số ki-lô-gam gạo là: 
+2
+120    80
+3
+ 
+(kg). 
+Xe thứ ba chở được số ki-lô-gam gạo là: 240 – 120 – 80 = 40 (kg). 
+Đáp số: Xe thứ nhất: 120kg gạo;   Xe thứ hai: 80kg gạo;      Xe thứ ba: 40kg gạo. 
+Bài 3. Mẹ mang tiền đi chợ. Mẹ mua thịt hết 
+2
+5
+ số tiền, mua cá hết 
+1
+3
+ số tiền, mua rau hết  
+20 000 đồng thì còn lại 80 000 đồng. Hỏi lúc đầu mẹ mang đi chợ bao nhiêu tiền? 
+Hướng dẫn: 
+Sau khi mua thịt và mua cá, mẹ còn lại số tiền là: 
+20 000 + 80 000 = 100 000 (đồng) 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 11 -
+ 
+Phân số chỉ số tiền còn lại sau khi mẹ mua thịt và mua cá là:  
+2  1  4
+1
+5  3  15
+  
+ (số tiền mẹ mang đi chợ) 
+Lúc đầu, mẹ mang đi chợ số tiền là:  
+100 000 : 4 × 15 = 375 000 (đồng) 
+        Đáp số: 375 000 đồng. 
+Bài 4. Hai kệ sách có tất cả 48 quyển sách. Nếu chuyển 6 quyển từ kệ thứ nhất sang kệ thứ hai 
+thì số sách ở kệ thứ hai sẽ bằng 
+3
+5
+ số sách ở kệ thứ nhất. Hỏi lúc đầu mỗi kệ có bao nhiêu quyển 
+sách? 
+Hướng dẫn: 
+Nếu chuyển 6 quyển từ kệ thứ nhất sang kệ thứ hai thì tổng số sách ở cả hai kệ không thay đổi 
+và vẫn bằng 48 quyển sách. 
+Lúc sau, số sách ở kệ thứ hai bằng 
+3
+5
+ số sách ở kệ thứ nhất nên nếu coi số sách ở kệ thứ hai là 
+3 phần bằng nhau thì số sách ở kệ thứ nhất là 5 phần như thế.  
+Ta có sơ đồ: 
+ 
+Lúc sau, số sách ở kệ thứ nhất là: 48 : (3 + 5) × 5 = 30 (quyển). 
+Lúc đầu, số sách ở kệ thứ nhất là: 30 + 6 = 36 (quyển). 
+Lúc đầu, số sách ở kệ thứ hai là: 48 – 36 = 12 (quyển). 
+Đáp số: Kệ thứ nhất: 36 quyển sách;    Kệ thứ hai: 12 quyển sách. 
+Bài 5. Nhà Nam có một số quả cam và quả quýt, biết số cam ít hơn số quýt là 14 quả và 
+3
+4
+ số 
+cam bằng 
+2
+5
+ số quýt. Tính số quả cam, số quả quýt nhà Nam có. 
+Hướng dẫn: 
+Theo đề bài ta có: 
+3
+4
+ số cam bằng 
+2
+5
+ số quýt hay 
+6
+8
+ số cam bằng 
+6
+15
+ số quýt .  
+Coi số cam là 8 phần bằng nhau thì số quýt là 15 phần như thế. 
+Ta có sơ đồ: 
+ 
+14 quả
+Quýt:
+Cam:
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 12 -
+ 
+Nhà Nam có số quả quýt là: 14 : (15 – 8) × 15 = 30 (quả). 
+Nhà Nam có số quả cam là: 30 – 14 = 16 (quả). 
+        Đáp số: 30 quả quýt; 16 quả cam. 
+Bài 6. Rạn san hô là nơi sống lí tưởng cho các loài cá ở đại dương. Người ta ước tính, rạn san 
+hô cung cấp môi trường sống cho 25% tất cả các loại cá biển. Hỏi cứ 200 con cá biển thì có bao 
+nhiêu con cá sống ở rạn san hô? 
+Hướng dẫn: 
+Số con cá sống ở rạn san hô chiếm 25% tất cả các loại cá biển. 
+Cứ 200 con cá biển thì có số con cá sống ở rạn san hô là: 
+200 × 25 : 100 = 50 (con) 
+       Đáp số: 50 con. 
+Bài 7. Trên một mảnh đất, người ta sử dụng 60% diện tích đất để làm nhà, 20% diện tích đất 
+làm sân chơi, còn lại 60m
+2
+ đất để trồng cây. Tính diện tích của mảnh đất đó. 
+Hướng dẫn: 
+Diện tích đất để trồng cây chiếm: 
+100% – 60% – 20% = 20% (diện tích mảnh đất) 
+60m
+2
+ tương ứng với 20% diện tích mảnh đất. 
+Diện tích mảnh đất là:  
+60 : 20 × 100 = 300 (m
+2
+) 
+        Đáp số: 300m
+2
+. 
+Bài 8. Một bể nước hình hộp chữ nhật có diện tích xung quanh bằng 448dm
+2
+, chiều cao 8dm, chiều 
+dài hơn chiều rộng 4dm. 
+a) Tính thể tích của bể nước hình hộp chữ nhật đó. 
+b) Một vòi nước chảy vào bể đó, cứ 2 giờ chảy được 96 lít nước. Hỏi sau bao lâu thì vòi đó chảy 
+đầy bể? Biết ban đầu bể không có nước. 
+Hướng dẫn: 
+a) Chu vi đáy của hình hộp chữ nhật là: 448 : 8 = 56 (dm). 
+Nửa chu vi đáy của hình hộp chữ nhật là: 56 : 2 = 28 (dm). 
+Chiều dài của hình hộp chữ nhật là: (28 + 4) : 2 = 16 (dm). 
+Chiều rộng của hình hộp chữ nhật là: 28 – 16 = 12 (dm). 
+Thể tích của hình hộp chữ nhật là: 16 × 12 × 8 = 1536 (dm
+3
+). 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 13 -
+ 
+b) Đổi: 1536dm
+3
+ = 1536 lít. 
+1 giờ vòi đó chảy vào bể được số lít nước là: 96 : 2 = 48 (lít). 
+Thời gian để vòi đó chảy đầy bể là: 1536 : 48 = 32 (giờ) 
+        Đáp số: a) 1536dm
+3
+;        b) 32 giờ 
+Bài 9. Một hình hộp chữ nhật có chiều dài 14cm, chiều rộng 10cm và chiều cao bằng 
+6
+5
+ chiều 
+rộng. Một hình lập phương có cạnh bằng trung bình cộng ba kích thước của hình hộp chữ nhật 
+đó. Tính thể tích của hình lập phương. 
+Hướng dẫn: 
+Chiều cao của hình hộp chữ nhật là:  
+10 × 6 : 5 = 12 (cm) 
+Cạnh của hình lập phương là:  
+(14 + 10 + 12) : 3 = 12 (cm) 
+Thể tích của hình lập phương là:  
+12 × 12 × 12 = 1728 (cm
+3
+) 
+       Đáp số: 1728 cm
+3
+. 
+Bài 10. Một xe máy đi từ A lúc 6 giờ 30 phút và đến B lúc 9 giờ, dọc đường người đó nghỉ mất 
+30 phút. Một ô tô đi trên quãng đường đó với vận tốc bằng 150% vận tốc của xe máy. Tính vận 
+tốc của ô tô. Biết quãng đường AB dài 64km. 
+Hướng dẫn: 
+Thời gian xe máy đi từ A đến B (không kể thời gian nghỉ) là: 
+9 giờ – 6 giờ 30 phút – 30 phút = 2 giờ 
+Vận tốc của xe máy là: 
+64 : 2 = 32 (km/giờ) 
+Vận tốc của ô tô là: 
+32 × 150 : 100 = 48 (km/giờ) 
+        Đáp số: 48km/giờ. 
+Bài 11. Hằng ngày, anh Minh lái xe đi làm với vận tốc 40km/giờ. Hôm nay anh Minh đi tàu điện 
+với vận tốc 60km/giờ nên đến cơ quan sớm hơn mọi ngày 16 phút. Tính độ dài quãng đường 
+từ nhà anh Minh đến cơ quan. 
+Hướng dẫn: 
+Tỉ số vận tốc khi anh Minh lái xe đi làm và đi tàu điện đi làm là: 
+2
+40:60
+3
+
+.
+ 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 14 -
+ 
+Trên cùng một quãng đường, vận tốc tăng lên (hoặc giảm đi) bao nhiêu lần thì thời gian giảm 
+đi (hoặc tăng lên) bấy nhiêu lần. 
+Do đó, tỉ số thời gian khi anh Minh lái xe đi làm và đi tàu điện đi làm là: 
+3
+2
+.
+ 
+Coi thời gian anh Minh lái xe đi làm là 3 phần bằng nhau thì thời gian anh Minh đi tàu điện đi 
+làm là 2 phần như vậy. 
+Thời gian anh Minh lái xe đi làm là: 16 : (3 – 2) × 3 = 48 (phút) = 0,8 (giờ). 
+Độ dài quãng đường từ nhà anh Minh đến cơ quan là: 40 × 0,8 = 32 (km). 
+        Đáp số: 32km. 
+Bài 12. Tìm một số tự nhiên, biết nếu xóa chữ số 3 ở hàng đơn vị của số đó thì số đó giảm đi 
+1794 đơn vị. 
+Hướng dẫn: 
+Gọi số cần tìm là 
+A3
+ (A có thể là một, hai, ba, ... chữ số) 
+Theo đề bài ta có: 
+A3  A 1794
+A 10 3  A 1794
+ 
+   
+ 
+A 9 3 1794
+  
+ (bớt cả 2 vế cho 
+A
+) 
+A 9 1794 3
+A 9 1791
+A  1791:9
+A  199
+   
+ 
+
+
+ 
+Vậy số cần tìm là: 1993. 
+                                    
+Đáp số: 1993. 
+Bài 13. Hai anh em cùng làm việc nhà. Nếu một mình anh làm thì sau 4 giờ sẽ xong việc, còn 
+nếu em làm một mình thì sau 6 giờ sẽ xong việc đó. Hỏi cả 2 người cùng làm thì sau mấy giờ 
+sẽ xong việc đó? 
+Hướng dẫn: 
+Trong 1 giờ người anh làm một mình được: 1 : 4 = 
+1
+4
+ (công việc). 
+Trong 1 giờ người em làm một mình được: 1 : 6 = 
+1
+6
+ (công việc). 
+Trong 1 giờ cả hai anh em cùng làm được: 
+1  1  5
+4  6  12
+ 
+ (công việc). 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 15 -
+ 
+Thời gian để hai anh em cùng làm chung hoàn thành xong công việc đó là: 
+5 12
+1:  =
+12 5
+ (giờ). 
+        Đáp số: 
+12
+5
+ 
+giờ. 
+II. BÀI TẬP MỞ RỘNG 
+Bài 14. Tính giá trị biểu thức: 
+a) 
+6  4  5  6  6
+A
+19 9  9 19 19
+    
+        
+b) 
+5 7  5 3  11
+B
+8 4  8 4  8
+    
+ 
+c) 
+2   2    22
+C...
+1 5  5 9  9 1393 97
+        
+    
+     
+d) 
+1111
+D111 ...1
+2342024
+              
+      
+      
+          
+      
+      
+      
+      
+              
+ 
+Hướng dẫn: 
+a) 
+  
+6  4  5  6  6  6  4  566
+A11 10  0
+19 9  9 19 19  19  9  9    1919
+    
+
+
+              
+
+
+
+
+    
+ 
+b) 
+5 7  5 3  11  5  7  3  11  5   11  5  11  16
+B12
+8 4  8 4  8  8  4  4  8  8    8  8  8  8
+  
+
+
+               
+
+
+
+
+  
+ 
+c) 
+2   2    22
+C...
+1 5  5 9  9 1393 97
+        
+    
+ 
+2   2    22
+C 2...2
+1 5  5 9  9 1393 97
+
+
+
+            
+
+
+
+
+
+    
+ 
+4   4    44
+C 2...
+1 5  5 9  9 1393 97
+         
+    
+ 
+1  1  1  1  11  1
+C 2 1...
+5  5  9  9 1393  97
+         
+ 
+1
+C 2 1
+97
+  
+ 
+96
+C 2
+97
+ 
+ 
+96
+C   :2
+97
+
+ 
+48
+C
+97
+
+ 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 16 -
+ 
+d) 
+1111
+D111 ...1
+2342024
+              
+      
+      
+          
+      
+      
+      
+      
+              
+ 
+1  2  1  3  1  41   2024
+D...
+2  2  3  3  4  42024  2024
+          
+       
+       
+          
+       
+       
+       
+       
+          
+ 
+3
+D
+
+4
+2
+
+3
+5
+
+4
+2025
+...
+2024
+ 
+ 
+2025
+D
+2
+
+ 
+Bài 15. Cuối năm học, 4 tổ của một lớp 5 thi đua hái hoa điểm 10. Số điểm 10 của tổ 1 bằng  
+1
+2
+ tổng số điểm 10 của 3 tổ còn lại. Số điểm 10 của tổ 2 bằng 
+1
+3
+ tổng số điểm 10 của 3 tổ còn 
+lại. Số điểm 10 của tổ 3 bằng 
+1
+4
+ tổng số điểm 10 của 3 tổ còn lại. Tổ 4 có tổng cộng 26 điểm 10. 
+Hỏi cả lớp có bao nhiêu điểm 10? 
+Hướng dẫn: 
+Số điểm 10 của tổ 1 bằng 
+1
+2
+ tổng số điểm 10 của 3 tổ còn lại nên số điểm 10 của tổ 1 bằng 
+1   1
+2 1  3
+
+
+ số điểm 10 của cả lớp. 
+Số điểm 10 của tổ 2 bằng 
+1
+3
+ tổng số điểm 10 của 3 tổ còn lại nên số điểm 10 của tổ 2 bằng 
+1   1
+3 1  4
+
+
+ số điểm 10 của cả lớp. 
+Số điểm 10 của tổ 3 bằng 
+1
+4
+ tổng số điểm 10 của 3 tổ còn lại nên số điểm 10 của tổ 3 bằng 
+1  1
+=
+4+1 5
+ số điểm 10 của cả lớp. 
+Số điểm 10 của tổ 4 chiếm: 1 – 
+1
+3
+ – 
+1
+4
+ – 
+1
+5
+= 
+13
+60
+ (số điểm 10 của cả lớp). 
+26 điểm 10 tương ứng với 
+13
+60
+ số điểm 10 của cả lớp. 
+Cả lớp có số điểm 10 là: 26 : 13 × 60 = 120 (điểm 10). 
+       Đáp số: 120 điểm 10. 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 17 -
+ 
+Bài 16. Ba lớp 6A, 6B, 6C trồng được tất cả 90 cây xanh. Số cây trồng được của lớp 6C ít hơn 
+tổng số cây trồng được của lớp 6A và 6B là 50 cây. Tính số cây trồng được của mỗi lớp, biết 
+rằng 
+1
+3
+ số cây trồng được của lớp 6A bằng 
+1
+4
+ số cây trồng được của lớp 6B. 
+Hướng dẫn: 
+Lớp 6C trồng được số cây là: (90 – 50) : 2 = 20 (cây). 
+Tổng số cây lớp 6A và 6B trồng được là: 90 – 20 = 70 (cây). 
+Theo đề bài, ta có: 
+1
+3
+ số cây trồng được của lớp 6A bằng 
+1
+4
+ số cây trồng được của lớp 6B. 
+Do đó, coi số cây trồng được của lớp 6A là 3 phần bằng nhau thì số cây trồng được của lớp 6B 
+là 4 phần như vậy. 
+Ta có sơ đồ: 
+ 
+Số cây trồng được của lớp 6A là: 70 : (3 + 4) × 3 = 30 (cây). 
+Số cây trồng được của lớp 6B là: 70 – 30 = 40 (cây). 
+       Đáp số: 6A: 30 cây; 6B: 40 cây; 6C: 20 cây. 
+Bài 17. Giá gạo tháng 5 so với giá gạo tháng 4 tăng 10%, giá gạo tháng 6 so với giá gạo tháng 5 
+lại giảm 10%. Hỏi giá gạo tháng 6 so với tháng 4 tăng hay giảm bao nhiêu phần trăm? 
+Hướng dẫn: 
+Giá gạo tháng 5 bằng: 100% + 10% = 110% (giá gạo tháng 4). 
+Giá gạo tháng 6 bằng: 100% – 10% = 90% (giá gạo tháng 5). 
+Giá gạo tháng 6 bằng:  110% × 90% = 99% (giá gạo tháng 4). 
+Vậy giá gạo tháng 6 giảm so với tháng 4 và giảm số phần trăm là:  
+100% – 99% = 1% (giá gạo tháng 4) 
+       Đáp số: Giảm 1% so với giá gạo tháng 4. 
+Bài 18. Một trường tiểu học bán xúc xích để lập quỹ ủng hộ người khó khăn. Biết buổi sáng 
+bán với giá 10 000 đồng một cây xúc xích. Buổi chiều do hạ giá nên số xúc xích bán được tăng 
+25%, số tiền thu về tăng 12,5% so với buổi sáng. Tính số tiền bán một cây xúc xích buổi chiều. 
+Hướng dẫn: 
+Số lượng xúc xích bán được buổi chiều bằng: 
+100% + 25% = 125% (số lượng xúc xích bán được buổi sáng) 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 18 -
+ 
+Số tiền thu được buổi chiều bằng: 
+100% + 12,5% = 112,5% (số tiền thu được buổi sáng) 
+Số tiền bán 1 cây xúc xích buổi chiều bằng: 
+112,5% : 125% = 90% (số tiền bán 1 cây xúc xích buổi sáng) 
+Số tiền bán 1 cây xúc xích buổi chiều là: 
+10 000 × 90 : 100 = 9 000 (đồng) 
+        Đáp số: 9 000 đồng. 
+Bài 19. Một loại dung dịch nước đường chứa 8% đường (theo khối lượng). Để có được một 
+loại dung dịch nước đường chứa 5% đường, người ta cần phải đổ thêm vào 25kg dung dịch đó 
+bao nhiêu ki-lô-gam nước tinh khiết?  
+Hướng dẫn: 
+Khối lượng đường có trong 25kg dung dịch ban đầu là: 25 × 8 : 100 = 2 (kg). 
+Khi đổ thêm nước tinh khiết vào dung dịch ban đầu thì khối lượng đường không thay đổi và 
+vẫn bằng 2kg. Khối lượng đường này chiếm 5% khối lượng dung dịch mới. 
+Khối lượng dung dịch mới là: 2 : 5 × 100 = 40 (kg). 
+Khối lượng nước tinh khiết cần đổ thêm là: 40 – 25 = 15 (kg). 
+        Đáp số: 15kg. 
+Bài 20. Cho tam giác ABC, trên AB lấy điểm M sao cho AM gấp rưỡi MB. Trên cạnh AC lấy điểm 
+N sao cho AN = 
+1
+2
+ AC. Biết diện tích tam giác AMN là 36 cm
+2
+. Tính diện tích tứ giác MNCB. 
+Hướng dẫn: 
+AM gấp rưỡi MB hay AM = 
+3
+2
+ MB. Suy ra AM = 
+3
+5
+ AB. 
+Nối B với N, ta có hình vẽ như sau: 
+ 
+AMN
+ABN
+S
+AM  3
+S    AB  5
+    
+ (chung chiều cao hạ từ N xuống AB) 
+ABN
+ABC
+S
+AN  1
+S   AC  2
+    
+ (chung chiều cao hạ từ B xuống AC) 
+Suy ra: 
+AMNAMN    ABN
+ABCABNABC
+S    S   S   3 1  3
+S    S   S   5 2 10
+    
+ 
+A
+B
+M
+N
+C
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 19 -
+ 
+Mà S
+AMN
+ = 36 cm
+2
+, suy ra: 
+ABC
+S
+= 36 : 3 × 10 = 120 (cm
+2
+) 
+Ta có: S
+MNCB
+ = S
+ABC
+ – S
+AMN 
+= 120 – 36 = 84 (cm
+2
+) 
+Vậy diện tích tứ giác MNCB là 84 cm
+2
+. 
+Bài 21. Cho hình vẽ dưới đây. Biết BM = MC, AN = 
+1
+5
+ AC. Tính tỉ số  
+ANP
+ABC
+S
+S
+. 
+ 
+Hướng dẫn: 
+Nối P với C và B với N, ta có hình vẽ như sau: 
+ 
+Ta có: +) S
+PBM
+ = S
+PCM  
+(chung chiều cao hạ từ P xuống BC, đáy MB = MC) 
+            +) S
+NBM
+ = S
+NCM
+ (chung chiều cao hạ từ N xuống BC, đáy MB = MC) 
+Ta có:  S
+PBM  
+–
+ 
+S
+NBM 
+= S
+PCM
+ – S
+NCM
+  hay  S
+PBN
+ = S
+PCN
+.
+ 
+ 
+Vì AN = 
+1
+5
+ AC nên 
+1
+AN   CN
+4
+
+. 
++) 
+PAN
+PCN
+S
+AN  1
+S    CN  4
+  
+ (chung chiều cao hạ từ P xuống AC) 
+Suy ra: 
+PANPCNPBN
+11
+SSS
+44
+    
+  
+Mà 
+PBNPANABN
+S   S   S
+  
+ → 
+ABNPBN
+3
+SS
+4
+ 
+ → 
+PANABN
+1
+SS
+3
+ 
+. 
++) 
+ABN
+ABC
+S
+AN  1
+S    AC  5
+  
+ (chung chiều cao hạ từ B xuống AC) 
+P
+A
+CBM
+N
+N
+MBC
+A
+P
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 20 -
+ 
+Suy ra: 
+ABNABC
+1
+SS
+5
+ 
+ 
+Vậy 
+PANABCABC
+1 11
+SSS
+3 515
+     
+ hay 
+PAN
+ABC
+S    1
+S   15
+
+. 
+        Đáp số: 
+1
+15
+. 
+Bài 22. Tìm tổng diện tích các phần tô đậm. Biết diện tích của mỗi hình tròn nhỏ bằng nhau và 
+bán kính hình tròn nhỏ là 10cm. 
+ 
+Hướng dẫn: 
+Ta nối thêm hình và đánh số thứ tự như sau: 
+ 
+Quan sát hình vẽ ta thấy: 
+Tổng diện tích các phần tô đậm cần tính (1), (2), (3), (4) chính bằng tổng diện tích của các 
+phần tô đậm (1), (5), (6), (7) và chính bằng 
+1
+4
+ diện tích hình tròn lớn. 
+Hình tròn lớn có bán kính bằng đường kính hình tròn nhỏ và bằng: 10 × 2 = 20 (cm). 
+Diện tích hình tròn lớn là:  
+20 × 20 × 3,14 = 1256 (cm
+2
+) 
+Vậy tổng diện tích các phần tô đậm cần tính (1), (2), (3), (4) là: 
+1256 : 4 = 314 (cm
+2
+) 
+      Đáp số: 314cm
+2
+. 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 21 -
+ 
+Bài 23. Một ca nô xuôi dòng từ A đến B hết 2 giờ và ngược dòng từ B về A hết 4 giờ. Hỏi một 
+cụm bèo trôi theo dòng nước từ A đến B hết mấy giờ? 
+Hướng dẫn: 
+Trung bình mỗi giờ ca nô xuôi dòng được: 
+1
+1:2=
+2
+ (quãng sông AB). 
+Trung bình mỗi giờ ca nô đi ngược dòng được: 
+1
+1:4=
+4
+ (quãng sông AB). 
+Vì hiệu vận tốc xuôi dòng và ngược dòng bằng hai lần vận tốc dòng nước, nên mỗi giờ cụm bèo 
+trôi được: 
+1  1    1
+:2
+2  4    8
+  
+
+
+  
+
+
+
+
+  
+ (quãng sông AB). 
+Thời gian cụm bèo trôi từ A đến B là: 
+1
+1:   8
+8
+
+ (giờ). 
+        Đáp số: 8 giờ. 
+Bài 24. Một xe lửa đi qua cột điện trong 
+1
+4
+ phút và vượt qua 1 cây cầu dài 0,7km trong 50 giây. 
+Tính vận tốc và chiều dài của xe lửa. 
+Phân tích: Xe lửa đi qua cột điện trong 
+1
+4
+ phút nghĩa là trong 
+1
+4
+ phút xe lửa chạy được quãng 
+đường bằng chiều dài xe lửa. Xe lửa vượt qua 1 cây cầu dài 0,7km trong 50 giây nghĩa là trong 
+50 giây xe lửa đi được tổng quãng đường = chiều dài cầu + chiều dài xe lửa. Từ đây ta tính 
+được thời gian xe lửa chạy quãng đường dài 0,7km. 
+Hướng dẫn: 
+Đổi: 
+1
+4
+ phút = 15 giây; 0,7km = 700m. 
+Thời gian xe lửa chạy quãng đường dài 0,7km là: 50 – 15 = 35 (giây). 
+Vận tốc xe lửa là: 700 : 35 = 20 (m/giây). 
+Chiều dài xe lửa là: 15 × 20 = 300 (m). 
+        Đáp số: 20m/giây và 300m. 
+Bài 25. Năm nay tuổi bố gấp 3 lần tuổi con. 12 năm trước, tuổi bố gấp 7 lần tuổi con. Tính tuổi 
+hiện nay của mỗi người. 
+Hướng dẫn: 
+Hiệu số tuổi của bố và con không thay đổi qua các năm. 
+Năm nay tuổi bố gấp 3 lần tuổi con nên tuổi bố bằng 
+3   3
+3 1  2
+
+
+ hiệu số tuổi của hai bố con. 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 22 -
+ 
+12 năm trước, tuổi bố gấp 7 lần tuổi con nên tuổi bố bằng 
+7   7
+7 1  6
+
+
+ hiệu số tuổi của hai bố 
+con. 
+12 tuổi tương ứng với: 
+3  7  1
+2  6  3
+ 
+ (hiệu số tuổi của hai bố con). 
+Hiệu số tuổi của hai bố con là: 12 : 1 × 3 = 36 (tuổi). 
+Tuổi của bố hiện nay là: 36 × 3 : 2 = 54 (tuổi). 
+Tuổi của con hiện nay là: 54 : 3 = 18 (tuổi). 
+       Đáp số: Con: 18 tuổi;     Bố: 54 tuổi. 
+III. BÀI TẬP NÂNG CAO - TƯ DUY (Dành cho lớp nâng cao và học sinh mong muốn phát 
+triển tư duy nâng cao) 
+Bài 26. Cho hình chữ nhật ABCD có AB = 10cm, AD = 6cm. Điểm M nằm trên AC sao cho  
+AM = 2× MC. Kéo dài DM cắt cạnh BC ở E. Tính diện tích tam giác MEC. 
+ 
+Hướng dẫn: 
+Nối A với E. 
+ 
+Ta có:  
++) 
+ACD
+11
+SAD CD    6 10  30
+22
+        
+ (cm
+2
+) 
+AMDACD
+2
+SS
+3
+
+ (chung chiều cao hạ từ D xuống AC, đáy AM = 
+2
+3
+AC) 
+→ 
+AMD
+2
+S    30    20
+3
+  
+ (cm
+2
+) 
+6cm
+10cm
+E
+A
+C
+B
+M
+D
+6cm
+10cm
+E
+A
+C
+B
+M
+D
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 23 -
+ 
++) 
+AED
+S
+= 
+ACD
+S
+= 30 cm
+2
+ (chung đáy AD, chiều cao hạ từ E xuống AD bằng chiều cao hạ từ C 
+xuống AD) 
+Mà 
+AED
+S
+= 
+AMEAMD
+S    S
+
+ nên
+  
+suy ra 
+AMEAED    AMD
+S   S   S
+  
+= 30 – 20 = 10 (cm
+2
+). 
+Mặt khác: 
+MECAME
+1
+SS
+2
+
+(chung chiều cao hạ từ E xuống AC, đáy MC = 
+1
+2
+AM) 
+Vậy 
+MEC
+1
+S   10
+2
+ 
+= 5 (cm
+2
+) 
+Đáp số: 5cm
+2 
+Bài 27. Cho hình vẽ bên, D là điểm chính giữa cạnh CB và E là điểm 
+chính giữa cạnh AB. Đoạn thẳng CE cắt AD tại K. Biết rằng diện tích 
+tam giác AKE là 14cm
+2
+, tính diện tích tam giác ABC. 
+Hướng dẫn: 
+Nối B với K. 
+Vì D là điểm chính giữa cạnh CB nên DB = DC. 
+Vì E là điểm chính giữa cạnh AB nên EA = EB. 
+Ta có: 
+KAEKBE
+S   S
+
+ (chung chiều cao hạ từ K tới AB, đáy AE = BE)  (1) 
+Mà hai tam giác này có chung đáy KE nên chiều cao hạ từ A và B tới KE 
+bằng nhau. 
+→ 
+KACKBC
+S   S
+
+ (vì có chung đáy CK và chiều cao hạ từ A và B tới CK bằng nhau)      (2) 
+KBDKCD
+S   S
+
+ (chung chiều cao hạ từ K tới BC, đáy BD = CD). 
+Mà hai tam giác này có chung đáy KD nên chiều cao hạ từ B và C tới KD bằng nhau. 
+→ 
+KABKAC
+S   S
+
+ (vì có chung đáy AK và chiều cao hạ từ B và C tới AK bằng nhau)     (3) 
+Từ (2) và (3) suy ra: 
+KABKACKBC
+S   S   S
+  
+. Mà 
+KABKACKBCABC
+S   S   S   S
+    
+, do đó: 
+ABCKAB
+S   3 S
+ 
+. 
+Từ (1) suy ra: 
+2
+KBEKAE
+S   S   14cm
+  
+. 
+→  
+2
+KABKBEKAE
+S   S   S   14 14  28 (cm )
+      
+ 
+Vậy diện tích tam giác ABC là:  28 × 3 = 84 (cm
+2
+). 
+      Đáp số: 84cm
+2
+. 
+C
+D
+K
+E
+B
+A
+C
+D
+K
+E
+B
+A
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 24 -
+ 
+Bài 28. Tính diện tích phần tô đậm trong hình dưới đây. Biết cạnh hình vuông là 12cm. 
+ 
+Hướng dẫn:  
+Nối A với C, B với D. Ta đánh số và đặt tên như hình dưới đây: 
+ 
+Quan sát hình vẽ, ta thấy: 
+Diện tích phần tô đậm bằng diện tích hình tam giác vuông ABC trừ đi tổng diện tích của các 
+phần (1) và (4). 
+Các phần (1), (2), (3), (4) bằng nhau nên tổng diện tích của các phần (1) và (4) bằng tổng diện 
+tích của các phần (2) và (4). 
+Tổng diện tích của các phần (2) và (4) bằng diện tích nửa hình tròn đường kính DC trừ đi diện 
+tích hình tam giác ODC. 
+Diện tích hình vuông ABCD là: 12 × 12 = 144 (cm
+2
+). 
+Diện tích hình tam giác ODC bằng 
+1
+4
+ diện tích hình vuông ABCD và bằng:  
+144 : 4 = 36 (cm
+2
+) 
+Diện tích nửa hình tròn đường kính DC là:  
+3,14 × (12 : 2) × (12 : 2) : 2 = 56,52 (cm
+2
+) 
+Tổng diện tích của các phần (2) và (4) là:  
+56,52 – 36 = 20,52 (cm
+2
+) 
+Do đó, tổng diện tích của các phần (1) và (4) là: 20,52cm
+2
+. 
+Diện tích hình tam giác ABC bằng 
+1
+2
+ diện tích hình vuông ABCD và bằng:  
+144 : 2 = 72 (cm
+2
+) 
+Vậy diện tích phần tô đậm là: 
+72 – 20,52 = 51,48 (cm
+2
+) 
+        Đáp số: 51,48cm
+2
+. 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 25 -
+ 
+Bài 29. Vào lúc 9 giờ sáng, một xe tải và một xe máy cùng bắt đầu đi từ A đến B. Vận tốc của xe 
+tải là 55km/giờ, vận tốc của xe máy là 35km/giờ. Vào lúc 11 giờ, một xe con bắt đầu đi từ A 
+đến B với vận tốc 70km/giờ. Hỏi lúc mấy giờ thì xe con đó ở vị trí cách đều xe tải và xe máy? 
+Phân tích: Để giải các bài toán dạng này ta đưa ra các giả thiết mới để đưa về bài toán có chuyển 
+động cùng chiều cơ bản, biết khoảng cách ban đầu và hiệu hai vận tốc. 
+Trong bài toán này, ta cần hình dung ra đối tượng chuyển động thứ tư là xe thứ tư luôn đi 
+chính giữa xe tải và xe máy. Khi đó, xe thứ tư phải xuất phát cùng một lúc với hai xe đó và đi 
+với vận tốc bằng trung bình vận tốc của hai xe đó. 
+Khi đó, nếu xe con đuổi kịp xe thứ tư thì tại đó, xe con ở vị trí chính giữa xe tải và xe máy. 
+Hướng dẫn: 
+Giả sử có 1 xe thứ tư luôn ở vị trí chính giữa của xe tải và xe máy thì xe đó xuất phát từ A lúc 
+9 giờ và đi với vận tốc là: (55 + 35) : 2 = 45 (km/giờ). 
+Xe con ở vị trí chính giữa xe tải và xe máy khi xe con đuổi kịp xe thứ tư. 
+Thời gian xe thứ tư đi trước xe con là: 11 giờ – 9 giờ = 2 giờ. 
+Quãng đường xe thứ tư đi trước xe con là: 45 × 2 = 90 (km). 
+Sau mỗi giờ, xe con gần xe thứ tư thêm số ki-lô-mét là: 70 – 45 = 25 (km) 
+Kể từ lúc xe con xuất phát, xe con ở vị trí chính giữa xe tải và xe máy hay xe con đuổi kịp xe 
+thứ tư sau thời gian là:  
+90 : 25 = 3,6 (giờ) = 3 giờ 36 phút. 
+Xe con ở vị trí chính giữa xe tải và xe máy lúc:  
+11 giờ + 3 giờ 36 phút = 14 giờ 36 phút. 
+        Đáp số: 14 giờ 36 phút. 
+Bài 30. Nếu chia mỗi người 2 quả táo thì còn thừa 12 quả. Nếu chia mỗi người 3 quả thì còn lại 
+2 quả. Hỏi có bao nhiêu người được chia táo? Số táo có bao nhiêu quả? 
+Hướng dẫn: 
+Vì nếu chia mỗi người 2 quả thì thừa 12 quả, mỗi người 3 quả thì thừa 2 quả nên ta có sơ đồ:  
+ 
+Số táo đủ để chia mỗi người 2 quả ít hơn số táo đủ để chia mỗi người 3 quả là:  
+12 – 2 = 10 (quả) 
+Số táo đủ để chia cho mỗi người 3 quả
+Số táo đủ để chia cho mỗi người 2 quả
+12 quả
+2 quả
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 26 -
+ 
+1 người có 2 quả táo ít hơn 1 người có 3 quả táo là: 3 – 2 = 1 (quả). 
+Có số người được chia táo là: 10 : 1 = 10 (người). 
+Có tất cả số quả táo là: 2 × 10 + 12 = 32 (quả). 
+      Đáp số: 10 người và 32 quả táo. 
+Bài 31. Hùng có 6 viên bi trong đó có: 2 viên bi xanh, 2 viên bi đỏ và 2 viên bi vàng. Biết có một 
+viên bi đỏ, một viên bi vàng, một viên bi xanh nặng 99g còn lại mỗi viên bi nặng 101g. Trên 
+bàn có 1 cân thăng bằng có 2 đĩa cân. Hỏi chỉ với 2 lần cân, làm thế nào để tìm ra mỗi viên bi 
+nặng bao nhiêu gam? 
+Hướng dẫn: 
+Lần 1: Đặt 1 viên xanh và 1 viên đỏ một bên; 1 viên xanh và 1 viên vàng một bên. 
+*) Trường hợp 1: Nếu cân thăng bằng 
+Vì 2 viên bi xanh là 99g và 101g suy ra 2 viên bi đỏ và vàng khác cân nặng. 
+Lần 2: Ta cân tiếp 2 bi xanh, nếu viên bi xanh ở bên xanh + đỏ nhẹ hơn ta suy ra viên bi đỏ 
+nặng 101g, viên bi vàng bên kia nặng 99g. 
+Từ đó ta tìm được mỗi viên bi nặng bao nhiêu gam. 
+*) Trường hợp 2: Nếu cân không thăng bằng 
+Giả sử bên bi xanh + bi đỏ nhẹ hơn 
+Khi đó chắc chắn bi xanh nặng 99g. 
+Ta có các trường hợp sau: 
+1 bên là xanh 99g + đỏ 99g;     1 bên là xanh 101g + vàng 99g 
+1 bên là xanh 99g + đỏ 99g;     1 bên là xanh 101g + vàng 101g 
+1 bên là xanh 99g + đỏ 101g;    1 bên là xanh 101g + vàng 101g 
+Lần 2: Ta để 1 bên là 2 viên bi xanh, 1 bên là vàng + đỏ đã cân ở lần 1. 
+Nếu xanh + xanh nặng hơn đỏ + vàng thì đỏ và vàng đã cân lần 1 đều nặng 99g. 
+Nếu xanh + xanh bằng đỏ + vàng thì đỏ đã cân lần 1 là 99g và vàng lần 1 đã cân là 101g. 
+Nếu xanh + xanh nhẹ hơn đỏ + vàng thì đỏ và vàng đã cân lần 1 đều nặng 101g. 
+Từ đó, ta tìm được mỗi viên bi nặng bao nhiêu gam. 
+Tương tự, với trường hợp bên bi xanh + bi đỏ nặng hơn ta làm tương tự. 
+Vậy sau 2 lần cân, ta sẽ tìm ra mỗi viên bi nặng bao nhiêu gam. 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 27 -
+ 
+Bài 32. Bạn An đi học từ nhà đến trường và phải đi qua cửa hàng bánh mì để mua đồ ăn sáng 
+(như hình bên dưới). Hỏi có bao nhiêu cách đi từ nhà đến trường? Biết quy tắc đi như sau:  
+Quy tắc 1: An không được quay lại bất kỳ điểm nào đã đi qua. 
+Quy tắc 2: Quãng đường di chuyển từ nhà đến cửa hàng bánh mì phải đúng bằng 5 bước, quãng 
+đường từ cửa hàng bánh mì đến trường phải đúng bằng 4 bước (mỗi bước tương ứng với độ 
+dài một cạnh ô vuông) 
+ 
+Hướng dẫn: 
+Với 2 quy tắc như trên, An chỉ có thể đi xuống dưới hoặc đi sang trái.  
+- Đếm số cách đi từ nhà An qua cửa hàng bánh mì: Có 10 cách. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+   MathExpress Education 
+                                                     
+www.mathexpress.vn                                                   
+ 
+Hotline: 1900 633 551  
+ 
+- Trang | 28 -
+ 
+- Đếm số cách đi từ cửa hàng bánh mì đến trường: Có 4 cách. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vậy có số cách để An đi từ nhà đến trường là:  10 ×  4 = 40 (cách). 

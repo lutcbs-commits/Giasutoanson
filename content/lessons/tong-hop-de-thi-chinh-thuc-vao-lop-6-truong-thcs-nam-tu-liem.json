@@ -1,0 +1,256 @@
+{
+  "id": "tong-hop-de-thi-chinh-thuc-vao-lop-6-truong-thcs-nam-tu-liem",
+  "fileName": "Tổng hợp đề thi chính thức vào lớp 6 trường THCS Nam Từ Liêm.pdf",
+  "title": "Tổng hợp đề thi chính thức vào lớp 6 trường THCS Nam Từ Liêm (2020-2026)",
+  "topics": ["Tính toán nhanh", "Tỉ số phần trăm", "Tuổi và năm", "Toán chuyển động", "Hình học phẳng", "Số học - chia dư", "Tổ hợp đếm đường đi"],
+  "processedAt": "2026-05-09T00:00:00.000Z",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Tính toán nhanh - Tách và nhóm thừa số chung",
+      "content": "Nhiều phép tính có thể rút gọn bằng cách nhận ra thừa số chung, áp dụng tính chất phân phối: a×b + a×c = a×(b+c). Kỹ năng này giúp tính toán nhanh mà không cần nhân số lớn.",
+      "keyFormula": "a×b + a×c - a×d = a×(b + c - d)",
+      "example": {
+        "problem": "Tính A = 37×23,45 + 630×2,345 - 2345.",
+        "steps": [
+          "Nhận thấy 630 × 2,345 = 63 × 23,45",
+          "A = 37 × 23,45 + 63 × 23,45 - 2345",
+          "A = (37 + 63) × 23,45 - 2345",
+          "A = 100 × 23,45 - 2345 = 2345 - 2345 = 0"
+        ],
+        "result": "A = 0"
+      },
+      "miniGame": {
+        "question": "Tính: 126 × 9,8 + 126 × 0,7 - 126 × 0,5",
+        "options": ["A. 1260", "B. 126", "C. 1134", "D. 252"],
+        "answer": "A. 1260",
+        "explanation": "126 × (9,8 + 0,7 - 0,5) = 126 × 10 = 1260."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Bài toán tuổi - Hiệu số tuổi không đổi",
+      "content": "Hiệu số tuổi giữa hai người luôn không thay đổi theo năm tháng. Dựa vào hiệu và tỉ lệ tuổi tại một thời điểm, ta lập phương trình để tìm tuổi hiện tại.",
+      "keyFormula": "Hiệu tuổi = hằng số; Tuổi con = Hiệu ÷ (Tỉ lệ mẹ - 1) × tỉ lệ con",
+      "example": {
+        "problem": "Mẹ hơn con 28 tuổi. Hiện nay tuổi con bằng 20% tuổi mẹ. Tính tuổi con.",
+        "steps": [
+          "Gọi tuổi con là x, tuổi mẹ là x + 28",
+          "Tuổi con = 20% tuổi mẹ → x = 20% × (x + 28)",
+          "x = 0,2x + 5,6 → 0,8x = 5,6 → x = 7",
+          "Hoặc: mẹ hơn con 28 tuổi = 80% tuổi mẹ → mẹ 35 tuổi, con 7 tuổi"
+        ],
+        "result": "Tuổi con: 7 tuổi"
+      },
+      "miniGame": {
+        "question": "Mẹ hơn con 25 tuổi. Hai năm nữa, tuổi con bằng 1/6 tuổi mẹ. Tuổi con hiện nay là bao nhiêu?",
+        "options": ["A. 3 tuổi", "B. 4 tuổi", "C. 5 tuổi", "D. 6 tuổi"],
+        "answer": "A. 3 tuổi",
+        "explanation": "Sau 2 năm: (con+2) = 1/6 × (mẹ+2) = 1/6 × (con+27). 6×(con+2) = con+27 → 5×con = 15 → con = 3 sau 2 năm, tức hiện nay con = 3 tuổi."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Toán chuyển động - Hai xe gặp nhau",
+      "content": "Khi hai xe xuất phát cùng lúc từ A và B đi ngược chiều, tổng quãng đường hai xe đi bằng AB. Thời gian gặp nhau = AB ÷ (vận tốc tổng). Có thể dùng khi biết giờ gặp nhau để tính AB.",
+      "keyFormula": "Thời gian gặp = AB ÷ (v₁ + v₂); Quãng đường mỗi xe = vận tốc × thời gian",
+      "example": {
+        "problem": "Lúc 6 giờ, xe từ A (48km/h) và xe từ B (36km/h) đi ngược chiều, gặp nhau lúc 7h15'. Tìm AB.",
+        "steps": [
+          "Thời gian đi: 7h15' - 6h = 1 giờ 15 phút = 1,25 giờ",
+          "AB = (48 + 36) × 1,25 = 84 × 1,25 = 105 (km)"
+        ],
+        "result": "AB = 105 km"
+      },
+      "miniGame": {
+        "question": "Lúc 7 giờ, xe từ A (45km/h) và xe từ B (30km/h) đi ngược chiều. Hai xe gặp nhau lúc 9h30'. Tìm quãng đường AB.",
+        "options": ["A. 165km", "B. 168km", "C. 172km", "D. 187,5km"],
+        "answer": "D. 187,5km",
+        "explanation": "Thời gian: 9h30' - 7h = 2,5 giờ. AB = (45 + 30) × 2,5 = 75 × 2,5 = 187,5 km."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Hình học - Diện tích hình bình hành và hình vuông",
+      "content": "Diện tích hình bình hành = đáy × chiều cao. Khi hình vuông có diện tích bằng hình bình hành, cạnh hình vuông bằng căn bậc hai của diện tích đó. Chú ý đổi đơn vị trước khi tính.",
+      "keyFormula": "S bình hành = đáy × chiều cao; Cạnh hình vuông = √S",
+      "example": {
+        "problem": "Hình bình hành có đáy 0,9m, chiều cao 4dm. Hình vuông có diện tích bằng hình bình hành. Tìm cạnh hình vuông.",
+        "steps": [
+          "Đổi: 0,9m = 9dm",
+          "S bình hành = 9 × 4 = 36 (dm²)",
+          "Cạnh hình vuông: √36 = 6 (dm)"
+        ],
+        "result": "Cạnh = 6 dm"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Chia dư - Tìm số dư khi chia cho tích",
+      "content": "Khi biết số A chia cho a dư r₁ và chia cho b dư r₂, ta tìm các số thỏa mãn cả hai điều kiện rồi xét số dư khi chia cho a×b (nếu a, b nguyên tố cùng nhau).",
+      "keyFormula": "A = k₁×a + r₁ = k₂×b + r₂; Tìm A nhỏ nhất thỏa cả hai điều kiện",
+      "example": {
+        "problem": "Số A chia 3 dư 1, chia 5 dư 3. Hỏi A chia 15 dư bao nhiêu?",
+        "steps": [
+          "Các số chia 3 dư 1: 1, 4, 7, 10, 13, 16, ...",
+          "Trong đó số nào chia 5 dư 3: 13 (chia 5 = 2 dư 3) ✓",
+          "Kiểm tra: 13 ÷ 15 = 0 dư 13",
+          "Vậy A chia 15 dư 13"
+        ],
+        "result": "Dư 13"
+      },
+      "miniGame": {
+        "question": "Số A chia 4 dư 2, chia 7 dư 3. A chia 28 dư bao nhiêu?",
+        "options": ["A. 10", "B. 17", "C. 24", "D. 3"],
+        "answer": "A. 10",
+        "explanation": "Số chia 4 dư 2: 2, 6, 10, 14, 18, ... Số chia 7 dư 3: 3, 10, 17, ... Số nhỏ nhất thỏa cả hai: 10. 10 ÷ 28 dư 10."
+      }
+    },
+    {
+      "id": 6,
+      "title": "Tỉ số phần trăm - Bài toán phần trăm thực tế",
+      "content": "Bài toán phần trăm thực tế đòi hỏi tính phần trăm từng loại, sau đó tìm phần còn lại. Cách làm: tổng phần trăm các loại đã biết = ?%, phần còn lại = 100% trừ đi tổng đó.",
+      "keyFormula": "Phần còn lại % = 100% - (% các loại đã biết); Số lượng = Tổng × %",
+      "example": {
+        "problem": "Lớp 5A có 50 học sinh. 2/5 thích đá bóng; 16% thích đá cầu; 24% thích bóng rổ; còn lại thích cầu lông. Hỏi bao nhiêu học sinh thích cầu lông?",
+        "steps": [
+          "Thích đá bóng: 2/5 = 40%",
+          "Thích cầu lông: 100% - 40% - 16% - 24% = 20%",
+          "Số học sinh thích cầu lông: 50 × 20% = 10 học sinh"
+        ],
+        "result": "10 học sinh"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Đếm đường đi trên lưới ô vuông",
+      "content": "Để đếm số đường đi từ điểm M đến N trên lưới ô vuông (chỉ đi sang phải hoặc xuống dưới), ta dùng phương pháp cộng dần: số cách đến một điểm bằng tổng số cách đến điểm bên trái và điểm phía trên nó.",
+      "keyFormula": "Số cách đến ô (i,j) = Số cách đến ô (i-1,j) + Số cách đến ô (i,j-1)",
+      "example": {
+        "problem": "Con kiến đi từ M đến N trên lưới theo chiều mũi tên (chỉ đi sang phải hoặc xuống). Đếm số cách đi.",
+        "steps": [
+          "Gán số 1 cho điểm xuất phát M",
+          "Mỗi ô tiếp theo = tổng số cách đến ô bên trái + ô phía trên",
+          "Điền dần từng ô cho đến N",
+          "Kết quả là giá trị tại ô N"
+        ],
+        "result": "Đếm theo bảng tam giác Pascal"
+      },
+      "miniGame": {
+        "question": "Con kiến đi từ góc trên trái đến góc dưới phải trên lưới 2×2 ô (chỉ đi sang phải hoặc xuống). Có bao nhiêu cách đi?",
+        "options": ["A. 4 cách", "B. 5 cách", "C. 6 cách", "D. 8 cách"],
+        "answer": "C. 6 cách",
+        "explanation": "Lưới 2×2 ô có 3×3 = 9 điểm. Từ góc trên trái đến góc dưới phải cần đi 2 bước phải + 2 bước xuống = C(4,2) = 6 cách."
+      }
+    },
+    {
+      "id": 8,
+      "title": "Hình học - Tam giác và hình chữ nhật",
+      "content": "Trong hình chữ nhật ABCD, khi có điểm M trên cạnh và điểm N trên cạnh khác, ta dùng công thức diện tích tam giác và quan hệ tỉ số để tính diện tích các phần. Chú ý S tam giác = 1/2 × đáy × chiều cao.",
+      "keyFormula": "S tam giác = 1/2 × đáy × chiều cao; Tỉ số cạnh = tỉ số diện tích khi chung chiều cao",
+      "example": {
+        "problem": "Hình chữ nhật ABCD có BM = MC, S(ABCD) = 60cm², S(MNC) = 10cm². Tính S tam giác DMC.",
+        "steps": [
+          "BM = MC nên M là trung điểm BC → S(DMC) = S(DBM)",
+          "S(ABCD) = 60cm² → S(ADM) = S(BCM) = 30cm²",
+          "S(DMC) = 30cm² ÷ 2 = ... cần thêm thông tin về N",
+          "S(DMC) = S(ADM) - S(DMN)",
+          "Tỉ số tính từ S(MNC)"
+        ],
+        "result": "Tính dựa vào tỉ số MN/DN"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Tính: A = 37 × 23,45 + 630 × 2,345 - 2345",
+      "options": ["A. 0", "B. 100", "C. 2345", "D. -2345"],
+      "answer": "A. 0",
+      "explanation": "630 × 2,345 = 63 × 23,45. A = (37+63) × 23,45 - 2345 = 100 × 23,45 - 2345 = 2345 - 2345 = 0.",
+      "steps": ["Nhận xét: 630 × 2,345 = 63 × 23,45", "A = 37 × 23,45 + 63 × 23,45 - 2345", "A = (37+63) × 23,45 - 2345 = 100 × 23,45 - 2345 = 0"],
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "question": "Mẹ hơn con 28 tuổi. Hiện nay tuổi con bằng 20% tuổi mẹ. Tuổi con hiện nay là bao nhiêu?",
+      "options": ["A. 6 tuổi", "B. 7 tuổi", "C. 8 tuổi", "D. 9 tuổi"],
+      "answer": "B. 7 tuổi",
+      "explanation": "28 tuổi chênh lệch = 80% tuổi mẹ. Tuổi mẹ = 28 ÷ 0,8 = 35. Tuổi con = 35 - 28 = 7.",
+      "steps": ["Mẹ - Con = 28 tuổi = 80% tuổi mẹ", "Tuổi mẹ = 28 ÷ 0,8 = 35 tuổi", "Tuổi con = 35 - 28 = 7 tuổi"],
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "question": "Lớp 5G có 43 học sinh, đều đạt điểm 9 hoặc 10. Tổng điểm là 406. Có bao nhiêu học sinh đạt điểm 10?",
+      "options": ["A. 19 học sinh", "B. 21 học sinh", "C. 25 học sinh", "D. 27 học sinh"],
+      "answer": "A. 19 học sinh",
+      "explanation": "Nếu tất cả đạt 9: tổng = 43×9 = 387. Thực tế 406 > 387 nên có (406-387) = 19 học sinh đạt điểm 10 (mỗi em thay 9 bằng 10 tăng 1 điểm).",
+      "steps": ["Giả sử tất cả đạt 9: 43 × 9 = 387 điểm", "Thực tế: 406 điểm, thừa: 406 - 387 = 19", "Mỗi học sinh điểm 10 đóng góp thêm 1 điểm", "Số HS điểm 10 = 19"],
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "Lúc 6 giờ một xe đi từ A (48 km/h), cùng lúc xe từ B (36 km/h) đi về A, gặp nhau lúc 7 giờ 15 phút. Tìm độ dài AB.",
+      "options": ["A. 95 km", "B. 100 km", "C. 105 km", "D. 110 km"],
+      "answer": "C. 105 km",
+      "explanation": "Thời gian = 1 giờ 15 phút = 1,25 giờ. AB = (48 + 36) × 1,25 = 84 × 1,25 = 105 km.",
+      "steps": ["Thời gian đi: 7h15' - 6h = 1h 15' = 1,25 giờ", "Tổng vận tốc: 48 + 36 = 84 km/h", "AB = 84 × 1,25 = 105 km"],
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "Hình bình hành có đáy 0,9m, chiều cao 4dm. Hình vuông có diện tích bằng hình bình hành. Tìm cạnh hình vuông.",
+      "options": ["A. 5 dm", "B. 6 dm", "C. 7 dm", "D. 8 dm"],
+      "answer": "B. 6 dm",
+      "explanation": "Đổi 0,9m = 9dm. S = 9 × 4 = 36 dm². Cạnh hình vuông = √36 = 6 dm.",
+      "steps": ["Đổi đơn vị: 0,9m = 9dm", "S bình hành = 9 × 4 = 36 dm²", "Cạnh hình vuông: √36 = 6 dm"],
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "Số A chia 3 dư 1, chia 5 dư 3. Hỏi A chia cho 15 dư bao nhiêu?",
+      "options": ["A. 7", "B. 10", "C. 13", "D. 8"],
+      "answer": "C. 13",
+      "explanation": "Số chia 3 dư 1: 1, 4, 7, 10, 13,... Kiểm tra chia 5: 13 ÷ 5 = 2 dư 3 ✓. A ÷ 15 dư 13.",
+      "steps": ["Số chia 3 dư 1: 1, 4, 7, 10, 13, 16...", "Số nào chia 5 dư 3: kiểm tra 13 ÷ 5 = 2 dư 3 ✓", "13 ÷ 15 = 0 dư 13"],
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "Lớp 5A có 50 học sinh. 2/5 thích đá bóng; 16% thích đá cầu; 24% thích bóng rổ; còn lại thích cầu lông. Hỏi bao nhiêu học sinh thích cầu lông?",
+      "options": ["A. 8 học sinh", "B. 10 học sinh", "C. 12 học sinh", "D. 15 học sinh"],
+      "answer": "B. 10 học sinh",
+      "explanation": "Thích cầu lông: 100% - 40% - 16% - 24% = 20%. Số HS = 50 × 20% = 10.",
+      "steps": ["Đá bóng: 2/5 = 40%", "Cầu lông: 100% - 40% - 16% - 24% = 20%", "Số học sinh: 50 × 20% = 10"],
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "Hai bạn hẹn nhau lúc 9 giờ 10 phút. Nam đến lúc 8 giờ 50 phút. Tùng đến muộn 18 phút. Nam chờ Tùng bao lâu?",
+      "options": ["A. 28 phút", "B. 30 phút", "C. 38 phút", "D. 40 phút"],
+      "answer": "C. 38 phút",
+      "explanation": "Tùng đến lúc: 9h10' + 18' = 9h28'. Nam đến lúc 8h50'. Nam chờ = 9h28' - 8h50' = 38 phút.",
+      "steps": ["Tùng đến: 9h10' + 18' = 9h28'", "Nam đến: 8h50'", "Thời gian chờ: 9h28' - 8h50' = 38 phút"],
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "Hiện nay anh 11 tuổi, em 5 tuổi. Sau bao nhiêu năm nữa tổng số tuổi hai anh em là 28 tuổi?",
+      "options": ["A. 4 năm", "B. 5 năm", "C. 6 năm", "D. 7 năm"],
+      "answer": "C. 6 năm",
+      "explanation": "Hiện tổng tuổi: 11+5 = 16. Mỗi năm tổng tăng 2. Cần thêm: (28-16) ÷ 2 = 6 năm.",
+      "steps": ["Tổng tuổi hiện tại: 11 + 5 = 16", "Mỗi năm qua tổng tăng 2", "Số năm cần thêm: (28 - 16) ÷ 2 = 6 năm"],
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "Tổng số cây trồng của 4 bạn là 14 cây. Thu trồng được 1/7 tổng số cây và bằng 2/3 số cây của Đông. Hỏi Thu trồng bao nhiêu cây?",
+      "options": ["A. 1 cây", "B. 2 cây", "C. 3 cây", "D. 4 cây"],
+      "answer": "B. 2 cây",
+      "explanation": "Thu = 1/7 × 14 = 2 cây.",
+      "steps": ["Tổng 4 bạn = 14 cây", "Thu = 1/7 tổng = 1/7 × 14 = 2 cây"],
+      "difficulty": "easy"
+    }
+  ]
+}

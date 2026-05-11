@@ -1,0 +1,542 @@
+
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551     1 
+ 
+ 
+TRƯỜNG THCS NĂNG KHIẾU  
+ĐẠI HỌC SƯ PHẠM  
+ĐỀ ĐÁNH GIÁ NĂNG LỰC  
+TUYỂN SINH LỚP 6 NĂM HỌC 2025 - 2026 
+Môn: Toán 
+ 
+---------------------------------------------------------------------------------------------------- 
+Lưu ý: Dưới đây là một số bài toán có trong đề đánh giá năng lực vào trường THCS Năng khiếu, 
+Đại học Sư phạm được dựng lại theo trí nhớ của học sinh 
+PHẦN A. TRẮC NGHIỆM TỔNG HỢP 
+Câu 1 đến 3: Học sinh dùng thông tin dưới đây để trả lời. 
+Số nước nhà Nam dùng hàng ngày 
+Hoạt động Số lần Số nước/1lần (lít) 
+Tắm 4 lần 45 
+Rửa bát 3 lần 18 
+Giặt đồ 1 lần 75 
+Tưới cây  1 lần  12 
+ 
+Câu 1. Tính tổng số nước đã dùng trong 1 ngày. 
+Câu 2. Nhà Nam đã tiết kiệm bằng cách 1 lần tắm giảm còn 35l. Hỏi trong 30 ngày nhà Nam tiết 
+kiệm được bao nhiêu lít nước? 
+Câu 3. Để sản xuất ra 1m
+3
+ nước thì trạm mất 2 000 đồng. Hỏi cần bao nhiêu tiền để sản xuất ra 
+số nước đủ dùng cho 5 hộ dùng số nước như nhà Nam dùng trong 30 ngày. 
+Câu 4. Một hôm bạn An và bạn Bình đi từ nhà mình ở hai điểm A và B. Hai người gặp nhau cách 
+nhà Bình 360m. Biết bạn An đi từ nhà mình đến nhà bạn Bình mất 18 phút, còn bạn Bình đến 
+nhà bạn An mất 24 phút. Tính quãng đường AB. 
+Câu 5. Cho HEMS x 4 = SMEH, biết các chữ cái khác nhau có giá trị khác nhau. Tìm H+E+M+S. 
+Câu 6. Người ta viết các số 1, 2, 3, 4 ..., 100 thành số A. Tính tổng các chữ số của A. 
+Câu 7. Các chữ a, b, c, d tương ứng với 4 số 3, 4, 5, 6. Tổng nhỏ nhất của 2 phân số 
+a c
+b d
+
+ là 
+bao nhiêu? 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 2 
+ 
+Câu 8. Cho hai hình vuông như hình vẽ sau. Hình vuông lớn có cạnh 6cm. Biết BD = 2AD;  
+BE = 2EC. Tính diện tích phần tô đậm. 
+ 
+Câu 9. 
+Sơn hai màu xanh dương và vàng với tỉ lệ 
+3
+7
+ và hết tổng cộng 5 lít sơn. Hỏi sơn màu 
+vàng hết bao nhiêu lít? 
+Câu 10. Một nốt trắng bằng hai nốt đen, một nốt đen bằng 2 nốt móc. Biết mỗi ô nhạc bằng  
+3
+4
+ nhịp mà 
+3
+4
+ nhịp bằng 3 phách. Mà một nốt đen bằng 1 phách. Hỏi có 2 nốt đen và một nốt 
+móc thì thiếu nốt nào để đủ 
+3
+4
+ nhịp? 
+Câu 11. Con kiến đi từ A đến B theo các cạnh của ô vuông, độ dài đường đi gấp 6 lần cạnh  
+ô vuông nhỏ và không đi qua C. Hỏi có bao nhiêu cách đi? 
+ 
+Câu 12. Một cửa hàng bán bánh có chương trình khuyến mãi, mua 3 tặng 1, mua 5 tặng 2. Hỏi 
+muốn mua 30 chiếc bánh cần ít nhất bao nhiêu tiền? Biết 1 chiếc bánh có giá 5000 đồng. 
+ 
+B
+C
+A
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 3 
+ 
+PHẦN B. TỰ LUẬN 
+Bài 1. Nhà trường tổ chức phong trào bảo vệ môi trường, Lan và Hồng cùng nhau thu gom chai 
+nhựa, biết lúc đầu Lan có số vỏ chai nhựa thu được bằng 
+4
+7
+ của Hồng, lúc sau hai bạn mỗi người 
+nhặt được thêm 7 chai nhựa thì số chai nhựa của Lan bằng 
+3
+5
+ của Hồng. Tính số chai nhựa lúc 
+đầu của mỗi người. 
+Bài 2. Hùng có 6 viên bi, 2 viên bi xanh 2 viên bi đỏ và 2 viên bi vàng, biết có một viên bi đỏ, một 
+viên bi vàng, một viên bi xanh nặng 99g còn lại mỗi bi nặng 101g. Trên bàn có 1 cân thăng bằng 
+2 đĩa bằng nhau hỏi chỉ với 2 lần cân, làm thế nào để tìm ra mỗi viên bi nặng bao nhiêu gram? 
+---------------------------------HẾT--------------------------------- 
+  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 4 
+ 
+HƯỚNG DẪN GIẢI CHI TIẾT 
+PHẦN A. TRẮC NGHIỆM TỔNG HỢP 
+Câu 1 đến 3: Học sinh dùng thông tin dưới đây để trả lời. 
+Số nước nhà Nam dùng hàng ngày 
+Hoạt động Số lần Số nước/1lần (lít) 
+Tắm 4 lần 45 
+Rửa bát 3 lần 18 
+Giặt đồ 1 lần 75 
+Tưới cây  1 lần  12 
+Câu 1. Tính tổng số nước đã dùng trong 1 ngày. 
+Hướng dẫn: 
+Tổng số nước nhà Nam đã dùng trong 1 ngày là: 
+45 × 4 + 18 × 3 + 75 × 1 + 12 × 1 = 321 (lít) 
+Đáp số: 321 lít 
+Câu 2. Nhà Nam đã tiết kiệm bằng cách 1 lần tắm giảm còn 35l. Hỏi trong 30 ngày nhà Nam tiết 
+kiệm được bao nhiêu lít nước? 
+Hướng dẫn: 
+Số lít nước nhà Nam tiết kiệm được trong 1 ngày là: (45 – 35) × 4 = 40 (lít) 
+Số lít nước nhà Nam tiết kiệm được trong 30 ngày là: 40 × 30 = 1200 (lít) 
+Đáp số: 1200 lít 
+Câu 3. Để sản xuất ra 1m
+3
+ nước thì trạm mất 2 000 đồng. Hỏi cần bao nhiêu tiền để sản xuất ra 
+số nước đủ dùng cho 5 hộ dùng số nước như nhà Nam dùng trong 30 ngày. 
+Hướng dẫn: 
+Tổng số nước nhà Nam dùng trong 30 ngày là: 321 × 30 = 9630 (lít) = 9,63 (m
+3
+) 
+Số nước của 5 hộ dùng như nhà Nam là: 9,63 × 5 = 48,15 (m
+3
+) 
+Số tiền cần để sản xuất ra nước đủ cho 5 hộ là: 2000 × 48,15 = 96 300 (đồng) 
+Đáp số: 96 300 đồng 
+Câu 4. Một hôm bạn An và bạn Bình đi từ nhà mình ở hai điểm A và B. Hai người gặp nhau cách 
+nhà Bình 360m. Biết bạn An đi từ nhà mình đến nhà bạn Bình mất 18 phút, còn bạn Bình đến 
+nhà bạn An mất 24 phút. Tính quãng đường AB. 
+Hướng dẫn: 
+Tỉ số thời gian của An và Bình khi đi hết quãng đường nhà An – nhà Bình là: 
+3
+18:24
+4
+
+. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 5 
+ 
+Trên cùng một quãng đường, thời gian tăng (hay giảm) bao nhiêu lần thì vận tốc giảm (hay 
+tăng) bấy nhiêu lần. 
+Tỉ số vận tốc của An và Bình là: 
+4
+.
+3
+ 
+Trong cùng một khoảng thời gian, vận tốc tăng (hay giảm) bao nhiêu lần thì quãng đường đi 
+được tăng (hay giảm) bấy nhiêu lần. 
+Khi điểm gặp nhau cách nhà Bình 360m, có nghĩa là Bình đã đi được 360m và khi đó An đi 
+được: 360 × 4 : 3 = 480 (m). 
+Vậy độ dài quãng đường AB là: 360 + 480 = 840 (m).  
+Đáp số: 840m. 
+Câu 5. Cho HEMS x 4 = SMEH, biết các chữ cái khác nhau có giá trị khác nhau. Tìm H+E+M+S. 
+Hướng dẫn: 
+Vì HEMS và SMEH đều là số có 4 chữ số nên H và S đều là các chữ số khác 0. 
+Vì HEMS × 4 = SMEH nên SMEH < 10 000. 
+Do đó, HEMS × 4 < 10 000 suy ra HEMS < 2500. 
+Do đó, H = 1 hoặc H = 2. 
+Mặt khác, HEMS x 4 = SMEH nên SMEH là số chẵn suy ra H là chữ số chẵn. Do đó, H = 2. 
+Vì H = 2 suy ra S = 8.  
+Khi đó, ta có phép tính: 
+ 
+
+2000   10 8 4 8000   10 2
+40 32   10 2
+40 30   10
+4 3
+40   4 3   10
+39 3   6
+EMME
+EMME
+EMME
+EM    ME
+E   M    M   E
+EM
+               
+          
+        
+    
+            
+      
+ 
+Suy ra, E = 1 suy ra M = 7. 
+Từ đó, ta có: H = 2; E = 1; M = 7;  S = 8. 
+Thử lại: 2178 × 4 = 8712 (thỏa mãn). 
+Vậy H + E + M + S = 2 + 1 + 7 + 8 = 18. 
+Đáp số: 18 
+Câu 6. Người ta viết các số 1, 2, 3, 4 ..., 100 thành số A. Tính tổng các chữ số của A. 
+Hướng dẫn: 
+Cách 1: 
+Ta viết: A = 12345...100 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 6 
+ 
+* Tìm số lượng chữ số 1: 
+- Xét các chữ số 1 ở hàng đơn vị: 1; 11; 21; 31; ...; 91 
+Có số số hạng là: (91 – 1) : 10 + 1 = 10 (số). 
+Do đó, có 10 chữ số 1 ở hàng đơn vị. 
+– Xét các chữ số 1 ở hàng chục: 10; 11; 12; 13; ...; 19 
+Có số số hạng là: (19 – 10) : 1 + 1 = 10 (số)  
+Do đó, có 10 chữ số 1 ở hàng chục. 
+– Xét chữ số 1 ở hàng trăm: 100  
+Do đó, có 1 chữ số 1 ở hàng trăm.  
+Trong số A có tất cả số chữ số 1 là: 10 + 10 + 1 = 21 (chữ số). 
+* Tìm số lượng chữ số 2: 
+- Xét các chữ số 2 ở hàng đơn vị: 2; 12; 22; 32; ...; 92 
+Có số số hạng là: (92 – 2) : 10 + 1 = 10 (số). 
+Do đó, có 10 chữ số 2 ở hàng đơn vị. 
+– Xét các chữ số 2 ở hàng chục: 20; 21; 22; 23; ...; 29 
+Có số số hạng là: (29 – 20) : 1 + 1 = 10 (số)  
+Do đó, có 10 chữ số 2 ở hàng chục. 
+Trong số A có tất cả số chữ số 2 là: 10 + 10 = 20 (chữ số). 
+* Tương tự ta tính được trong dãy số đã cho: Mỗi chữ số 3; 4; 5; 6; 7; 8; 9 đều có 20 chữ số. 
+Vậy tổng các chữ số của A là: 
+1 × 21 + (2 + 3 + 4 + 5 + 6 + 7 + 8 + 9) × 20 = 901. 
+Vậy tổng các chữ số của A là 901.  
+Cách 2: 
+Xét dãy số 0; 1; 2; 3; ...; 99. 
+Dãy này có 100 số hạng, có 50 cặp số: (0; 99); (1; 98); (2; 97); ...; (49; 50). 
+Mỗi cặp số này đều có tổng các chữ số bằng nhau và bằng: 18. 
+Do đó: tổng các chữ số của dãy trên là: 18 × 50 = 900. 
+Vậy tổng các chữ số của A là: 900 + 1 + 0 + 0 = 901. 
+Đáp số: 901 
+Câu 7. Các chữ a, b, c, d tương ứng với 4 số 3, 4, 5, 6. Tổng nhỏ nhất của 2 phân số 
+a c
+b d
+
+ là 
+bao nhiêu? 
+Hướng dẫn: 
+Tổng của 
+a c
+b d
+
+ là nhỏ nhất thì phân số 
+a c
+,
+b d
+ tạo được là nhỏ nhất. Khi đó a, c là 2 số nhỏ 
+nhất có thể; b, d là 2 số lớn nhất có thể. 
+ 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 7 
+ 
+Ta có 2 trường hợp: 
+a c 3 4 13
+b d 6 5 10
+      
+           
+a c 3 4 19
+b d 5 6 15
+      
+ 
+Vì 
+19 13
+15 10
+
+ nên tổng nhỏ nhất của 2 phân số 
+a c
+b d
+
+ là 
+19
+15
+. 
+Đáp số: 
+19
+15
+. 
+Câu 8. Cho hai hình vuông như hình vẽ sau. Hình vuông lớn có cạnh 6cm. Biết BD = 2AD;  
+BE = 2EC. Tính diện tích phần tô đậm. 
+ 
+Hướng dẫn: 
+Nhận xét: Diện tích phần tô đậm chính bằng diện tích hình vuông to trừ đi diện tích hình vuông 
+bé. 
+Diện tích hình vuông to là: 6 × 6 = 36 (cm
+2
+). 
+Diện tích tam giác ABC bằng 
+1
+4
+ diện tích hình vuông to và bằng: 36 : 4 = 9 (cm
+2
+). 
+Vì BD = 2AD và BE = 2EC nên 
+22
+BD  BA;BE  BC
+33
+
+. 
+Ta có: 
+BDEABC
+11 2   2   4 14
+S    BD BEBA  BCBA BC  S
+22 3   3   9 29
+
+                       
+
+
+ 
+Diện tích hình tam giác BDE là: 9 × 4 : 9 = 4 (cm
+2
+) 
+Diện tích hình vuông bé bằng 4 lần diện tích hình tam giác BDE và bằng: 
+4 × 4 = 16 (cm
+2
+). 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 8 
+ 
+Diện tích phần tô đậm là: 36 – 16 = 20 (cm
+2
+). 
+Đáp số: 20cm
+2
+. 
+Câu 9. 
+Sơn hai màu xanh dương và vàng với tỉ lệ 
+3
+7
+ và hết tổng cộng 5 lít sơn. Hỏi sơn màu 
+vàng hết bao nhiêu lít? 
+Hướng dẫn: 
+Coi số lít sơn màu xanh dương là 3 phần bằng nhau thì số lít sơn vàng là 7 phần như vậy. 
+Có số lít sơn vàng là: 5 : (3 + 7) × 7 = 3,5 (lít). 
+Đáp số: 3,5 lít sơn. 
+Câu 10. Một nốt trắng bằng hai nốt đen, một nốt đen bằng 2 nốt móc. Biết mỗi ô nhạc bằng  
+3
+4
+ nhịp mà 
+3
+4
+ nhịp bằng 3 phách. Mà một nốt đen bằng 1 phách. Hỏi có 2 nốt đen và một nốt 
+móc thì thiếu nốt nào để đủ 
+3
+4
+ nhịp? 
+Hướng dẫn: 
+Vì 
+3
+4
+ nhịp bằng 3 phách nên 1 phách bằng 
+1
+4
+ nhịp. 
+Do đó, 1 nốt đen bằng 
+1
+4
+ nhịp. 
+Vì một nốt trắng bằng hai nốt đen nên 1 nốt trắng bằng: 
+1  1
+2
+4  2
+  
+ (nhịp). 
+Vì một nốt đen bằng 2 nốt móc nên 1 nốt móc bằng: 
+1  1
+:2
+4  8
+
+ (nhịp). 
+2 nốt đen và 1 nốt móc bằng: 
+1  1 5
+2
+4  8 8
+   
+ (nhịp). 
+Để đủ 
+3
+4
+ nhịp cần thêm: 
+3 5 1
+4 8 8
+  
+ (nhịp). 
+Vậy có 2 nốt đen và một nốt móc thì cần thêm nốt móc để đủ 
+3
+4
+ nhịp. 
+Đáp số: Nốt móc. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 9 
+ 
+Câu 11. Con kiến đi từ A đến B theo các cạnh của ô vuông, độ dài đường đi gấp 6 lần cạnh  
+ô vuông nhỏ và không đi qua C. Hỏi có bao nhiêu cách đi? 
+ 
+Hướng dẫn: 
+Con kiến đi 6 bước, đi theo 3 cạnh ô vuông nhỏ ngang, 3 cạnh ô vuông nhỏ dọc, không đi qua 
+C và có 8 cách đi như sau: 
+ 
+Đáp số: 8 cách 
+Câu 12. Một cửa hàng bán bánh có chương trình khuyến mãi, mua 3 tặng 1, mua 5 tặng 2. Hỏi 
+muốn mua 30 chiếc bánh cần ít nhất bao nhiêu tiền? Biết 1 chiếc bánh có giá 5000 đồng. 
+Hướng dẫn: 
+Mỗi lần mua 5 bánh ta được 7 chiếc, mỗi lần mua 3 bánh ta được 4 bánh. 
+- Nếu ta mua 4 lần loại “5 bánh” sẽ được 7 × 4 = 28 (chiếc) và mua thêm 2 chiếc bánh nữa sẽ đủ 
+30 chiếc. Khi đó số tiền cần để trả là:  
+(5000 × 5) × 4 + 5000 × 2 = 110 000 (đồng). 
+B
+C
+A
+B
+C
+A
+A
+C
+B
+A
+C
+B
+B
+C
+A
+B
+C
+A
+B
+C
+A
+A
+C
+B
+A
+C
+B
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 10 
+ 
+- Trường hợp ta mua 3 lần loại “5 chiếc”, 2 lần loại “3 chiếc”, thêm 1 chiếc bánh cũng như trường 
+hợp mua 2 lần loại “5 bánh”, 4 lần loại “3 bánh” đều sẽ mua đủ 30 chiếc và cũng hết 110 000 
+đồng. 
+- Các trường hợp mua 1 lần loại “5 chiếc”, 5 lần loại “3 chiếc”, thêm 3 chiếc cũng như trường hợp 
+mua 7 lần loại “3 chiếc”, thêm 2 chiếc đều hết tất cả 115 000 đồng. 
+Vậy muốn mua 30 chiếc bánh cần ít nhất 110 000 đồng. 
+Đáp số: 110 000 đồng. 
+PHẦN B. TỰ LUẬN 
+Bài 1. Nhà trường tổ chức phong trào bảo vệ môi trường, Lan và Hồng cùng nhau thu gom chai 
+nhựa, biết lúc đầu Lan có số vỏ chai nhựa thu được bằng 
+4
+7
+ của Hồng, lúc sau hai bạn mỗi người 
+nhặt được thêm 7 chai nhựa thì số chai nhựa của Lan bằng 
+3
+5
+ của Hồng. Tính số chai nhựa lúc 
+đầu của mỗi người. 
+Hướng dẫn: 
+Vì lúc sau mỗi người đều nhặt được thêm 7 chai nhựa nên hiệu số vỏ chai nhựa của Hồng và Lan 
+không thay đổi. 
+Nhận xét:  Đây là bài “hai tỉ số” có thành phần không đổi là “Hiệu số vỏ chai nhựa của Hồng và 
+Lan”. 
+Lúc đầu, số vỏ chai nhựa của Lan bằng 
+4
+7
+ số vỏ chai nhựa của Hồng nên số vỏ chai nhựa của Lan 
+bằng 
+4  4
+7 4 3
+
+
+ hiệu số vỏ chai nhựa của Hồng và Lan. 
+ Lúc sau, số vỏ chai nhựa của Lan bằng 
+3
+5
+ số vỏ chai nhựa của Hồng nên số vỏ chai nhựa của Lan 
+bằng 
+3  3
+5 3 2
+
+
+ hiệu số vỏ chai nhựa của Hồng và Lan. 
+Ta có so sánh: 
+Số vỏ chai nhựa của Lan bằng 
+4
+3
+ hiệu số vỏ chai nhựa của Hồng và Lan. 
+Số vỏ chai nhựa của Lan thêm 7 vỏ bằng 
+3
+2
+ hiệu số vỏ chai nhựa của Hồng và Lan. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 11 
+ 
+Do đó, 7 vỏ chai tương ứng với:   
+3 4 1
+2 3 6
+  
+ (hiệu số vỏ chai nhựa của Hồng và Lan). 
+Hiệu số vỏ chai nhựa của Hồng và Lan là:   7 : 1 × 6 = 42 (vỏ chai). 
+Số vỏ chai nhựa lúc đầu của Lan là: 42 × 4 : 3 = 56 (vỏ chai). 
+Số vỏ chai nhựa lúc đầu của Hồng là: 56 : 4 × 8 = 98 (vỏ chai) 
+Đáp số: Lan: 56 vỏ chai;  Hồng: 98 vỏ chai. 
+Bài 2. Hùng có 6 viên bi, 2 viên bi xanh 2 viên bi đỏ và 2 viên bi vàng, biết có một viên bi đỏ, một 
+viên bi vàng, một viên bi xanh nặng 99g còn lại mỗi bi nặng 101g. Trên bàn có 1 cân thăng bằng 
+2 đĩa bằng nhau hỏi chỉ với 2 lần cân, làm thế nào để tìm ra mỗi viên bi nặng bao nhiêu gram? 
+Hướng dẫn: 
+Lần 1: Đặt 1 Xanh và 1 Đỏ một bên; 1 Xanh và 1 Vàng một bên. 
+*) Trường hợp 1: Nếu cân thăng bằng, vì 2 viên bi Xanh là 99g và 101g suy ra 2 viên bi Đỏ và 
+Vàng khác cân nặng. 
+Lần 2 ta cân tiếp 2 bi xanh, ví dụ viên bi Xanh ở bên Xanh + Đỏ nhẹ hơn ta suy ra viên bi Đỏ nặng 
+101g, viên bi Vàng bên kia nặng 99g. 
+Từ đó ta tìm được mỗi viên bi nặng bao nhiêu gram. 
+*) Trường hợp 2: Nếu cân không thăng bằng 
+Giả sử bên bi Xanh + bi Đỏ nhẹ hơn 
+Khi đó chắc chắn bi Xanh nặng 99g. 
+Ta có các trường hợp sau: 
+1 bên là Xanh 99g + Đỏ 99g;   1 bên là Xanh 101g + Vàng 99g 
+1 bên là Xanh 99g + Đỏ 99g;   1 bên là Xanh 101g + Vàng 101g 
+1 bên là Xanh 99g + Đỏ 101g;   1 bên là Xanh 101g + Vàng 101g 
+Lần 2 ta để 1 bên  là 2 viên bi xanh, 1 bên là Vàng + Đỏ đã cân ở lần 1. 
+Nếu Xanh + Xanh nặng hơn Đỏ + Vàng thì Đỏ và Vàng đã cân lần 1 đều nặng 99g. 
+Nếu Xanh + Xanh bằng Đỏ + Vàng thì Đỏ đã cân lần 1 là 99g và Vàng lần 1 đã cân là 101g. 
+Nếu Xanh + Xanh nhẹ hơn Đỏ + Vàng thì Đỏ và Vàng đã cân lần 1 đều nặng 101g. 
+Từ đó, ta tìm được mỗi viên bi nặng bao nhiêu gram. 
+Tương tự, với trường hợp bên bi Xanh + bi Đỏ nặng hơn ta làm tương tự. 
+Vậy sau 2 lần cân, ta sẽ tìm ra mỗi viên bi nặng bao nhiêu gram. 

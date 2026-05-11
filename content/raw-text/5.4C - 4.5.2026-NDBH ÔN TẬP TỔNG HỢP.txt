@@ -1,0 +1,313 @@
+
+
+   MathExpress Education                                         www.mathexpress.vn                                                    
+ 
+Giáo viên:Phương Thị Ngọc Bích  – Hotline: 1900 633 551  
+ 
+- Trang | 1 - 
+ 
+    
+        
+ÔN TẬP TỔNG HỢP 
+ 
+                                                                                                
+Họ và tên: ........................................................................           Ngày học: ......../......../2026  
+A. BÀI TẬP TRÊN LỚP 
+Bài 1. Hai thành phố A và B cách nhau 180km. Lúc 6 giờ sáng một người đi xe máy từ A với 
+vận tốc 30km/giờ về B. Lúc 7 giờ một người khác đi ô tô từ B về A với vận tốc 45km/giờ. Hỏi 
+hai người gặp nhau lúc mấy giờ? 
+Giải 
+Thời gian xe máy đi trước ô tô là: 
+7 giờ - 6 giờ = 1 giờ 
+Một giờ người đi xe máy đi được quãng đường là: 
+30 x 1 = 30 (km) 
+Tổng vận tốc 2 xe là: 
+30 + 45 = 75 (km/ giờ) 
+Quãng đường còn lại dài số ki- lô- mét là: 
+180 – 30 = 150 (km) 
+Thời gian hai xe gặp nhau là: 
+150 : 75 = 2 ( giờ) 
+Hai người gặp nhau lúc: 
+7 giờ + 2 giờ = 9 ( giờ) 
+Đáp số: 9 giờ 
+Bài 2. Hai người đi xe đạp trên một vòng tròn, vận tốc của người thứ nhất là 250m/phút, vận 
+tốc của người thứ hai là 300m/phút. Hai người khởi hành ở cùng một điểm, biết chu vi vòng 
+tròn là 1100m. Hỏi sau bao lâu họ chạy ngang qua nhau nếu: 
+a) Họ xuất phát cùng lúc và đi cùng chiều?    
+b) Họ xuất phát cùng lúc và đi ngược chiều? 
+
+   MathExpress Education                                         www.mathexpress.vn                                                    
+ 
+Giáo viên:Phương Thị Ngọc Bích  – Hotline: 1900 633 551  
+ 
+- Trang | 2 - 
+ 
+ 
+ 
+Giải 
+a) Hiệu vận tốc của hai người là: 
+300 – 250 = 50( m/ phút) 
+Thời gian hai người chạy ngang qua nhau là: 
+1100 : 50 =22 ( phút) 
+Đáp số: 22 phút 
+b) Tổng vận tốc của 2 người là: 
+250 + 300 = 550 ( m/ phút) 
+Thời gian hai người chạy ngang qua nhau là: 
+1100 : 550 = 2 ( phút) 
+Đáp số: 2 phút 
+Bài 3. Hai người  chạy  trên  một đường đua vòng 
+quanh  sân  vận động,  họ cùng  xuất  phát  một  lúc ở 
+điểm B. Đường chạy bao gồm hai cạnh dài của hình 
+chữ nhật  ABCD  và  hai  nửa đường tròn có đường 
+kính là AD và BC. Biết AB = 143m, AD = 100m (như 
+hình vẽ). Nếu chạy ngược chiều thì họ sẽ gặp nhau 
+sau 75 giây. Nếu chạy cùng chiều thì họ sẽ gặp nhau 
+sau 300 giây. Tính vận tốc chạy của mỗi người. 
+ 
+Giải 
+Quãng đường đua quanh sân vận động  là: 
+( 143 x 2 ) + ( 100 x 3,14 ) = 600 (m) 
+
+   MathExpress Education                                         www.mathexpress.vn                                                    
+ 
+Giáo viên:Phương Thị Ngọc Bích  – Hotline: 1900 633 551  
+ 
+- Trang | 3 - 
+ 
+Tổng vận tốc của hai người là: 
+600 : 75 = 8 ( m/ giây) 
+Hiệu vận tốc của hai người là: 
+600 : 300 = 2 (m/ giây) 
+Vận tốc người thứ nhất là: 
+( 8+ 2) : 2 = 5 (m/ giây) 
+Vận tốc của người thứ hai là: 
+8 – 5 = 3 (m/ giây) 
+Đáp số: Vận tốc người thứ nhất: 5m/ giây 
+          Vận tốc người thứ hai: 3 m/ giây 
+Bài 4. a) Cho phân số 
+16
+83
+. Hãy tìm số tự nhiên a sao cho khi thêm a vào tử số và bớt a ở mẫu 
+số của phân số đã cho thì ta được phân số mới bằng 
+2
+9
+. 
+b) Cho phân số 
+15
+31
+. Hãy tìm số tự nhiên b sao cho khi cùng thêm b vào cả tử số và mẫu số của 
+phân số đã cho thì ta được phân số mới bằng 
+7
+11
+. 
+Giải 
+ 
+a) Khi thêm a vào tử số và bớt a ở mẫu số thì tổng của tử số và mẫu số của phân số không thay 
+đổi. 
+Tổng tử số và mẫu số phân số ban đầu là: 
+83 + 16 = 99 
+Ta có sơ đồ          
+Tử số mới:             99 
+Mẫu số mới:  
+Tổng số phần bằng nhau là: 
+9  +2 = 11 ( phần) 
+Tử số phân số  mới là: 
+99: 11 x 2 = 18  
+Số tự nhiên a là: 
+18 – 16 = 2  
+Đáp số: 2 
+
+   MathExpress Education                                         www.mathexpress.vn                                                    
+ 
+Giáo viên:Phương Thị Ngọc Bích  – Hotline: 1900 633 551  
+ 
+- Trang | 4 - 
+ 
+b)Khi cùng thêm b vào tử số và mẫu số của phân số 
+15
+31
+thì hiệu của mẫu số và tử số không thay 
+đổi. 
+Mẫu số của phân số ban đầu hơn tử số là: 
+31 – 15 = 16 
+Ta có sơ đồ:          16 
+Tử số mới:  
+Mẫu số mới:  
+Hiệu số phần bằng nhau là: 
+11- 7 = 4 ( phần) 
+Tử số phân số mới là: 
+16 :  x 7 = 28 
+Số tự nhiên b là: 
+28 – 15 = 13  
+Đáp sô: 13 
+Bài 5. Một ô tô đi từ A đến B. Người lái xe thấy rằng nếu xe đi với vận tốc 45km/giờ thì sẽ đến 
+B muộn 30 phút. Còn nếu xe đi với vận tốc 60km/giờ thì sẽ đến B sớm 30 phút.  
+a) Tính độ dài quãng đường AB. 
+b) Tính thời điểm ô tô đến B, nếu ô tô xuất phát lúc 8 giờ 10 phút và đi với vận tốc 50km/giờ. 
+Giải 
+a) Tỉ số 2 vận tốc là: 
+45 : 60 = 
+3
+4
+ 
+Trên cùng một quãng đường, thời gian và vận tốc tỉ lên nghịch nên tỉ số thời gian là 
+4
+3
+ 
+Thời gian chênh lệch giữa 2 vận tốc là: 
+30 phút + 30 phút = 60 phút 
+Đổi 60 phút = 1 giờ 
+Ta có sơ đồ: 
+Thời gian đi với vận tốc 45 km/ giờ:  
+Thời gian đi với vận tốc 60 km/ giờ:        1 giờ 
+Hiệu số phần bằng nhau là: 
+4 – 3 = 1 ( phần) 
+Thời gian người đó đi với vận tốc 45 km/ giờ là: 
+ 1: 1 x 4 = 4 ( giờ) 
+Độ dài quãng đường AB là: 
+
+   MathExpress Education                                         www.mathexpress.vn                                                    
+ 
+Giáo viên:Phương Thị Ngọc Bích  – Hotline: 1900 633 551  
+ 
+- Trang | 5 - 
+ 
+45 x 4 = 180 (km) 
+b) Thời gian ô tô đi quãng đường AB là: 
+180 : 50 =3,6 ( giờ) 
+Đổi 3,6 giờ = 3 giờ 36 phút 
+Ô tô đến B lúc: 
+8 giờ 10 phút + 3 giờ 36 phút = 11 giờ 46 phút 
+Đáp số: a)180 km 
+                            b)11 giờ 46 phút 
+ 
+ 
+Bài 6. Cho hình vuông ABCD có cạnh dài 9cm. Trên cạnh  
+BC lấy điểm F sao cho BF = 6cm. Kéo dài AF cắt DC tại E. 
+a) Tính diện tích tam giác ABF. 
+b) Tính diện tích tam giác ABE, diện tích tam giác BFE. 
+c) Lập tỉ số 
+AF
+FE
+.  
+Giải 
+a) Diện tích tam giác ABF là: 
+9 x 6 : 2 = 27 (cm 
+2
+ ) 
+b)Diện tích tam giác ABE là: 
+9 x 9 : 2 = 40,5 (cm 
+2
+ ) 
+Diện tích tam giác BEF là: 
+40,5 – 27 = 13,5 (cm 
+2
+ ) 
+c) 
+S.ABF
+S.BEF
+=
+27
+13,5 
+ =
+2
+1  
+  
+Mà 2 tam giác có chung chiều cao hạ từ đỉnh B xuống AE nên 
+AF
+EF
+=
+2
+1 
+  
+Đáp số: a)S.ABFF: 27 cm 
+2
+  
+               b)S.ABE: 40,5 cm 
+2
+         S.BEF: 13,5 cm 
+2
+ 
+             c) 
+AF
+EF
+=
+2
+1 
+ 
+* Thử thách: Trong một giải đấu bóng đá có 15 đội bóng, các đội thi đấu vòng tròn (mỗi đội 
+gặp nhau đúng một lần). Biết sau mỗi trận đấu, đội thắng được 2 điểm, đội thua được 0 điểm 
+và mỗi đội được 1 điểm nếu hai đội hoà nhau. Tính tổng số trận đấu và tổng số điểm của tất cả 
+các đội. 
+
+   MathExpress Education                                         www.mathexpress.vn                                                    
+ 
+Giáo viên:Phương Thị Ngọc Bích  – Hotline: 1900 633 551  
+ 
+- Trang | 6 - 
+ 
+Giải 
+15 đội bóng có tất cả số trận đấu là: 
+15 x 14 : 2 = 105 ( trận) 
+Nếu thắng thì có tổng điểm là: 2+0 = 2( điểm) 
+Nếu thua có tổng số điểm là: 0 +2 = 2( điểm) 
+Nếu hòa có tổng số điểm là:  1+ 1= 2 ( điểm) 
+Vậy mỗi trận luôn có tổng số điểm là: 2 điểm 
+Tổng số điểm của tất cả các đội là: 
+2 x 105 = 210 ( điểm) 
+Đáp số: 105 trận                210 điểm 
+B. BÀI TẬP VỀ NHÀ 
+Bài 1. Một ô tô xuất phát từ điểm A với vận tốc 50km/giờ và dự định đến B. Cùng lúc đó, từ 
+điểm C cách A 40km, nằm trên quãng đường AB, một xe máy đi với vận tốc 40km/giờ hướng 
+về phía B. Hỏi sau bao lâu ô tô đuổi kịp xe máy?      
+ 
+Bài 2. Hai  con  bọ cánh cam  bay  quanh  một  hồ nước  hình  tròn.  Vận  tốc  của  con  thứ nhất  là 
+30m/phút, còn vận tốc của con thứ hai là 40m/phút. Chu vi hồ nước là 350m. Hai con bọ xuất 
+phát tại cùng một điểm. Hỏi sau bao lâu hai con bọ bay ngang qua nhau nếu: 
+a) Hai con xuất phát cùng lúc và bay cùng chiều? 
+b) Hai con xuất phát cùng lúc và bay ngược chiều? 
+Bài 3. Mỗi sáng Nam cùng anh chạy bộ quanh bờ hồ Nghĩa Tân. Hai anh em chạy cùng chiều 
+với vận tốc không đổi, xuất phát cùng một lúc, từ cùng một điểm thì sau 45 phút lại gặp nhau. 
+Biết rằng một vòng quanh bờ hồ dài 3km, Nam chạy chậm hơn anh và nếu chạy ngược chiều 
+thì sau 10 phút lại gặp nhau. 
+a) Tính hiệu vận tốc của hai anh em. 
+b) Tính vận tốc của Nam. 
+Bài 4. Trong giờ học toán, bạn Minh viết phân số 
+17
+33
+ lên bảng. Minh nghĩ ra một trò chơi: Nếu 
+thêm số tự nhiên m vào tử số và bớt m ở mẫu số thì sẽ tạo ra một phân số mới. Hỏi số tự nhiên 
+m là bao nhiêu để phân số mới này có giá trị bằng 
+2
+3
+? 
+
+   MathExpress Education                                         www.mathexpress.vn                                                    
+ 
+Giáo viên:Phương Thị Ngọc Bích  – Hotline: 1900 633 551  
+ 
+- Trang | 7 - 
+ 
+Bài 5. Cho phân số 
+67
+47
+. Tìm số tự nhiên m sao cho khi bớt m ở cả tử số và mẫu số của phân 
+số đã cho thì ta được phân số mới có giá trị bằng 
+5
+.
+3
+ 
+Bài 6. Hình thang vuông ABCD có AB = 16cm, DC = 24cm,  
+AC = 30cm. Diện tích hình thang ABCD bằng 360cm
+2
+. AC cắt 
+BD tại I. Tính: 
+a) Độ dài cạnh AD.   
+b) Diện tích tam giác ABC. 
+c) Độ dài cạnh AI. 
+ 
+* Thử thách: Một  tờ giấy  bị cắt  nhỏ thành 6 mảnh. 
+Các mảnh nhỏ nhận được lại có thể chọn để tiếp tục 
+cắt  thành  6  mảnh.  Cứ như vậy  thì  ta  có  thể nhận 
+được 2005 mảnh cắt không? Vì sao? 
+ 

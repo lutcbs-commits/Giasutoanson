@@ -1,0 +1,699 @@
+
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551     1 
+ 
+ 
+TRƯỜNG THCS NĂNG KHIẾU  
+ĐẠI HỌC SƯ PHẠM  
+ĐỀ ĐÁNH GIÁ NĂNG LỰC THỬ 
+TUYỂN SINH LỚP 6 NĂM HỌC 2026 - 2027 
+Môn: Toán 
+ 
+---------------------------------------------------------------------------------------------------- 
+PHẦN A. TRẮC NGHIỆM (10 điểm – Thời gian làm bài: 12,5 phút)  
+Học sinh trả lời từ câu 1 đến câu 10, mỗi câu chỉ chọn một phương án. 
+Câu 1. Một câu lạc bộ thiếu niên chuẩn bị chọn người tham gia trại giao lưu quốc tế. Trong đội 
+có 20 bạn: 
+• 9 bạn giao tiếp tốt bằng tiếng Anh;  
+• 4 bạn giao tiếp tốt bằng tiếng Pháp;  
+• 7 bạn giao tiếp tốt bằng tiếng Nhật.  
+Ban tổ chức chọn ngẫu nhiên một số bạn để lập nhóm đại diện. Để chắc chắn trong nhóm được 
+chọn có ít nhất 1 bạn giao tiếp tốt bằng tiếng Anh thì phải chọn ít nhất bao nhiêu bạn? 
+A. 11 bạn.  B. 12 bạn.  C. 13 bạn. D. 10 bạn. 
+Câu 2. Inch (kí hiệu là in) là tên của một đơn vị đo độ dài: 1 in = 2,54 cm. Một chiếc ti vi màn 
+hình phẳng có độ dài đường chéo là 65 in. Độ dài đường chéo của màn hình ti vi là bao nhiêu 
+mét? 
+A. 1,7m.  B. 1,651m. C. 1,65m. D. 1,61m. 
+Câu  3. Trong  tiết  học Mĩ thuật,  bạn  Hoa  làm  một  mẫu  trang  trí  trên 
+miếng  bìa  hình  vuông  cạnh 4  cm.  Bên  trong  miếng  bìa,  bạn  sắp  xếp  
+4 hình tròn bằng nhau, mỗi hình tròn có bán kính 1 cm. Mỗi hình tròn 
+chạm đường viền của miếng bìa tại đúng 2 điểm, hai hình tròn kề nhau 
+chỉ chạm nhau tại đúng 1 điểm như hình vẽ. Bạn Hoa tô màu đen phần 
+bìa nằm ngoài 4 hình tròn. Hỏi diện tích phần tô màu đen là bao nhiêu xăng-ti-mét vuông?  
+A. 6,58 cm
+2
+.  B. 2,88 cm
+2
+. C. 4 cm
+2
+. D. 3,44 cm
+2
+. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 2 
+ 
+Câu 4. Trong phòng trưng bày Mĩ thuật, các bạn học sinh được giao 
+thiết kế một mô hình từ các khối gỗ nhỏ giống nhau, mỗi khối là 
+hình lập phương cạnh 1 cm. Bạn Minh đã xếp 11 khối lập phương 
+thành một mô hình dạng “bậc thang” như hình vẽ: Tầng dưới cùng 
+có  6  khối,  tầng  thứ hai  có  4  khối,  tầng  thứ ba  có  1  khối. Sau  khi 
+hoàn thành, bạn Minh sơn màu tất cả các mặt bên ngoài của  mô 
+hình (không sơn các mặt  tiếp  xúc  giữa  các  khối, không sơn mặt 
+dưới cùng). Hỏi Minh đã sơn tất cả bao nhiêu mặt của các khối lập 
+phương? 
+A. 28 mặt.  B. 34 mặt. C. 32 mặt. D. 30 mặt. 
+Câu 5. Trong một thí nghiệm Khoa học lớp 5, một cốc nước ban đầu có 3 200 vi khuẩn. Cứ sau 
+mỗi 10 phút, số vi khuẩn trong cốc giảm đi 25% số vi khuẩn đang có do tác dụng của dung dịch 
+khử khuẩn. Hỏi sau 30 phút, trong cốc còn lại bao nhiêu vi khuẩn? 
+A. 1 200.  B. 1 350. C. 1 800. D. 1 600. 
+Câu 6. Tại một cửa hàng, giá nước mía đá là 20 000 đồng/cốc, giá nước dừa là 25 000 đồng/cốc. 
+Bạn Minh sử dụng hết 500 000 đồng để mua cả hai loại nước trên, mỗi loại mua ít nhất 5 cốc. 
+Tổng số cốc nước mà Minh có thể mua được nhiều nhất là bao nhiêu? 
+A. 23 cốc.  B. 22 cốc. C. 25 cốc. D. 24 cốc. 
+Câu 7. Trong một lần đi du lịch, bạn Minh được chọn một combo để ăn sáng, mỗi combo gồm  
+3 loại thực phẩm, mỗi loại 100 gram có hàm lượng dinh dưỡng như dưới đây: 
+Thực phẩm 
+Bánh bao 
+nhân thịt 
+Bánh mỳ Bún tươi Cốm tươi 
+Giá trị dinh dưỡng trong 100 gram 276 Kcal 250 Kcal 116 Kcal 307 Kcal 
+Minh nên chọn combo nào để có tổng giá trị dinh dưỡng (đơn vị: Kcal) lớn nhất? 
+A. Bánh bao nhân thịt – cốm tươi – bún tươi.     B. Bánh bao nhân thịt – bánh mỳ – cốm tươi. 
+C. Bánh bao nhân thịt – bánh mỳ – bún tươi.     D. Cốm tươi – bánh mỳ – bún tươi. 
+Câu 8. Biểu đồ cột ở bên cạnh cho biết số gam chất đạm 
+trong 100 gam của từng loại thực phẩm: hạt lạc, gạo tẻ, 
+trứng gà, thịt lợn nạc nhưng còn thiếu thông tin. 
+ 
+ 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 3 
+ 
+Bảng dữ liệu dưới đây cho biết số gam chất đạm trong 100 gam của từng loại thực phẩm nhưng 
+vẫn thiếu thông tin: 
+Thực phẩm     
+Số gam chất đạm 15 19 28 8 
+Phương án nào sau đây đúng với số gam chất đạm trong 100 gam từng loại thực phẩm? 
+A. 
+Thực phẩm Hạt lạc Gạo tẻ Trứng gà Thịt lợn nạc 
+Số gam chất đạm 15 19 28 8 
+ 
+B. 
+Thực phẩm Trứng gà Thịt lợn nạc Hạt lạc Gạo tẻ 
+Số gam chất đạm 15 19 28 8 
+ 
+C. 
+Thực phẩm Thịt lợn nạc Gạo tẻ Trứng gà Hạt lạc 
+Số gam chất đạm 15 19 28 8 
+ 
+D. 
+Thực phẩm Hạt lạc Trứng gà Gạo tẻ Thịt lợn nạc 
+Số gam chất đạm 15 19 28 8 
+Câu 9. Ngày 01/01/2028 là ngày Thứ Bảy. Hỏi ngày 01/03/2028 là ngày Thứ mấy? 
+A. Thứ Năm.  B. Thứ Sáu. C. Thứ Ba. D. Thứ Tư. 
+Câu 10. Trong giờ học Nghệ thuật, cô giáo chuẩn bị 8 màu giấy thủ công khác nhau để học sinh 
+làm thiệp trang trí, gồm: đỏ, cam, vàng, xanh lá, xanh dương, tím, hồng và nâu. Mỗi nhóm cần 
+chọn đúng 2 màu khác nhau để phối hợp trong sản phẩm của mình. Hỏi có bao nhiêu cách chọn 
+2 màu từ 8 màu đã cho? 
+A. 64 cách chọn.  B. 16 cách chọn. C. 28 cách chọn. D. 56 cách chọn. 
+PHẦN B. TỰ LUẬN (30 điểm – Thời gian làm bài: 35 phút) 
+Trả lời ngắn (10 điểm): Học sinh trả lời từ câu 1 đến câu 4. Đối với mỗi câu, học sinh chỉ 
+cần viết kết quả, không trình bày suy luận.  
+Câu 1. Trên một tuyến đường thẳng từ A đến B dài 110 km, có vị trí C nằm giữa A và B, biết rằng 
+quãng đường từ A đến C dài 40km. 
+Lúc 8 giờ sáng, một xe tải xuất phát từ A đi đến B với tốc độ 50km/h.  
+Lúc 9 giờ sáng, một taxi xuất phát từ C đi đến B với tốc độ 70km/h và gặp xe tải.  
+Hỏi: Hai xe gặp nhau tại điểm cách B bao nhiêu ki-lô-mét? 
+Câu 2. Bác Khôi soạn một tài liệu và tự đánh số các trang từ trang 1 đến trang 32. Từ trang 33 
+đến trang 168, việc đánh số trang được giao cho một biên tập viên thực hiện. Hỏi trong quá trình 
+đánh số các trang từ 33 đến 168, biên tập viên đã viết chữ số 6 bao nhiêu lần? 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 4 
+ 
+Câu  3. Cho  ABCD  là  hình  bình  hành  có  diện  tích  bằng 
+420cm
+2
+. M là điểm chung của AC và BD, điểm P thuộc cạnh 
+AB thỏa mãn AB = 4 × AP, N là điểm chung của BD và CP, 
+Q là điểm chung của AC và DP (hình bên). Diện tích của tứ 
+giác MNPQ bằng bao nhiêu cm
+2
+. 
+ 
+ Câu 4. Trong một trò chơi phiêu lưu, nhân vật của  bạn bắt 
+đầu tại điểm A ở góc trên bên trái của một bản đồ dạng lưới 
+gồm  2  × 3  ô  vuông. Nhiệm  vụ của  bạn là dẫn nhân vật đến 
+điểm  B ở góc dưới  bên  phải  bằng  cách  di  chuyển  theo  các 
+cạnh của lưới (hình bên). Tuy nhiên, hành trình bị giới hạn 
+bởi quy tắc: Nhân vật không được quay lại bất kỳ điểm nào 
+đã đi qua, tổng quãng đường  di  chuyển  phải đúng bằng  5 
+bước  (mỗi bước tương ứng  với độ dài  một  cạnh  ô  vuông). 
+Hỏi có bao nhiêu hành trình hợp lệ để hoàn thành nhiệm vụ? 
+Tự luận (20 điểm): Thí sinh trả lời câu 5, 6. Viết quá trình và kết quả suy luận. 
+Câu 5.  
+a) Tính giá trị của biểu thức A = 12 344 × 54 321 + 54 321 – 44 321 × 12 345. 
+b) Rút gọn biểu thức 
+1  1   1  1   1  1  1  1   1   1   1   1
+5  60  6  70  7  80  8  90  9  100  10  10
+B
+=     +     +     +     +     −  
+. 
+Câu 6. Thầy giáo yêu cầu bạn Dũng viết 20 số tự nhiên liên tiếp theo thứ tự tăng dần sau đó đặt 
+dấu cộng để thực hiện phép tính tổng của tất cả các số. Dũng viết vội nên thiếu một số và tổng 
+của 19 số đã viết là 2026. Bạn Dũng đã viết thiếu số nào? 
+---------------------------------HẾT--------------------------------- 
+ 
+  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 5 
+ 
+HƯỚNG DẪN GIẢI CHI TIẾT 
+PHẦN A. TRẮC NGHIỆM (10 điểm – Thời gian làm bài: 12,5 phút)  
+Học sinh trả lời từ câu 1 đến câu 10, mỗi câu chỉ chọn một phương án. 
+Câu 1. Một câu lạc bộ thiếu niên chuẩn bị chọn người tham gia trại giao lưu quốc tế. Trong đội 
+có 20 bạn: 
+• 9 bạn giao tiếp tốt bằng tiếng Anh;  
+• 4 bạn giao tiếp tốt bằng tiếng Pháp;  
+• 7 bạn giao tiếp tốt bằng tiếng Nhật.  
+Ban tổ chức chọn ngẫu nhiên một số bạn để lập nhóm đại diện. Để chắc chắn trong nhóm được 
+chọn có ít nhất 1 bạn giao tiếp tốt bằng tiếng Anh thì phải chọn ít nhất bao nhiêu bạn? 
+A. 11 bạn.  B. 12 bạn.  C. 13 bạn. D. 10 bạn. 
+Chọn B 
+Trường hợp xấu  nhất ta chọn được 7 bạn  giao tiếp tốt bằng tiếng Nhật và 4 bạn giao tiếp tốt 
+bằng tiếng Pháp. Vậy cần chọn thêm một bạn nữa để chắc chắn trong nhóm được chọn có ít nhất 
+1 bạn giao tiếp tốt bằng tiếng Anh. 
+Cần chọn ít nhất số bạn là: 7 + 4 + 1 = 12 (bạn). 
+Câu 2. Inch (kí hiệu là in) là tên của một đơn vị đo độ dài: 1 in = 2,54 cm. Một chiếc ti vi màn 
+hình phẳng có độ dài đường chéo là 65 in. Độ dài đường chéo của màn hình ti vi là bao nhiêu 
+mét? 
+A. 1,7m.  B. 1,651m. C. 1,65m. D. 1,61m. 
+Chọn B 
+Độ dài đường chéo của màn hình ti vi dài: 2,54 × 65 = 165,1 (cm) = 1,651 (m). 
+Câu  3. Trong  tiết  học Mĩ thuật,  bạn  Hoa  làm  một  mẫu  trang  trí  trên 
+miếng  bìa  hình  vuông  cạnh 4  cm.  Bên  trong  miếng  bìa,  bạn  sắp  xếp  
+4 hình tròn bằng nhau, mỗi hình tròn có bán kính 1 cm. Mỗi hình tròn 
+chạm đường viền của miếng bìa tại đúng 2 điểm, hai hình tròn kề nhau 
+chỉ chạm nhau tại đúng 1 điểm như hình vẽ. Bạn Hoa tô màu đen phần 
+bìa nằm ngoài 4 hình tròn. Hỏi diện tích phần tô màu đen là bao nhiêu 
+xăng-ti-mét vuông?  
+A. 6,58 cm
+2
+.  B. 2,88 cm
+2
+. C. 4 cm
+2
+. D. 3,44 cm
+2
+. 
+Chọn D 
+Quan sát hình  vẽ, ta thấy diện tích phần tô màu đen bằng hiệu diện tích của  hình  vuông cạnh  
+4 cm và 4 lần diện tích hình tròn bán kính 1 cm. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 6 
+ 
+Diện tích hình vuông cạnh 4 cm là: 4 × 4 = 16 (cm
+2
+). 
+Diện tích hình tròn bán kính 1 cm là: 3,14 × 1 × 1 = 3,14 (cm
+2
+). 
+Diện tích phần tô màu đen là: 16 – 3,14 × 4 = 3,44 (cm
+2
+). 
+Câu 4. Trong phòng trưng bày Mĩ thuật, các bạn học sinh được giao 
+thiết kế một mô hình từ các khối gỗ nhỏ giống nhau, mỗi khối là 
+hình lập phương cạnh 1 cm. Bạn Minh đã xếp 11 khối lập phương 
+thành một mô hình dạng “bậc thang” như hình vẽ: Tầng dưới cùng 
+có  6  khối,  tầng  thứ hai  có  4  khối,  tầng  thứ ba  có  1  khối. Sau  khi 
+hoàn thành, bạn Minh sơn màu tất cả các mặt bên ngoài của  mô 
+hình (không sơn các mặt  tiếp  xúc  giữa  các  khối, không sơn mặt 
+dưới cùng). Hỏi Minh đã sơn tất cả bao nhiêu mặt của các khối lập 
+phương? 
+A. 28 mặt.  B. 34 mặt. C. 32 mặt. D. 30 mặt. 
+Chọn A 
+Quan sát hình vẽ, ta thấy: 
+Tầng dưới cùng các khối lập phương được sơn 12 mặt. 
+Tầng thứ hai các khối lập phương được sơn 11 mặt. 
+Tầng thứ ba các khối lập phương được sơn 5 mặt. 
+Minh đã sơn tất cả số mặt của các khối lập phương là: 12 + 11 + 5 = 28 (mặt). 
+Câu 5. Trong một thí nghiệm Khoa học lớp 5, một cốc nước ban đầu có 3 200 vi khuẩn. Cứ sau 
+mỗi 10 phút, số vi khuẩn trong cốc giảm đi 25% số vi khuẩn đang có do tác dụng của dung dịch 
+khử khuẩn. Hỏi sau 30 phút, trong cốc còn lại bao nhiêu vi khuẩn? 
+A. 1 200.  B. 1 350. C. 1 800. D. 1 600. 
+Chọn B 
+Sau 10 phút, số vi khuẩn trong cốc còn lại: 3 200 × (100% – 25%) = 2 400 (vi khuẩn) 
+Sau 20 phút, số vi khuẩn trong cốc còn lại: 2 400 × (100% – 25%) = 1 800 (vi khuẩn) 
+Sau 30 phút, số vi khuẩn trong cốc còn lại: 1 800 × (100% – 25%) = 1 350 (vi khuẩn) 
+Câu 6. Tại một cửa hàng, giá nước mía đá là 20 000 đồng/cốc, giá nước dừa là 25 000 đồng/cốc. 
+Bạn Minh sử dụng hết 500 000 đồng để mua cả hai loại nước trên, mỗi loại mua ít nhất 5 cốc. 
+Tổng số cốc nước mà Minh có thể mua được nhiều nhất là bao nhiêu? 
+A. 23 cốc.  B. 22 cốc. C. 25 cốc. D. 24 cốc. 
+Chọn A 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 7 
+ 
+Vì giá 1 cốc nước mía (20 000 đồng) rẻ hơn giá 1 cốc nước dừa (25 000 đồng) nên để mua được 
+nhiều cốc nước nhất, Minh cần mua ít cốc nước dừa nhất có thể. 
+Tổng số tiền Minh dùng hết là 500 000 đồng, chia hết cho 20 000. 
+Số tiền mua nước mía cũng chia hết cho 20 000 nên số tiền mua nước dừa cũng phải chia hết 
+cho 20 000. 
+Mà 25 000 đồng × số cốc nước dừa chia hết cho 20 000 nên số cốc nước dừa phải chia hết cho 
+4. 
+Vì mỗi loại mua ít nhất 5 cốc nên số cốc nước dừa ít nhất thỏa mãn là 8 cốc. 
+Số cốc nước mía là: (500 000 – 25 000 × 8) : 20 000 = 15 (cốc). 
+Vậy tổng số cốc nước mà Minh có thể mua được nhiều nhất là: 15 + 8 = 23 (cốc). 
+Câu 7. Trong một lần đi du lịch, bạn Minh được chọn một combo để ăn sáng, mỗi combo gồm  
+3 loại thực phẩm, mỗi loại 100 gram có hàm lượng dinh dưỡng như dưới đây: 
+Thực phẩm 
+Bánh bao 
+nhân thịt 
+Bánh mỳ Bún tươi Cốm tươi 
+Giá trị dinh dưỡng trong 100 gram 276 Kcal 250 Kcal 116 Kcal 307 Kcal 
+Minh nên chọn combo nào để có tổng giá trị dinh dưỡng (đơn vị: Kcal) lớn nhất? 
+A. Bánh bao nhân thịt – cốm tươi – bún tươi. 
+C. Bánh bao nhân thịt – bánh mỳ – bún tươi. 
+B. Bánh bao nhân thịt – bánh mỳ – cốm tươi. 
+D. Cốm tươi – bánh mỳ – bún tươi. 
+Chọn B 
+Giá trị dinh dưỡng trong combo bánh bao nhân thịt – cốm tươi – bún tươi là: 
+276 + 307 + 116 = 699 (Kcal) 
+Giá trị dinh dưỡng trong combo bánh bao nhân thịt – bánh mỳ – cốm tươi là: 
+276 + 250 + 307 = 833 (Kcal) 
+Giá trị dinh dưỡng trong combo bánh bao nhân thịt – bánh mỳ – bún tươi là: 
+276 + 250 + 116 = 642 (Kcal) 
+Giá trị dinh dưỡng trong combo cốm tươi – bánh mỳ – bún tươi là: 
+307 + 250 + 116 = 673 (Kcal) 
+Ta thấy 642 < 673 < 699 < 833 nên giá trị dinh dưỡng trong combo bánh bao nhân thịt – bánh 
+mỳ – cốm tươi là lớn nhất. 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 8 
+ 
+Câu 8. Biểu đồ cột ở bên cạnh cho biết số gam chất đạm 
+trong 100 gam của từng loại thực phẩm: hạt lạc, gạo tẻ, 
+trứng gà, thịt lợn nạc nhưng còn thiếu thông tin. 
+ 
+ 
+ 
+ 
+Bảng dữ liệu dưới đây cho biết số gam chất đạm trong 100 gam của từng loại thực phẩm nhưng 
+vẫn thiếu thông tin: 
+Thực phẩm     
+Số gam chất đạm 15 19 28 8 
+Phương án nào sau đây đúng với số gam chất đạm trong 100 gam từng loại thực phẩm? 
+A. 
+Thực phẩm Hạt lạc Gạo tẻ Trứng gà Thịt lợn nạc 
+Số gam chất đạm 15 19 28 8 
+ 
+B. 
+Thực phẩm Trứng gà Thịt lợn nạc Hạt lạc Gạo tẻ 
+Số gam chất đạm 15 19 28 8 
+ 
+C. 
+Thực phẩm Thịt lợn nạc Gạo tẻ Trứng gà Hạt lạc 
+Số gam chất đạm 15 19 28 8 
+ 
+D. 
+Thực phẩm Hạt lạc Trứng gà Gạo tẻ Thịt lợn nạc 
+Số gam chất đạm 15 19 28 8 
+Chọn B 
+Từ bảng dữ liệu ta thấy: 8 < 15 < 19 < 28. 
+Từ sơ đồ cột ta thấy số gam chất đạm trong 100 gam của từng loại:  
+Gạo tẻ < Trứng gà < Thịt lợn nạc < Hạt lạc 
+Suy ra:   
+Thực phẩm Trứng gà Thịt lợn nạc Hạt lạc Gạo tẻ 
+Số gam chất đạm 15 19 28 8 
+Câu 9. Ngày 01/01/2028 là ngày Thứ Bảy. Hỏi ngày 01/03/2028 là ngày Thứ mấy? 
+A. Thứ Năm.  B. Thứ Sáu. C. Thứ Ba. D. Thứ Tư. 
+Chọn D 
+Năm 2028 là năm nhuận do đó tháng 2 có 29 ngày. 
+Từ ngày 01/01/2028 đến ngày 01/03/2028 cách nhau số ngày là: 31 + 29 = 60 (ngày). 
+Một tuần lễ có 7 ngày nên ta có:  60 : 7 = 8 (tuần) và dư 4 ngày. 
+Ngày 01/01/2028 là ngày Thứ Bảy thì ngày 01/03/2028 là ngày Thứ Tư. 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 9 
+ 
+Câu 10. Trong giờ học Nghệ thuật, cô giáo chuẩn bị 8 màu giấy thủ công khác nhau để học sinh 
+làm thiệp trang trí, gồm: đỏ, cam, vàng, xanh lá, xanh dương, tím, hồng và nâu. Mỗi nhóm cần 
+chọn đúng 2 màu khác nhau để phối hợp trong sản phẩm của mình. Hỏi có bao nhiêu cách chọn 
+2 màu từ 8 màu đã cho? 
+A. 64 cách chọn.  B. 16 cách chọn. C. 28 cách chọn. D. 56 cách chọn. 
+Chọn C 
+Có số cách chọn 2 màu từ 8 màu đã cho là: 8 × 7 : 2 = 28 (cách). 
+PHẦN B. TỰ LUẬN (30 điểm – Thời gian làm bài: 35 phút) 
+Trả lời ngắn (10 điểm): Học sinh trả lời từ câu 1 đến câu 4. Đối với mỗi câu, học sinh chỉ 
+cần viết kết quả, không trình bày suy luận.  
+Câu 1. Trên một tuyến đường thẳng từ A đến B dài 110 km, có vị trí C nằm giữa A và B, biết rằng 
+quãng đường từ A đến C dài 40km. 
+Lúc 8 giờ sáng, một xe tải xuất phát từ A đi đến B với tốc độ 50km/h.  
+Lúc 9 giờ sáng, một taxi xuất phát từ C đi đến B với tốc độ 70km/h và gặp xe tải.  
+Hỏi: Hai xe gặp nhau tại điểm cách B bao nhiêu ki-lô-mét? 
+Hướng dẫn: 
+Khi taxi xuất phát thì xe tải đã đi được: 9 giờ – 8 giờ = 1 giờ 
+Quãng đường xe tải đã đi được trước khi taxi xuất phát là: 1 × 50 = 50 (km). 
+Vì taxi xuất phát từ C nên lúc 9 giờ taxi cách xe tải là: 50 – 40 = 10 (km). 
+Kể từ lúc 9 giờ, taxi đuổi kịp xe tải sau thời gian là: 10 : (70 – 50) = 0,5 (giờ). 
+Chỗ gặp nhau cách B số ki-lô-mét là: (110 – 40) – 0,5 × 70 = 35 (km). 
+Đáp số: 35km 
+Câu 2. Bác Khôi soạn một tài liệu và tự đánh số các trang từ trang 1 đến trang 32. Từ trang 33 
+đến trang 168, việc đánh số trang được giao cho một biên tập viên thực hiện. Hỏi trong quá trình 
+đánh số các trang từ 33 đến 168, biên tập viên đã viết chữ số 6 bao nhiêu lần? 
+Hướng dẫn: 
+-  Xét chữ số 6 ở hàng đơn vị:  36, 46, ..., 166 
+⇾ Có: (166 – 36) : 10 + 1 = 14 (chữ số 6) 
+-  Xét chữ số 6 ở hàng chục, gồm: 
++) 60, 61, ..., 69 ⇾ Có 10 chữ số 6 
++) 160, 161, ..., 168 ⇾ Có 9 chữ số 6 
+⇾ Có 10 + 9 = 19 (chữ số 6 ở hàng chục)  
+Vậy trong quá trình đánh số các trang từ 33 đến 168, biên tập viên đã viết chữ số 6 số lần là: 
+14 + 19 = 33 (lần). 
+Đáp số: 33 lần  
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 10 
+ 
+Câu 3. Cho  ABCD  là  hình  bình  hành  có  diện  tích  bằng 
+420cm
+2
+. M là điểm chung của AC và BD, điểm P thuộc cạnh 
+AB thỏa mãn AB = 4 × AP, N là điểm chung của BD và CP, 
+Q là điểm chung của AC và DP (hình bên). Diện tích của tứ 
+giác MNPQ bằng bao nhiêu cm
+2
+. 
+Hướng dẫn: 
+Nối B với Q; A với N. 
++) Ta có: 
+ADM
+AMB
+SS
+=
+ (vì MD = MB, chung chiều cao từ A 
+tới BD) 
+Mà hai tam giác này chung đáy AM nên chiều cao hạ từ D 
+tới AM bằng chiều cao hạ từ B tới AM. 
+Đưa hai chiều cao này tương ứng vào hai tam giác ADQ và 
+ABQ chung đáy AQ ta có: 
+ADQ
+ABQ
+SS
+=
+. 
+Mà 
+APQ
+ABQ
+1
+SS
+4
+=
+ (chung chiều cao từ Q đến AB, 
+1
+AP    AB
+4
+=
+) nên 
+APQ
+ADQ
+1
+SS
+4
+=
+. 
+Suy ra: 
+APQAPD
+1
+SS
+5
+=
+. 
+Mặt khác, dễ dàng chứng minh được 
+APD
+ABD   ABD
+ABCD
+11
+S
+S  ;S
+S
+42
+==
+. 
+Suy ra 
+APD
+ABCD
+1
+SS
+8
+=
+. Do đó: 
+2
+APQ
+ABCD
+ABCD
+1  1
+1
+1
+S
+S
+S
+420
+10,5 (cm )
+5  8
+40
+40
+=    
+=
+=      =
+. 
++) Tương tự ta chứng minh được: 
+ABN
+BCN
+BPN
+ABN
+3
+S
+S  ; S
+S
+4
+==
+ 
+Suy ra: 
+BPN
+BCN
+3
+SS
+4
+=
+. Do đó: 
+BPN
+BPC
+3
+SS
+7
+=
+ 
+Mà dễ dàng chứng minh được: 
+BPCABC   ABCABCD
+31
+SS  ;SS
+42
+==
+, suy ra: 
+BPCABCDABCD
+3  13
+SSS
+4  28
+=  =
+.  
+Do đó:  
+2
+BPNABCDABCD
+3  399
+SSS42067,5 (cm )
+7  85656
+=   ==      =
+. 
+Lại có: 
+2
+ABMABCD
+1
+SS105 (cm ).
+4
+==
+ 
+Vậy: 
+2
+MNPQ
+S105  67,5  10,5  27 (cm ).=   −    −    =
+ 
+Đáp số: 27cm
+2
+. 
+ 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 11 
+ 
+Câu 4. Trong một trò chơi phiêu lưu, nhân vật của bạn bắt đầu 
+tại điểm A ở góc trên bên trái của một bản đồ dạng lưới gồm 
+2 × 3 ô vuông. Nhiệm vụ của bạn là dẫn nhân vật đến điểm B 
+ở góc dưới  bên  phải  bằng  cách  di  chuyển  theo  các  cạnh  của 
+lưới (hình bên). Tuy nhiên, hành trình bị giới hạn bởi quy tắc: 
+Nhân vật không được quay lại bất kỳ điểm nào đã đi qua, tổng 
+quãng đường  di  chuyển  phải đúng bằng 5 bước  (mỗi bước 
+tương ứng  với độ dài  một  cạnh  ô  vuông).  Hỏi  có  bao  nhiêu  hành  trình  hợp  lệ để hoàn  thành 
+nhiệm vụ? 
+Hướng dẫn: 
+Vì tổng quãng đường di chuyển từ A → B bằng đúng 5 bước và không được quay lại bất kỳ điểm 
+nào đã đi qua nên khi đi từ A → B nhân vật chỉ được phép đi theo chiều đi xuống hoặc sang phải. 
+ 
+Vậy có 10 cách.  
+Tự luận (20 điểm): Thí sinh trả lời câu 5, 6. Viết quá trình và kết quả suy luận. 
+Câu 5.  
+a) Tính giá trị của biểu thức A = 12 344 × 54 321 + 54 321 – 44 321 × 12 345. 
+b) Rút gọn biểu thức 
+1  1   1  1   1  1  1  1   1   1   1   1
+5  60  6  70  7  80  8  90  9  100  10  10
+B=     +     +     +     +     −  
+. 
+Hướng dẫn: 
+a) A = 12 344 × 54 321 + 54 321 – 44 321 × 12 345 
+     A = 54 321 × (12 344 + 1) – 44 321 × 12 345  
+     A = 54 321 × 12 345 – 44 321 × 12 345 
+     A = 12 345 × (54 321 – 44 321)  
+     A = 12 345 × 10 000 
+     A = 123 450 000 
+
+MathExpress Education www.mathexpress.vn 
+ 
+        www.facebook.com/mathexpress.vn  1900 633551                 12 
+ 
+b) 
+1  1   1  1   1  1  1  1   1   1   1   1
+B
+5  60  6  70  7  80  8  90  9  100  10  10
+=     +     +     +     +     −  
+ 
+     
+1    1    1    1    1    1    1   1
+1    1   1   1
+B
+5  6  10  6  7  10  7  8  10  8  9  10  9 10  10  10  10
+1
+1
+1
+1
+1
+1
+1
+B
+10   5  6  6  7  7  8  8  9  9 10  10
+1   1  1  1  1  1  1  1  1  1  1   1
+B
+10   5  6  6  7  7  8  8  9  9  10  10
+1   1  1   1
+B
+10   5  10  10
+1
+B0
+10
+=
+  +
+  +      +      +
+  −  
+
+
+
+
+
+
+=   
++
++
++
++
+−
+
+
+
+    
+
+
+
+=      −  +  −  +  −  +  −  +  −   −
+
+
+
+=      −   −
+
+
+=
+ 
+     
+B0
+=
+ 
+Câu 6. Thầy giáo yêu cầu bạn Dũng viết 20 số tự nhiên liên tiếp theo thứ tự tăng dần sau đó đặt 
+dấu cộng để thực hiện phép tính tổng của tất cả các số. Dũng viết vội nên thiếu một số và tổng 
+của 19 số đã viết là 2026. Bạn Dũng đã viết thiếu số nào? 
+Hướng dẫn: 
+20 số tự nhiên liên tiếp Dũng viết có dạng: 
+1,   2,   3, ...,   20
++   +   +
++
+xxxx
+ (
+x
+ là số tự nhiên) 
+Coi số Dũng viết thiếu là 
+(   1, 2, 3, ..., 20)
++=
+xnn
+. Ta có:  
+(
+)
+20
+1  2  3  ...  20   2026
+xxn
+ +  +  + +  +   =
++  +
+ 
+19
+(20  1)  20: 2  2026
+19
+210  2026
+19
+1816
+xn
+xn
+xn
+ +   +  
+=
++
+ +   =
++
+  =
++
+ 
+Suy ra 
+1816
++
+n
+ chia hết cho 19.  
+Mà 1816 : 19 = 95 (dư 11) nên n = 8  (vì n không lớn hơn 20). 
+Suy ra 
+x
+ = 96.  
+Vậy số bạn Dũng đã viết thiếu là:  96 + 8 = 104. 
+Đáp số: 104 
+ 
+ 

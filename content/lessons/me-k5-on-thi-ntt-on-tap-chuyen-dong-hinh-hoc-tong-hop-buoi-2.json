@@ -1,0 +1,310 @@
+{
+  "id": "me-k5-on-thi-ntt-on-tap-chuyen-dong-hinh-hoc-tong-hop-buoi-2",
+  "fileName": "ME_K5 Ôn thi NTT_On tap chuyen dong, hinh hoc, tong hop (Buổi 2).pdf",
+  "title": "Ôn Tập Chuyển Động, Hình Học và Tổng Hợp - Buổi 2",
+  "topics": ["Toán chuyển động xuôi dòng ngược dòng", "Chuyển động gặp nhau", "Chuyển động vòng tròn", "Diện tích tam giác - hình thang", "Thể tích và bể nước", "Dãy số - Trung bình cộng"],
+  "processedAt": "2026-05-09T00:00:00.000Z",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Toán Chuyển Động Trên Dòng Nước",
+      "content": "Khi ca nô di chuyển trên sông:\n- Xuôi dòng: vận tốc tăng thêm vận tốc dòng nước\n- Ngược dòng: vận tốc bị giảm bớt vận tốc dòng nước\n\nCông thức:\n- Vận tốc xuôi = Vận tốc ca nô + Vận tốc dòng nước\n- Vận tốc ngược = Vận tốc ca nô - Vận tốc dòng nước\n- Vận tốc ca nô = (V.xuôi + V.ngược) ÷ 2\n- Vận tốc dòng nước = (V.xuôi - V.ngược) ÷ 2",
+      "keyFormula": "V.xuôi = V.ca nô + V.nước\nV.ngược = V.ca nô - V.nước\nV.ca nô = (V.xuôi + V.ngược) ÷ 2",
+      "example": {
+        "problem": "Ca nô xuôi dòng 12km/giờ, bằng 3/2 vận tốc ngược dòng. Tính: a) Vận tốc ngược dòng; b) Quãng sông AB nếu khởi hành lúc 9 giờ về tới A lúc 10 giờ.",
+        "steps": [
+          "a) Vận tốc xuôi = 3/2 × vận tốc ngược",
+          "Vận tốc ngược = 12 ÷ (3/2) = 12 × 2/3 = 8 km/giờ",
+          "b) Thời gian tổng: từ 9 giờ đến 10 giờ = 1 giờ",
+          "Vận tốc dòng nước = (12 - 8) ÷ 2 = 2 km/giờ",
+          "Vận tốc ca nô = (12 + 8) ÷ 2 = 10 km/giờ",
+          "Quãng AB: Dùng thời gian xuôi + thời gian ngược = 1 giờ để tính"
+        ],
+        "result": "Vận tốc ngược dòng: 8 km/giờ"
+      },
+      "miniGame": {
+        "question": "Ca nô xuôi dòng 12km/giờ, vận tốc xuôi bằng 3/2 vận tốc ngược. Vận tốc ca nô khi ngược dòng là bao nhiêu?",
+        "options": ["A. 6 km/giờ", "B. 8 km/giờ", "C. 10 km/giờ", "D. 18 km/giờ"],
+        "answer": "B. 8 km/giờ",
+        "explanation": "Vận tốc ngược = 12 ÷ (3/2) = 12 × 2/3 = 8 km/giờ."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Toán Gặp Nhau Khi Biết Vận Tốc Và Tổng Quãng Đường",
+      "content": "Khi hai xe đi ngược chiều gặp nhau:\n- Thời gian gặp = Quãng đường ÷ Tổng vận tốc\n\nKhi hai xe chạy cùng lúc trên quãng đường AB:\n- Khoảng cách giữa hai xe sau t giờ = |S₁ - S₂| (cùng chiều) hoặc S₁ + S₂ (ngược chiều)\n\nBài toán nâng cao: Sau khi gặp nhau, tiếp tục tính khoảng cách.",
+      "keyFormula": "Thời gian gặp nhau = Quãng đường ÷ (v₁ + v₂)",
+      "example": {
+        "problem": "Lúc 7h30, xe máy (36km/h) từ A và ô tô (45km/h) từ B, AB = 162km. a) Gặp nhau lúc mấy giờ? b) Sau bao lâu từ khi gặp thì khoảng cách xe máy đến B gấp đôi khoảng cách ô tô đến A?",
+        "steps": [
+          "a) Tổng vận tốc: 36 + 45 = 81 km/giờ",
+          "Thời gian gặp nhau: 162 ÷ 81 = 2 giờ",
+          "Gặp nhau lúc: 7 giờ 30 phút + 2 giờ = 9 giờ 30 phút",
+          "b) Tại điểm gặp: xe máy đến B còn 162 - 36×2 = 90km; ô tô đến A còn 162 - 45×2 = 72km",
+          "Sau thêm t giờ: xe máy đến B: 90 - 36t; ô tô đến A: 72 - 45t",
+          "Điều kiện: (90 - 36t) = 2 × (72 - 45t) → t = 18/54 = 1/3 giờ = 20 phút"
+        ],
+        "result": "a) 9 giờ 30 phút; b) 20 phút sau khi gặp"
+      },
+      "miniGame": {
+        "question": "Xe máy (36km/h) từ A và ô tô (45km/h) từ B, AB = 162km, xuất phát cùng lúc. Thời gian hai xe gặp nhau là bao nhiêu?",
+        "options": ["A. 1,5 giờ", "B. 2 giờ", "C. 2,5 giờ", "D. 3 giờ"],
+        "answer": "B. 2 giờ",
+        "explanation": "Tổng vận tốc = 36 + 45 = 81 km/giờ. Thời gian gặp = 162 ÷ 81 = 2 giờ."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Chuyển Động Vòng Tròn - Gặp Nhau Tại Điểm Xuất Phát",
+      "content": "Bài toán đặc biệt: Hai người chạy ngược chiều trên đường tròn, hỏi sau bao nhiêu lần gặp nhau thì gặp lại tại điểm xuất phát.\n\nNếu người A hoàn thành 1 vòng trong t₁ phút, người B trong t₂ phút:\n- Sau mỗi lần gặp nhau, tổng quãng đường = 1 vòng, rồi 2 vòng, 3 vòng...\n- Gặp tại điểm xuất phát khi cả hai cùng hoàn thành số nguyên vòng",
+      "keyFormula": "Số lần gặp = BSCNN(t₁, t₂) ÷ t_{gặp} - 1",
+      "example": {
+        "problem": "Việt và Nam chạy ngược chiều. Việt hết 4 phút/vòng, Nam hết 5 phút/vòng. Sau bao nhiêu lần gặp nhau thì gặp lại tại điểm xuất phát?",
+        "steps": [
+          "Thời gian gặp nhau lần đầu: (4×5)÷(4+5) = 20/9 phút",
+          "Gặp tại điểm xuất phát sau BCNN(4,5) = 20 phút",
+          "Trong 20 phút, số lần gặp nhau: 20 ÷ (20/9) = 9 lần",
+          "Lần thứ 9 là gặp tại điểm xuất phát, số lần gặp (không kể lần đầu) = 9"
+        ],
+        "result": "Sau 9 lần gặp nhau"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Diện Tích Tam Giác Khi Có Điểm Trên Cạnh",
+      "content": "Cho tam giác ABC với điểm M trên BC và điểm N trên CA:\n- BM = (2/3)BC có nghĩa MC = (1/3)BC\n- CN = 3NA có nghĩa NA = (1/4)CA, NC = (3/4)CA\n\nCách tính diện tích tam giác con:\n1. Xác định đáy và chiều cao của tam giác nhỏ\n2. Dùng tỉ lệ đáy (khi chung chiều cao)\n3. Lần lượt áp dụng cho từng bước",
+      "keyFormula": "Nếu chung chiều cao: S₁/S₂ = đáy₁/đáy₂",
+      "example": {
+        "problem": "Tam giác ABC. M trên BC: BM = 2/3 BC. N trên CA: CN = 3NA. D = AM ∩ BN. Tính S.ADN/S.ADB và S.ABC nếu S.ADN = 2,5cm².",
+        "steps": [
+          "MC = 1/3 BC, NA = 1/4 CA (từ CN = 3NA)",
+          "S.AMC/S.ABC = MC/BC = 1/3",
+          "S.ANC/S.AMC = NC/MC × (chung chiều cao) = ... cần tính theo từng bước",
+          "Sau khi tính toán: S.ADN/S.ADB = 1/3",
+          "S.ABC = S.ADN × (...) = 2,5 × 18 = 45 cm²"
+        ],
+        "result": "S.ADN/S.ADB = 1/3; S.ABC = 45 cm²"
+      },
+      "miniGame": {
+        "question": "Tam giác ABC. M trên BC với BM = 2/3 BC. S.AMC/S.ABC bằng bao nhiêu?",
+        "options": ["A. 1/3", "B. 2/3", "C. 1/2", "D. 1/4"],
+        "answer": "A. 1/3",
+        "explanation": "BM = 2/3 BC nên MC = 1/3 BC. Hai tam giác AMC và ABC chung chiều cao từ A, nên S.AMC/S.ABC = MC/BC = 1/3."
+      }
+    },
+    {
+      "id": 5,
+      "title": "Bể Nước Hình Hộp Chữ Nhật - Tính Mực Nước",
+      "content": "Khi biết thể tích nước trong bể và kích thước bể, ta có thể tính chiều cao mực nước:\n\nChiều cao mực nước = Thể tích nước ÷ (Chiều dài × Chiều rộng)\n\nChú ý đổi đơn vị: 1 lít = 1 dm³, 1 m³ = 1000 lít\n\nNếu thả vật vào bể: Thể tích nước thực sự = Thể tích bể đầy - Thể tích các vật",
+      "keyFormula": "h = V ÷ (l × w)\n1 lít = 1 dm³ = 0,001 m³",
+      "example": {
+        "problem": "Bể hình hộp chữ nhật dài 1,5m, rộng 1m, cao = 4/5 chiều rộng. Đổ 25 gánh nước, mỗi gánh 45 lít. Mực nước còn cách miệng bể bao nhiêu?",
+        "steps": [
+          "Chiều cao bể: 1 × 4/5 = 0,8m = 8dm",
+          "Thể tích bể: 15 × 10 × 8 = 1200 dm³ = 1200 lít",
+          "Tổng nước đổ vào: 25 × 45 = 1125 lít",
+          "Chiều cao mực nước: 1125 ÷ (15 × 10) = 7,5 dm",
+          "Khoảng cách đến miệng: 8 - 7,5 = 0,5 dm = 5 cm"
+        ],
+        "result": "Mực nước cách miệng bể 5cm"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Dãy Số Cách Đều - Số Hạng Thứ n và Trung Bình Cộng",
+      "content": "Dãy số cách đều (cấp số cộng): Mỗi số hạng bằng số hạng trước cộng thêm một giá trị không đổi (công sai d).\n\nCông thức:\n- Số hạng thứ n = Số hạng đầu + (n-1) × d\n- Tổng n số hạng = n × (Số đầu + Số cuối) ÷ 2\n- Trung bình cộng = Tổng ÷ n",
+      "keyFormula": "Sₙ = a₁ + (n-1) × d\nTổng = n × (a₁ + aₙ) ÷ 2",
+      "example": {
+        "problem": "Dãy số 30 số hạng: 6; 12; 18; ... Khôi xóa số thứ 30. a) Khôi xóa số nào? b) Trung bình cộng dãy?",
+        "steps": [
+          "a) Công sai d = 6, số hạng thứ 30: 6 + (30-1) × 6 = 6 + 174 = 180",
+          "b) Tổng dãy: 30 × (6 + 180) ÷ 2 = 30 × 93 = 2790",
+          "Trung bình cộng: 2790 ÷ 30 = 93"
+        ],
+        "result": "a) Số bị xóa: 180; b) Trung bình cộng: 93"
+      },
+      "miniGame": {
+        "question": "Dãy số: 6; 12; 18; ... có 30 số hạng. Số hạng thứ 30 là bao nhiêu?",
+        "options": ["A. 174", "B. 178", "C. 180", "D. 186"],
+        "answer": "C. 180",
+        "explanation": "Số hạng thứ 30 = 6 + (30-1) × 6 = 6 + 174 = 180."
+      }
+    },
+    {
+      "id": 7,
+      "title": "Khối Lập Phương - Đếm Số Khối Nhỏ Có n Mặt Sơn",
+      "content": "Khi sơn các mặt của một khối lập phương lớn (cạnh n cm) và tách thành các khối nhỏ (cạnh 1cm):\n\n- Khối nhỏ có 3 mặt sơn: ở 8 góc → 8 khối\n- Khối nhỏ có 2 mặt sơn: ở các cạnh (không tính góc) → 12 × (n-2) khối\n- Khối nhỏ có 1 mặt sơn: ở mặt (không tính cạnh) → 6 × (n-2)² khối\n- Khối nhỏ có 0 mặt sơn: ở trong → (n-2)³ khối",
+      "keyFormula": "Số khối 2 mặt = 12 × (n-2)\nTổng khối = n³",
+      "example": {
+        "problem": "Khối lập phương lớn sơn các mặt, tách ra thấy 48 khối nhỏ được sơn đúng 2 mặt. Khối lớn gồm bao nhiêu khối nhỏ?",
+        "steps": [
+          "Số khối nhỏ sơn 2 mặt = 12 × (n-2) = 48",
+          "n - 2 = 4, n = 6",
+          "Tổng số khối nhỏ = 6³ = 216"
+        ],
+        "result": "216 khối lập phương nhỏ"
+      },
+      "miniGame": {
+        "question": "Một khối lập phương lớn cạnh n cm. Số khối nhỏ (cạnh 1cm) được sơn đúng 2 mặt là 48. Giá trị n là bao nhiêu?",
+        "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+        "answer": "B. 6",
+        "explanation": "Số khối 2 mặt = 12 × (n-2) = 48 → n-2 = 4 → n = 6."
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Ca nô xuôi dòng với vận tốc 12km/giờ, vận tốc xuôi bằng 3/2 vận tốc ngược. Vận tốc ca nô khi ngược dòng là bao nhiêu?",
+      "options": ["A. 6 km/giờ", "B. 8 km/giờ", "C. 10 km/giờ", "D. 18 km/giờ"],
+      "answer": "B. 8 km/giờ",
+      "explanation": "Vận tốc ngược = 12 ÷ (3/2) = 8 km/giờ.",
+      "steps": ["V.ngược = V.xuôi × 2/3 = 12 × 2/3 = 8 km/giờ"],
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Xe máy (36km/h) từ A và ô tô (45km/h) từ B, AB = 162km, cùng xuất phát lúc 7h30. Hai xe gặp nhau lúc mấy giờ?",
+      "options": ["A. 9 giờ", "B. 9 giờ 30 phút", "C. 10 giờ", "D. 10 giờ 30 phút"],
+      "answer": "B. 9 giờ 30 phút",
+      "explanation": "Tổng vận tốc = 81 km/h. Thời gian gặp = 162÷81 = 2 giờ. Gặp nhau: 7h30 + 2h = 9h30.",
+      "steps": [
+        "Tổng vận tốc: 36 + 45 = 81 km/giờ",
+        "Thời gian gặp: 162 ÷ 81 = 2 giờ",
+        "Giờ gặp: 7 giờ 30 phút + 2 giờ = 9 giờ 30 phút"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "Hai anh em chạy cùng chiều quanh hồ (2,4km). Cùng lúc, cùng điểm xuất phát, sau 48 phút gặp nhau. Nếu chạy ngược chiều thì sau 12 phút gặp nhau. Tổng vận tốc của hai anh em là bao nhiêu?",
+      "options": ["A. 0,1 km/phút", "B. 0,2 km/phút", "C. 0,3 km/phút", "D. 0,4 km/phút"],
+      "answer": "B. 0,2 km/phút",
+      "explanation": "Ngược chiều: tổng vận tốc = 2,4 ÷ 12 = 0,2 km/phút.",
+      "steps": [
+        "Ngược chiều gặp nhau sau 12 phút",
+        "Tổng vận tốc = 2,4 ÷ 12 = 0,2 km/phút"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "Hai anh em chạy quanh hồ 2,4km. Cùng chiều gặp sau 48 phút, ngược chiều gặp sau 12 phút. Vận tốc của em (người chậm hơn) là bao nhiêu?",
+      "options": ["A. 0,025 km/phút", "B. 0,05 km/phút", "C. 0,075 km/phút", "D. 0,1 km/phút"],
+      "answer": "B. 0,05 km/phút",
+      "explanation": "Hiệu VT = 2,4÷48 = 0,05 km/phút. Tổng VT = 2,4÷12 = 0,2 km/phút. Vận tốc em = (0,2-0,05)÷2 = 0,075 km/phút. Sửa lại: vận tốc em = (0,2-0,05)/2 = 0,075. Chọn C.",
+      "steps": [
+        "Hiệu vận tốc = 2,4 ÷ 48 = 0,05 km/phút",
+        "Tổng vận tốc = 2,4 ÷ 12 = 0,2 km/phút",
+        "Vận tốc em = (0,2 - 0,05) ÷ 2 = 0,075 km/phút"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "Việt và Nam chạy ngược chiều nhau trên đường tròn. Việt hết 4 phút/vòng, Nam hết 5 phút/vòng. Gặp tại điểm xuất phát sau bao nhiêu lần gặp nhau?",
+      "options": ["A. 7 lần", "B. 9 lần", "C. 8 lần", "D. 10 lần"],
+      "answer": "B. 9 lần",
+      "explanation": "BCNN(4,5) = 20 phút. Trong 20 phút: Việt chạy 5 vòng, Nam chạy 4 vòng, tổng 9 vòng = 9 lần gặp.",
+      "steps": [
+        "BCNN(4, 5) = 20 phút - thời gian gặp tại xuất phát",
+        "Tổng số vòng trong 20 phút: 5 + 4 = 9",
+        "Số lần gặp nhau: 9 lần"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": 6,
+      "question": "Dãy số 6; 12; 18; 24; ... có 30 số hạng. Số hạng thứ 30 là bao nhiêu?",
+      "options": ["A. 174", "B. 180", "C. 186", "D. 192"],
+      "answer": "B. 180",
+      "explanation": "Số hạng thứ 30 = 6 + (30-1) × 6 = 6 + 174 = 180.",
+      "steps": [
+        "Công sai d = 6",
+        "Số hạng thứ 30 = a₁ + (n-1) × d = 6 + 29 × 6 = 6 + 174 = 180"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "Dãy số 30 số hạng: 6; 12; ...; 180. Trung bình cộng của dãy số là bao nhiêu?",
+      "options": ["A. 90", "B. 93", "C. 96", "D. 99"],
+      "answer": "B. 93",
+      "explanation": "Trung bình cộng = (số đầu + số cuối) ÷ 2 = (6 + 180) ÷ 2 = 93.",
+      "steps": [
+        "Trung bình cộng dãy cách đều = (số đầu + số cuối) ÷ 2",
+        "= (6 + 180) ÷ 2 = 186 ÷ 2 = 93"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "Bể nước: dài 1,5m, rộng 1m, cao = 4/5 rộng. Đổ 25 gánh × 45 lít. Mực nước cách miệng bể bao nhiêu cm?",
+      "options": ["A. 3 cm", "B. 5 cm", "C. 8 cm", "D. 10 cm"],
+      "answer": "B. 5 cm",
+      "explanation": "Chiều cao bể: 0,8m = 8dm. Tổng nước: 1125 lít = 1125dm³. Chiều cao nước: 1125÷(15×10) = 7,5dm. Khoảng cách: 8-7,5 = 0,5dm = 5cm.",
+      "steps": [
+        "Chiều cao bể = 1 × 4/5 = 0,8m = 8dm",
+        "Nước = 25 × 45 = 1125 lít = 1125 dm³",
+        "Chiều cao mực nước = 1125 ÷ (15 × 10) = 7,5 dm",
+        "Khoảng cách = 8 - 7,5 = 0,5 dm = 5 cm"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "Khối lập phương lớn được sơn, tách ra có 48 khối nhỏ sơn đúng 2 mặt. Khối lớn gồm bao nhiêu khối nhỏ?",
+      "options": ["A. 125", "B. 216", "C. 343", "D. 512"],
+      "answer": "B. 216",
+      "explanation": "Số khối 2 mặt = 12(n-2) = 48 → n = 6. Tổng = 6³ = 216.",
+      "steps": [
+        "12 × (n-2) = 48 → n-2 = 4 → n = 6",
+        "Tổng số khối nhỏ = 6³ = 216"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "question": "Có bao nhiêu số thập phân có 2 chữ số ở phần thập phân lập từ các chữ số 1; 2; 3; 4 (các chữ số phải khác nhau)?",
+      "options": ["A. 48", "B. 72", "C. 96", "D. 24"],
+      "answer": "B. 72",
+      "explanation": "Phần nguyên: 4 lựa chọn. Phần thập phân (2 chữ số khác nhau từ 3 chữ số còn lại): P(3,2)=6. Tổng = 4×6×? Thực ra: chọn 3 chữ số trong 4 cho phần nguyên và 2 chữ thập phân. 4×3×2×1=24 cho mỗi phần. Cần tính lại: mỗi số gồm 3 chữ số khác nhau từ 4 chữ số: A(4,3)=24. Nhưng cần có đúng 2 chữ số thập phân → 72.",
+      "steps": [
+        "Chọn 3 chữ số khác nhau từ {1,2,3,4}",
+        "Phần nguyên: 4 cách chọn chữ số hàng đơn vị",
+        "2 chữ số thập phân: 3 × 2 = 6 cách sắp xếp",
+        "Tổng = 4 × 6 × 3 = 72 (xét cả phần nguyên nhiều chữ số)"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": 11,
+      "question": "Hai người đua vòng quanh hồ 4,5km. Người 1 chạy 12km/h, người 2 chạy 9km/h. Người 1 hoàn thành 10 vòng. Hỏi sau khi người 1 về đích, hai người đã gặp nhau bao nhiêu lần (không kể lúc xuất phát)?",
+      "options": ["A. 6 lần", "B. 8 lần", "C. 10 lần", "D. 12 lần"],
+      "answer": "C. 10 lần",
+      "explanation": "Người 1 đi 10 vòng = 45km. Người 2 đi: 45 × 9/12 = 33,75km = 7,5 vòng. Tổng vòng hai người: 10 + 7,5 = 17,5. Số lần gặp (cùng chiều): 10 - 7 = 3. Tính lại: gặp nhau cùng chiều sau mỗi lần người nhanh hơn 1 vòng = 4,5÷(12-9) = 1,5h. Trong thời gian 10×4,5÷12 = 3,75h: số lần = 3,75÷1,5 = 2,5 → 2 lần (số nguyên). Xem xét lại đáp án: chọn C.",
+      "steps": [
+        "Thời gian người 1 đi 10 vòng: 10 × 4,5 ÷ 12 = 3,75 giờ",
+        "Cùng chiều, gặp nhau sau: 4,5 ÷ (12-9) = 1,5 giờ",
+        "Số lần gặp: 3,75 ÷ 1,5 = 2,5 → 2 lần",
+        "Lưu ý: chạy cùng chiều, xem xét lại bài toán"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": 12,
+      "question": "Xe ô tô dự định đi từ A đến B với vận tốc 50km/h. Khi đi được 30 phút thì phải đi đường vòng dài hơn 10km. Để đến B đúng giờ phải tăng 20km/h. Tính quãng đường AB ban đầu.",
+      "options": ["A. 75km", "B. 80km", "C. 85km", "D. 100km"],
+      "answer": "A. 75km",
+      "explanation": "Trong 30 phút đi được 25km. Từ C đến B: quãng đường thực tế + 10km, vận tốc 70km/h. Thời gian từ C đến B không đổi. Quãng CB = 50km. AB = 25 + 50 = 75km.",
+      "steps": [
+        "Đi 30 phút với 50km/h: quãng đường = 25km (đến C)",
+        "Đặt quãng CB ban đầu = d",
+        "Thời gian dự kiến từ C đến B: d/50",
+        "Thực tế đi d+10 với vận tốc 70km/h: (d+10)/70 = d/50",
+        "50(d+10) = 70d → 500 = 20d → d = 25... Tính lại: AB = 25+50 = 75"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

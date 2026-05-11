@@ -1,0 +1,334 @@
+{
+  "id": "5-4c-4-5-2026-ndbh-on-tap-tong-hop",
+  "fileName": "5.4C - 4.5.2026-NDBH ÔN TẬP TỔNG HỢP.pdf",
+  "title": "Ôn Tập Tổng Hợp - Toán Chuyển Động và Hình Học",
+  "topics": ["Toán chuyển động", "Hai xe gặp nhau", "Chuyển động vòng tròn", "Phân số", "Hình học - Diện tích"],
+  "processedAt": "2026-05-09T00:00:00.000Z",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Toán Chuyển Động: Hai Xe Đi Ngược Chiều Xuất Phát Lệch Giờ",
+      "content": "Khi hai xe đi ngược chiều nhưng xuất phát không cùng lúc, ta cần tính khoảng cách còn lại sau khi xe đi trước đã đi được một đoạn, rồi dùng tổng vận tốc để tìm thời gian gặp nhau.\n\nCông thức cơ bản:\n- Thời gian gặp nhau = Khoảng cách còn lại ÷ Tổng vận tốc hai xe\n- Giờ gặp nhau = Giờ xe thứ hai xuất phát + Thời gian gặp nhau",
+      "keyFormula": "Thời gian gặp nhau = (Quãng đường - Khoảng xe đi trước đã đi) ÷ Tổng vận tốc",
+      "example": {
+        "problem": "Hai thành phố A và B cách nhau 180km. Lúc 6 giờ xe máy đi từ A (30km/giờ). Lúc 7 giờ ô tô đi từ B (45km/giờ). Hai xe gặp nhau lúc mấy giờ?",
+        "steps": [
+          "Thời gian xe máy đi trước: 7 - 6 = 1 giờ",
+          "Quãng đường xe máy đi trước: 30 × 1 = 30 km",
+          "Quãng đường còn lại: 180 - 30 = 150 km",
+          "Tổng vận tốc hai xe: 30 + 45 = 75 km/giờ",
+          "Thời gian hai xe gặp nhau (từ 7 giờ): 150 ÷ 75 = 2 giờ",
+          "Hai xe gặp nhau lúc: 7 + 2 = 9 giờ"
+        ],
+        "result": "Hai xe gặp nhau lúc 9 giờ"
+      },
+      "miniGame": {
+        "question": "Hai thành phố A và B cách nhau 180km. Lúc 6 giờ xe máy đi từ A với vận tốc 30km/giờ, lúc 7 giờ ô tô đi từ B với vận tốc 45km/giờ. Quãng đường còn lại khi ô tô bắt đầu xuất phát là bao nhiêu?",
+        "options": ["A. 180km", "B. 150km", "C. 120km", "D. 160km"],
+        "answer": "B. 150km",
+        "explanation": "Sau 1 giờ xe máy đi trước, quãng đường xe máy đi được: 30 × 1 = 30km. Quãng đường còn lại: 180 - 30 = 150km."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Chuyển Động Vòng Tròn: Cùng Chiều và Ngược Chiều",
+      "content": "Khi hai người chuyển động trên một đường tròn, điều kiện gặp nhau phụ thuộc vào chiều chuyển động:\n\n- Đi cùng chiều: Người nhanh hơn phải đi thêm đúng 1 vòng so với người chậm. Thời gian gặp nhau = Chu vi ÷ Hiệu vận tốc\n- Đi ngược chiều: Tổng quãng đường hai người đi = 1 chu vi. Thời gian gặp nhau = Chu vi ÷ Tổng vận tốc",
+      "keyFormula": "Cùng chiều: t = Chu vi ÷ (v₁ - v₂)\nNgược chiều: t = Chu vi ÷ (v₁ + v₂)",
+      "example": {
+        "problem": "Hai người đi xe đạp trên vòng tròn, vận tốc 250m/phút và 300m/phút. Chu vi 1100m. Hỏi sau bao lâu họ chạy ngang qua nhau nếu: a) Cùng chiều; b) Ngược chiều?",
+        "steps": [
+          "a) Cùng chiều: Hiệu vận tốc = 300 - 250 = 50 m/phút",
+          "Thời gian gặp nhau (cùng chiều): 1100 ÷ 50 = 22 phút",
+          "b) Ngược chiều: Tổng vận tốc = 300 + 250 = 550 m/phút",
+          "Thời gian gặp nhau (ngược chiều): 1100 ÷ 550 = 2 phút"
+        ],
+        "result": "a) 22 phút; b) 2 phút"
+      },
+      "miniGame": {
+        "question": "Hai người chạy trên đường tròn chu vi 1100m, vận tốc lần lượt là 250m/phút và 300m/phút. Nếu chạy ngược chiều, sau bao lâu họ gặp nhau?",
+        "options": ["A. 22 phút", "B. 11 phút", "C. 2 phút", "D. 4 phút"],
+        "answer": "C. 2 phút",
+        "explanation": "Chạy ngược chiều: tổng vận tốc = 250 + 300 = 550 m/phút. Thời gian gặp nhau = 1100 ÷ 550 = 2 phút."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Tính Chu Vi Đường Đua Kết Hợp Hình Chữ Nhật và Nửa Hình Tròn",
+      "content": "Một số bài toán có đường đua kết hợp nhiều hình. Đường đua quanh sân vận động thường gồm:\n- Hai đoạn thẳng (cạnh dài của hình chữ nhật)\n- Hai nửa hình tròn (ghép lại thành 1 hình tròn đầy đủ)\n\nChu vi = 2 × chiều dài thẳng + π × đường kính (π ≈ 3,14)",
+      "keyFormula": "Chu vi đường đua = 2 × AB + 3,14 × AD",
+      "example": {
+        "problem": "Đường chạy gồm hai cạnh dài AB = 143m và hai nửa đường tròn đường kính AD = 100m. Nếu chạy ngược chiều gặp nhau sau 75 giây, cùng chiều gặp nhau sau 300 giây. Tính vận tốc mỗi người.",
+        "steps": [
+          "Chu vi đường đua: (143 × 2) + (100 × 3,14) = 286 + 314 = 600m",
+          "Ngược chiều: Tổng vận tốc = 600 ÷ 75 = 8 m/giây",
+          "Cùng chiều: Hiệu vận tốc = 600 ÷ 300 = 2 m/giây",
+          "Vận tốc người thứ nhất: (8 + 2) ÷ 2 = 5 m/giây",
+          "Vận tốc người thứ hai: 8 - 5 = 3 m/giây"
+        ],
+        "result": "Người thứ nhất: 5m/giây; Người thứ hai: 3m/giây"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Biến Đổi Phân Số: Thêm Vào Tử và Bớt Ở Mẫu",
+      "content": "Khi thêm một số vào tử số và bớt đi ở mẫu số, tổng (tử + mẫu) không thay đổi. Đây là tính chất quan trọng để giải bài toán tìm số tự nhiên.\n\nCách giải:\n1. Tính tổng tử + mẫu ban đầu\n2. Lập tỉ số tử mới : mẫu mới theo phân số cho trước\n3. Dùng sơ đồ tìm tử số mới\n4. Trừ đi tử số ban đầu để tìm a",
+      "keyFormula": "Khi thêm a vào tử, bớt a ở mẫu: Tổng (tử + mẫu) không đổi",
+      "example": {
+        "problem": "Cho phân số 83/16. Tìm số tự nhiên a sao cho khi thêm a vào tử và bớt a ở mẫu ta được phân số mới bằng 2/9.",
+        "steps": [
+          "Khi thêm a vào tử và bớt a ở mẫu, tổng (tử + mẫu) không đổi",
+          "Tổng tử + mẫu ban đầu: 83 + 16 = 99",
+          "Tỉ số tử : mẫu mới = 2 : 9, tổng số phần = 2 + 9 = 11",
+          "Tử số mới: 99 ÷ 11 × 2 = 18",
+          "Số tự nhiên a = 18 - 16 = 2"
+        ],
+        "result": "a = 2"
+      },
+      "miniGame": {
+        "question": "Cho phân số 83/16. Khi thêm a vào tử và bớt a ở mẫu, tổng (tử + mẫu) bằng bao nhiêu?",
+        "options": ["A. 67", "B. 99", "C. 83", "D. 16"],
+        "answer": "B. 99",
+        "explanation": "Tổng tử + mẫu ban đầu: 83 + 16 = 99. Khi thêm a vào tử và bớt a ở mẫu, tổng này không thay đổi nên vẫn bằng 99."
+      }
+    },
+    {
+      "id": 5,
+      "title": "Biến Đổi Phân Số: Thêm Vào Cả Tử và Mẫu",
+      "content": "Khi cùng thêm một số vào cả tử số và mẫu số, hiệu (mẫu - tử) không thay đổi. Đây là tính chất ngược lại với trường hợp trên.\n\nCách giải:\n1. Tính hiệu (mẫu - tử) ban đầu\n2. Lập tỉ số tử mới : mẫu mới theo phân số cho trước\n3. Dùng sơ đồ tìm tử số mới\n4. Trừ đi tử số ban đầu để tìm b",
+      "keyFormula": "Khi thêm b vào cả tử và mẫu: Hiệu (mẫu - tử) không đổi",
+      "example": {
+        "problem": "Cho phân số 15/31. Tìm số b sao cho khi thêm b vào cả tử và mẫu ta được phân số mới bằng 7/11.",
+        "steps": [
+          "Khi thêm b vào cả tử và mẫu, hiệu (mẫu - tử) không đổi",
+          "Hiệu mẫu - tử ban đầu: 31 - 15 = 16",
+          "Tỉ số tử : mẫu mới = 7 : 11, hiệu số phần = 11 - 7 = 4",
+          "Tử số mới: 16 ÷ 4 × 7 = 28",
+          "Số tự nhiên b = 28 - 15 = 13"
+        ],
+        "result": "b = 13"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Bài Toán Tốc Độ: Đến Sớm Đến Muộn",
+      "content": "Dạng bài toán: Một xe đi cùng quãng đường với hai vận tốc khác nhau, kết quả là đến sớm hoặc đến muộn. Ta dùng tỉ lệ nghịch giữa vận tốc và thời gian.\n\nCách giải:\n1. Tính tỉ số hai vận tốc\n2. Đảo ngược để có tỉ số thời gian\n3. Tính thời gian chênh lệch\n4. Dùng sơ đồ tìm từng thời gian\n5. Tính quãng đường = vận tốc × thời gian",
+      "keyFormula": "Trên cùng quãng đường: v₁/v₂ = t₂/t₁ (tỉ lệ nghịch)",
+      "example": {
+        "problem": "Ô tô đi với 45km/giờ đến muộn 30 phút, đi với 60km/giờ đến sớm 30 phút. Tính quãng đường AB.",
+        "steps": [
+          "Tỉ số vận tốc: 45 : 60 = 3/4",
+          "Tỉ số thời gian (nghịch đảo): 4/3",
+          "Thời gian chênh lệch: 30 + 30 = 60 phút = 1 giờ",
+          "Hiệu số phần = 4 - 3 = 1 phần tương ứng 1 giờ",
+          "Thời gian đi với vận tốc 45 km/giờ: 1 ÷ 1 × 4 = 4 giờ",
+          "Quãng đường AB: 45 × 4 = 180 km"
+        ],
+        "result": "AB = 180km"
+      },
+      "miniGame": {
+        "question": "Ô tô đi 45km/giờ thì đến muộn 30 phút, đi 60km/giờ thì đến sớm 30 phút. Quãng đường AB là bao nhiêu?",
+        "options": ["A. 120km", "B. 180km", "C. 150km", "D. 200km"],
+        "answer": "B. 180km",
+        "explanation": "Tỉ số thời gian = 4:3. Chênh lệch 1 giờ ứng với 1 phần, thời gian đi 45km/h = 4 giờ. Quãng đường: 45 × 4 = 180km."
+      }
+    },
+    {
+      "id": 7,
+      "title": "Hình Học: Diện Tích Tam Giác Trong Hình Vuông",
+      "content": "Để tính diện tích các tam giác được tạo ra trong hình vuông, ta sử dụng:\n- Diện tích tam giác = Đáy × Chiều cao ÷ 2\n- Tỉ số diện tích = Tỉ số đáy (khi cùng chiều cao)\n- Tỉ số diện tích = Tỉ số chiều cao (khi cùng đáy)\n\nTừ tỉ số diện tích ta suy ra được tỉ số các đoạn thẳng.",
+      "keyFormula": "S tam giác = Đáy × Chiều cao ÷ 2\nNếu chung chiều cao: S₁/S₂ = đáy₁/đáy₂",
+      "example": {
+        "problem": "Hình vuông ABCD cạnh 9cm, điểm F trên BC với BF = 6cm, kéo dài AF cắt DC tại E. Tính: a) S.ABF; b) S.ABE và S.BFE; c) Tỉ số AF/FE.",
+        "steps": [
+          "a) S.ABF = AB × BF ÷ 2 = 9 × 6 ÷ 2 = 27 cm²",
+          "b) S.ABE = AB × AB ÷ 2 = 9 × 9 ÷ 2 = 40,5 cm²",
+          "S.BEF = S.ABE - S.ABF = 40,5 - 27 = 13,5 cm²",
+          "c) S.ABF / S.BEF = 27 / 13,5 = 2/1",
+          "Hai tam giác chung chiều cao từ B xuống AE, nên AF/EF = 2/1"
+        ],
+        "result": "a) 27cm²; b) 40,5cm² và 13,5cm²; c) AF/EF = 2/1"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Bài Toán Vui: Giải Đấu Bóng Đá Vòng Tròn",
+      "content": "Trong giải đấu bóng đá vòng tròn (mỗi đội gặp nhau đúng một lần), số trận đấu được tính theo tổ hợp:\n\nSố trận = n × (n - 1) ÷ 2\n\nTrong đó n là số đội. Điểm mỗi trận luôn là 2 điểm (thắng: 2+0=2, thua: 0+2=2, hòa: 1+1=2).\nTổng điểm = 2 × Tổng số trận",
+      "keyFormula": "Số trận = n × (n - 1) ÷ 2\nTổng điểm = 2 × Số trận",
+      "example": {
+        "problem": "Giải đấu có 15 đội, vòng tròn. Mỗi trận: thắng 2 điểm, thua 0 điểm, hòa 1 điểm. Tính tổng số trận và tổng điểm.",
+        "steps": [
+          "Tổng số trận: 15 × 14 ÷ 2 = 105 trận",
+          "Mỗi trận dù thắng-thua hay hòa, tổng điểm luôn là 2",
+          "Tổng điểm tất cả đội: 2 × 105 = 210 điểm"
+        ],
+        "result": "105 trận; 210 điểm"
+      },
+      "miniGame": {
+        "question": "Một giải đấu có 15 đội, thi đấu vòng tròn. Tổng số trận đấu là bao nhiêu?",
+        "options": ["A. 90 trận", "B. 100 trận", "C. 105 trận", "D. 120 trận"],
+        "answer": "C. 105 trận",
+        "explanation": "Số trận = 15 × (15 - 1) ÷ 2 = 15 × 14 ÷ 2 = 105 trận."
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Hai thành phố A và B cách nhau 180km. Lúc 6 giờ xe máy đi từ A (30km/giờ), lúc 7 giờ ô tô đi từ B (45km/giờ). Hai xe gặp nhau lúc mấy giờ?",
+      "options": ["A. 8 giờ", "B. 9 giờ", "C. 10 giờ", "D. 8 giờ 30 phút"],
+      "answer": "B. 9 giờ",
+      "explanation": "Sau 1 giờ xe máy đi: 30km. Còn lại: 150km. Tổng vận tốc: 75km/giờ. Thời gian: 150÷75 = 2 giờ. Gặp nhau lúc: 7 + 2 = 9 giờ.",
+      "steps": [
+        "Thời gian xe máy đi trước: 1 giờ",
+        "Quãng đường xe máy đi trước: 30 × 1 = 30 km",
+        "Quãng đường còn lại: 180 - 30 = 150 km",
+        "Tổng vận tốc: 30 + 45 = 75 km/giờ",
+        "Thời gian gặp nhau (từ 7h): 150 ÷ 75 = 2 giờ",
+        "Giờ gặp nhau: 7 + 2 = 9 giờ"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Hai người đi xe đạp trên vòng tròn chu vi 1100m, vận tốc lần lượt 250m/phút và 300m/phút. Xuất phát cùng lúc, cùng chiều. Sau bao lâu họ gặp nhau?",
+      "options": ["A. 11 phút", "B. 20 phút", "C. 22 phút", "D. 25 phút"],
+      "answer": "C. 22 phút",
+      "explanation": "Cùng chiều: hiệu vận tốc = 300 - 250 = 50 m/phút. Thời gian gặp nhau = 1100 ÷ 50 = 22 phút.",
+      "steps": [
+        "Hiệu vận tốc: 300 - 250 = 50 m/phút",
+        "Thời gian gặp nhau: 1100 ÷ 50 = 22 phút"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "Hai người đi xe đạp trên vòng tròn chu vi 1100m, vận tốc lần lượt 250m/phút và 300m/phút. Xuất phát cùng lúc, ngược chiều. Sau bao lâu họ gặp nhau lần đầu?",
+      "options": ["A. 1 phút", "B. 2 phút", "C. 3 phút", "D. 4 phút"],
+      "answer": "B. 2 phút",
+      "explanation": "Ngược chiều: tổng vận tốc = 250 + 300 = 550 m/phút. Thời gian gặp nhau = 1100 ÷ 550 = 2 phút.",
+      "steps": [
+        "Tổng vận tốc: 250 + 300 = 550 m/phút",
+        "Thời gian gặp nhau: 1100 ÷ 550 = 2 phút"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "Đường đua gồm AB = 143m và hai nửa hình tròn đường kính AD = 100m. Chu vi đường đua là bao nhiêu?",
+      "options": ["A. 500m", "B. 600m", "C. 550m", "D. 650m"],
+      "answer": "B. 600m",
+      "explanation": "Chu vi = 2 × 143 + 100 × 3,14 = 286 + 314 = 600m.",
+      "steps": [
+        "Hai đoạn thẳng: 2 × 143 = 286m",
+        "Chu vi hình tròn (hai nửa ghép lại): 100 × 3,14 = 314m",
+        "Chu vi đường đua: 286 + 314 = 600m"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "Đường đua chu vi 600m. Chạy ngược chiều gặp nhau sau 75 giây, cùng chiều sau 300 giây. Vận tốc người thứ nhất là bao nhiêu?",
+      "options": ["A. 4 m/giây", "B. 5 m/giây", "C. 6 m/giây", "D. 3 m/giây"],
+      "answer": "B. 5 m/giây",
+      "explanation": "Tổng vận tốc = 600÷75 = 8 m/s. Hiệu vận tốc = 600÷300 = 2 m/s. Người nhanh: (8+2)÷2 = 5 m/s.",
+      "steps": [
+        "Tổng vận tốc (ngược chiều): 600 ÷ 75 = 8 m/giây",
+        "Hiệu vận tốc (cùng chiều): 600 ÷ 300 = 2 m/giây",
+        "Vận tốc người thứ nhất: (8 + 2) ÷ 2 = 5 m/giây"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "question": "Cho phân số 83/16. Thêm a vào tử, bớt a ở mẫu để được phân số mới bằng 2/9. Tìm a.",
+      "options": ["A. a = 1", "B. a = 2", "C. a = 3", "D. a = 4"],
+      "answer": "B. a = 2",
+      "explanation": "Tổng tử+mẫu = 99. Tỉ số 2:9, tổng phần = 11. Tử mới = 99÷11×2 = 18. a = 18 - 16 = 2.",
+      "steps": [
+        "Tổng (tử + mẫu) không đổi: 83 + 16 = 99",
+        "Tử mới : mẫu mới = 2 : 9, tổng phần = 11",
+        "Tử số mới: 99 ÷ 11 × 2 = 18",
+        "a = 18 - 16 = 2"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "Cho phân số 15/31. Thêm b vào cả tử và mẫu để được phân số mới bằng 7/11. Tìm b.",
+      "options": ["A. b = 10", "B. b = 11", "C. b = 13", "D. b = 15"],
+      "answer": "C. b = 13",
+      "explanation": "Hiệu mẫu-tử = 16. Tỉ số 7:11, hiệu phần = 4. Tử mới = 16÷4×7 = 28. b = 28 - 15 = 13.",
+      "steps": [
+        "Hiệu (mẫu - tử) không đổi: 31 - 15 = 16",
+        "Tử mới : mẫu mới = 7 : 11, hiệu phần = 4",
+        "Tử số mới: 16 ÷ 4 × 7 = 28",
+        "b = 28 - 15 = 13"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "Ô tô đi với vận tốc 45km/giờ thì đến B muộn 30 phút, đi với 60km/giờ thì đến B sớm 30 phút. Quãng đường AB dài bao nhiêu?",
+      "options": ["A. 150km", "B. 180km", "C. 200km", "D. 160km"],
+      "answer": "B. 180km",
+      "explanation": "Tỉ số thời gian = 4:3. Chênh lệch 1 giờ ứng với 1 phần. Thời gian đi 45km/h = 4 giờ. AB = 45 × 4 = 180km.",
+      "steps": [
+        "Tỉ số vận tốc 45:60 = 3:4, tỉ số thời gian = 4:3",
+        "Chênh lệch thời gian: 30 + 30 = 60 phút = 1 giờ",
+        "Hiệu số phần = 4 - 3 = 1, mỗi phần = 1 giờ",
+        "Thời gian đi với 45km/h = 4 giờ",
+        "Quãng đường AB = 45 × 4 = 180 km"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": 9,
+      "question": "Xuất phát lúc 8 giờ 10 phút, ô tô đi quãng đường 180km với vận tốc 50km/giờ. Ô tô đến B lúc mấy giờ?",
+      "options": ["A. 11 giờ 46 phút", "B. 11 giờ 30 phút", "C. 12 giờ 10 phút", "D. 11 giờ 56 phút"],
+      "answer": "A. 11 giờ 46 phút",
+      "explanation": "Thời gian đi: 180 ÷ 50 = 3,6 giờ = 3 giờ 36 phút. Đến B lúc: 8 giờ 10 phút + 3 giờ 36 phút = 11 giờ 46 phút.",
+      "steps": [
+        "Thời gian đi: 180 ÷ 50 = 3,6 giờ = 3 giờ 36 phút",
+        "Đến B lúc: 8 giờ 10 phút + 3 giờ 36 phút = 11 giờ 46 phút"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "Hình vuông ABCD cạnh 9cm, F trên BC với BF = 6cm. Diện tích tam giác ABF là bao nhiêu?",
+      "options": ["A. 24 cm²", "B. 27 cm²", "C. 30 cm²", "D. 54 cm²"],
+      "answer": "B. 27 cm²",
+      "explanation": "S.ABF = AB × BF ÷ 2 = 9 × 6 ÷ 2 = 27 cm².",
+      "steps": [
+        "Tam giác ABF có đáy AB = 9cm, chiều cao BF = 6cm",
+        "S.ABF = 9 × 6 ÷ 2 = 27 cm²"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": 11,
+      "question": "Hình vuông ABCD cạnh 9cm, F trên BC với BF = 6cm, kéo dài AF cắt DC tại E. Diện tích tam giác ABE là bao nhiêu?",
+      "options": ["A. 36 cm²", "B. 40 cm²", "C. 40,5 cm²", "D. 45 cm²"],
+      "answer": "C. 40,5 cm²",
+      "explanation": "S.ABE = AB × AB ÷ 2 = 9 × 9 ÷ 2 = 40,5 cm².",
+      "steps": [
+        "Tam giác ABE có đáy AB = 9cm, chiều cao DC = 9cm",
+        "S.ABE = 9 × 9 ÷ 2 = 40,5 cm²"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "Giải đấu bóng đá có 15 đội, thi đấu vòng tròn. Tổng điểm của tất cả các đội là bao nhiêu?",
+      "options": ["A. 180 điểm", "B. 200 điểm", "C. 210 điểm", "D. 220 điểm"],
+      "answer": "C. 210 điểm",
+      "explanation": "Tổng số trận = 15×14÷2 = 105 trận. Mỗi trận luôn có tổng điểm 2. Tổng điểm = 2 × 105 = 210 điểm.",
+      "steps": [
+        "Số trận = 15 × 14 ÷ 2 = 105 trận",
+        "Mỗi trận tổng điểm = 2 (thắng-thua: 2+0=2; hòa: 1+1=2)",
+        "Tổng điểm = 2 × 105 = 210 điểm"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}
