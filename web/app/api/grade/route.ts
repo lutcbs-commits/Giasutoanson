@@ -85,7 +85,22 @@ export async function POST(req: NextRequest) {
       if (jsonStr.startsWith('```')) {
         jsonStr = jsonStr.replace(/^```[a-z]*\n?/, '').replace(/\n?```$/, '');
       }
-      feedback = JSON.parse(jsonStr) as GradeFeedback;
+      const raw = JSON.parse(jsonStr);
+      // Normalize để tránh undefined khi Gemini trả về thiếu fields
+      feedback = {
+        stepFeedback: Array.isArray(raw.stepFeedback) ? raw.stepFeedback : [],
+        answerCorrect: Boolean(raw.answerCorrect),
+        answerFeedback: raw.answerFeedback ?? '',
+        overallFeedback: raw.overallFeedback ?? '',
+        score: typeof raw.score === 'number' ? raw.score : 5,
+        modelSolution: {
+          steps: Array.isArray(raw.modelSolution?.steps) ? raw.modelSolution.steps : [],
+          answer: raw.modelSolution?.answer ?? '',
+          unit: raw.modelSolution?.unit ?? '',
+          explanation: raw.modelSolution?.explanation ?? '',
+        },
+        diagram: raw.diagram ?? null,
+      };
     } catch {
       return NextResponse.json({ error: 'Gemini trả về dữ liệu không hợp lệ' }, { status: 500 });
     }

@@ -232,13 +232,13 @@ export default function ExerciseBlock({
           </div>
 
           {/* Step feedback */}
-          {feedback.stepFeedback.length > 0 && (
+          {(feedback.stepFeedback ?? []).length > 0 && (
             <div className="bg-white border-2 border-gray-100 rounded-3xl p-5 shadow-sm">
               <p className="text-xs font-black text-gray-500 uppercase tracking-wider mb-3">
                 Nhận xét từng bước
               </p>
               <div className="flex flex-col gap-3">
-                {feedback.stepFeedback.map((sf, i) => (
+                {(feedback.stepFeedback ?? []).map((sf, i) => (
                   <div key={i} className={`rounded-2xl p-3 border-2 ${sf.isCorrect ? 'bg-grass-50 border-grass-200' : 'bg-red-50 border-red-200'}`}>
                     <div className="flex items-start gap-2">
                       <span className={`shrink-0 w-6 h-6 rounded-full text-white text-xs font-black flex items-center justify-center mt-0.5 ${sf.isCorrect ? 'bg-grass-500' : 'bg-red-400'}`}>
@@ -283,7 +283,7 @@ export default function ExerciseBlock({
               📖 Lời giải mẫu
             </p>
             <div className="flex flex-col gap-2 mb-3">
-              {feedback.modelSolution.steps.map((step, i) => (
+              {(feedback.modelSolution?.steps ?? []).map((step, i) => (
                 <div key={i} className="flex items-start gap-2">
                   <span className="shrink-0 w-6 h-6 rounded-full bg-violet-500 text-white text-xs font-black flex items-center justify-center mt-0.5">
                     {i + 1}
