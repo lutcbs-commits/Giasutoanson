@@ -13,7 +13,8 @@ interface GradeRequest {
 }
 
 function buildGradePrompt(req: GradeRequest): string {
-  const studentStepsText = req.studentSteps
+  const steps = Array.isArray(req.studentSteps) ? req.studentSteps : [];
+  const studentStepsText = steps
     .map((s, i) => `Bước ${i + 1}: ${s}`)
     .join('\n');
 
