@@ -1,5 +1,5 @@
 'use client';
-import { useState } from 'react';
+import { useState, useRef, useEffect, useCallback } from 'react';
 import type {
   IELTSExercise,
   IELTSReadingExercise,
@@ -383,8 +383,11 @@ function ListeningBlock({ ex, onNext, exerciseNumber, totalExercises }: {
   const [answers, setAnswers] = useState<Record<number, string>>({});
   const [submitted, setSubmitted] = useState(false);
   const [showTranscript, setShowTranscript] = useState(false);
+  const [videoError, setVideoError] = useState(false);
 
-  const ytSrc = `https://www.youtube.com/embed/${ex.youtubeId}${ex.startSeconds ? `?start=${ex.startSeconds}` : ''}`;
+  const ytParams = new URLSearchParams({ rel: '0', modestbranding: '1', ...(ex.startSeconds ? { start: String(ex.startSeconds) } : {}) });
+  const ytSrc = `https://www.youtube-nocookie.com/embed/${ex.youtubeId}?${ytParams}`;
+  const ytDirectUrl = `https://www.youtube.com/watch?v=${ex.youtubeId}${ex.startSeconds ? `&t=${ex.startSeconds}` : ''}`;
 
   function setAnswer(id: number, val: string) {
     setAnswers(prev => ({ ...prev, [id]: val }));
@@ -405,14 +408,33 @@ function ListeningBlock({ ex, onNext, exerciseNumber, totalExercises }: {
       </div>
 
       <div className="bg-gray-800 rounded-3xl overflow-hidden shadow-lg">
-        <div className="aspect-video">
-          <iframe
-            src={ytSrc}
-            title={ex.title}
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-            className="w-full h-full"
-          />
+        {videoError ? (
+          <div className="aspect-video flex flex-col items-center justify-center gap-4 bg-gray-900 px-6 text-center">
+            <div className="text-5xl">📹</div>
+            <p className="text-white font-bold text-sm">Video không tải được trong trang này.</p>
+            <a href={ytDirectUrl} target="_blank" rel="noopener noreferrer"
+              className="flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-bold px-5 py-2.5 rounded-xl transition-colors text-sm">
+              ▶ Mở trên YouTube
+            </a>
+          </div>
+        ) : (
+          <div className="aspect-video">
+            <iframe
+              src={ytSrc}
+              title={ex.title}
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+              className="w-full h-full"
+              onError={() => setVideoError(true)}
+            />
+          </div>
+        )}
+        <div className="flex items-center justify-end px-4 py-2">
+          <a href={ytDirectUrl} target="_blank" rel="noopener noreferrer"
+            className="text-xs text-gray-400 hover:text-white transition-colors font-medium">
+            🔗 Xem trên YouTube
+          </a>
         </div>
       </div>
 
@@ -513,6 +535,50 @@ function ListeningBlock({ ex, onNext, exerciseNumber, totalExercises }: {
 
 // ── Speaking Block ────────────────────────────────────────────────────────────
 
+function RecordButton({ recording, transcribing, seconds, onStart, onStop }: {
+  recording: boolean;
+  transcribing: boolean;
+  seconds: number;
+  onStart: () => void;
+  onStop: () => void;
+}) {
+  const fmt = (s: number) => `${String(Math.floor(s / 60)).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`;
+
+  if (transcribing) {
+    return (
+      <div className="flex items-center justify-center gap-3 bg-violet-50 border-2 border-violet-200 rounded-2xl px-5 py-3">
+        <svg className="animate-spin h-5 w-5 text-violet-500" viewBox="0 0 24 24" fill="none">
+          <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+          <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
+        </svg>
+        <span className="text-sm font-bold text-violet-700">Đang nhận dạng giọng nói...</span>
+      </div>
+    );
+  }
+
+  if (recording) {
+    return (
+      <button onClick={onStop}
+        className="w-full flex items-center justify-center gap-3 bg-red-600 hover:bg-red-700 text-white font-black py-3.5 rounded-2xl transition-all shadow-lg">
+        <span className="relative flex h-3 w-3">
+          <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-75" />
+          <span className="relative inline-flex rounded-full h-3 w-3 bg-white" />
+        </span>
+        <span>⏹ Dừng ghi âm</span>
+        <span className="ml-auto bg-red-800/40 px-3 py-1 rounded-xl text-sm font-mono">{fmt(seconds)}</span>
+      </button>
+    );
+  }
+
+  return (
+    <button onClick={onStart}
+      className="w-full flex items-center justify-center gap-3 bg-gradient-to-br from-red-500 to-red-600 hover:from-red-600 hover:to-red-700 text-white font-black py-3.5 rounded-2xl transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5">
+      <span className="text-xl">🎤</span>
+      <span>Bắt đầu ghi âm</span>
+    </button>
+  );
+}
+
 function SpeakingBlock({ ex, onNext, exerciseNumber, totalExercises }: {
   ex: IELTSSpeakingExercise;
   onNext: Props['onNext'];
@@ -520,15 +586,94 @@ function SpeakingBlock({ ex, onNext, exerciseNumber, totalExercises }: {
   totalExercises: number;
 }) {
   const [activeQ, setActiveQ] = useState(0);
-  const [responses, setResponses] = useState<Record<number, string>>({});
+  const [transcripts, setTranscripts] = useState<Record<number, string>>({});
   const [gradingIdx, setGradingIdx] = useState<number | null>(null);
   const [feedbacks, setFeedbacks] = useState<Record<number, IELTSGradeFeedback>>({});
   const [error, setError] = useState<string | null>(null);
   const [showModel, setShowModel] = useState(false);
+  const [recording, setRecording] = useState(false);
+  const [transcribing, setTranscribing] = useState(false);
+  const [recordSeconds, setRecordSeconds] = useState(0);
+
+  const recorderRef = useRef<MediaRecorder | null>(null);
+  const chunksRef = useRef<Blob[]>([]);
+  const streamRef = useRef<MediaStream | null>(null);
+  const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
+
+  // Clean up on unmount
+  useEffect(() => {
+    return () => {
+      if (recorderRef.current?.state === 'recording') recorderRef.current.stop();
+      streamRef.current?.getTracks().forEach(t => t.stop());
+      if (timerRef.current) clearInterval(timerRef.current);
+    };
+  }, []);
+
+  const startRecording = useCallback(async () => {
+    setError(null);
+    try {
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      streamRef.current = stream;
+      chunksRef.current = [];
+
+      const mimeType = MediaRecorder.isTypeSupported('audio/webm;codecs=opus')
+        ? 'audio/webm;codecs=opus'
+        : MediaRecorder.isTypeSupported('audio/webm') ? 'audio/webm' : '';
+      const recorder = new MediaRecorder(stream, mimeType ? { mimeType } : undefined);
+      recorderRef.current = recorder;
+
+      recorder.ondataavailable = e => { if (e.data.size > 0) chunksRef.current.push(e.data); };
+      recorder.onstop = async () => {
+        stream.getTracks().forEach(t => t.stop());
+        if (timerRef.current) clearInterval(timerRef.current);
+        setRecording(false);
+        setRecordSeconds(0);
+
+        const blob = new Blob(chunksRef.current, { type: recorder.mimeType || 'audio/webm' });
+        if (blob.size < 1000) { setError('Ghi âm quá ngắn, hãy thử lại.'); return; }
+
+        setTranscribing(true);
+        try {
+          const form = new FormData();
+          const ext = (recorder.mimeType || 'audio/webm').includes('ogg') ? 'ogg' : 'webm';
+          form.append('audio', blob, `speech.${ext}`);
+          const res = await apiFetch('/api/transcribe', { method: 'POST', body: form });
+          const data = await res.json() as { text?: string; error?: string };
+          if (data.text) {
+            setTranscripts(prev => ({ ...prev, [activeQ]: data.text! }));
+          } else {
+            setError(data.error ?? 'Không nhận dạng được giọng nói. Hãy thử lại.');
+          }
+        } catch {
+          setError('Lỗi kết nối khi gửi audio.');
+        } finally {
+          setTranscribing(false);
+        }
+      };
+
+      recorder.start(250);
+      setRecording(true);
+      setRecordSeconds(0);
+      timerRef.current = setInterval(() => setRecordSeconds(s => s + 1), 1000);
+    } catch {
+      setError('Không truy cập được micro. Kiểm tra quyền trình duyệt và thử lại.');
+    }
+  }, [activeQ]);
+
+  const stopRecording = useCallback(() => {
+    recorderRef.current?.stop();
+  }, []);
+
+  // Stop recording when switching questions
+  const switchQuestion = useCallback((i: number) => {
+    if (recording) stopRecording();
+    setActiveQ(i);
+    setError(null);
+  }, [recording, stopRecording]);
 
   const currentQ = ex.followUpQuestions[activeQ];
-  const currentResponse = responses[activeQ] ?? '';
-  const wordCount = currentResponse.trim().split(/\s+/).filter(Boolean).length;
+  const currentTranscript = transcripts[activeQ] ?? '';
+  const wordCount = currentTranscript.trim().split(/\s+/).filter(Boolean).length;
   const currentFeedback = feedbacks[activeQ];
 
   async function handleGrade() {
@@ -542,7 +687,7 @@ function SpeakingBlock({ ex, onNext, exerciseNumber, totalExercises }: {
       const res = await apiFetch('/api/grade-ielts', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ taskType: 'speaking', prompt, studentResponse: currentResponse, partNumber: ex.part }),
+        body: JSON.stringify({ taskType: 'speaking', prompt, studentResponse: currentTranscript, partNumber: ex.part }),
       });
       const data = await res.json() as { success?: boolean; feedback?: IELTSGradeFeedback; error?: string };
       if (data.feedback) setFeedbacks(prev => ({ ...prev, [activeQ]: data.feedback! }));
@@ -589,7 +734,7 @@ function SpeakingBlock({ ex, onNext, exerciseNumber, totalExercises }: {
       {ex.followUpQuestions.length > 1 && (
         <div className="flex gap-2 flex-wrap">
           {ex.followUpQuestions.map((_, i) => (
-            <button key={i} onClick={() => setActiveQ(i)}
+            <button key={i} onClick={() => switchQuestion(i)}
               className={`px-3 py-1.5 rounded-xl text-xs font-bold border-2 transition-all ${
                 activeQ === i ? 'bg-red-500 text-white border-red-500' : 'bg-white text-gray-600 border-gray-200 hover:border-red-300'
               } ${feedbacks[i] ? 'ring-2 ring-grass-400 ring-offset-1' : ''}`}>
@@ -605,35 +750,61 @@ function SpeakingBlock({ ex, onNext, exerciseNumber, totalExercises }: {
         <p className="font-bold text-gray-800 text-base">{currentQ}</p>
       </div>
 
-      {/* Response input */}
-      <div className="relative">
-        <textarea
-          value={currentResponse}
-          onChange={e => setResponses(prev => ({ ...prev, [activeQ]: e.target.value }))}
-          rows={6}
-          placeholder="Type what you would say in the IELTS speaking test. Write naturally, as you would speak..."
-          className="w-full rounded-2xl border-2 border-gray-200 px-4 py-3 text-gray-800 font-medium text-sm leading-relaxed focus:outline-none focus:border-red-400 resize-y"
-        />
-        <div className="absolute bottom-3 right-3 text-xs font-black px-2 py-1 rounded-lg bg-gray-100 text-gray-500">
-          {wordCount} words
+      {/* Record button */}
+      <RecordButton
+        recording={recording}
+        transcribing={transcribing}
+        seconds={recordSeconds}
+        onStart={startRecording}
+        onStop={stopRecording}
+      />
+
+      {/* Transcript area */}
+      {(currentTranscript || (!recording && !transcribing)) && (
+        <div className="flex flex-col gap-1.5">
+          <div className="flex items-center justify-between">
+            <p className="text-xs font-black text-gray-500 uppercase tracking-wider">
+              {currentTranscript ? '📝 Transcript (có thể sửa)' : '📝 Hoặc gõ câu trả lời'}
+            </p>
+            {currentTranscript && (
+              <button onClick={() => setTranscripts(prev => ({ ...prev, [activeQ]: '' }))}
+                className="text-xs text-gray-400 hover:text-red-500 font-bold transition-colors">
+                ✕ Xóa
+              </button>
+            )}
+          </div>
+          <div className="relative">
+            <textarea
+              value={currentTranscript}
+              onChange={e => setTranscripts(prev => ({ ...prev, [activeQ]: e.target.value }))}
+              rows={5}
+              placeholder="Ghi âm để auto-fill, hoặc gõ câu trả lời tại đây..."
+              className={`w-full rounded-2xl border-2 px-4 py-3 text-gray-800 font-medium text-sm leading-relaxed focus:outline-none resize-y transition-colors ${
+                currentTranscript ? 'border-grass-300 bg-grass-50/30 focus:border-grass-400' : 'border-gray-200 focus:border-red-400'
+              }`}
+            />
+            <div className="absolute bottom-3 right-3 text-xs font-black px-2 py-1 rounded-lg bg-white/80 text-gray-500 border border-gray-100">
+              {wordCount} words
+            </div>
+          </div>
         </div>
-      </div>
+      )}
 
       {error && <div className="bg-red-50 border border-red-200 rounded-xl p-3 text-sm text-red-600 font-medium">{error}</div>}
 
       <div className="flex gap-3">
         <button onClick={() => setShowModel(v => !v)}
           className="flex-1 bg-amber-50 border-2 border-amber-200 text-amber-700 font-bold py-3 rounded-2xl hover:bg-amber-100 transition-all text-sm">
-          📖 {showModel ? 'Hide' : 'Model'} Answer
+          📖 {showModel ? 'Ẩn' : 'Xem'} Model Answer
         </button>
-        <button onClick={handleGrade} disabled={gradingIdx !== null || wordCount < 15}
+        <button onClick={handleGrade} disabled={gradingIdx !== null || wordCount < 10}
           className="flex-1 flex items-center justify-center gap-2 bg-gradient-to-br from-red-500 to-red-600 text-white font-black py-3 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-0.5 disabled:opacity-50 disabled:cursor-not-allowed text-sm">
           {gradingIdx === activeQ ? (
             <><svg className="animate-spin h-4 w-4" viewBox="0 0 24 24" fill="none">
               <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
               <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
             </svg>Grading...</>
-          ) : '🎯 Get Feedback'}
+          ) : '🎯 Chấm điểm'}
         </button>
       </div>
 
