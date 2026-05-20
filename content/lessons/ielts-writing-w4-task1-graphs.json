@@ -1,0 +1,84 @@
+{
+  "id": "ielts-writing-w4-task1-graphs",
+  "fileName": "ielts-writing-w4-task1-graphs.json",
+  "title": "Writing W4: Task 1 — Describing Line Graphs",
+  "subject": "tieng-anh-ielts",
+  "grade": "8",
+  "topics": ["IELTS", "Writing", "Task 1", "Line Graph", "Data Description"],
+  "processedAt": "2026-05-20T00:00:00.000Z",
+  "ieltsMeta": {
+    "skill": "writing",
+    "week": 4,
+    "month": 1,
+    "targetBand": 5.5,
+    "prerequisiteBand": 4.5
+  },
+  "slides": [
+    {
+      "id": 1,
+      "title": "IELTS Writing Task 1: Tổng quan",
+      "content": "Task 1 yêu cầu bạn mô tả dữ liệu từ một biểu đồ (graph), bảng (table), hoặc hình vẽ (diagram).\n\n📋 Yêu cầu:\n• Ít nhất 150 từ\n• Thời gian: khoảng 20 phút\n• KHÔNG đưa ra ý kiến cá nhân — chỉ mô tả dữ liệu\n• Không cần kết luận — nhưng cần Overview (tổng quan)\n\n📊 Các loại biểu đồ phổ biến:\n• Line graph (biểu đồ đường) — trends over time\n• Bar chart (biểu đồ cột) — comparison\n• Pie chart (biểu đồ tròn) — proportions\n• Table — numbers/data",
+      "keyFormula": "Task 1 = Overview + Key Features (NOT personal opinions)"
+    },
+    {
+      "id": 2,
+      "title": "Cấu trúc bài viết Task 1",
+      "content": "Cấu trúc chuẩn (4 đoạn):\n\n📝 Đoạn 1 — Introduction (1-2 câu)\n→ Paraphrase lại câu đề bài (dùng từ đồng nghĩa, KHÔNG chép nguyên xi)\n\n📊 Đoạn 2 — Overview (2 câu) ← QUAN TRỌNG NHẤT\n→ Nêu 2 xu hướng chính nhất, KHÔNG có số liệu cụ thể\n\n📈 Đoạn 3 — Body 1 (4-5 câu)\n→ Mô tả chi tiết nhóm dữ liệu 1 + số liệu cụ thể\n\n📉 Đoạn 4 — Body 2 (4-5 câu)\n→ Mô tả chi tiết nhóm dữ liệu 2 + số liệu cụ thể",
+      "keyFormula": "Overview phải nêu BIG PICTURE — xu hướng chung, không phải số liệu cụ thể",
+      "example": {
+        "problem": "Biểu đồ: Internet access (%) ở 5 nước từ 2000-2020",
+        "steps": [
+          "Introduction: 'The line graph illustrates the percentage of households with internet access in five countries over a 20-year period from 2000 to 2020.'",
+          "Overview: 'Overall, internet usage increased significantly in all five countries. The UK and Japan had the highest rates by 2020, while India showed the most dramatic growth.'",
+          "Body 1: Các nước phát triển (USA, UK, Japan) — xu hướng + số liệu",
+          "Body 2: Các nước đang phát triển (Brazil, India) — xu hướng + số liệu"
+        ],
+        "result": "Bài viết có structure rõ ràng, dễ theo dõi, dễ đạt band 5.5+"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Vocabulary: Mô tả xu hướng (Trends)",
+      "content": "📈 Tăng (Increase):\n• rose / increased / grew / went up / climbed\n• experienced a rise/increase/growth\n• 'sharply' (mạnh), 'gradually' (dần dần), 'steadily' (ổn định)\n\n📉 Giảm (Decrease):\n• fell / dropped / declined / decreased / went down\n• experienced a fall/drop/decline\n\n➡️ Ổn định (Stable):\n• remained stable/steady at...\n• levelled off at...\n• plateaued at...\n\n🔼🔽 Đỉnh/Đáy:\n• peaked at... (đạt đỉnh)\n• reached a peak/low of...\n• hit the lowest point of...\n\n⚡ Biến động:\n• fluctuated (around / between X and Y)",
+      "keyFormula": "Đừng dùng 'increased' mãi! Xen kẽ: rose, grew, climbed, went up, surged",
+      "miniGame": {
+        "question": "Câu nào đúng ngữ pháp và tự nhiên nhất?",
+        "options": [
+          "The number of users increased sharply.",
+          "The number of users made an increase sharply.",
+          "The number of users was increased sharply.",
+          "The number of users have a sharp increase."
+        ],
+        "answer": "The number of users increased sharply.",
+        "explanation": "'Increased sharply' là cách dùng chuẩn. 'Made an increase' sai cấu trúc. 'Was increased' (passive) thường không dùng cho data description. 'Have a sharp increase' sai ngữ pháp."
+      }
+    },
+    {
+      "id": 4,
+      "title": "So sánh và kết nối số liệu",
+      "content": "So sánh:\n• 'X was higher/lower than Y'\n• 'X and Y followed a similar trend'\n• 'While X increased, Y declined'\n• 'In contrast, Y...'\n\nKết nối dữ liệu:\n• 'By 2020, this figure had risen to...'\n• 'This was followed by a sharp decline to...'\n• 'After peaking at X in [year], it fell to...'\n\nMốc thời gian:\n• 'In 2000 / By 2010 / From 2010 to 2020 / Over the period'\n• 'At the beginning of the period' / 'By the end of the period'\n\nSố liệu:\n• '45%' → 'approximately 45 percent' hoặc 'just under half'\n• '100 million' → 'one hundred million'\n• 'from 10% to 50%' → 'by 40 percentage points'",
+      "keyFormula": "Tăng TỪ 10% LÊN 50% = 'increased by 40 percentage points' (không phải 'by 40%')"
+    },
+    {
+      "id": 5,
+      "title": "Lỗi phổ biến cần tránh",
+      "content": "❌ Lỗi 1: Chép nguyên câu đề bài\n→ PHẢI paraphrase: đổi từ, đổi cấu trúc câu\n\n❌ Lỗi 2: Bỏ qua Overview\n→ Overview = điểm quan trọng nhất cho band 5+\n\n❌ Lỗi 3: Liệt kê số liệu mà không nêu xu hướng\n→ Đừng chỉ 'In 2000 it was 10%, in 2005 it was 15%...'\n→ Nên: 'From 2000 to 2010, the figure rose steadily from 10% to 40%'\n\n❌ Lỗi 4: Đưa ra lý do tại sao\n→ Task 1 KHÔNG yêu cầu giải thích nguyên nhân\n→ SAI: 'The rate increased because more people had smartphones.'\n\n❌ Lỗi 5: Ít hơn 150 từ\n→ Mất điểm Task Achievement!",
+      "keyFormula": "Đếm từ trước khi nộp. 150 từ ≈ 12-15 câu văn hoàn chỉnh."
+    }
+  ],
+  "exercises": [],
+  "ieltsExercises": [
+    {
+      "id": 1,
+      "type": "ielts-writing",
+      "taskType": "task1",
+      "title": "Task 1: Internet Access in Five Countries (2000–2020)",
+      "prompt": "The graph below shows the percentage of households with internet access in five countries (USA, UK, Japan, Brazil, and India) between 2000 and 2020.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "imageDescription": "LINE GRAPH DATA (use these numbers in your writing):\n\nYear  | USA  | UK   | Japan | Brazil | India\n2000  | 45%  | 35%  | 30%   | 5%     | 0.5%\n2005  | 62%  | 58%  | 55%   | 18%    | 3%\n2010  | 75%  | 80%  | 75%   | 40%    | 10%\n2015  | 83%  | 90%  | 85%   | 58%    | 26%\n2020  | 90%  | 96%  | 92%   | 74%    | 50%\n\nKey trends to notice:\n- All 5 countries showed consistent growth\n- UK reached the highest level (96%) by 2020\n- India had the most dramatic growth (0.5% → 50%)\n- USA, UK, Japan started higher but grew more slowly\n- Brazil and India started very low but grew faster in percentage terms",
+      "wordLimit": 150,
+      "modelAnswer": "The line graph illustrates the proportion of households with internet access in five countries over a period of two decades, from 2000 to 2020.\n\nOverall, internet usage increased significantly across all five countries during this period. The UK and Japan recorded the highest levels by 2020, while India experienced the most dramatic growth from an extremely low base.\n\nIn 2000, the USA had the highest rate at 45%, followed by the UK at 35% and Japan at 30%. Brazil and India lagged considerably behind at approximately 5% and 0.5% respectively. Over the subsequent twenty years, all countries showed consistent upward trends. By 2020, the UK had reached the highest level of 96%, closely followed by Japan at 92% and the USA at 90%.\n\nMeanwhile, Brazil and India showed more rapid growth in percentage terms, despite starting from much lower bases. Brazil's rate climbed from 5% to 74%, while India's figure rose dramatically from just 0.5% to 50%. Despite this impressive growth, India still had the lowest level among the five countries in 2020.",
+      "difficulty": "medium",
+      "estimatedBand": 5.5
+    }
+  ]
+}

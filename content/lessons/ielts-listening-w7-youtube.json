@@ -1,0 +1,131 @@
+{
+  "id": "ielts-listening-w7-youtube",
+  "fileName": "ielts-listening-w7-youtube.json",
+  "title": "Listening W7: Section 1 — Everyday Conversations",
+  "subject": "tieng-anh-ielts",
+  "grade": "8",
+  "topics": ["IELTS", "Listening", "Section 1", "Note Completion", "MCQ"],
+  "processedAt": "2026-05-20T00:00:00.000Z",
+  "ieltsMeta": {
+    "skill": "listening",
+    "week": 7,
+    "month": 2,
+    "targetBand": 5.0,
+    "prerequisiteBand": 4.5
+  },
+  "slides": [
+    {
+      "id": 1,
+      "title": "IELTS Listening: Tổng quan",
+      "content": "IELTS Listening gồm 4 sections, 40 câu hỏi, 30 phút nghe + 10 phút chép đáp án.\n\n📻 4 Sections:\n• Section 1: Everyday conversation (2 người) — dễ nhất\n• Section 2: Monologue về chủ đề xã hội (1 người)\n• Section 3: Academic discussion (2-4 người)\n• Section 4: Academic lecture — khó nhất\n\n📝 Các dạng câu hỏi:\n• Note/Form Completion (điền vào chỗ trống)\n• Multiple Choice (MCQ)\n• Matching\n• Map/Diagram Labelling\n\n🎯 Band 5.0 = đúng khoảng 23/40 câu",
+      "keyFormula": "Đọc câu hỏi TRƯỚC khi audio bắt đầu → biết cần nghe gì → không bị miss thông tin"
+    },
+    {
+      "id": 2,
+      "title": "Chiến lược: Note Completion",
+      "content": "Note/Form Completion = điền 1-3 từ hoặc số vào ô trống.\n\nCách làm:\n1. ĐỌC câu hỏi trước → đoán loại từ cần điền (số điện thoại? tên? địa chỉ? ngày?)\n2. Gạch chân KEY WORDS trước mỗi ô trống\n3. Nghe và dự đoán vùng thông tin liên quan\n4. Viết CHÍNH XÁC những gì họ nói (thường KHÔNG cần paraphrase)\n5. Kiểm tra spelling — SAI spelling = sai câu!\n\nLưu ý quan trọng:\n• Câu trả lời thường là từ/số NGUYÊN xi trong audio\n• Tối đa 3 từ (trừ khi đề bài nói 'no more than 3 words AND/OR a number')\n• Viết số: '15' hay 'fifteen' đều được chấp nhận",
+      "keyFormula": "Note completion answers = EXACT WORDS from the audio. Đừng paraphrase!",
+      "miniGame": {
+        "question": "Câu hỏi: 'Name: ___'. Audio: 'My name is David Thompson.' Bạn viết gì?",
+        "options": ["David", "Thompson", "David Thompson", "Mr. David Thompson"],
+        "answer": "David Thompson",
+        "explanation": "Viết đầy đủ họ tên: 'David Thompson'. Chỉ 'David' hoặc 'Thompson' thường bị coi là thiếu. 'Mr.' không cần thiết trừ khi câu hỏi có tiêu đề."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Chiến lược: Multiple Choice (MCQ)",
+      "content": "MCQ trong Listening khác MCQ trong Reading — câu trả lời nghe được thường bị paraphrase!\n\nCách làm:\n1. Đọc stem (câu hỏi chính) và 3 options trước\n2. Gạch chân key words trong mỗi option\n3. Khi nghe: audio thường nói KHÁC nhưng NGHĨA GIỐNG option đúng\n4. Loại trừ dần: 'Not mentioned' và 'Contradicted' → đáp án còn lại là đúng\n\nBẫy thường gặp:\n• Nghe thấy từ giống option → nhưng context khác → sai!\n• 'Distractor': họ nhắc đến A nhưng sau đó nói 'actually, it's B'\n• Chú ý từ phủ định: 'not', 'never', 'hardly'",
+      "keyFormula": "MCQ answer = thông tin trong audio ĐƯỢC PARAPHRASE thành option. Đừng chọn chỉ vì nghe đúng từ!",
+      "example": {
+        "problem": "Option A: 'The meeting was cancelled.' Audio: 'Due to the bad weather, they decided not to go ahead with the appointment.'",
+        "steps": [
+          "'go ahead with' = proceed with = không bị huỷ... thực ra là bị huỷ",
+          "'decided not to go ahead with' = cancelled",
+          "'appointment' ≈ 'meeting'"
+        ],
+        "result": "Option A đúng — audio paraphrase 'cancelled' thành 'decided not to go ahead with'"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Luyện nghe hàng ngày: Cách tự học",
+      "content": "Để cải thiện Listening từ band 4.5 lên 5.5 trong 3 tháng:\n\n📅 Hàng ngày (15-20 phút):\n• Nghe một đoạn hội thoại ngắn (podcast, YouTube)\n• Viết lại những gì nghe được (dictation)\n• So sánh với transcript → tìm lỗi\n\n📚 Nguồn tài liệu tốt:\n• British Council IELTS (ieltspractice.com)\n• IELTS Liz YouTube Channel\n• BBC Learning English Podcast\n• Cambridge IELTS 12-18 (sách luyện đề chính thức)\n\n🎯 Kỹ năng cần luyện:\n1. Nghe số điện thoại, địa chỉ, tên\n2. Nghe sự thay đổi ý kiến ('Actually...' 'I meant...')\n3. Nghe negation ('It's NOT open on Sundays')\n4. Accents: British, Australian, American",
+      "keyFormula": "Luyện nghe ĐA DẠNG accent từ sớm — IELTS dùng nhiều giọng khác nhau!"
+    }
+  ],
+  "exercises": [],
+  "ieltsExercises": [
+    {
+      "id": 1,
+      "type": "ielts-listening",
+      "title": "Section 1: Booking a Sports Centre",
+      "youtubeId": "bBUjKAJSXuY",
+      "startSeconds": 0,
+      "description": "A conversation between a customer calling to book a sports facility and a receptionist. Listen carefully for specific details like names, times, and prices.",
+      "transcript": "Receptionist: Good morning, Riverside Sports Centre. How can I help you?\nCustomer: Hi, I'd like to book a badminton court for Saturday afternoon if possible.\nReceptionist: Certainly. Can I take your name please?\nCustomer: It's Sarah Mitchell. That's M-I-T-C-H-E-L-L.\nReceptionist: Thank you, Ms Mitchell. And how many people will be playing?\nCustomer: Four of us.\nReceptionist: We have courts available at 2pm or 4pm. Which would you prefer?\nCustomer: The 2 o'clock slot would be perfect, actually.\nReceptionist: That's fine. Each session lasts 90 minutes and costs £12 per person.\nCustomer: That seems reasonable. Do we need to bring our own rackets?\nReceptionist: We do have rackets for hire at £2 each, or you're welcome to bring your own.\nCustomer: We'll hire them then. So that's 4 rackets at £2 each — £8 extra.\nReceptionist: Exactly right. So your total for Saturday will be £56. Can I take a contact number?\nCustomer: Yes, it's 07723 845 901.\nReceptionist: And would you like to pay now by card or on the day?\nCustomer: I'll pay on the day, please.\nReceptionist: Perfect. So that's a badminton booking for four people this Saturday at 2pm. We look forward to seeing you.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "note-completion",
+          "questionText": "Complete the booking form:",
+          "blankLabel": "Customer's surname",
+          "correctAnswer": "Mitchell",
+          "explanation": "The customer says: 'It's Sarah Mitchell. That's M-I-T-C-H-E-L-L.'"
+        },
+        {
+          "id": 2,
+          "type": "note-completion",
+          "questionText": "Complete the booking form:",
+          "blankLabel": "Booking time",
+          "correctAnswer": "2pm",
+          "explanation": "'The 2 o'clock slot would be perfect, actually.' → 2pm"
+        },
+        {
+          "id": 3,
+          "type": "note-completion",
+          "questionText": "Complete the booking form:",
+          "blankLabel": "Cost per person (£)",
+          "correctAnswer": "12",
+          "explanation": "'Each session costs £12 per person.'"
+        },
+        {
+          "id": 4,
+          "type": "note-completion",
+          "questionText": "Complete the booking form:",
+          "blankLabel": "Contact number",
+          "correctAnswer": "07723 845 901",
+          "explanation": "'Yes, it's 07723 845 901.'"
+        },
+        {
+          "id": 5,
+          "type": "multiple-choice",
+          "questionText": "How will the customer pay for the booking?",
+          "options": [
+            "A. By credit card over the phone",
+            "B. By bank transfer before Saturday",
+            "C. In person on the day",
+            "D. Online via the website"
+          ],
+          "correctAnswer": "C",
+          "explanation": "'I'll pay on the day, please.' → paying in person on Saturday (C)."
+        },
+        {
+          "id": 6,
+          "type": "multiple-choice",
+          "questionText": "What is the total cost of racket hire?",
+          "options": [
+            "A. £2",
+            "B. £4",
+            "C. £6",
+            "D. £8"
+          ],
+          "correctAnswer": "D",
+          "explanation": "'4 rackets at £2 each — £8 extra.' → total racket hire = £8 (D)."
+        }
+      ],
+      "difficulty": "easy",
+      "estimatedBand": 5.0
+    }
+  ]
+}

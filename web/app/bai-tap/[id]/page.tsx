@@ -3,14 +3,17 @@ import { useEffect, useState, useCallback } from 'react';
 import { useParams } from 'next/navigation';
 import Link from 'next/link';
 import ExerciseBlock from '@/components/ExerciseBlock';
+import IELTSExerciseBlock from '@/components/IELTSExerciseBlock';
 import StudentEntry from '@/components/StudentEntry';
-import type { LessonData, GradeFeedback } from '@/lib/lessonTypes';
+import type { LessonData, GradeFeedback, IELTSGradeFeedback } from '@/lib/lessonTypes';
 import { apiFetch } from '@/lib/apiFetch';
+import { useTabLock } from '@/lib/useTabLock';
 
 export default function BaiTapPage() {
   const params = useParams();
   const id = params.id as string;
 
+  const { isLocked } = useTabLock(id);
   const [lesson, setLesson] = useState<LessonData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -19,7 +22,6 @@ export default function BaiTapPage() {
   const [correctCount, setCorrectCount] = useState(0);
   const [done, setDone] = useState(false);
 
-  // Load student name from localStorage
   useEffect(() => {
     const saved = localStorage.getItem('studentName');
     if (saved) setStudentName(saved);
@@ -37,9 +39,11 @@ export default function BaiTapPage() {
   }, [id]);
 
   const saveSubmission = useCallback(async (
-    exercise: LessonData['exercises'][number],
+    exerciseId: number,
+    exerciseQuestion: string,
     isCorrect: boolean,
-    feedback: GradeFeedback,
+    score: number,
+    feedback: GradeFeedback | IELTSGradeFeedback,
   ) => {
     if (!studentName) return;
     try {
@@ -49,52 +53,80 @@ export default function BaiTapPage() {
         body: JSON.stringify({
           studentName,
           lessonId: id,
-          exerciseId: exercise.id,
-          exerciseQuestion: exercise.question,
+          exerciseId,
+          exerciseQuestion,
           answerSteps: [],
           answerNumber: '',
-          answerUnit: exercise.correctUnit,
+          answerUnit: '',
           isCorrect,
-          score: feedback.score,
+          score,
           feedback,
         }),
       });
     } catch {
-      // silent — không block trải nghiệm học sinh nếu lưu lỗi
+      // silent — không block trải nghiệm
     }
   }, [studentName, id]);
 
-  function handleNext(correct: boolean, feedback: GradeFeedback | null) {
+  const isIELTS = lesson?.ieltsExercises && lesson.ieltsExercises.length > 0;
+  const exercises = isIELTS ? (lesson?.ieltsExercises ?? []) : (lesson?.exercises ?? []);
+  const total = exercises.length;
+
+  function handleNextMath(correct: boolean, feedback: GradeFeedback | null) {
     if (!lesson) return;
     if (correct) setCorrectCount(c => c + 1);
-    if (feedback && lesson.exercises[currentIndex]) {
-      saveSubmission(lesson.exercises[currentIndex], correct, feedback);
+    const ex = lesson.exercises[currentIndex];
+    if (feedback && ex) {
+      saveSubmission(ex.id, ex.question, correct, feedback.score, feedback);
     }
-    if (currentIndex + 1 >= lesson.exercises.length) {
-      setDone(true);
-    } else {
-      setCurrentIndex(i => i + 1);
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (currentIndex + 1 >= total) setDone(true);
+    else { setCurrentIndex(i => i + 1); window.scrollTo({ top: 0, behavior: 'smooth' }); }
+  }
+
+  function handleNextIELTS(correct: boolean, feedback: IELTSGradeFeedback | null) {
+    if (!lesson) return;
+    if (correct) setCorrectCount(c => c + 1);
+    const ex = lesson.ieltsExercises![currentIndex];
+    if (feedback && ex) {
+      saveSubmission(ex.id, ex.title ?? '', correct, feedback.overallBand, feedback);
     }
+    if (currentIndex + 1 >= total) setDone(true);
+    else { setCurrentIndex(i => i + 1); window.scrollTo({ top: 0, behavior: 'smooth' }); }
   }
 
   function handleRestart() {
-    setCurrentIndex(0);
-    setCorrectCount(0);
-    setDone(false);
+    setCurrentIndex(0); setCorrectCount(0); setDone(false);
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
-  // Show name entry if not set
-  if (!studentName) {
-    return <StudentEntry onEnter={name => { setStudentName(name); }} />;
+  if (!studentName) return <StudentEntry onEnter={name => setStudentName(name)} />;
+
+  if (isLocked) {
+    return (
+      <div className="min-h-screen flex items-center justify-center px-4">
+        <div className="max-w-sm w-full text-center animate-fade-up">
+          <div className="card border-2 border-red-200 shadow-xl">
+            <div className="text-6xl mb-4">🚫</div>
+            <h2 className="text-xl font-black text-red-700 mb-3" style={{ fontFamily: "'Baloo 2', sans-serif" }}>
+              Bài tập đang mở ở tab khác!
+            </h2>
+            <p className="text-gray-600 font-medium mb-2">Em đang mở bài tập này ở một tab khác trên trình duyệt.</p>
+            <p className="text-gray-500 text-sm font-medium mb-6">Vui lòng đóng tab kia rồi tải lại trang này để tiếp tục.</p>
+            <button onClick={() => window.location.reload()}
+              className="w-full flex items-center justify-center gap-2 bg-gradient-to-br from-tangerine-500 to-tangerine-600 text-white font-black py-3 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-0.5">
+              🔄 Tải lại trang
+            </button>
+          </div>
+        </div>
+      </div>
+    );
   }
 
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center animate-fade-up">
-          <div className="text-5xl animate-bounce mb-4">✏️</div>
+          <div className="text-5xl animate-bounce mb-4">{isIELTS ? '🌏' : '✏️'}</div>
           <p className="font-black text-tangerine-700 text-xl" style={{ fontFamily: "'Baloo 2', sans-serif" }}>
             Đang tải bài tập...
           </p>
@@ -116,8 +148,7 @@ export default function BaiTapPage() {
     );
   }
 
-  const total = lesson.exercises.length;
-  const progress = done ? 100 : (currentIndex / total) * 100;
+  const progress = done ? 100 : total > 0 ? (currentIndex / total) * 100 : 0;
 
   if (done) {
     const percentage = Math.round((correctCount / total) * 100);
@@ -138,12 +169,12 @@ export default function BaiTapPage() {
             </div>
             <div className="text-5xl mb-3">{emoji}</div>
             <h2 className="text-2xl font-black text-grass-900 mb-1" style={{ fontFamily: "'Baloo 2', sans-serif" }}>
-              Kết quả: {studentName}
+              {studentName}
             </h2>
             <p className="text-gray-600 font-semibold mb-1">{message}</p>
             <p className="text-grass-800 font-bold text-sm mb-6 line-clamp-2">"{lesson.title}"</p>
 
-            <div className="grid grid-cols-3 gap-3 mb-6 text-center">
+            <div className="grid grid-cols-3 gap-3 mb-6">
               <div className="bg-grass-50 rounded-2xl p-3 border border-grass-200">
                 <div className="text-2xl font-black text-grass-700">{correctCount}</div>
                 <div className="text-xs text-grass-600 font-bold">Đúng</div>
@@ -159,22 +190,16 @@ export default function BaiTapPage() {
             </div>
 
             <div className="flex flex-col gap-3">
-              <Link
-                href="/tien-do"
-                className="flex items-center justify-center gap-2 bg-gradient-to-br from-grass-500 to-grass-600 text-white font-black py-3 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-0.5"
-              >
+              <Link href="/tien-do"
+                className="flex items-center justify-center gap-2 bg-gradient-to-br from-grass-500 to-grass-600 text-white font-black py-3 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-0.5">
                 ⭐ Xem tiến độ học tập
               </Link>
-              <button
-                onClick={handleRestart}
-                className="flex items-center justify-center gap-2 bg-gradient-to-br from-tangerine-500 to-tangerine-600 text-white font-black py-3 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-0.5"
-              >
+              <button onClick={handleRestart}
+                className="flex items-center justify-center gap-2 bg-gradient-to-br from-tangerine-500 to-tangerine-600 text-white font-black py-3 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-0.5">
                 🔄 Làm lại bài tập
               </button>
-              <Link
-                href={`/on-ly-thuyet/${id}`}
-                className="flex items-center justify-center gap-2 bg-violet-100 text-violet-700 font-bold py-3 rounded-2xl hover:bg-violet-200 transition-all"
-              >
+              <Link href={`/on-ly-thuyet/${id}`}
+                className="flex items-center justify-center gap-2 bg-violet-100 text-violet-700 font-bold py-3 rounded-2xl hover:bg-violet-200 transition-all">
                 📖 Ôn lại lý thuyết
               </Link>
               <Link href="/" className="flex items-center justify-center gap-2 bg-gray-100 text-gray-600 font-bold py-3 rounded-2xl hover:bg-gray-200 transition-all">
@@ -187,33 +212,26 @@ export default function BaiTapPage() {
     );
   }
 
-  const exercise = lesson.exercises[currentIndex];
-
   return (
     <div className="min-h-screen">
       <div className="sticky top-16 z-20 bg-white/95 backdrop-blur-sm border-b border-tangerine-100 shadow-sm">
         <div className="max-w-3xl mx-auto px-4 py-3">
           <div className="flex items-center justify-between gap-3">
-            <Link href="/" className="shrink-0 text-gray-400 hover:text-tangerine-600 transition-colors text-sm font-bold">
-              ✕ Thoát
-            </Link>
+            <Link href="/" className="shrink-0 text-gray-400 hover:text-tangerine-600 transition-colors text-sm font-bold">✕ Thoát</Link>
             <div className="flex-1 min-w-0 text-center">
               <p className="font-black text-tangerine-800 text-sm truncate" style={{ fontFamily: "'Baloo 2', sans-serif" }}>
                 {lesson.title}
               </p>
               <p className="text-xs text-gray-400 font-medium">
-                Câu {currentIndex + 1} / {total} · {studentName}
+                {isIELTS ? `${lesson.ieltsMeta?.skill?.toUpperCase() ?? 'IELTS'} ·` : ''} Câu {currentIndex + 1}/{total} · {studentName}
               </p>
             </div>
             <div className="shrink-0 text-xs font-bold text-tangerine-700 bg-tangerine-100 px-3 py-1 rounded-full">
-              ✏️ Bài tập
+              {isIELTS ? '🌏 IELTS' : '✏️ Bài tập'}
             </div>
           </div>
           <div className="mt-3 h-2 bg-gray-100 rounded-full overflow-hidden">
-            <div
-              className="h-full bg-gradient-to-r from-tangerine-400 to-tangerine-500 rounded-full transition-all duration-500 ease-out"
-              style={{ width: `${progress}%` }}
-            />
+            <div className="h-full bg-gradient-to-r from-tangerine-400 to-tangerine-500 rounded-full transition-all duration-500 ease-out" style={{ width: `${progress}%` }} />
           </div>
           <div className="flex items-center justify-center gap-3 mt-2 text-xs font-bold">
             <span className="text-grass-600">✅ {correctCount} đúng</span>
@@ -227,12 +245,21 @@ export default function BaiTapPage() {
 
       <div className="max-w-3xl mx-auto px-4 py-8">
         <div className="animate-fade-up" key={currentIndex}>
-          <ExerciseBlock
-            exercise={exercise}
-            exerciseNumber={currentIndex + 1}
-            totalExercises={total}
-            onNext={handleNext}
-          />
+          {isIELTS ? (
+            <IELTSExerciseBlock
+              exercise={lesson.ieltsExercises![currentIndex]}
+              exerciseNumber={currentIndex + 1}
+              totalExercises={total}
+              onNext={handleNextIELTS}
+            />
+          ) : (
+            <ExerciseBlock
+              exercise={lesson.exercises[currentIndex]}
+              exerciseNumber={currentIndex + 1}
+              totalExercises={total}
+              onNext={handleNextMath}
+            />
+          )}
         </div>
       </div>
     </div>

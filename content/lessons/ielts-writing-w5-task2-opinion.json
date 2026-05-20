@@ -1,0 +1,89 @@
+{
+  "id": "ielts-writing-w5-task2-opinion",
+  "fileName": "ielts-writing-w5-task2-opinion.json",
+  "title": "Writing W5: Task 2 — Opinion Essay (Technology)",
+  "subject": "tieng-anh-ielts",
+  "grade": "8",
+  "topics": ["IELTS", "Writing", "Task 2", "Opinion Essay", "Technology"],
+  "processedAt": "2026-05-20T00:00:00.000Z",
+  "ieltsMeta": {
+    "skill": "writing",
+    "week": 5,
+    "month": 2,
+    "targetBand": 5.5,
+    "prerequisiteBand": 5.0
+  },
+  "slides": [
+    {
+      "id": 1,
+      "title": "IELTS Writing Task 2: Tổng quan",
+      "content": "Task 2 yêu cầu viết một bài luận (essay) về một chủ đề xã hội.\n\n📋 Yêu cầu:\n• Ít nhất 250 từ\n• Thời gian: khoảng 40 phút\n• Chiếm 2/3 điểm Writing\n\n🏷️ Các loại essay phổ biến:\n1. Opinion Essay: 'To what extent do you agree or disagree?'\n2. Discussion Essay: 'Discuss both views and give your opinion'\n3. Problem-Solution: 'What are the causes? What solutions?'\n4. Advantage-Disadvantage: 'Do the advantages outweigh disadvantages?'\n\n🎯 Hôm nay học: Opinion Essay (agree/disagree)",
+      "keyFormula": "Task 2 = 40% của tổng điểm Writing → quan trọng hơn Task 1!"
+    },
+    {
+      "id": 2,
+      "title": "Cấu trúc Opinion Essay",
+      "content": "Cấu trúc chuẩn 4 đoạn:\n\n📝 Đoạn 1 — Introduction (2-3 câu)\n→ Câu 1: Paraphrase câu hỏi (general statement về topic)\n→ Câu 2: Nêu rõ quan điểm của bạn (thesis statement)\n\n💡 Đoạn 2 — Body 1 (4-5 câu)\n→ Topic sentence: lý do chính 1\n→ Explanation: giải thích lý do\n→ Example: ví dụ cụ thể\n\n💡 Đoạn 3 — Body 2 (4-5 câu)\n→ Topic sentence: lý do chính 2\n→ Explanation + Example\n\n✅ Đoạn 4 — Conclusion (1-2 câu)\n→ Tóm tắt lại quan điểm (KHÔNG đưa ra ý mới)",
+      "keyFormula": "Introduction + Conclusion phải có CLEAR POSITION (đồng ý hoặc không đồng ý — đừng mơ hồ!)",
+      "example": {
+        "problem": "Question: 'Technology has made people's lives more complicated. To what extent do you agree?'",
+        "steps": [
+          "Introduction: 'In the modern world, technology plays an increasingly important role in daily life. While some argue that it creates complexity, I strongly believe that technology has made life significantly easier overall.'",
+          "Body 1 (agree partially): 'Admittedly, technology can be overwhelming...'",
+          "Body 2 (main point - disagree): 'However, the benefits of technology far outweigh these drawbacks...'",
+          "Conclusion: 'In conclusion, although technology introduces some complexity, I maintain that it has fundamentally improved human life.'"
+        ],
+        "result": "Clear position throughout the essay → higher Task Response score"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Linking Words (Từ nối)",
+      "content": "Linking words tăng điểm Coherence & Cohesion. Học và dùng đa dạng:\n\n➕ Thêm ý: Furthermore, Moreover, In addition, Additionally, Also\n\n🔄 Tương phản: However, Nevertheless, On the other hand, In contrast, Although, Despite\n\n🎯 Nguyên nhân-kết quả: Therefore, As a result, Consequently, This means that, This leads to\n\n📌 Ví dụ: For example, For instance, Such as, To illustrate\n\n🔚 Kết luận: In conclusion, To sum up, Overall, In summary\n\n⚠️ Đừng lạm dụng 'Firstly, Secondly, Thirdly' — monotonous!",
+      "keyFormula": "Mỗi loại linking word dùng tối đa 2 lần trong bài. Đa dạng = cao điểm!",
+      "miniGame": {
+        "question": "Câu nào dùng linking word ĐÚNG nghĩa?",
+        "options": [
+          "Technology is expensive. Moreover, it helps people communicate.",
+          "Technology can cause addiction. However, many people still use it.",
+          "Technology is useful. Therefore, some people avoid it.",
+          "Technology creates jobs. In contrast, it also creates jobs."
+        ],
+        "answer": "Technology can cause addiction. However, many people still use it.",
+        "explanation": "'However' đúng vì nó nối hai ý tương phản (addiction = xấu, nhưng vẫn dùng). Câu A: 'Moreover' sai vì 'expensive' và 'helps communicate' không cùng xu hướng. Câu C: 'Therefore' sai logic. Câu D: 'In contrast' vô lý."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Vocabulary: Chủ đề Technology",
+      "content": "Vocabulary quan trọng cho chủ đề Technology:\n\n🔵 Nouns: innovation, advancement, device, application, digitisation, automation, artificial intelligence (AI), social media, online platforms, cybersecurity\n\n🟢 Verbs: enhance, facilitate, transform, revolutionise, disrupt, connect, streamline, access, rely on\n\n🟡 Adjectives: efficient, accessible, time-saving, convenient, instantaneous, overwhelming, addictive, dependent\n\n📌 Useful phrases:\n• 'In the digital age' (Trong thời đại số)\n• 'thanks to technological advancements'\n• 'people have become increasingly dependent on technology'\n• 'technology has transformed the way we...'\n• 'the rapid pace of technological change'",
+      "keyFormula": "Học collocations: 'make a significant impact' (không phải 'do a significant impact')"
+    },
+    {
+      "id": 5,
+      "title": "Ví dụ Introduction hay (Band 5.5-6.0)",
+      "content": "Đề bài: 'Some people believe that technology has made people's lives more complicated. To what extent do you agree or disagree?'\n\n❌ Yếu (Band 4.0):\n'Technology is very important. I agree that it is complicated. In this essay I will talk about technology.'\n→ Không paraphrase, không rõ ràng, lặp lại câu hỏi\n\n✅ Tốt (Band 5.5):\n'In today's world, technological devices and applications have become central to modern life. Although technology can sometimes feel overwhelming, I strongly believe that it has made everyday tasks significantly more convenient and efficient.'\n→ Paraphrase tốt, position rõ ràng, vocabulary phong phú\n\n💫 Xuất sắc (Band 6.5):\n'The rapid advancement of technology has fundamentally transformed how people live, work, and communicate. While critics argue that this complexity creates unnecessary stress, I firmly contend that the overall impact of technology has been overwhelmingly positive, simplifying countless aspects of daily life.'\n→ Complex sentences, sophisticated vocabulary, clear stance",
+      "keyFormula": "Introduction = Paraphrase + Thesis. ĐỪNG bắt đầu bằng 'Nowadays,...' hoặc 'In my opinion,...' — overused!"
+    }
+  ],
+  "exercises": [],
+  "ieltsExercises": [
+    {
+      "id": 1,
+      "type": "ielts-writing",
+      "taskType": "task2",
+      "title": "Task 2: Technology and Modern Life",
+      "prompt": "Some people believe that technology has made people's lives more complicated. To what extent do you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "wordLimit": 250,
+      "modelAnswer": "The rapid advancement of technology has fundamentally transformed how people live, work, and communicate. While critics argue that this complexity creates unnecessary stress, I firmly believe that the overall impact of technology has been overwhelmingly positive, simplifying countless aspects of daily life.\n\nAdmittedly, technology can be a source of complexity in certain respects. The constant flow of notifications from smartphones and social media platforms can be mentally exhausting, and many people struggle to manage the sheer volume of digital information they encounter daily. Furthermore, older generations may find it challenging to adapt to rapidly changing devices and software, creating what some call a 'digital divide'. These are legitimate concerns that should not be dismissed.\n\nHowever, the benefits of technology far outweigh these drawbacks. Modern applications have streamlined tasks that once required considerable time and effort. For example, online banking allows people to manage their finances in minutes rather than visiting physical branches, while GPS navigation has eliminated the stress of getting lost. In addition, communication technology has connected people across vast distances, allowing families to maintain relationships regardless of geography.\n\nMoreover, in the professional world, technology has automated repetitive tasks, enabling workers to focus on more creative and meaningful responsibilities. Businesses can now operate globally with greater efficiency, creating economic opportunities that would have been impossible decades ago.\n\nIn conclusion, while technology undeniably introduces some complexity into modern life, I maintain that it has fundamentally made daily tasks more manageable and efficient. The key lies in using technology purposefully rather than allowing it to overwhelm us.",
+      "difficulty": "medium",
+      "estimatedBand": 5.5,
+      "bandDescriptors": {
+        "taskAchievement": "Có position rõ ràng (disagree), đưa ra 2 lý do chính có support. Concede (thừa nhận) quan điểm đối lập → tăng điểm.",
+        "coherenceCohesion": "4 đoạn rõ ràng. Linking words đa dạng: Admittedly, However, Furthermore, Moreover, In conclusion.",
+        "lexicalResource": "Vocabulary phong phú: 'streamlined', 'digital divide', 'repetitive tasks', 'fundamentally'. Không có lỗi spelling.",
+        "grammaticalRange": "Complex sentences: 'While critics argue...', 'allowing families to maintain...'. Mix of simple và complex structures."
+      }
+    }
+  ]
+}

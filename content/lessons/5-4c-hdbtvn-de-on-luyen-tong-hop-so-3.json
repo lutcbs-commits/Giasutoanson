@@ -1,307 +1,237 @@
 {
   "id": "5-4c-hdbtvn-de-on-luyen-tong-hop-so-3",
   "fileName": "5.4C - HDBTVN ĐỀ ÔN LUYỆN TỔNG HỢP SỐ 3.pdf",
-  "title": "Hướng Dẫn Bài Tập Về Nhà - Đề Ôn Luyện Tổng Hợp Số 3",
-  "topics": ["Tính nhanh biểu thức", "Tìm x trong phép tính", "Số tự nhiên hai chữ số", "Hình hộp chữ nhật - diện tích lát gạch", "Toán chuyển động cùng chiều", "Bài toán trồng cây", "Diện tích tam giác - tỉ số"],
-  "processedAt": "2026-05-09T00:00:00.000Z",
+  "title": "Luyện Tập Tổng Hợp Số 3",
+  "topics": [
+    "Toán lớp 5",
+    "Tổng hợp"
+  ],
+  "processedAt": "2026-05-11T18:29:34.608Z",
   "slides": [
     {
       "id": 1,
-      "title": "Tính Nhanh Biểu Thức - Kỹ Thuật Nhân Ra Thừa Số Chung",
-      "content": "Để tính nhanh các biểu thức có dạng tích và cộng, ta tìm thừa số chung để đưa về phép nhân đơn giản.\n\nKỹ thuật:\n- Biến đổi: 2,4 × 150 = 24 × 15 (nhân tử với 10 và chia mẫu với 10)\n- Tìm thừa số chung của các số hạng\n- Áp dụng: a × b + a × c = a × (b + c)",
-      "keyFormula": "a × b + a × c - a × d = a × (b + c - d)",
+      "title": "Tính Nhanh",
+      "content": "Tính nhanh biểu thức: 2,4 × 15 × 10 + 8,6 × 24 × 10 – 24\nCó thể dùng cách nhân và chia để tính nhanh",
+      "keyFormula": "",
       "example": {
-        "problem": "Tính nhanh: 2,4 × 150 + 8,6 × 240 - 24",
+        "problem": "Tính 2,4 × 15 × 10 + 8,6 × 24 × 10 – 24",
         "steps": [
-          "Biến đổi: 2,4 × 150 = 24 × 15; 8,6 × 240 = 86 × 24",
-          "= 24 × 15 + 86 × 24 - 24",
-          "= 24 × (15 + 86 - 1)",
-          "= 24 × 100 = 2400"
+          "Bước 1: Tính 2,4 × 15 = 36",
+          "Bước 2: Tính 8,6 × 24 = 206,4",
+          "Bước 3: Tính 36 × 10 + 206,4 × 10 – 24 = 2400"
         ],
         "result": "2400"
       },
-      "miniGame": {
-        "question": "Tính nhanh: 2,4 × 150 + 8,6 × 240 - 24. Kết quả là bao nhiêu?",
-        "options": ["A. 2000", "B. 2200", "C. 2400", "D. 2600"],
-        "answer": "C. 2400",
-        "explanation": "Biến đổi: 24×15 + 86×24 - 24 = 24×(15+86-1) = 24×100 = 2400."
-      }
+      "miniGame": null
     },
     {
       "id": 2,
-      "title": "Tìm Số Tự Nhiên Hai Chữ Số Khi Viết Thêm Chữ Số Vào Bên Phải",
-      "content": "Khi viết thêm một chữ số vào bên phải của một số, số mới bằng 10 lần số cũ cộng với chữ số thêm vào.\n\nVí dụ: Số 37, viết thêm 2 vào bên phải được 372 = 37 × 10 + 2 = 372\n\nCách giải:\n- Gọi số cần tìm là N\n- Số mới = 10 × N + (chữ số thêm vào)\n- Số mới - N = 9 × N + (chữ số thêm vào)\n- Từ đó tính N",
-      "keyFormula": "Số mới = Số cũ × 10 + chữ số thêm vào",
+      "title": "Tìm X",
+      "content": "Tìm x biết: 5x/8 - 31/44 = x\nPhải tìm cách đưa x về một vế của phương trình",
+      "keyFormula": "",
       "example": {
-        "problem": "Tìm số tự nhiên có hai chữ số, biết nếu viết thêm chữ số 2 vào bên phải ta được số mới hơn số cũ 335 đơn vị.",
+        "problem": "Tìm x biết: 5x/8 - 31/44 = x",
         "steps": [
-          "Số mới = 10 × N + 2",
-          "Số mới - N = 335",
-          "10 × N + 2 - N = 335",
-          "9 × N = 335 - 2 = 333",
-          "N = 333 ÷ 9 = 37"
+          "Bước 1: Tính 5x/8 = x + 31/44",
+          "Bước 2: Tính 5x = 8x + 31/11",
+          "Bước 3: Tính 5x - 8x = 31/11",
+          "Bước 4: Tính -3x = 31/11"
         ],
-        "result": "Số cần tìm là 37"
+        "result": "-31/33"
       },
-      "miniGame": {
-        "question": "Tìm số tự nhiên hai chữ số, biết viết thêm chữ số 2 vào bên phải được số mới hơn số cũ 335 đơn vị. Số cần tìm là?",
-        "options": ["A. 27", "B. 33", "C. 37", "D. 47"],
-        "answer": "C. 37",
-        "explanation": "9 × N + 2 = 335, suy ra 9 × N = 333, N = 333 ÷ 9 = 37."
-      }
+      "miniGame": null
     },
     {
       "id": 3,
-      "title": "Tìm Số Khi Biết Tổng Và Điều Kiện Chia Hết",
-      "content": "Bài toán tìm số khi biết tổng hai số và điều kiện chia hết cho nhiều số:\n\nBước 1: Xác định số hạng chưa biết trong tổng\nBước 2: Dựa vào điều kiện chia hết để thu hẹp giá trị\nBước 3: Tính số lớn bằng: (Tổng + Hiệu) ÷ 2\n\nLưu ý: Số chia hết cho cả 2 và 5 thì chữ số tận cùng là 0.",
-      "keyFormula": "Số lớn = (Tổng + Hiệu) ÷ 2\nSố bé = (Tổng - Hiệu) ÷ 2",
+      "title": "Số Tự Nhiên",
+      "content": "Tìm số tự nhiên có hai chữ số, biết nếu viết thêm chữ số 2 vào bên phải ta được số mới hơn số cũ 335 đơn vị",
+      "keyFormula": "",
       "example": {
-        "problem": "Hai số có hiệu là 1554. Tổng của hai số là 23x̄y chia hết cho 2, 5, 9. Tìm số lớn.",
+        "problem": "Tìm số tự nhiên có hai chữ số, biết nếu viết thêm chữ số 2 vào bên phải ta được số mới hơn số cũ 335 đơn vị",
         "steps": [
-          "Chia hết cho 2 và 5: chữ số tận cùng y = 0",
-          "Tổng trở thành 23x0",
-          "Chia hết cho 9: 2 + 3 + x + 0 chia hết cho 9, x = 4",
-          "Tổng hai số = 2430",
-          "Số lớn = (2430 + 1554) ÷ 2 = 1992"
+          "Bước 1: Gọi số tự nhiên là x",
+          "Bước 2: Viết thêm chữ số 2 vào bên phải ta được 10x + 2",
+          "Bước 3: Số mới hơn số cũ 335 đơn vị: 10x + 2 - x = 335",
+          "Bước 4: Tính 9x = 333"
         ],
-        "result": "Số lớn là 1992"
+        "result": "37"
+      },
+      "miniGame": {
+        "question": "Số tự nhiên có hai chữ số là:",
+        "options": [
+          "35",
+          "37",
+          "39",
+          "41"
+        ],
+        "answer": "37",
+        "explanation": "Vì 10x + 2 - x = 335, suy ra 9x = 333, x = 37"
       }
     },
     {
       "id": 4,
-      "title": "Diện Tích Lát Gạch Hình Hộp Chữ Nhật",
-      "content": "Khi lát gạch bên trong hồ bơi hoặc bể nước, ta cần tính:\n- Diện tích 4 mặt xung quanh (bên trong)\n- Diện tích đáy\n- Tổng = Diện tích xung quanh + Diện tích đáy\n\nSố viên gạch = Tổng diện tích ÷ Diện tích 1 viên gạch\n\nChú ý đổi đơn vị cho đồng nhất!",
-      "keyFormula": "Diện tích lát = (Chiều dài + Chiều rộng) × 2 × Chiều cao + Chiều dài × Chiều rộng",
-      "example": {
-        "problem": "Bể bơi hình hộp chữ nhật: dài 12m, rộng 8,5m, cao 2m. Lát gạch bên trong 4 mặt xung quanh và đáy. Gạch hình vuông cạnh 5dm. Cần bao nhiêu viên?",
-        "steps": [
-          "Diện tích viên gạch: 5 × 5 = 25 dm²",
-          "Diện tích xung quanh: (12 + 8,5) × 2 × 2 = 82 m²",
-          "Diện tích đáy: 12 × 8,5 = 102 m²",
-          "Tổng diện tích lát: 82 + 102 = 184 m² = 18400 dm²",
-          "Số viên gạch: 18400 ÷ 25 = 736 viên"
-        ],
-        "result": "736 viên gạch"
-      },
-      "miniGame": {
-        "question": "Bể bơi 12m × 8,5m × 2m. Diện tích cần lát gạch (4 mặt xung quanh và đáy) là bao nhiêu mét vuông?",
-        "options": ["A. 160 m²", "B. 174 m²", "C. 184 m²", "D. 196 m²"],
-        "answer": "C. 184 m²",
-        "explanation": "Diện tích xung quanh: (12+8,5)×2×2 = 82m². Diện tích đáy: 12×8,5 = 102m². Tổng = 184m²."
-      }
+      "title": "Diện Tích",
+      "content": "Tính diện tích của một hình hộp chữ nhật có chiều dài 12 m, chiều rộng 8,5 m, chiều cao 2 m",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
     },
     {
       "id": 5,
-      "title": "Toán Chuyển Động Cùng Chiều - Tìm Vận Tốc Khi Biết Tỉ Lệ",
-      "content": "Khi hai xe chuyển động cùng chiều và gặp nhau, điểm gặp là điểm mà xe đi sau đuổi kịp xe đi trước.\n\nHiệu vận tốc = Khoảng cách ban đầu ÷ Thời gian\n\nKhi biết tỉ lệ vận tốc (v₂ = m/n × v₁), lập sơ đồ để tìm từng vận tốc.",
-      "keyFormula": "Hiệu vận tốc = Khoảng cách ÷ Thời gian gặp nhau",
+      "title": "Số Cây",
+      "content": "Tính số cây mỗi bạn trồng được biết tổng số cây là 14, Thu trồng được 1/7 tổng số cây và bằng 2/3 số cây của Đông",
+      "keyFormula": "",
       "example": {
-        "problem": "Hai xe xuất phát cùng lúc từ A và B đi cùng chiều về C. AB = 20km. Gặp nhau sau 2 giờ. Vận tốc xe 2 = 5/6 vận tốc xe 1. Tính vận tốc mỗi xe.",
+        "problem": "Tính số cây mỗi bạn trồng được biết tổng số cây là 14, Thu trồng được 1/7 tổng số cây và bằng 2/3 số cây của Đông",
         "steps": [
-          "Hiệu vận tốc: 20 ÷ 2 = 10 km/giờ",
-          "Vận tốc xe 1 : xe 2 = 6 : 5 (từ tỉ lệ v₂ = 5/6 v₁)",
-          "Hiệu số phần = 6 - 5 = 1 phần = 10 km/giờ",
-          "Vận tốc xe 2: 10 ÷ 1 × 5 = 50 km/giờ",
-          "Vận tốc xe 1: 50 + 10 = 60 km/giờ"
+          "Bước 1: Tính số cây Thu trồng được: 14/7 = 2",
+          "Bước 2: Tính số cây Đông trồng được: 2 * 3/2 = 3",
+          "Bước 3: Tính số cây Xuân và Hạ trồng được: 14 - 2 - 3 = 9"
         ],
-        "result": "Xe thứ nhất: 60km/giờ; Xe thứ hai: 50km/giờ"
+        "result": "Xuân: 5, Hạ: 4, Thu: 2, Đông: 3"
+      },
+      "miniGame": {
+        "question": "Số cây Thu trồng được là:",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "answer": "2",
+        "explanation": "Vì Thu trồng được 1/7 tổng số cây, tổng số cây là 14"
       }
     },
     {
       "id": 6,
-      "title": "Bài Toán Phân Phối - Tìm Số Lượng Mỗi Nhóm",
-      "content": "Dạng bài: Biết tổng và mối quan hệ giữa các phần, tìm từng phần.\n\nCách giải:\n1. Tính trực tiếp những phần có thể tính được từ tổng và tỉ lệ\n2. Tính tổng những phần còn lại\n3. Dùng sơ đồ để tìm từng phần\n\nLưu ý: Khi một biến đổi không ảnh hưởng đến tổng, ta có thể dùng tổng sau khi biến đổi.",
-      "keyFormula": "Phần cần tìm = Tổng ÷ Tổng số phần × Số phần tương ứng",
+      "title": "Tam Giác",
+      "content": "Tính diện tích tam giác ABC biết diện tích tam giác NPC là 2/5 cm²",
+      "keyFormula": "",
       "example": {
-        "problem": "Tổng cây của 4 bạn là 14. Thu trồng 1/7 tổng và bằng 2/3 số Đông. Xuân thêm 1, Hạ bớt 1 thì Xuân = 2 × Hạ. Tìm số cây mỗi bạn.",
+        "problem": "Tính diện tích tam giác ABC biết diện tích tam giác NPC là 2/5 cm²",
         "steps": [
-          "Thu = 14 ÷ 7 × 1 = 2 cây",
-          "Đông = 2 ÷ 2 × 3 = 3 cây",
-          "Xuân + Hạ = 14 - 2 - 3 = 9 cây",
-          "Sau khi biến đổi: Xuân = 2 phần, Hạ = 1 phần (tổng = 3 phần = 9)",
-          "Hạ sau biến đổi = 9 ÷ 3 = 3, Hạ ban đầu = 3 + 1 = 4 cây",
-          "Xuân = 9 - 4 = 5 cây"
+          "Bước 1: Tính diện tích tam giác ANC: 2/5 * 3 = 6/5",
+          "Bước 2: Tính diện tích tam giác ABC: 6/5 * 3 = 18/5"
         ],
-        "result": "Xuân: 5 cây; Hạ: 4 cây; Thu: 2 cây; Đông: 3 cây"
+        "result": "45"
       },
       "miniGame": {
-        "question": "Tổng số cây của 4 bạn là 14. Thu trồng 1/7 tổng số cây. Số cây của Thu là bao nhiêu?",
-        "options": ["A. 1 cây", "B. 2 cây", "C. 3 cây", "D. 4 cây"],
-        "answer": "B. 2 cây",
-        "explanation": "Thu trồng 1/7 tổng số cây = 14 ÷ 7 × 1 = 2 cây."
-      }
-    },
-    {
-      "id": 7,
-      "title": "Diện Tích Tam Giác - Tỉ Số Khi Có Điểm Chia Trên Cạnh",
-      "content": "Khi tính diện tích tam giác con trong một tam giác lớn, ta dùng tính chất:\n- Hai tam giác chung chiều cao: tỉ số diện tích = tỉ số đáy\n- Hai tam giác chung đáy: tỉ số diện tích = tỉ số chiều cao\n\nBằng cách ghép liên tiếp các tam giác có chung yếu tố, ta có thể tính được diện tích tam giác bất kỳ.",
-      "keyFormula": "S₁/S₂ = đáy₁/đáy₂ (khi chung chiều cao)\nS₁/S₂ = h₁/h₂ (khi chung đáy)",
-      "example": {
-        "problem": "Tam giác ABC. N trên BC: BN = 2/3 BC. P trên CA: AP = 2/3 AC. S.NPC = 5cm². Tính S.ABC.",
-        "steps": [
-          "S.ANC/S.NPC = PC/AC = 1/3, nên S.ANC = 5 ÷ 1 × 3 = 15 cm²",
-          "S.ANC/S.ABC = NC/BC = 1/3, nên S.ABC = 15 ÷ 1 × 3 = 45 cm²"
+        "question": "Diện tích tam giác ABC là:",
+        "options": [
+          "20",
+          "30",
+          "45",
+          "60"
         ],
-        "result": "S.ABC = 45 cm²"
+        "answer": "45",
+        "explanation": "Vì diện tích tam giác NPC là 2/5, diện tích tam giác ANC là 6/5, diện tích tam giác ABC là 18/5 * 5/2 = 45"
       }
     }
   ],
   "exercises": [
     {
       "id": 1,
-      "question": "Tính nhanh: 2,4 × 150 + 8,6 × 240 - 24",
-      "options": ["A. 2000", "B. 2200", "C. 2400", "D. 2600"],
-      "answer": "C. 2400",
-      "explanation": "Biến đổi: 24×15 + 86×24 - 24 = 24×(15+86-1) = 24×100 = 2400.",
-      "steps": [
-        "2,4 × 150 = 24 × 15; 8,6 × 240 = 86 × 24",
-        "= 24 × 15 + 86 × 24 - 24 = 24 × (15 + 86 - 1) = 24 × 100 = 2400"
+      "question": "Tính nhanh: 2,4 × 15 × 10 + 8,6 × 24 × 10 – 24",
+      "correctSteps": [
+        "Bước 1: Tính 2,4 × 15 = 36",
+        "Bước 2: Tính 8,6 × 24 = 206,4",
+        "Bước 3: Tính 36 × 10 + 206,4 × 10 – 24 = 2400"
       ],
-      "difficulty": "easy"
+      "correctAnswer": "2400",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Hãy tính nhanh bằng cách nhân và chia"
     },
     {
       "id": 2,
-      "question": "Tìm số tự nhiên hai chữ số, biết viết thêm chữ số 2 vào bên phải được số mới hơn số cũ 335 đơn vị.",
-      "options": ["A. 33", "B. 35", "C. 37", "D. 39"],
-      "answer": "C. 37",
-      "explanation": "9N + 2 = 335, 9N = 333, N = 37.",
-      "steps": [
-        "Gọi số cần tìm là N",
-        "Số mới = 10N + 2",
-        "10N + 2 - N = 335",
-        "9N = 333, N = 37"
+      "question": "Tìm x biết: 5x/8 - 31/44 = x",
+      "correctSteps": [
+        "Bước 1: Tính 5x/8 = x + 31/44",
+        "Bước 2: Tính 5x = 8x + 31/11",
+        "Bước 3: Tính 5x - 8x = 31/11",
+        "Bước 4: Tính -3x = 31/11"
       ],
-      "difficulty": "easy"
+      "correctAnswer": "-31/33",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Hãy tìm cách đưa x về một vế của phương trình"
     },
     {
       "id": 3,
-      "question": "Hai số có hiệu là 1554. Tổng hai số là 23x0 chia hết cho 9 (x là chữ số chưa biết). Tổng hai số là bao nhiêu?",
-      "options": ["A. 2310", "B. 2340", "C. 2430", "D. 2340"],
-      "answer": "C. 2430",
-      "explanation": "Để 2 + 3 + x + 0 chia hết cho 9: 5 + x chia hết cho 9, x = 4. Tổng = 2430.",
-      "steps": [
-        "Chia hết cho 2 và 5: tận cùng là 0",
-        "2 + 3 + x + 0 chia hết cho 9: 5 + x chia hết cho 9",
-        "x = 4, tổng = 2430"
+      "question": "Tìm số tự nhiên có hai chữ số, biết nếu viết thêm chữ số 2 vào bên phải ta được số mới hơn số cũ 335 đơn vị",
+      "correctSteps": [
+        "Bước 1: Gọi số tự nhiên là x",
+        "Bước 2: Viết thêm chữ số 2 vào bên phải ta được 10x + 2",
+        "Bước 3: Số mới hơn số cũ 335 đơn vị: 10x + 2 - x = 335",
+        "Bước 4: Tính 9x = 333"
       ],
-      "difficulty": "medium"
+      "correctAnswer": "37",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Hãy tìm số tự nhiên bằng cách viết thêm chữ số 2 vào bên phải"
     },
     {
       "id": 4,
-      "question": "Hai số có hiệu 1554, tổng là 2430. Số lớn hơn là bao nhiêu?",
-      "options": ["A. 1882", "B. 1972", "C. 1992", "D. 2002"],
-      "answer": "C. 1992",
-      "explanation": "Số lớn = (2430 + 1554) ÷ 2 = 3984 ÷ 2 = 1992.",
-      "steps": [
-        "Số lớn = (Tổng + Hiệu) ÷ 2 = (2430 + 1554) ÷ 2 = 1992"
+      "question": "Tính diện tích của một hình hộp chữ nhật có chiều dài 12 m, chiều rộng 8,5 m, chiều cao 2 m",
+      "correctSteps": [
+        "Bước 1: Tính diện tích đáy: 12 * 8,5 = 102",
+        "Bước 2: Tính diện tích xung quanh: 2 * (12 + 8,5) * 2 = 84",
+        "Bước 3: Tính tổng diện tích: 102 + 84 = 186"
       ],
-      "difficulty": "easy"
+      "correctAnswer": "186",
+      "correctUnit": "m²",
+      "difficulty": "easy",
+      "hint": "Hãy tính diện tích đáy và xung quanh"
     },
     {
       "id": 5,
-      "question": "Bể bơi 12m × 8,5m × 2m, lát gạch vuông cạnh 5dm trong lòng bể (4 mặt xung quanh và đáy). Số viên gạch cần dùng là bao nhiêu?",
-      "options": ["A. 700 viên", "B. 720 viên", "C. 736 viên", "D. 750 viên"],
-      "answer": "C. 736 viên",
-      "explanation": "Diện tích lát = (12+8,5)×2×2 + 12×8,5 = 82+102 = 184m² = 18400dm². Số viên = 18400÷25 = 736.",
-      "steps": [
-        "Diện tích 1 viên gạch: 5 × 5 = 25 dm²",
-        "Diện tích xung quanh: (12+8,5)×2×2 = 82 m²",
-        "Diện tích đáy: 12×8,5 = 102 m²",
-        "Tổng: 184 m² = 18400 dm²",
-        "Số viên: 18400 ÷ 25 = 736 viên"
+      "question": "Tính số cây mỗi bạn trồng được biết tổng số cây là 14, Thu trồng được 1/7 tổng số cây và bằng 2/3 số cây của Đông",
+      "correctSteps": [
+        "Bước 1: Tính số cây Thu trồng được: 14/7 = 2",
+        "Bước 2: Tính số cây Đông trồng được: 2 * 3/2 = 3",
+        "Bước 3: Tính số cây Xuân và Hạ trồng được: 14 - 2 - 3 = 9"
       ],
-      "difficulty": "medium"
+      "correctAnswer": "Xuân: 5, Hạ: 4, Thu: 2, Đông: 3",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Hãy tìm số cây mỗi bạn trồng được bằng cách tính số cây Thu và Đông trồng được"
     },
     {
       "id": 6,
-      "question": "Hai xe cùng xuất phát từ A và B đi cùng chiều, AB = 20km, gặp nhau sau 2 giờ tại C. Hiệu vận tốc hai xe là bao nhiêu?",
-      "options": ["A. 5 km/giờ", "B. 8 km/giờ", "C. 10 km/giờ", "D. 12 km/giờ"],
-      "answer": "C. 10 km/giờ",
-      "explanation": "Hiệu vận tốc = Khoảng cách ÷ Thời gian = 20 ÷ 2 = 10 km/giờ.",
-      "steps": [
-        "Hiệu vận tốc = AB ÷ Thời gian gặp nhau = 20 ÷ 2 = 10 km/giờ"
+      "question": "Tính diện tích tam giác ABC biết diện tích tam giác NPC là 2/5 cm²",
+      "correctSteps": [
+        "Bước 1: Tính diện tích tam giác ANC: 2/5 * 3 = 6/5",
+        "Bước 2: Tính diện tích tam giác ABC: 6/5 * 3 = 18/5"
       ],
-      "difficulty": "easy"
+      "correctAnswer": "45",
+      "correctUnit": "cm²",
+      "difficulty": "hard",
+      "hint": "Hãy tính diện tích tam giác ABC bằng cách tính diện tích tam giác ANC"
     },
     {
       "id": 7,
-      "question": "Hai xe cùng chiều, hiệu vận tốc 10km/giờ, v₂ = 5/6 × v₁. Vận tốc xe thứ nhất là bao nhiêu?",
-      "options": ["A. 50 km/giờ", "B. 55 km/giờ", "C. 60 km/giờ", "D. 65 km/giờ"],
-      "answer": "C. 60 km/giờ",
-      "explanation": "Tỉ số v₁:v₂ = 6:5, hiệu = 1 phần = 10km/h. Xe 2 = 10×5 = 50km/h. Xe 1 = 50+10 = 60km/h.",
-      "steps": [
-        "v₂ = 5/6 × v₁ nên tỉ số v₁:v₂ = 6:5",
-        "Hiệu số phần = 1 phần = 10 km/giờ",
-        "Vận tốc xe 2 = 10 × 5 = 50 km/giờ",
-        "Vận tốc xe 1 = 50 + 10 = 60 km/giờ"
+      "question": "Tính nhanh: 24 × 15 + 86 × 24 – 24",
+      "correctSteps": [
+        "Bước 1: Tính 24 × 15 = 360",
+        "Bước 2: Tính 86 × 24 = 2064",
+        "Bước 3: Tính 360 + 2064 - 24 = 2400"
       ],
-      "difficulty": "medium"
+      "correctAnswer": "2400",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Hãy tính nhanh bằng cách nhân và chia"
     },
     {
       "id": 8,
-      "question": "Tổng cây 4 bạn là 14, Thu trồng 1/7 tổng, Thu trồng bằng 2/3 số cây của Đông. Đông trồng bao nhiêu cây?",
-      "options": ["A. 2 cây", "B. 3 cây", "C. 4 cây", "D. 5 cây"],
-      "answer": "B. 3 cây",
-      "explanation": "Thu = 14 ÷ 7 = 2 cây. Đông = Thu ÷ (2/3) = 2 × 3/2 = 3 cây.",
-      "steps": [
-        "Thu = 14 ÷ 7 × 1 = 2 cây",
-        "2/3 số Đông = 2 cây → Đông = 2 ÷ 2 × 3 = 3 cây"
+      "question": "Tìm số lớn biết hai số có hiệu là 1554 và tổng là 23xy, với y = 0",
+      "correctSteps": [
+        "Bước 1: Tính tổng hai số: 23xy = 2300",
+        "Bước 2: Tính số lớn: (2300 + 1554) / 2 = 1992"
       ],
-      "difficulty": "easy"
-    },
-    {
-      "id": 9,
-      "question": "4 bạn trồng tổng 14 cây. Xuân và Hạ trồng tổng 9 cây. Sau khi Xuân thêm 1, Hạ bớt 1 cây thì Xuân = 2 × Hạ. Hỏi ban đầu Hạ trồng bao nhiêu cây?",
-      "options": ["A. 3 cây", "B. 4 cây", "C. 5 cây", "D. 6 cây"],
-      "answer": "B. 4 cây",
-      "explanation": "Sau biến đổi: Xuân = 2 phần, Hạ = 1 phần, tổng 3 phần = 9. Hạ sau biến đổi = 3, Hạ ban đầu = 3+1 = 4.",
-      "steps": [
-        "Xuân + Hạ = 9 cây",
-        "Sau biến đổi: Xuân = 2 phần, Hạ = 1 phần (tổng = 9)",
-        "Mỗi phần = 9 ÷ 3 = 3",
-        "Hạ sau biến đổi = 3, Hạ ban đầu = 3 + 1 = 4 cây"
-      ],
-      "difficulty": "medium"
-    },
-    {
-      "id": 10,
-      "question": "Tam giác ABC. N trên BC với BN = 2/3 BC, P trên CA với AP = 2/3 AC. Biết S.NPC = 5cm². S.ABC bằng bao nhiêu?",
-      "options": ["A. 30 cm²", "B. 40 cm²", "C. 45 cm²", "D. 50 cm²"],
-      "answer": "C. 45 cm²",
-      "explanation": "S.ANC = 5 × 3 = 15 cm² (NC = 1/3 BC). S.ABC = 15 × 3 = 45 cm² (NC = 1/3 BC).",
-      "steps": [
-        "PC = AC - AP = 1/3 AC; S.ANC/S.NPC = PC : AC = 1 : 3",
-        "S.ANC = 5 ÷ 1 × 3 = 15 cm²",
-        "NC = BC - BN = 1/3 BC; S.ANC/S.ABC = NC : BC = 1 : 3",
-        "S.ABC = 15 ÷ 1 × 3 = 45 cm²"
-      ],
-      "difficulty": "hard"
-    },
-    {
-      "id": 11,
-      "question": "Tìm x biết: x × 5/8 - 3/4 × 1/4 = 1",
-      "options": ["A. x = 1", "B. x = 2", "C. x = 3/4", "D. x = 1/2"],
-      "answer": "B. x = 2",
-      "explanation": "x × 5/8 = 1 + 3/16 = 19/16. x = 19/16 × 8/5 = 19/10. Kiểm tra lại: theo đề hướng dẫn x = 1/2 hoặc x = 2.",
-      "steps": [
-        "x × 5/8 = 1 + 1/4 × 1/4 × 4 = 1 + 1/4",
-        "x × 5/8 = 5/4",
-        "x = 5/4 ÷ 5/8 = 5/4 × 8/5 = 2"
-      ],
-      "difficulty": "medium"
-    },
-    {
-      "id": 12,
-      "question": "Con kiến đi từ A đến B theo cạnh ô vuông, độ dài đường đi gấp 6 lần cạnh ô vuông nhỏ, không đi qua C. Có bao nhiêu cách đi?",
-      "options": ["A. 6 cách", "B. 7 cách", "C. 8 cách", "D. 9 cách"],
-      "answer": "C. 8 cách",
-      "explanation": "Con kiến đi 6 bước: 3 bước ngang và 3 bước dọc, không đi qua C. Đếm được 8 đường đi thỏa mãn.",
-      "steps": [
-        "Tổng 6 bước: 3 ngang + 3 dọc",
-        "Liệt kê tất cả đường đi không qua C",
-        "Có 8 cách đi thỏa mãn"
-      ],
-      "difficulty": "hard"
+      "correctAnswer": "1992",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Hãy tìm số lớn bằng cách tính tổng hai số"
     }
   ]
 }

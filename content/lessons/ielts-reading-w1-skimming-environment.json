@@ -1,0 +1,175 @@
+{
+  "id": "ielts-reading-w1-skimming-environment",
+  "fileName": "ielts-reading-w1-skimming-environment.json",
+  "title": "Reading W1: Skimming & Scanning — Climate Change",
+  "subject": "tieng-anh-ielts",
+  "grade": "8",
+  "topics": ["IELTS", "Reading", "Skimming", "Scanning", "T/F/NG", "Environment"],
+  "processedAt": "2026-05-20T00:00:00.000Z",
+  "ieltsMeta": {
+    "skill": "reading",
+    "week": 1,
+    "month": 1,
+    "targetBand": 5.0,
+    "prerequisiteBand": 4.5
+  },
+  "slides": [
+    {
+      "id": 1,
+      "title": "IELTS Reading: Tổng quan",
+      "content": "IELTS Academic Reading gồm 3 passages dài (tổng ~2,500 từ) và 40 câu hỏi. Thời gian: 60 phút. Các dạng câu hỏi phổ biến:\n• True / False / Not Given (T/F/NG)\n• Multiple Choice (MCQ)\n• Sentence Completion\n• Matching Headings\n• Short Answer\n\nBand 5.0 = trả lời đúng khoảng 23/40 câu. Band 6.0 = ~30/40.",
+      "keyFormula": "60 phút ÷ 3 passages = 20 phút/passage. Đừng dành quá nhiều thời gian cho 1 câu!"
+    },
+    {
+      "id": 2,
+      "title": "Kỹ năng 1: Skimming (Đọc lướt)",
+      "content": "Skimming = đọc nhanh để nắm ý CHÍNH của đoạn văn. KHÔNG đọc từng từ.\n\nCách skim hiệu quả:\n1. Đọc tiêu đề và câu đầu mỗi đoạn (topic sentence)\n2. Đọc câu cuối đoạn (often a conclusion)\n3. Chú ý số liệu, tên riêng, từ được in đậm\n\nMục tiêu: hiểu 'bài nói về gì' trong 2-3 phút trước khi làm câu hỏi.",
+      "keyFormula": "Skim TRƯỚC khi đọc câu hỏi → biết 'map' của bài → tìm thông tin nhanh hơn",
+      "example": {
+        "problem": "Passage về Climate Change. Câu đầu đoạn 2: 'Since the Industrial Revolution, human activities have released enormous amounts of CO2.' Câu đầu đoạn 3: 'One of the most significant impacts is the melting of polar ice caps.'",
+        "steps": [
+          "Đoạn 2 → chủ đề: nguyên nhân (CO2 từ con người)",
+          "Đoạn 3 → chủ đề: hậu quả (băng tan)",
+          "Khi câu hỏi hỏi về băng tan → tìm ngay đoạn 3"
+        ],
+        "result": "Skim giúp bạn LOCATE thông tin nhanh, không cần đọc lại toàn bài"
+      },
+      "miniGame": {
+        "question": "Khi skim một đoạn văn, câu nào quan trọng nhất để đọc?",
+        "options": ["Câu giữa đoạn", "Câu đầu đoạn (topic sentence)", "Câu có nhiều tính từ nhất", "Câu ngắn nhất"],
+        "answer": "Câu đầu đoạn (topic sentence)",
+        "explanation": "Topic sentence thường nằm ở đầu đoạn và nêu ý chính. Đọc topic sentence = hiểu cả đoạn nói về gì."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Kỹ năng 2: Scanning (Tìm thông tin cụ thể)",
+      "content": "Scanning = đọc nhanh để tìm một thông tin CỤ THỂ. Giống như dùng Ctrl+F trên máy tính.\n\nCách scan hiệu quả:\n1. Xác định BẠN CẦN TÌM GÌ (số liệu? tên? năm? từ khóa?)\n2. Di chuyển mắt nhanh qua đoạn, chỉ dừng khi thấy từ khóa\n3. KHÔNG đọc những câu không liên quan\n\nThường dùng cho: Sentence Completion, Short Answer, Note Completion",
+      "keyFormula": "Scan = tìm KEY WORDS trong câu hỏi → locate trong passage → đọc kỹ 2-3 câu xung quanh đó",
+      "miniGame": {
+        "question": "Câu hỏi: 'In what year did Arctic sea ice begin declining rapidly?' Bạn scan tìm gì trong bài?",
+        "options": ["Tìm từ 'Arctic'", "Tìm tất cả các số", "Tìm từ 'Arctic' hoặc 'sea ice' gần với một con số/năm", "Đọc lại toàn bộ passage"],
+        "answer": "Tìm từ 'Arctic' hoặc 'sea ice' gần với một con số/năm",
+        "explanation": "Identify keyword từ câu hỏi ('Arctic sea ice', 'year') rồi scan để tìm những từ đó trong bài. Con số/năm thường dễ nhận ra bằng mắt."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Dạng câu hỏi: True / False / Not Given",
+      "content": "Đây là dạng câu hỏi KHÓ NHẤT trong IELTS Reading vì 'False' và 'Not Given' dễ bị nhầm.\n\n✅ TRUE: Thông tin trong bài KHỚP với statement\n❌ FALSE: Thông tin trong bài TRÁI NGƯỢC với statement\n❓ NOT GIVEN: Bài KHÔNG ĐỀ CẬP đến thông tin này (không phải sai — chỉ là không có!)\n\nQuy tắc vàng:\n• Nếu bài KHÔNG NHẮC ĐẾN → NOT GIVEN (dù statement có vẻ hợp lý!)\n• Nếu bài nói NGƯỢC LẠI → FALSE\n• Chỉ TRUE khi thông tin khớp CỤ THỂ",
+      "keyFormula": "NOT GIVEN ≠ FALSE. Nếu không tìm thấy trong bài → NOT GIVEN, đừng đoán là FALSE!",
+      "example": {
+        "problem": "Passage: 'CO2 levels are approximately 50% higher than before industrialisation.' Statement: 'CO2 has doubled since industrialisation began.'",
+        "steps": [
+          "Bài nói: tăng 50%",
+          "Statement nói: tăng gấp đôi (100%)",
+          "50% ≠ gấp đôi → hai thông tin TRÁI NGƯỢC"
+        ],
+        "result": "→ FALSE"
+      },
+      "miniGame": {
+        "question": "Passage: 'Many scientists agree that renewable energy is becoming affordable.' Statement: 'All governments have invested in renewable energy.' Đáp án là?",
+        "options": ["TRUE", "FALSE", "NOT GIVEN"],
+        "answer": "NOT GIVEN",
+        "explanation": "Passage nói về scientists và renewable energy becoming affordable — KHÔNG đề cập 'governments investing'. Không có thông tin về việc chính phủ đầu tư → NOT GIVEN."
+      }
+    },
+    {
+      "id": 5,
+      "title": "Chiến lược làm bài Reading",
+      "content": "Thứ tự làm bài hiệu quả:\n\n1️⃣ Đọc tiêu đề passage (30 giây)\n2️⃣ Skim nhanh: đọc câu đầu mỗi đoạn (2 phút)\n3️⃣ Đọc câu hỏi đầu tiên, gạch chân key words\n4️⃣ Scan passage để tìm key words đó\n5️⃣ Đọc kỹ 2-3 câu xung quanh → trả lời\n6️⃣ Lặp lại cho các câu tiếp theo\n\nMẹo quan trọng:\n• Câu hỏi thường theo THỨ TỰ của bài (ngoại trừ Matching Headings)\n• Không bỏ trống — đoán nếu không chắc\n• Kiểm tra lại T/F/NG cẩn thận nhất",
+      "keyFormula": "Questions follow the order of the passage → sau khi tìm được đáp án câu 3, bắt đầu scan từ chỗ đó cho câu 4"
+    }
+  ],
+  "exercises": [],
+  "ieltsExercises": [
+    {
+      "id": 1,
+      "type": "ielts-reading",
+      "title": "Practice: Climate Change — A Global Challenge",
+      "passageTitle": "Climate Change: A Global Challenge",
+      "passage": "The Earth's climate has been changing rapidly over the past century, primarily due to human activities. Scientists worldwide agree that the main cause of this change is the increased concentration of greenhouse gases, particularly carbon dioxide (CO2), in the atmosphere. These gases trap heat from the sun, causing global temperatures to rise in a phenomenon known as the greenhouse effect.\n\nSince the Industrial Revolution in the 18th century, human activities such as burning fossil fuels, deforestation, and industrial processes have released enormous amounts of CO2 into the atmosphere. Today, atmospheric CO2 levels are approximately 50% higher than they were before industrialisation began. The consequences of this rise are far-reaching and increasingly visible.\n\nOne of the most significant impacts is the melting of polar ice caps and glaciers. Arctic sea ice has declined by about 40% since the 1980s, contributing to rising sea levels. Coastal cities around the world face the threat of flooding, and some low-lying island nations may disappear entirely within this century. Scientists predict that sea levels could rise by up to one metre by 2100 if current trends continue.\n\nExtreme weather events have also become more frequent and intense. Hurricanes, droughts, wildfires, and floods have all increased in severity, causing billions of dollars in economic damage and displacing millions of people from their homes. In 2020 alone, climate-related disasters affected over 50 million people worldwide.\n\nDespite the grim outlook, there is reason for hope. Many countries have committed to reducing their carbon emissions through international agreements such as the Paris Agreement of 2015. Renewable energy sources, including solar and wind power, are growing rapidly and becoming increasingly affordable. Electric vehicles are replacing petrol-powered cars, and innovative technologies for carbon capture are being developed.\n\nThe challenge ahead is immense, but the scientific community and many world leaders agree that urgent action is needed. The decisions made in the next decade will determine the future of our planet for generations to come.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "true-false-ng",
+          "statement": "Atmospheric CO2 levels are currently 50% higher than before industrialisation.",
+          "correctAnswer": "TRUE",
+          "explanation": "Paragraph 2 states: 'atmospheric CO2 levels are approximately 50% higher than they were before industrialisation began.' — khớp trực tiếp với statement."
+        },
+        {
+          "id": 2,
+          "type": "true-false-ng",
+          "statement": "Arctic sea ice has completely disappeared since the 1980s.",
+          "correctAnswer": "FALSE",
+          "explanation": "Paragraph 3 says it 'declined by about 40%' — not completely disappeared. 'Declined 40%' ≠ 'completely disappeared' → FALSE."
+        },
+        {
+          "id": 3,
+          "type": "true-false-ng",
+          "statement": "Every country in the world signed the Paris Agreement.",
+          "correctAnswer": "NOT GIVEN",
+          "explanation": "Paragraph 5 says 'many countries have committed' — không nói 'every country'. Bài không đề cập số lượng cụ thể quốc gia ký → NOT GIVEN."
+        },
+        {
+          "id": 4,
+          "type": "multiple-choice",
+          "question": "According to the passage, what is the PRIMARY cause of rapid climate change?",
+          "options": [
+            "A. Natural weather cycles",
+            "B. Human activities",
+            "C. Volcanic eruptions",
+            "D. Ocean temperature changes"
+          ],
+          "correctAnswer": "B",
+          "explanation": "Paragraph 1: 'primarily due to human activities' — câu trả lời rõ ràng là B."
+        },
+        {
+          "id": 5,
+          "type": "multiple-choice",
+          "question": "Which of the following is NOT mentioned as a consequence of rising sea levels?",
+          "options": [
+            "A. Flooding of coastal cities",
+            "B. Loss of island nations",
+            "C. Destruction of coral reefs",
+            "D. Sea level rise of up to 1 metre by 2100"
+          ],
+          "correctAnswer": "C",
+          "explanation": "Paragraph 3 mentions flooding (A), island nations disappearing (B), and 1-metre sea level rise (D). Coral reefs (C) are NOT mentioned → C is the answer."
+        },
+        {
+          "id": 6,
+          "type": "multiple-choice",
+          "question": "How many people were affected by climate-related disasters in 2020?",
+          "options": [
+            "A. Over 5 million",
+            "B. Over 50 million",
+            "C. Over 500 million",
+            "D. Over 5 billion"
+          ],
+          "correctAnswer": "B",
+          "explanation": "Paragraph 4: 'In 2020 alone, climate-related disasters affected over 50 million people worldwide.' → B."
+        },
+        {
+          "id": 7,
+          "type": "sentence-completion",
+          "blankBefore": "The greenhouse effect occurs when gases in the atmosphere trap",
+          "blankAfter": "from the sun.",
+          "correctAnswer": "heat",
+          "explanation": "Paragraph 1: 'These gases trap heat from the sun' → the missing word is 'heat'."
+        },
+        {
+          "id": 8,
+          "type": "sentence-completion",
+          "blankBefore": "Arctic sea ice has declined by approximately",
+          "blankAfter": "since the 1980s.",
+          "correctAnswer": "40%",
+          "explanation": "Paragraph 3: 'Arctic sea ice has declined by about 40% since the 1980s' → answer is '40%'."
+        }
+      ],
+      "difficulty": "medium",
+      "estimatedBand": 5.0,
+      "hint": "Với T/F/NG: đọc kỹ từng từ của statement và so sánh với bài. 'NOT GIVEN' nghĩa là bài không đề cập, không phải là sai!"
+    }
+  ]
+}

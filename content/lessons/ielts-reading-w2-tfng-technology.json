@@ -1,0 +1,120 @@
+{
+  "id": "ielts-reading-w2-tfng-technology",
+  "fileName": "ielts-reading-w2-tfng-technology.json",
+  "title": "Reading W2: T/F/NG + Matching — Technology & Society",
+  "subject": "tieng-anh-ielts",
+  "grade": "8",
+  "topics": ["IELTS", "Reading", "T/F/NG", "Matching Headings", "Technology"],
+  "processedAt": "2026-05-20T00:00:00.000Z",
+  "ieltsMeta": {
+    "skill": "reading",
+    "week": 2,
+    "month": 1,
+    "targetBand": 5.0,
+    "prerequisiteBand": 4.5
+  },
+  "slides": [
+    {
+      "id": 1,
+      "title": "Ôn lại: T/F/NG Advanced",
+      "content": "Những cạm bẫy phổ biến trong T/F/NG:\n\n🪤 Bẫy 1: Thông tin đúng nhưng KHÔNG ĐẦY ĐỦ\nPassage: 'Some students use smartphones for learning.'\nStatement: 'All students use smartphones for learning.'\n→ FALSE (not all = 'some')\n\n🪤 Bẫy 2: Tên/số liệu gần đúng nhưng sai\nPassage: 'The study involved 500 participants.'\nStatement: 'The research included around 5,000 people.'\n→ FALSE (500 ≠ 5,000)\n\n🪤 Bẫy 3: Logical inference vs. explicit statement\nPassage: 'The company reduced its workforce by 30%.' \nStatement: 'Many workers lost their jobs.'\n→ TRUE nếu '30%' có thể coi là 'many', BUT nếu không chắc → cân nhắc kỹ\n\n💡 Key: Chỉ dùng thông tin CÓ TRONG BÀI, không dùng kiến thức bên ngoài!",
+      "keyFormula": "NOT GIVEN = thông tin không có trong bài. Không phải TRUE, không phải FALSE — đơn giản là KHÔNG ĐỀ CẬP.",
+      "miniGame": {
+        "question": "Passage: 'Social media platforms were first developed in the early 2000s.' Statement: 'Facebook was the first social media platform ever created.' Đáp án?",
+        "options": ["TRUE", "FALSE", "NOT GIVEN"],
+        "answer": "NOT GIVEN",
+        "explanation": "Passage nói social media 'first developed in the early 2000s' — nhưng KHÔNG đề cập Facebook có phải nền tảng đầu tiên hay không. Không có thông tin cụ thể → NOT GIVEN."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Dạng câu hỏi: Matching Headings",
+      "content": "Matching Headings = ghép tiêu đề (headings) với đoạn văn đúng.\n\nCách làm:\n1. ĐỌC tiêu đề trước → hiểu các options\n2. Skim từng đoạn (2-3 câu) → tìm MAIN IDEA\n3. Ghép heading nào phù hợp với main idea đó\n4. Loại trừ heading đã dùng\n\nLưu ý:\n• Heading mô tả TOÀN BỘ đoạn, không phải 1 chi tiết nhỏ\n• Heading thường paraphrase ý của đoạn, không phải chép nguyên từ\n• Đoạn thường có 1-2 'decoy' details mà một heading khác đề cập — nhưng không phải main idea",
+      "keyFormula": "Main idea của đoạn = thường ở câu ĐẦU hoặc câu CUỐI. Câu giữa thường là supporting details."
+    }
+  ],
+  "exercises": [],
+  "ieltsExercises": [
+    {
+      "id": 1,
+      "type": "ielts-reading",
+      "title": "Practice: The Digital Revolution",
+      "passageTitle": "The Digital Revolution and Its Impact on Society",
+      "passage": "The internet has fundamentally transformed the way humans communicate, work, and access information. Since its widespread adoption in the 1990s, the internet has grown to connect over five billion people worldwide, making it one of the most significant technological developments in human history. Businesses have been revolutionised by e-commerce, remote working has become commonplace, and vast amounts of knowledge are now accessible to anyone with a connection.\n\nHowever, this digital revolution has not benefited everyone equally. In many developing countries, reliable internet access remains limited due to poor infrastructure and high costs. This 'digital divide' means that while some populations enjoy the full benefits of the information age, others are effectively excluded. Research conducted in 2022 found that over 2.7 billion people globally still lack internet access, the majority of whom live in sub-Saharan Africa and South Asia.\n\nSocial media, arguably the most visible product of the internet age, has had a profound and complex impact on society. Platforms such as Facebook, Instagram, and Twitter have enabled unprecedented levels of global communication and have been powerful tools for social and political movements. The Arab Spring uprisings of 2010-2012, for example, were significantly facilitated by social media platforms that allowed protesters to organise and communicate.\n\nNevertheless, social media's influence is not universally regarded as positive. Numerous studies have linked heavy social media use to increased rates of anxiety and depression, particularly among teenagers. Critics also point to the spread of misinformation, online harassment, and the manipulation of political discourse as serious societal harms. Some researchers have called for greater regulation of social media companies, though others argue that this would threaten freedom of speech.\n\nLooking ahead, technologies such as artificial intelligence (AI) and the Internet of Things (IoT) are expected to deepen digital integration into everyday life further. Smart homes, autonomous vehicles, and AI-powered healthcare diagnostics all promise significant quality-of-life improvements. However, these advancements also raise important questions about privacy, employment displacement, and the concentration of power in the hands of a small number of technology companies.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "true-false-ng",
+          "statement": "The internet has been widely used since the 1980s.",
+          "correctAnswer": "FALSE",
+          "explanation": "Paragraph 1 says: 'Since its widespread adoption in the 1990s' — NOT the 1980s. Statement says 1980s → FALSE."
+        },
+        {
+          "id": 2,
+          "type": "true-false-ng",
+          "statement": "More than 2 billion people lack internet access.",
+          "correctAnswer": "TRUE",
+          "explanation": "Paragraph 2: 'over 2.7 billion people globally still lack internet access' — 2.7 billion is more than 2 billion → TRUE."
+        },
+        {
+          "id": 3,
+          "type": "true-false-ng",
+          "statement": "The Arab Spring was entirely caused by social media.",
+          "correctAnswer": "FALSE",
+          "explanation": "Paragraph 3 says social media 'significantly facilitated' the uprisings — NOT that it was the sole cause. 'Entirely caused' is stronger than 'significantly facilitated' → FALSE."
+        },
+        {
+          "id": 4,
+          "type": "true-false-ng",
+          "statement": "All researchers agree that social media companies should be regulated.",
+          "correctAnswer": "FALSE",
+          "explanation": "Paragraph 4: 'Some researchers have called for greater regulation... though others argue that this would threaten freedom of speech.' — NOT all researchers agree → FALSE."
+        },
+        {
+          "id": 5,
+          "type": "true-false-ng",
+          "statement": "AI-powered vehicles are already available to buy in most countries.",
+          "correctAnswer": "NOT GIVEN",
+          "explanation": "Paragraph 5 mentions 'autonomous vehicles' as something expected to develop — but does NOT say they are currently available to buy in most countries → NOT GIVEN."
+        },
+        {
+          "id": 6,
+          "type": "multiple-choice",
+          "question": "According to the passage, where do most people without internet access live?",
+          "options": [
+            "A. North America and Europe",
+            "B. East Asia and Southeast Asia",
+            "C. Sub-Saharan Africa and South Asia",
+            "D. Latin America and the Caribbean"
+          ],
+          "correctAnswer": "C",
+          "explanation": "Paragraph 2: 'the majority of whom live in sub-Saharan Africa and South Asia' → C."
+        },
+        {
+          "id": 7,
+          "type": "multiple-choice",
+          "question": "Which of the following is mentioned as a NEGATIVE effect of social media?",
+          "options": [
+            "A. Enabling political movements",
+            "B. Connecting people globally",
+            "C. The spread of false information",
+            "D. Creating new business opportunities"
+          ],
+          "correctAnswer": "C",
+          "explanation": "Paragraph 4 lists negatives: 'spread of misinformation' (= false information), harassment, and manipulation. Options A and B are positives. D is not mentioned as a social media effect → C."
+        },
+        {
+          "id": 8,
+          "type": "sentence-completion",
+          "blankBefore": "The 'digital divide' refers to the unequal access to the internet due to poor",
+          "blankAfter": "and high costs.",
+          "correctAnswer": "infrastructure",
+          "explanation": "Paragraph 2: 'reliable internet access remains limited due to poor infrastructure and high costs' → answer is 'infrastructure'."
+        }
+      ],
+      "difficulty": "medium",
+      "estimatedBand": 5.0,
+      "hint": "Với câu hỏi T/F/NG: kiểm tra xem passage có THỰC SỰ đề cập thông tin đó không, hay bạn đang dùng kiến thức bên ngoài?"
+    }
+  ]
+}

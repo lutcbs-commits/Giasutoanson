@@ -1,0 +1,127 @@
+{
+  "id": "ielts-speaking-w8-part1-part2",
+  "fileName": "ielts-speaking-w8-part1-part2.json",
+  "title": "Speaking W8: Part 1 & Part 2 — Places & Daily Life",
+  "subject": "tieng-anh-ielts",
+  "grade": "8",
+  "topics": ["IELTS", "Speaking", "Part 1", "Part 2", "Fluency", "Cue Card"],
+  "processedAt": "2026-05-20T00:00:00.000Z",
+  "ieltsMeta": {
+    "skill": "speaking",
+    "week": 8,
+    "month": 2,
+    "targetBand": 5.5,
+    "prerequisiteBand": 4.5
+  },
+  "slides": [
+    {
+      "id": 1,
+      "title": "IELTS Speaking: Cấu trúc bài thi",
+      "content": "Bài thi Speaking kéo dài 11-14 phút, chia 3 phần:\n\n🗣️ Part 1 (4-5 phút):\n→ Câu hỏi về bản thân: hometown, hobbies, work/study, daily routine\n→ Trả lời ngắn: 2-3 câu mỗi câu hỏi\n\n📋 Part 2 (3-4 phút):\n→ Nhận cue card (thẻ gợi ý)\n→ 1 phút chuẩn bị (ghi chú ngắn)\n→ Nói 1-2 phút (không ngắt)\n→ Examiner hỏi 1-2 câu follow-up\n\n💬 Part 3 (4-5 phút):\n→ Câu hỏi abstract về chủ đề Part 2\n→ Thảo luận sâu hơn, phân tích, so sánh\n\n🎯 Điểm thi dựa trên 4 tiêu chí bằng nhau:\nFluency & Coherence | Lexical Resource | Grammar | Pronunciation",
+      "keyFormula": "Part 2 là cơ hội TỐT NHẤT để nói nhiều — chuẩn bị kỹ 4 bullet points trên cue card!"
+    },
+    {
+      "id": 2,
+      "title": "Part 1: Cách mở rộng câu trả lời",
+      "content": "Band 4.5 thường: Trả lời ngắn, không mở rộng\n→ Q: 'Do you like music?' A: 'Yes, I like music.'\n\nBand 5.5+: Extend và elaborate\n→ Q: 'Do you like music?' \n→ A: 'Yes, I really enjoy listening to music, especially pop and Vietnamese ballads. I often listen to music while studying because it helps me concentrate. My favourite artist is Sơn Tùng M-TP.'\n\nCông thức mở rộng câu trả lời:\n1. Answer directly (yes/no + opinion)\n2. Reason (because / as / since)\n3. Example (for example / such as)\n4. Additional detail (also / in addition / and)\n\nFillers tự nhiên (KHÔNG phải 'um, uh'):\n• 'Well, that's an interesting question.'\n• 'Let me think about that for a moment.'\n• 'To be honest with you...'",
+      "keyFormula": "Mỗi câu trả lời Part 1 nên có 2-3 câu. Ngắn quá → thấp điểm Fluency!",
+      "example": {
+        "problem": "Q: 'Do you prefer living in the city or the countryside?'",
+        "steps": [
+          "Answer: 'I definitely prefer living in the city.'",
+          "Reason: 'because there are so many more opportunities for work and entertainment.'",
+          "Example: 'For example, I can easily access shopping malls, restaurants, and cultural events.'",
+          "Additional: 'Although it can be noisy and crowded, the convenience outweighs these disadvantages.'"
+        ],
+        "result": "'I definitely prefer living in the city because there are so many more opportunities for work and entertainment. For example, I can easily access shopping malls, restaurants, and cultural events. Although it can be noisy and crowded, the convenience outweighs these disadvantages.'"
+      },
+      "miniGame": {
+        "question": "Q: 'What kind of food do you like?' Câu trả lời nào TỐT NHẤT cho band 5.5?",
+        "options": [
+          "I like Vietnamese food.",
+          "I like Vietnamese food because it is delicious.",
+          "I particularly enjoy Vietnamese cuisine, especially dishes like pho and banh mi, because they are both delicious and affordable. I also love trying different regional foods when I travel.",
+          "I like many kinds of food such as Vietnamese, Italian, and Japanese food."
+        ],
+        "answer": "I particularly enjoy Vietnamese cuisine, especially dishes like pho and banh mi, because they are both delicious and affordable. I also love trying different regional foods when I travel.",
+        "explanation": "Câu C tốt nhất: vocabulary phong phú ('particularly', 'cuisine'), specific examples (pho, banh mi), reason (delicious AND affordable), và extends với thêm thông tin (travel). Câu A và B quá ngắn. Câu D chỉ liệt kê."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Part 2: Chiến lược dùng 1 phút chuẩn bị",
+      "content": "Khi nhận cue card, 4 bullet points thường là:\n• What it is / Who / Where / When\n• What it looks like / Details\n• Why it's important/memorable\n• How you feel about it\n\nTrong 1 phút, viết nhanh:\n✏️ Keywords (không phải câu đầy đủ)\n✏️ 1-2 examples cho mỗi bullet\n✏️ Opening sentence\n✏️ Tense (present? past? both?)\n\nCấu trúc nói 2 phút:\n1. Opening (giới thiệu topic) — 15s\n2. Bullet 1 + 2 (details) — 45s\n3. Bullet 3 + 4 (why/feelings) — 45s\n4. Closing (summarise/feelings) — 15s",
+      "keyFormula": "Nếu quên từ → PARAPHRASE. 'I can't remember the exact word, but it's a type of...' — đây là kỹ năng, không phải lỗi!"
+    },
+    {
+      "id": 4,
+      "title": "Vocabulary cho chủ đề Places",
+      "content": "Mô tả địa điểm:\n🏙️ Location: 'located in the heart of the city / on the outskirts / in a rural area / nestled between mountains'\n\n👁️ Appearance: 'bustling / peaceful / picturesque / vibrant / serene / cosy / spacious / crowded'\n\n🌟 Atmosphere: 'lively atmosphere / relaxing ambiance / warm and welcoming / full of character'\n\n💭 Feelings: 'It holds a special place in my heart / It brings back wonderful memories / I feel at peace there / It never fails to impress me'\n\n⏰ Frequency: 'I visit there regularly / I go there whenever I get the chance / I've been there countless times'\n\nPhân biệt:\n• 'scenery' (phong cảnh thiên nhiên) vs 'view' (tầm nhìn từ một điểm)\n• 'crowded' (đông) vs 'lively' (sôi động — tích cực hơn)",
+      "keyFormula": "Thay vì 'very beautiful' → dùng 'stunning', 'breathtaking', 'picturesque'. Thay 'very busy' → 'bustling', 'vibrant'"
+    }
+  ],
+  "exercises": [],
+  "ieltsExercises": [
+    {
+      "id": 1,
+      "type": "ielts-speaking",
+      "part": 1,
+      "title": "Part 1: Hometown & Daily Life",
+      "topic": "Hometown and daily routine",
+      "followUpQuestions": [
+        "Where are you from? Do you like living there?",
+        "What do you usually do in the evenings?",
+        "Do you prefer spending time indoors or outdoors? Why?",
+        "How do you usually get to school or work?",
+        "Do you have any hobbies? How often do you do them?"
+      ],
+      "tips": [
+        "Trả lời ít nhất 2-3 câu cho mỗi câu hỏi",
+        "Dùng 'because', 'so', 'which means' để mở rộng",
+        "Dùng tenses đúng: hiện tại cho thói quen, quá khứ cho ký ức",
+        "Đừng học thuộc lòng — nghe tự nhiên hơn!",
+        "Nếu không hiểu câu hỏi: 'I'm sorry, could you repeat that?' là hoàn toàn OK"
+      ],
+      "modelAnswer": "1. Where are you from? Do you like living there?\n'I'm from Hanoi, the capital city of Vietnam. I really enjoy living there because it's an incredibly vibrant city with a rich history and culture. There's always something to do — from exploring the Old Quarter to visiting museums and trying street food. Although it can be quite noisy and traffic is often terrible, the energy of the city really appeals to me.'\n\n2. What do you usually do in the evenings?\n'Well, my evenings are usually quite busy with schoolwork, to be honest. I typically spend about two hours studying after dinner. But when I have free time, I love watching English movies or TV shows to practise my language skills. At weekends, I sometimes meet up with friends at a café or go to the park.'\n\n3. Do you prefer spending time indoors or outdoors? Why?\n'I'd say it depends on the season. During summer, I prefer staying indoors because Hanoi gets extremely hot and humid — it can easily reach 38 or 39 degrees! However, in autumn and spring, I absolutely love being outside. The weather is perfect for cycling around Hoan Kiem Lake or having a picnic in the park.'",
+      "keyVocabulary": [
+        { "word": "vibrant", "meaning": "sôi động, đầy sức sống", "example": "Hanoi is a vibrant city with lots of activities." },
+        { "word": "appeal to", "meaning": "hấp dẫn, thu hút", "example": "The city's energy really appeals to me." },
+        { "word": "humid", "meaning": "ẩm ướt", "example": "The summer weather is hot and humid." },
+        { "word": "explore", "meaning": "khám phá", "example": "I enjoy exploring new restaurants in the city." },
+        { "word": "to be honest", "meaning": "thật ra mà nói (filler tự nhiên)", "example": "To be honest, I prefer studying in the evening." }
+      ],
+      "difficulty": "easy",
+      "estimatedBand": 5.0
+    },
+    {
+      "id": 2,
+      "type": "ielts-speaking",
+      "part": 2,
+      "title": "Part 2: Describe a Place You Love",
+      "topic": "A special place",
+      "cueCard": "Describe a place you enjoy visiting.\n\nYou should say:\n• where this place is\n• what it looks like\n• what you usually do there\n• and explain why you enjoy visiting this place so much.\n\n⏱️ You will have 1 minute to prepare. Then speak for 1-2 minutes.",
+      "followUpQuestions": [
+        "Do you think it's important for people to have a favourite place?",
+        "How have places changed in your country in recent years?",
+        "Do you think places are more important to older people or younger people?"
+      ],
+      "tips": [
+        "Dùng 1 phút chuẩn bị để ghi chú: WHERE (location + description), WHAT (activities), WHY (memories + feelings)",
+        "Bắt đầu bằng câu mạnh: 'The place that immediately comes to mind is...'",
+        "Pha trộn thì quá khứ và hiện tại khi kể chuyện",
+        "Dùng sensory details: màu sắc, âm thanh, mùi hương — làm bài nói sinh động hơn",
+        "Kết thúc bằng cảm xúc: 'That's why this place holds such a special place in my heart.'"
+      ],
+      "modelAnswer": "The place that immediately comes to mind is Hoan Kiem Lake in the centre of Hanoi. It's a beautiful, serene lake that sits right in the heart of the bustling Old Quarter, which makes it feel like a peaceful escape from the busy city life surrounding it.\n\nThe lake itself is quite small but absolutely picturesque. In the middle of the lake, there's a tiny island called Ngoc Son Temple, which you can reach via a charming red bridge called The Huc Bridge. The water is a deep green colour, and early in the morning, you can often see a light mist floating over the surface, which gives the whole place a really magical quality.\n\nWhenever I visit, I usually take a slow walk around the lake, which takes about 20 to 30 minutes. Early in the morning, it's filled with elderly people doing tai chi and young families jogging. In the evenings, it transforms into a social hub where street vendors sell food and people sit on benches chatting.\n\nI enjoy visiting this place so much because it connects me with Hanoi's history and culture. There's a legend about a giant turtle that returned a magical sword to a king right here in this lake — that story has been passed down for centuries. But beyond the history, I simply feel at peace whenever I'm there. No matter how stressed I am with school, a walk around Hoan Kiem Lake always makes me feel better. It truly holds a special place in my heart.",
+      "keyVocabulary": [
+        { "word": "serene", "meaning": "yên bình, thanh thản", "example": "The lake has a serene atmosphere in the morning." },
+        { "word": "picturesque", "meaning": "đẹp như tranh vẽ", "example": "The old town is absolutely picturesque." },
+        { "word": "bustling", "meaning": "nhộn nhịp, đông đúc (nghĩa tích cực)", "example": "The bustling market is full of life." },
+        { "word": "transforms", "meaning": "biến đổi, trở thành", "example": "The lake transforms into a social hub at night." },
+        { "word": "passed down", "meaning": "truyền lại (qua nhiều thế hệ)", "example": "This tradition has been passed down for centuries." }
+      ],
+      "difficulty": "medium",
+      "estimatedBand": 5.5
+    }
+  ]
+}

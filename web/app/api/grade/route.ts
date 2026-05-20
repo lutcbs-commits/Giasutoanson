@@ -101,9 +101,12 @@ export async function POST(req: NextRequest) {
         overallFeedback: raw.overallFeedback ?? '',
         score: typeof raw.score === 'number' ? raw.score : 5,
         modelSolution: {
-          steps: Array.isArray(raw.modelSolution?.steps) ? raw.modelSolution.steps : [],
-          answer: raw.modelSolution?.answer ?? '',
-          unit: raw.modelSolution?.unit ?? '',
+          // Always use authoritative correctSteps — never rely on AI to reproduce them
+          steps: Array.isArray(body.correctSteps) && body.correctSteps.length > 0
+            ? body.correctSteps
+            : Array.isArray(raw.modelSolution?.steps) ? raw.modelSolution.steps : [],
+          answer: raw.modelSolution?.answer ?? body.correctAnswer ?? '',
+          unit: raw.modelSolution?.unit ?? body.correctUnit ?? '',
           explanation: raw.modelSolution?.explanation ?? '',
         },
         diagram: raw.diagram ?? null,

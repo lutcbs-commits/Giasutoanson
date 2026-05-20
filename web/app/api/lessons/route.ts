@@ -15,18 +15,26 @@ export async function GET() {
           topics: data?.topics ?? [],
           slideCount: data?.slides?.length ?? 0,
           exerciseCount: data?.exercises?.length ?? 0,
+          ieltsExerciseCount: data?.ieltsExercises?.length ?? 0,
           processedAt: data?.processedAt ?? null,
+          subject: data?.subject ?? 'toan',
+          grade: data?.grade ?? '5',
+          ieltsMeta: data?.ieltsMeta ?? null,
         };
       }
       return {
         id,
         fileName,
         processed: false,
-        title: fileName.replace(/\.pdf$/i, ''),
+        title: fileName.replace(/\.pdf$/i, '').replace(/\.json$/i, ''),
         topics: [],
         slideCount: 0,
         exerciseCount: 0,
+        ieltsExerciseCount: 0,
         processedAt: null,
+        subject: 'toan',
+        grade: '5',
+        ieltsMeta: null,
       };
     });
 
