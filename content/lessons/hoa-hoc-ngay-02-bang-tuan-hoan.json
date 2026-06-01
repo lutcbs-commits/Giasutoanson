@@ -1,0 +1,117 @@
+{
+  "id": "hoa-hoc-ngay-02-bang-tuan-hoan",
+  "fileName": "hoa-hoc-ngay-02-bang-tuan-hoan.json",
+  "title": "Ngày 2: Bảng Tuần Hoàn — Bản Đồ Của Hoá Học",
+  "topics": ["Hoá Học", "Bảng Tuần Hoàn", "Quy Luật Biến Đổi"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Cấu Trúc Bảng Tuần Hoàn",
+      "content": "Bảng tuần hoàn các nguyên tố hoá học được tổ chức theo:\n\nCHU KỲ (hàng ngang):\n• Các nguyên tố trong cùng chu kỳ có cùng số lớp electron\n• Chu kỳ 1: 2 nguyên tố (H, He)\n• Chu kỳ 2: 8 nguyên tố (Li → Ne)\n• Chu kỳ 3: 8 nguyên tố (Na → Ar)\n\nNHÓM (cột dọc):\n• Các nguyên tố trong cùng nhóm có cùng số electron lớp ngoài cùng\n• Nhóm I (1e ngoài): Li, Na, K, ...\n• Nhóm VII (7e ngoài): F, Cl, Br, ...\n\nVí dụ: Na (2,8,1) → 3 lớp = chu kỳ 3; 1e ngoài = nhóm I",
+      "keyFormula": "Số lớp e = số chu kỳ; Số e ngoài cùng = số nhóm",
+      "example": {
+        "problem": "Xác định vị trí của Na (Z=11) trong bảng tuần hoàn.",
+        "steps": [
+          "Cấu hình electron Na: 2, 8, 1",
+          "Số lớp electron = 3 → Na thuộc chu kỳ 3",
+          "Số electron lớp ngoài cùng = 1 → Na thuộc nhóm I"
+        ],
+        "result": "Na ở chu kỳ 3, nhóm I"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Quy Luật Biến Đổi Trong Chu Kỳ",
+      "content": "Trong một chu kỳ (từ trái sang phải):\n\n• Điện tích hạt nhân tăng dần\n• Bán kính nguyên tử GIẢM dần\n• Tính kim loại GIẢM dần\n• Tính phi kim TĂNG dần\n• Độ âm điện tăng dần\n\nVí dụ — Chu kỳ 3: Na, Mg, Al, Si, P, S, Cl, Ar\n• Na: kim loại mạnh nhất chu kỳ 3\n• Cl: phi kim mạnh nhất chu kỳ 3\n• Ar: khí hiếm\n\nSo sánh tính kim loại: Na > Mg > Al (giảm dần từ trái sang phải)",
+      "keyFormula": "Chu kỳ trái → phải: tính KL giảm, tính PK tăng",
+      "example": null,
+      "miniGame": {
+        "question": "So sánh tính kim loại của Na, Mg, Al (cùng chu kỳ 3):",
+        "options": ["Na < Mg < Al", "Na > Mg > Al", "Al > Mg > Na", "Bằng nhau vì cùng chu kỳ"],
+        "answer": "Na > Mg > Al",
+        "explanation": "Trong chu kỳ, từ trái sang phải tính kim loại giảm dần. Na ở nhóm I (1e ngoài), Mg ở nhóm II (2e ngoài), Al ở nhóm III (3e ngoài). Na dễ nhường e nhất nên tính kim loại mạnh nhất."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Quy Luật Biến Đổi Trong Nhóm",
+      "content": "Trong một nhóm (từ trên xuống dưới):\n\n• Số lớp electron tăng dần\n• Bán kính nguyên tử TĂNG dần\n• Tính kim loại TĂNG dần\n• Tính phi kim GIẢM dần\n• Độ âm điện giảm dần\n\nVí dụ — Nhóm VII (halogen): F, Cl, Br, I\n• F: phi kim mạnh nhất trong nhóm\n• I: phi kim yếu nhất trong nhóm\n\nVí dụ — Nhóm I (kim loại kiềm): Li, Na, K, Rb, Cs\n• Li: kim loại yếu nhất trong nhóm\n• Cs: kim loại mạnh nhất trong nhóm",
+      "keyFormula": "Nhóm trên → dưới: tính KL tăng, tính PK giảm",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Bài Mẫu — Xác Định Nguyên Tố Từ Vị Trí",
+      "content": "Bài toán ngược: Biết vị trí trong bảng tuần hoàn → tìm nguyên tố.\n\nPhương pháp:\n1. Chu kỳ = số thứ tự → biết số lớp electron\n2. Nhóm = số electron ngoài cùng\n3. Viết cấu hình → tính Z → tìm tên nguyên tố\n\nVí dụ: X thuộc chu kỳ 3, nhóm VII\n• 3 lớp electron: ?, ?, ?\n• 7 electron lớp ngoài cùng\n• Cấu hình: 2, 8, 7\n• Z = 2 + 8 + 7 = 17 → Clo (Cl)\n• 7e ngoài → phi kim mạnh",
+      "keyFormula": "Z = tổng số electron theo cấu hình",
+      "example": {
+        "problem": "Nguyên tố R có cấu hình 2, 8, 8, 2. Xác định chu kỳ, nhóm và tên nguyên tố.",
+        "steps": [
+          "Số lớp electron = 4 → R thuộc chu kỳ 4",
+          "Số electron ngoài cùng = 2 → R thuộc nhóm II",
+          "Z = 2 + 8 + 8 + 2 = 20",
+          "Z=20 → Canxi (Ca)"
+        ],
+        "result": "R là Canxi (Ca), chu kỳ 4, nhóm II"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Tổng Kết Ngày 2",
+      "content": "Hệ thống kiến thức bảng tuần hoàn:\n\n1. Chu kỳ (hàng ngang): cùng số lớp e\n   → Trái sang phải: tính KL giảm, PK tăng, bán kính giảm\n\n2. Nhóm (cột dọc): cùng số e ngoài cùng\n   → Trên xuống dưới: tính KL tăng, PK giảm, bán kính tăng\n\n3. Từ cấu hình → vị trí:\n   Số lớp = chu kỳ; Số e ngoài = nhóm\n\n4. Từ vị trí → cấu hình:\n   Chu kỳ cho số lớp; Nhóm cho e ngoài\n\nLuyện tập:\n• Na(2,8,1) → CK3, nhóm I ✓\n• R(2,8,8,2) → CK4, nhóm II → Ca ✓",
+      "keyFormula": "Số lớp e = chu kỳ; Số e ngoài = nhóm",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "So sánh tính kim loại của Na, Mg, Al. Giải thích dựa vào vị trí trong bảng tuần hoàn.",
+      "correctSteps": [
+        "Na (Z=11): 2,8,1 → nhóm I; Mg (Z=12): 2,8,2 → nhóm II; Al (Z=13): 2,8,3 → nhóm III",
+        "Cả ba đều thuộc chu kỳ 3 (3 lớp electron)",
+        "Trong chu kỳ, từ trái sang phải tính kim loại giảm dần",
+        "Kết luận: Tính kim loại Na > Mg > Al"
+      ],
+      "correctAnswer": "Na > Mg > Al",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Trong chu kỳ, từ trái sang phải tính kim loại giảm. So sánh vị trí nhóm của 3 nguyên tố."
+    },
+    {
+      "id": 2,
+      "question": "Nguyên tố R có cấu hình electron 2, 8, 8, 2. Xác định chu kỳ, nhóm và tên nguyên tố của R.",
+      "correctSteps": [
+        "Đếm số lớp electron: 4 lớp → R thuộc chu kỳ 4",
+        "Số electron lớp ngoài cùng: 2 → R thuộc nhóm II",
+        "Z = 2 + 8 + 8 + 2 = 20",
+        "Z = 20 → Canxi (Ca)"
+      ],
+      "correctAnswer": "Ca",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Số lớp = chu kỳ; Số e ngoài = nhóm; Z = tổng số e."
+    },
+    {
+      "id": 3,
+      "question": "Nguyên tố X thuộc chu kỳ 3, nhóm VII. Viết cấu hình electron và xác định X là kim loại hay phi kim.",
+      "correctSteps": [
+        "Chu kỳ 3 → 3 lớp electron; Nhóm VII → 7 electron lớp ngoài cùng",
+        "Cấu hình: lớp 1 = 2e, lớp 2 = 8e, lớp 3 = 7e → 2, 8, 7",
+        "Z = 2 + 8 + 7 = 17 → Clo (Cl)",
+        "7 electron lớp ngoài (5-7e → phi kim) → X là phi kim mạnh"
+      ],
+      "correctAnswer": "Cl, phi kim",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Từ chu kỳ và nhóm → xác định số lớp và e ngoài → viết cấu hình → tính Z."
+    }
+  ]
+}

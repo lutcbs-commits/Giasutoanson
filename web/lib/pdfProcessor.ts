@@ -40,14 +40,27 @@ export function loadLesson(id: string): LessonData | null {
 }
 
 export function listLessons(): Array<{ id: string; fileName: string; processed: boolean }> {
-  const pdfFiles = fs
-    .readdirSync(CONTENT_DIR)
-    .filter(f => /\.pdf$/i.test(f));
+  const pdfFiles = fs.existsSync(CONTENT_DIR)
+    ? fs.readdirSync(CONTENT_DIR).filter(f => /\.pdf$/i.test(f))
+    : [];
 
-  return pdfFiles.map(fileName => {
-    const id = getLessonId(fileName);
-    return { id, fileName, processed: lessonExists(id) };
-  });
+  const pdfLessons = pdfFiles.map(fileName => ({
+    id: getLessonId(fileName),
+    fileName,
+    processed: lessonExists(getLessonId(fileName)),
+  }));
+
+  // Include JSON-only lessons (manually created, no PDF source)
+  if (!fs.existsSync(LESSONS_DIR)) return pdfLessons;
+  const pdfIds = new Set(pdfLessons.map(l => l.id));
+  const jsonOnlyLessons = fs
+    .readdirSync(LESSONS_DIR)
+    .filter(f => /\.json$/i.test(f))
+    .map(f => f.replace(/\.json$/i, ''))
+    .filter(id => !pdfIds.has(id))
+    .map(id => ({ id, fileName: `${id}.json`, processed: true }));
+
+  return [...pdfLessons, ...jsonOnlyLessons];
 }
 
 async function extractTextFromPdf(pdfPath: string): Promise<string> {
@@ -147,11 +160,22 @@ export async function processLesson(fileName: string): Promise<LessonData> {
   }
 
   const groq = new Groq({ apiKey });
-  const completion = await groq.chat.completions.create({
-    model: 'llama-3.3-70b-versatile',
-    messages: [{ role: 'user', content: buildPrompt(pdfText, fileName) }],
-    temperature: 0.7,
-  });
+  let completion;
+  try {
+    completion = await groq.chat.completions.create({
+      model: 'llama-3.3-70b-versatile',
+      messages: [{ role: 'user', content: buildPrompt(pdfText, fileName) }],
+      temperature: 0.7,
+    });
+  } catch (primaryErr) {
+    const e = primaryErr as { status?: number };
+    if (e.status !== 429) throw primaryErr;
+    completion = await groq.chat.completions.create({
+      model: 'llama-3.1-8b-instant',
+      messages: [{ role: 'user', content: buildPrompt(pdfText, fileName) }],
+      temperature: 0.7,
+    });
+  }
   const rawText = completion.choices[0]?.message?.content ?? '';
 
   let parsed: { title: string; topics: string[]; slides: LessonData['slides']; exercises: LessonData['exercises'] };

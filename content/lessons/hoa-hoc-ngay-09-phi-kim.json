@@ -1,0 +1,117 @@
+{
+  "id": "hoa-hoc-ngay-09-phi-kim",
+  "fileName": "hoa-hoc-ngay-09-phi-kim.json",
+  "title": "Ngày 9: Phi Kim — Clo, Cacbon, Silic",
+  "topics": ["Hoá Học", "Phi Kim", "Clo", "Cacbon"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Tính Chất Chung Của Phi Kim",
+      "content": "PHI KIM có các tính chất hoá học:\n\n1. Tác dụng với KIM LOẠI → muối:\n   2Fe + 3Cl2 → 2FeCl3\n   2Na + S → Na2S\n\n2. Tác dụng với HIĐRO → hợp chất khí:\n   Cl2 + H2 → 2HCl (ánh sáng)\n   N2 + 3H2 ⇌ 2NH3 (to, xúc tác)\n\n3. Phi kim MẠNH đẩy phi kim YẾU ra khỏi muối:\n   Cl2 + 2NaBr → 2NaCl + Br2\n   (Cl2 mạnh hơn Br2 → đẩy Br ra)\n\n4. Phi kim tác dụng O2 → oxit axit:\n   S + O2 → SO2\n   C + O2 → CO2",
+      "keyFormula": "PK mạnh đẩy PK yếu; PK + KL → muối",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Clo — Phi Kim Quan Trọng",
+      "content": "CLO (Cl2):\n• Trạng thái: khí màu vàng lục, mùi xốc, độc\n• Nhận biết: làm quỳ ướt mất màu\n\nTính chất hoá học:\n1. Cl2 + H2 → 2HCl (ánh sáng)\n2. Cl2 + H2O ⇌ HCl + HClO (axit hipoclorơ - tẩy màu)\n3. Cl2 + 2NaOH → NaCl + NaClO + H2O (nước Gia-ven)\n4. Cl2 + 2KI → 2KCl + I2 (nhận biết Cl2 bằng hồ tinh bột)\n5. 2Fe + 3Cl2 → 2FeCl3\n\nỨng dụng:\n• Khử trùng nước máy\n• Sản xuất HCl, PVC\n• Nước Gia-ven: tẩy trắng vải",
+      "keyFormula": "Cl2 + H2O → HCl + HClO (tẩy màu)",
+      "example": {
+        "problem": "Viết PTHH điều chế nước Gia-ven từ Cl2 và NaOH.",
+        "steps": [
+          "Cl2 tác dụng với dung dịch NaOH",
+          "Cl2 + 2NaOH → NaCl + NaClO + H2O",
+          "NaClO là thành phần tẩy trắng trong nước Gia-ven",
+          "Ứng dụng: tẩy quần áo, sát khuẩn"
+        ],
+        "result": "Cl2 + 2NaOH → NaCl + NaClO + H2O"
+      },
+      "miniGame": {
+        "question": "Nhận biết khí Cl2 trong phòng thí nghiệm bằng cách nào?",
+        "options": ["Dùng quỳ khô, sẽ hoá đỏ", "Dùng quỳ ướt, sẽ mất màu", "Đốt cháy, sẽ bùng lửa", "Dùng phenolphtalein, sẽ hoá hồng"],
+        "answer": "Dùng quỳ ướt, sẽ mất màu",
+        "explanation": "Cl2 tác dụng với nước → HClO (axit mạnh, tẩy màu). Quỳ ướt đầu tiên hoá đỏ rồi mất màu hoàn toàn. Đây là cách nhận biết Cl2 đặc trưng nhất."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Cacbon và CO2",
+      "content": "CACBON:\n• Dạng thù hình: kim cương (cứng nhất), than chì (dẫn điện), cacbon vô định hình (than hoạt tính)\n• Tính khử: C + O2 → CO2 (đủ O2); 2C + O2 → 2CO (thiếu O2)\n• C + CO2 → 2CO (nhiệt cao)\n\nCO2 với DUNG DỊCH KIỀM:\nTỉ lệ T = n(NaOH)/n(CO2) quyết định sản phẩm:\n• T ≥ 2: CO2 + 2NaOH → Na2CO3 + H2O\n• T = 1: CO2 + NaOH → NaHCO3\n• 1 < T < 2: Tạo CẢ HAI muối Na2CO3 và NaHCO3\n\nCO2 với Ca(OH)2:\n• CO2 + Ca(OH)2 → CaCO3↓ + H2O (dư Ca(OH)2)\n• 2CO2 + Ca(OH)2 → Ca(HCO3)2 (dư CO2 → tan trở lại)",
+      "keyFormula": "T = n(NaOH)/n(CO2): T≥2→Na2CO3; T=1→NaHCO3; 1<T<2→cả hai",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Bài Mẫu — CO2 + NaOH",
+      "content": "Bài toán: 0,3 mol CO2 + 0,4 mol NaOH\n\nBước 1: Tính T = n(NaOH)/n(CO2) = 0,4/0,3 = 1,33\n→ 1 < 1,33 < 2 → Tạo cả hai muối Na2CO3 và NaHCO3\n\nBước 2: Đặt ẩn\nGọi x = n(Na2CO3), y = n(NaHCO3)\n\nBước 3: Lập hệ phương trình\n• Bảo toàn C: x + y = 0,3 (số mol CO2)\n• Bảo toàn Na: 2x + y = 0,4 (số mol NaOH)\n\nBước 4: Giải hệ\n2x + y = 0,4\nx + y = 0,3\n→ Trừ: x = 0,1 mol (Na2CO3)\n→ y = 0,3 - 0,1 = 0,2 mol (NaHCO3)\n\nm(Na2CO3) = 0,1 × 106 = 10,6g\nm(NaHCO3) = 0,2 × 84 = 16,8g",
+      "keyFormula": "Hệ: x+y=n(CO2); 2x+y=n(NaOH)",
+      "example": {
+        "problem": "4,48 lít CO2 + 300ml NaOH 1M. Tính khối lượng muối tạo thành.",
+        "steps": [
+          "n(CO2) = 4,48/22,4 = 0,2 mol; n(NaOH) = 0,3 mol",
+          "T = 0,3/0,2 = 1,5 → 1 < T < 2 → cả hai muối",
+          "Hệ: x + y = 0,2 và 2x + y = 0,3 → x = 0,1; y = 0,1",
+          "m(Na2CO3) = 0,1×106 = 10,6g; m(NaHCO3) = 0,1×84 = 8,4g"
+        ],
+        "result": "Na2CO3: 10,6g; NaHCO3: 8,4g"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Tổng Kết Ngày 9",
+      "content": "Tóm tắt kiến thức phi kim:\n\nPHI KIM CHUNG:\n• PK + KL → muối\n• PK + H2 → hợp chất khí\n• PK mạnh đẩy PK yếu khỏi muối\n\nCLO:\n• Cl2 + H2O → HCl + HClO (tẩy màu)\n• Cl2 + 2NaOH → NaCl + NaClO + H2O (nước Gia-ven)\n• Nhận biết: quỳ ướt mất màu\n\nCO2 + NaOH (nhớ tỉ lệ T):\n• T ≥ 2 → Na2CO3\n• T = 1 → NaHCO3\n• 1 < T < 2 → cả hai (giải hệ phương trình)\n\nCO2 + Ca(OH)2:\n• CO2 ít → CaCO3 trắng kết tủa\n• CO2 dư → Ca(HCO3)2 tan",
+      "keyFormula": "T = n(NaOH)/n(CO2) → xác định sản phẩm",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Cho 4,48 lít CO2 (đktc) hấp thụ vào 300ml dung dịch NaOH 1M. Tính khối lượng muối thu được. (MNa2CO3=106, MNaHCO3=84)",
+      "correctSteps": [
+        "n(CO2) = 4,48/22,4 = 0,2 mol; n(NaOH) = 1 × 0,3 = 0,3 mol; T = 0,3/0,2 = 1,5",
+        "1 < T < 2 → tạo cả hai muối Na2CO3 (x mol) và NaHCO3 (y mol)",
+        "Hệ: x + y = 0,2 và 2x + y = 0,3 → x = 0,1 mol; y = 0,1 mol",
+        "m(Na2CO3) = 0,1 × 106 = 10,6g; m(NaHCO3) = 0,1 × 84 = 8,4g"
+      ],
+      "correctAnswer": "10.6",
+      "correctUnit": "gam",
+      "difficulty": "hard",
+      "hint": "Tính T = n(NaOH)/n(CO2). Nếu 1 < T < 2, lập hệ phương trình với hai ẩn."
+    },
+    {
+      "id": 2,
+      "question": "Sục 0,1 mol CO2 vào dung dịch Ca(OH)2 dư. Tính khối lượng kết tủa thu được. (MCaCO3=100)",
+      "correctSteps": [
+        "PTHH: CO2 + Ca(OH)2 → CaCO3↓ + H2O (Ca(OH)2 dư nên chỉ tạo CaCO3)",
+        "n(CaCO3) = n(CO2) = 0,1 mol",
+        "m(CaCO3) = 0,1 × 100 = 10 gam"
+      ],
+      "correctAnswer": "10",
+      "correctUnit": "gam",
+      "difficulty": "easy",
+      "hint": "Ca(OH)2 dư → T > 2 → chỉ tạo CaCO3. Tỉ lệ CO2:CaCO3 = 1:1."
+    },
+    {
+      "id": 3,
+      "question": "Viết PTHH điều chế nước Gia-ven từ Cl2 và NaOH. Nêu thành phần và ứng dụng của nước Gia-ven.",
+      "correctSteps": [
+        "PTHH: Cl2 + 2NaOH → NaCl + NaClO + H2O",
+        "Thành phần nước Gia-ven: hỗn hợp NaCl và NaClO",
+        "NaClO (natri hipoclorit) có tính oxi hoá mạnh → tẩy trắng",
+        "Ứng dụng: tẩy trắng vải, khử trùng nước, sát khuẩn"
+      ],
+      "correctAnswer": "Cl2 + 2NaOH → NaCl + NaClO + H2O",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Cl2 phản ứng kiềm ở điều kiện thường (khác với phản ứng ánh sáng)."
+    }
+  ]
+}

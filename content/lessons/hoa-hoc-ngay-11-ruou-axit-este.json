@@ -1,0 +1,108 @@
+{
+  "id": "hoa-hoc-ngay-11-ruou-axit-este",
+  "fileName": "hoa-hoc-ngay-11-ruou-axit-este.json",
+  "title": "Ngày 11: Rượu Etylic — Axit Axetic — Este",
+  "topics": ["Hoá Học", "Rượu Etylic", "Axit Axetic", "Este"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Rượu Etylic C2H5OH",
+      "content": "RƯỢU ETYLIC (etanol, C2H5OH):\n• Công thức cấu tạo: CH3-CH2-OH (có nhóm -OH)\n• Trạng thái: lỏng, không màu, mùi đặc trưng\n• Tan vô hạn trong nước, sôi ở 78,4°C\n\nTính chất hoá học:\n1. Tác dụng với Na (phản ứng đặc trưng của nhóm -OH):\n   2C2H5OH + 2Na → 2C2H5ONa + H2↑\n   (sủi bọt khí H2 → nhận biết rượu)\n\n2. Phản ứng CHÁY:\n   C2H5OH + 3O2 → 2CO2 + 3H2O\n\n3. Lên men: C6H12O6 → 2C2H5OH + 2CO2 (men rượu, 30-35°C)\n\nNhận biết: Na → sủi bọt H2",
+      "keyFormula": "2C2H5OH + 2Na → 2C2H5ONa + H2↑",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Axit Axetic CH3COOH",
+      "content": "AXIT AXETIC (CH3COOH):\n• Có nhóm chức -COOH (nhóm cacboxyl)\n• Trạng thái: lỏng, không màu, mùi chua (dấm ăn 5-8%)\n\nTính chất axit:\n• Làm quỳ tím hoá đỏ\n• Tác dụng với kim loại trước H:\n  2CH3COOH + 2Na → 2CH3COONa + H2↑\n  2CH3COOH + Mg → (CH3COO)2Mg + H2↑\n• Tác dụng với bazơ:\n  CH3COOH + NaOH → CH3COONa + H2O\n• Tác dụng với muối cacbonat:\n  2CH3COOH + Na2CO3 → 2CH3COONa + H2O + CO2↑\n\nSo sánh: CH3COOH là axit yếu hơn HCl, H2SO4",
+      "keyFormula": "CH3COOH + NaOH → CH3COONa + H2O",
+      "example": null,
+      "miniGame": {
+        "question": "Nhúng quỳ tím vào dung dịch CH3COOH, quỳ tím sẽ:",
+        "options": ["Hoá xanh", "Không đổi màu", "Mất màu", "Hoá đỏ"],
+        "answer": "Hoá đỏ",
+        "explanation": "CH3COOH là axit (có nhóm -COOH) → phân ly H⁺ trong nước → làm quỳ tím hoá đỏ. Dung dịch CH3COOH có pH < 7."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Phản Ứng Este Hoá",
+      "content": "ESTE HOÁ:\nAxit + Rượu ⇌ Este + Nước (thuận nghịch, H2SO4 đặc xúc tác, đun nóng)\n\nCH3COOH + C2H5OH ⇌ CH3COOC2H5 + H2O\n                        (etyl axetat)\n\nTính chất este:\n• Lỏng, mùi thơm dễ chịu (hoa quả)\n• Ít tan trong nước\n• Bị thuỷ phân trong môi trường axit hoặc kiềm\n\nThuỷ phân trong môi trường kiềm (xà phòng hoá):\nCH3COOC2H5 + NaOH → CH3COONa + C2H5OH\n\nHiệu suất phản ứng este hoá:\nm(este thực tế) = m(lý thuyết) × H%/100",
+      "keyFormula": "CH3COOH + C2H5OH ⇌ CH3COOC2H5 + H2O",
+      "example": {
+        "problem": "Tính khối lượng etyl axetat thu được từ 12g CH3COOH với C2H5OH dư, hiệu suất H = 60%.",
+        "steps": [
+          "n(CH3COOH) = 12/60 = 0,2 mol",
+          "Lý thuyết: n(este) = n(CH3COOH) = 0,2 mol → m(lý thuyết) = 0,2 × 88 = 17,6g",
+          "Thực tế với H = 60%: m(thực) = 17,6 × 60/100 = 10,56g"
+        ],
+        "result": "m(etyl axetat) = 10,56g"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Chất Béo và Xà Phòng Hoá",
+      "content": "CHẤT BÉO:\n• Là trieste của glixerol và axit béo (no hoặc không no)\n• Công thức chung: (RCOO)3C3H5\n• Dầu ăn (lỏng): gốc axit không no\n• Mỡ động vật (rắn): gốc axit no\n\nXÀ PHÒNG HOÁ:\n(RCOO)3C3H5 + 3NaOH → C3H5(OH)3 + 3RCOONa\n                         (glixerol)  (xà phòng)\n\nXà phòng (muối natri của axit béo):\n• Phân tử có đầu ưa nước và đuôi kỵ nước\n→ Tẩy rửa do bao quanh vết bẩn dầu mỡ\n\nGlixerol (C3H5(OH)3):\n• Lỏng, nhớt, ngọt\n• Dùng trong mỹ phẩm, dược phẩm",
+      "keyFormula": "Chất béo + 3NaOH → Glixerol + 3 muối axit béo (xà phòng)",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Nhận Biết — Tổng Kết Ngày 11",
+      "content": "NHẬN BIẾT C2H5OH, CH3COOH, Dầu ăn:\n\nBước 1: Dùng quỳ tím\n→ Quỳ hoá đỏ → CH3COOH\n\nBước 2: Dùng Na kim loại (cho vào 2 lọ còn lại)\n→ Sủi bọt khí H2 → C2H5OH\n→ Không phản ứng → Dầu ăn\n\nTóm tắt ngày 11:\n• C2H5OH: -OH phản ứng Na → H2; este hoá với axit\n• CH3COOH: tính axit, quỳ đỏ, este hoá với rượu\n• Este: mùi thơm, ít tan nước; H = m(thực)/m(lý thuyết) × 100\n• Chất béo: trieste glixerol; xà phòng hoá → glixerol + xà phòng",
+      "keyFormula": "H% = m(thực tế)/m(lý thuyết) × 100%",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Cho 12g CH3COOH tác dụng với C2H5OH dư (H2SO4 đặc, đun nóng), hiệu suất phản ứng 60%. Tính khối lượng etyl axetat thu được. (MCH3COOH=60, MCH3COOC2H5=88)",
+      "correctSteps": [
+        "n(CH3COOH) = 12/60 = 0,2 mol",
+        "Theo PTHH: n(este lý thuyết) = n(CH3COOH) = 0,2 mol",
+        "m(este lý thuyết) = 0,2 × 88 = 17,6 gam",
+        "m(este thực tế) = 17,6 × 60/100 = 10,56 gam"
+      ],
+      "correctAnswer": "10.56",
+      "correctUnit": "gam",
+      "difficulty": "medium",
+      "hint": "Tính theo lý thuyết trước (100%), rồi nhân với H%."
+    },
+    {
+      "id": 2,
+      "question": "Nêu cách nhận biết 3 chất lỏng: C2H5OH, CH3COOH và dầu ăn bằng thuốc thử.",
+      "correctSteps": [
+        "Dùng quỳ tím: CH3COOH là axit → quỳ hoá đỏ (nhận biết CH3COOH)",
+        "Dùng Na kim loại cho vào 2 lọ còn lại: C2H5OH + Na → H2↑ (sủi bọt)",
+        "Lọ sủi bọt → C2H5OH; lọ không phản ứng với Na → dầu ăn",
+        "Xác nhận dầu ăn: không tan trong nước, nổi thành lớp riêng"
+      ],
+      "correctAnswer": "quỳ đỏ→CH3COOH; Na sủi bọt→C2H5OH; còn lại→dầu ăn",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Axit → quỳ đỏ; rượu → Na giải phóng H2; dầu ăn → không phản ứng với cả hai."
+    },
+    {
+      "id": 3,
+      "question": "Viết PTHH xà phòng hoá chất béo (RCOO)3C3H5 với NaOH và nêu sản phẩm thu được.",
+      "correctSteps": [
+        "PTHH: (RCOO)3C3H5 + 3NaOH → C3H5(OH)3 + 3RCOONa",
+        "Sản phẩm 1: Glixerol C3H5(OH)3 (lỏng nhớt, ngọt, dùng trong mỹ phẩm)",
+        "Sản phẩm 2: RCOONa là muối natri của axit béo = xà phòng",
+        "Xà phòng có đầu ưa nước (-COONa) và đuôi kỵ nước (R) → tẩy rửa"
+      ],
+      "correctAnswer": "(RCOO)3C3H5 + 3NaOH → C3H5(OH)3 + 3RCOONa",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Xà phòng hoá = thuỷ phân este trong môi trường kiềm. 1 chất béo + 3 NaOH."
+    }
+  ]
+}

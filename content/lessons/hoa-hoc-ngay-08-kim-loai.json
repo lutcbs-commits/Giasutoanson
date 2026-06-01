@@ -1,0 +1,95 @@
+{
+  "id": "hoa-hoc-ngay-08-kim-loai",
+  "fileName": "hoa-hoc-ngay-08-kim-loai.json",
+  "title": "Ngày 8: Kim Loại — Dãy Hoạt Động Hoá Học",
+  "topics": ["Hoá Học", "Kim Loại", "Dãy Hoạt Động"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Dãy Hoạt Động Hoá Học",
+      "content": "DÃY HOẠT ĐỘNG HÓA HỌC (từ mạnh → yếu):\nK, Na, Ba, Ca, Mg, Al, Zn, Fe, Ni, Sn, Pb, (H), Cu, Hg, Ag, Pt, Au\n\nMẹo nhớ: \"Khi Nào Bạn Cần May Áo Záp Sắt Nhớ Sang Phố Hỏi Cửa Hàng Á Phi Âu\"\n\nBA QUY TẮC:\n① Kim loại đứng TRƯỚC H → tác dụng HCl/H2SO4 loãng → muối + H2↑\n   Fe + 2HCl → FeCl2 + H2↑\n   Al + 3HCl → AlCl3 + 3/2 H2↑\n\n② Kim loại MẠNH hơn đẩy kim loại YẾU hơn ra khỏi dung dịch muối\n   Fe + CuSO4 → FeSO4 + Cu↓\n   Cu + 2AgNO3 → Cu(NO3)2 + 2Ag↓\n\n③ Từ trái sang phải: tính khử giảm dần\n   K, Na mạnh nhất; Au, Pt trơ nhất",
+      "keyFormula": "K Na Ba Ca Mg Al Zn Fe (H) Cu Hg Ag",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Bài Toán Nhúng Kim Loại Vào Dung Dịch Muối",
+      "content": "Khi nhúng kim loại vào dung dịch muối:\n• Kim loại tan ra (m giảm)\n• Kim loại bám vào (m tăng)\n• Δm = m(bám vào) - m(tan ra)\n\nBài mẫu: Nhúng Fe vào CuSO4, khối lượng tăng 1,6g.\nPTHH: Fe + CuSO4 → FeSO4 + Cu\n\nGọi n(Fe pứ) = x mol:\n• m(Fe tan) = 56x\n• m(Cu bám) = 64x\n• Δm(tăng) = 64x - 56x = 8x = 1,6\n→ x = 0,2 mol\n→ m(Fe đã tan) = 56 × 0,2 = 11,2 gam\n\nKết luận: Tỉ lệ Δm = 8x với mỗi mol Fe phản ứng",
+      "keyFormula": "Δm = m(bám) - m(tan) = (MCu - MFe) × x",
+      "example": {
+        "problem": "Nhúng Fe vào CuSO4 dư, khối lượng tăng 1,6g. Tính khối lượng Fe đã phản ứng.",
+        "steps": [
+          "PTHH: Fe + CuSO4 → FeSO4 + Cu",
+          "Gọi n(Fe pứ) = x mol",
+          "Δm = m(Cu bám) - m(Fe tan) = 64x - 56x = 8x = 1,6",
+          "x = 0,2 mol → m(Fe) = 0,2 × 56 = 11,2 gam"
+        ],
+        "result": "m(Fe phản ứng) = 11,2 gam"
+      },
+      "miniGame": {
+        "question": "Kim loại nào KHÔNG tác dụng được với dung dịch HCl loãng?",
+        "options": ["Fe", "Al", "Cu", "Zn"],
+        "answer": "Cu",
+        "explanation": "Cu đứng SAU H trong dãy hoạt động → không đẩy được H ra khỏi HCl. Fe, Al, Zn đứng trước H → tác dụng với HCl tạo H2."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Bài Toán Hỗn Hợp Kim Loại",
+      "content": "Bài mẫu: m gam hỗn hợp Fe, Cu + HCl dư → 3,36L H2; hỗn hợp đó + AgNO3 dư → 54g kết tủa Ag.\n\nNhận xét: Cu không tác dụng HCl (Cu sau H)\n→ Chỉ Fe + HCl → H2\n\nTính n(H2) = 3,36/22,4 = 0,15 mol\nn(Fe) = n(H2) = 0,15 mol (tỉ lệ 1:1)\n\nVới AgNO3:\nFe + 2AgNO3 → Fe(NO3)2 + 2Ag\nCu + 2AgNO3 → Cu(NO3)2 + 2Ag\nn(Ag từ Fe) = 2 × 0,15 = 0,3 mol\nn(Ag tổng) = 54/108 = 0,5 mol\nn(Ag từ Cu) = 0,5 - 0,3 = 0,2 mol\nn(Cu) = 0,2/2 = 0,1 mol\n\nm = m(Fe) + m(Cu) = 0,15×56 + 0,1×64 = 8,4 + 6,4 = 14,8 gam",
+      "keyFormula": "n(Ag) = 2×n(kim loại) khi pứ với AgNO3",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Kim Loại Tác Dụng Với Nước và Axit Đặc",
+      "content": "KIM LOẠI + NƯỚC (ở nhiệt độ thường):\n• K, Na, Ba, Ca + H2O → bazơ + H2↑\n  2Na + 2H2O → 2NaOH + H2↑\n  Ca + 2H2O → Ca(OH)2 + H2↑\n\nKIM LOẠI + HNO3 đặc:\n• Hầu hết KL + HNO3 đặc → muối + NO2↑ + H2O\n  Cu + 4HNO3(đặc) → Cu(NO3)2 + 2NO2↑ + 2H2O\n\nKIM LOẠI + H2SO4 đặc nóng:\n• Hầu hết KL + H2SO4(đặc, nóng) → muối + SO2↑ + H2O\n  2Fe + 6H2SO4(đặc) → Fe2(SO4)3 + 3SO2↑ + 6H2O\n\nLưu ý: Al, Fe bị thụ động hoá (không tan) trong H2SO4 đặc nguội và HNO3 đặc nguội",
+      "keyFormula": "Fe,Al thụ động trong H2SO4 đặc nguội và HNO3 đặc nguội",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Tổng Kết Ngày 8",
+      "content": "Dãy hoạt động: K Na Ba Ca Mg Al Zn Fe (H) Cu Hg Ag Pt Au\n\nQuy tắc quan trọng:\n① Trước H + HCl/H2SO4 loãng → H2\n② Mạnh đẩy yếu ra khỏi muối (Fe + CuSO4 → FeSO4 + Cu)\n③ K,Na,Ba,Ca + H2O → bazơ + H2\n\nBài toán nhúng kim loại vào muối:\n• Δm = (M kim loại bám - M kim loại tan) × n phản ứng\n\nBài toán hỗn hợp:\n• Tách riêng tác dụng của từng kim loại\n• Cu không + HCl; Fe không + AgNO3 như Cu\n\nKim loại đặc biệt:\n• Cu: không + HCl loãng, H2SO4 loãng\n• Al,Fe: thụ động với H2SO4 đặc nguội",
+      "keyFormula": "Dãy hoạt động: trái→phải tính khử giảm",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Nhúng một thanh sắt vào dung dịch CuSO4 dư. Sau phản ứng, khối lượng thanh sắt tăng 1,6g. Tính khối lượng Fe đã phản ứng và khối lượng Cu bám vào. (MFe=56, MCu=64)",
+      "correctSteps": [
+        "PTHH: Fe + CuSO4 → FeSO4 + Cu",
+        "Gọi n(Fe pứ) = x mol",
+        "Δm(tăng) = m(Cu bám) - m(Fe tan) = 64x - 56x = 8x = 1,6 → x = 0,2 mol",
+        "m(Fe pứ) = 0,2 × 56 = 11,2 gam; m(Cu bám) = 0,2 × 64 = 12,8 gam"
+      ],
+      "correctAnswer": "11.2",
+      "correctUnit": "gam",
+      "difficulty": "medium",
+      "hint": "Δm = (MCu - MFe) × x = 8x. Tìm x từ Δm đã biết."
+    },
+    {
+      "id": 2,
+      "question": "Hỗn hợp gồm Mg và Zn. Hoà tan vào HCl dư thu được 4,48 lít H2 (đktc). Biết m(Mg) = 2,4g, tính m(Zn). (MMg=24, MZn=65)",
+      "correctSteps": [
+        "PTHH: Mg + 2HCl → MgCl2 + H2; Zn + 2HCl → ZnCl2 + H2",
+        "n(H2 tổng) = 4,48/22,4 = 0,2 mol",
+        "n(Mg) = 2,4/24 = 0,1 mol → n(H2 từ Mg) = 0,1 mol",
+        "n(H2 từ Zn) = 0,2 - 0,1 = 0,1 mol → n(Zn) = 0,1 mol → m(Zn) = 0,1 × 65 = 6,5 gam"
+      ],
+      "correctAnswer": "6.5",
+      "correctUnit": "gam",
+      "difficulty": "medium",
+      "hint": "Tính riêng H2 từ mỗi kim loại. n(H2) = n(KL) cho cả Mg và Zn (tỉ lệ 1:1)."
+    }
+  ]
+}

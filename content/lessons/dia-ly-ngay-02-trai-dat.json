@@ -1,0 +1,136 @@
+{
+  "id": "dia-ly-ngay-02-trai-dat",
+  "fileName": "dia-ly-ngay-02-trai-dat.json",
+  "title": "Ngày 2: Trái Đất — Hình Dạng, Chuyển Động, Hệ Quả",
+  "topics": ["Địa Lý", "Trái Đất", "Chuyển Động", "Múi Giờ"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "dia-ly",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Chuyển Động Tự Quay Của Trái Đất",
+      "content": "Trái Đất tự quay quanh trục theo hướng từ Tây sang Đông.\n\nThông số:\n• Chu kỳ: 24 giờ (1 ngày đêm)\n• Tốc độ góc: 15°/giờ\n\nHệ quả chuyển động tự quay:\n1. Ngày đêm luân phiên: Trái Đất hình cầu + tự quay → mỗi điểm lần lượt hướng vào Mặt Trời\n2. Múi giờ: Trái Đất chia thành 24 múi, mỗi múi = 15° kinh độ; phía Đông sớm hơn phía Tây\n3. Lực Coriolis: làm lệch hướng chuyển động\n   • Bán cầu Bắc: lệch sang phải\n   • Bán cầu Nam: lệch sang trái",
+      "keyFormula": "Giờ múi Đông = Giờ múi Tây + số múi chênh lệch",
+      "example": {
+        "problem": "Việt Nam múi giờ +7, London múi giờ 0. Khi Việt Nam 7 giờ sáng, London mấy giờ?",
+        "steps": [
+          "Chênh lệch múi giờ: 7 - 0 = 7 múi",
+          "Việt Nam ở phía Đông nên sớm hơn London 7 giờ",
+          "Giờ London = 7h - 7h = 0h (nửa đêm)"
+        ],
+        "result": "London là 0 giờ (nửa đêm) khi Việt Nam 7 giờ sáng"
+      },
+      "miniGame": {
+        "question": "Trái Đất tự quay theo hướng nào, tạo ra hiện tượng gì?",
+        "options": ["Đông sang Tây, tạo ra mùa", "Tây sang Đông, tạo ra ngày đêm", "Bắc sang Nam, tạo ra múi giờ", "Nam sang Bắc, tạo ra lực Coriolis"],
+        "answer": "Tây sang Đông, tạo ra ngày đêm",
+        "explanation": "Trái Đất tự quay từ Tây sang Đông với chu kỳ 24 giờ, tạo ra hiện tượng ngày đêm luân phiên."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Chuyển Động Quanh Mặt Trời — Nguyên Nhân Sinh Ra Mùa",
+      "content": "Trái Đất quay quanh Mặt Trời theo quỹ đạo hình elip.\n\nThông số:\n• Chu kỳ: 365 ngày 6 giờ (365,25 ngày)\n• Trục nghiêng: 23°27' so với mặt phẳng quỹ đạo\n• Trục giữ nguyên hướng trong không gian (không thay đổi)\n\nĐây là NGUYÊN NHÂN chính gây ra 4 mùa:\n→ Trục nghiêng + giữ nguyên hướng → các vĩ độ nhận lượng bức xạ Mặt Trời khác nhau trong năm\n\nHệ quả: sự thay đổi góc chiếu sáng và thời gian chiếu sáng theo mùa",
+      "keyFormula": "Góc chiếu sáng = 90° - |Vĩ độ - Vĩ độ Mặt Trời lên thiên đỉnh|",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Bảng Các Ngày Đặc Biệt Trong Năm",
+      "content": "Bốn ngày quan trọng nhất trong năm:\n\n• 21/3 — Xuân phân:\n  Mặt Trời chiếu thẳng xích đạo; ngày = đêm = 12h trên toàn cầu\n\n• 22/6 — Hạ chí:\n  Mặt Trời chiếu thẳng chí tuyến Bắc (23°27'B)\n  → Bắc bán cầu: ngày dài nhất, đêm ngắn nhất\n  → Nam bán cầu: ngày ngắn nhất, đêm dài nhất\n\n• 23/9 — Thu phân:\n  Mặt Trời chiếu thẳng xích đạo; ngày = đêm = 12h\n\n• 22/12 — Đông chí:\n  Mặt Trời chiếu thẳng chí tuyến Nam (23°27'N)\n  → Bắc bán cầu: đêm dài nhất, ngày ngắn nhất\n  → Nam bán cầu: ngày dài nhất",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Ngày 22/6, Bắc bán cầu có đặc điểm gì?",
+        "options": ["Ngày ngắn nhất trong năm", "Ngày dài nhất trong năm", "Ngày bằng đêm", "Mặt Trời chiếu thẳng xích đạo"],
+        "answer": "Ngày dài nhất trong năm",
+        "explanation": "22/6 là hạ chí, Mặt Trời chiếu thẳng chí tuyến Bắc, Bắc bán cầu có ngày dài nhất trong năm."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Chênh Lệch Ngày Đêm Theo Vĩ Độ",
+      "content": "Quy luật chênh lệch ngày-đêm:\n• Vĩ độ càng cao → chênh lệch ngày đêm càng lớn (theo mùa)\n• Vùng xích đạo: quanh năm ngày = đêm ≈ 12h\n• Vùng cực: có hiện tượng ngày địa cực (mùa hè ngày 24h) và đêm địa cực (mùa đông đêm 24h)\n\nÁnh sáng Mặt Trời và nhiệt độ:\n• Góc chiếu lớn (vuông góc, gần 90°) → tia sáng tập trung → nhiệt độ cao\n• Góc chiếu nhỏ (xiên) → tia sáng trải rộng → nhiệt độ thấp\n• Vĩ độ cao → góc chiếu nhỏ → lạnh hơn vĩ độ thấp",
+      "keyFormula": "",
+      "example": {
+        "problem": "So sánh chênh lệch ngày-đêm của Hà Nội (21°N) và TP.HCM (10°N).",
+        "steps": [
+          "Hà Nội ở vĩ độ 21°N, gần chí tuyến Bắc hơn (23°27'N)",
+          "TP.HCM ở vĩ độ 10°N, gần xích đạo hơn",
+          "Vĩ độ càng cao → chênh lệch ngày-đêm càng rõ theo mùa",
+          "Hà Nội có mùa đông ngày ngắn rõ hơn TP.HCM"
+        ],
+        "result": "Hà Nội có chênh lệch ngày-đêm theo mùa lớn hơn TP.HCM"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Luyện Tập — Trái Đất & Múi Giờ",
+      "content": "Tóm tắt kiến thức cần nhớ:\n\nTự quay: Tây → Đông, 24h, sinh ra ngày-đêm và múi giờ\nQuay quanh MT: 365,25 ngày, trục nghiêng 23°27', sinh ra 4 mùa\n\nCông thức múi giờ:\nGiờ địa điểm A = Giờ gốc (GMT) + Số múi của A\n\nBài tập tổng hợp:\n1. Tokyo múi +9, New York múi -5 → chênh nhau 14 múi giờ\n   Khi Tokyo 14h → New York: 14h - 14h = 0h (nửa đêm)\n\n2. VN (múi +7) lúc 7h sáng → London (múi 0): 7 - 7 = 0h\n\nNhớ: Vượt đường đổi ngày quốc tế (180°) từ Đông sang Tây → lùi 1 ngày",
+      "keyFormula": "Giờ múi B = Giờ múi A + (Múi B - Múi A)",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Việt Nam ở múi giờ +7, London ở múi giờ 0. Khi đồng hồ tại Việt Nam chỉ 7 giờ sáng thứ Hai, thì tại London là mấy giờ, ngày nào?",
+      "correctSteps": [
+        "Chênh lệch múi giờ = 7 - 0 = 7 giờ",
+        "Việt Nam ở phía Đông nên sớm hơn London 7 giờ",
+        "Giờ London = 7h sáng - 7h = 0h (nửa đêm)",
+        "Vẫn là thứ Hai (chưa qua nửa đêm ở London)"
+      ],
+      "correctAnswer": "0",
+      "correctUnit": "giờ (nửa đêm thứ Hai)",
+      "difficulty": "easy",
+      "hint": "Việt Nam múi +7, London múi 0 → chênh lệch 7 giờ; phía Đông sớm hơn"
+    },
+    {
+      "id": 2,
+      "question": "Giải thích tại sao Trái Đất có 4 mùa trong năm. Nêu hai điều kiện cần thiết để có 4 mùa.",
+      "correctSteps": [
+        "Điều kiện 1: Trục Trái Đất nghiêng 23°27' so với mặt phẳng quỹ đạo",
+        "Điều kiện 2: Trục giữ nguyên hướng trong không gian khi Trái Đất quay quanh Mặt Trời",
+        "Kết quả: góc chiếu và thời gian chiếu sáng thay đổi theo từng thời điểm trong năm",
+        "→ Lượng nhiệt nhận được thay đổi → sinh ra 4 mùa"
+      ],
+      "correctAnswer": "Trục nghiêng và giữ nguyên hướng",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Nếu trục thẳng đứng (không nghiêng) hoặc trục xoay theo MT, sẽ không có mùa"
+    },
+    {
+      "id": 3,
+      "question": "Tại sao vùng vĩ độ cao lạnh hơn vùng vĩ độ thấp? Giải thích qua góc chiếu sáng của Mặt Trời.",
+      "correctSteps": [
+        "Vĩ độ cao → góc chiếu của Mặt Trời so với mặt đất nhỏ (tia sáng xiên)",
+        "Tia sáng xiên → diện tích chiếu sáng lớn hơn → năng lượng phân tán trên diện rộng hơn",
+        "Tia sáng cũng đi qua tầng khí quyển dày hơn → mất nhiều nhiệt hơn",
+        "→ Vùng vĩ độ cao nhận ít nhiệt hơn → nhiệt độ thấp hơn"
+      ],
+      "correctAnswer": "Góc chiếu nhỏ → ít nhiệt",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "So sánh tia sáng vuông góc và tia sáng xiên trên cùng diện tích mặt đất"
+    },
+    {
+      "id": 4,
+      "question": "Một máy bay khởi hành từ Tokyo (múi +9) lúc 10 giờ sáng thứ Ba và bay 12 tiếng đến New York (múi -5). Máy bay đến New York lúc mấy giờ, ngày nào?",
+      "correctSteps": [
+        "Giờ đến theo giờ Tokyo: 10h + 12h = 22h thứ Ba (giờ Tokyo)",
+        "Chênh lệch múi giờ Tokyo - New York = 9 - (-5) = 14 giờ",
+        "Giờ New York = 22h - 14h = 8h sáng",
+        "Cùng thứ Ba (chưa qua ngày mới ở New York)"
+      ],
+      "correctAnswer": "8",
+      "correctUnit": "giờ sáng thứ Ba (giờ New York)",
+      "difficulty": "hard",
+      "hint": "Tính giờ đến theo múi giờ Tokyo trước, sau đó chuyển sang múi giờ New York"
+    }
+  ]
+}

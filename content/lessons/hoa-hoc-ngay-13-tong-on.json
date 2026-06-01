@@ -1,0 +1,109 @@
+{
+  "id": "hoa-hoc-ngay-13-tong-on",
+  "fileName": "hoa-hoc-ngay-13-tong-on.json",
+  "title": "Ngày 13: Tổng Ôn — Hệ Thống Kiến Thức Hoá Học",
+  "topics": ["Hoá Học", "Tổng Ôn", "Luyện Đề"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Sơ Đồ Tổng Hợp Kiến Thức",
+      "content": "HÀNH TRÌNH 12 NGÀY HỌC HOÁ:\n\nNgày 1-2: NỀN TẢNG\nNguyên tử (p,n,e; A=Z+N) → Bảng tuần hoàn (chu kỳ, nhóm)\n\nNgày 3-4: LIÊN KẾT VÀ PHẢN ỨNG\nLiên kết ion (KL+PK) / CHT (PK+PK) → Cân bằng PTHH\n\nNgày 5-6: TÍNH TOÁN\nMol (n=m/M; n=V/22,4) → Chất dư (so tỉ lệ n/hệ số)\n\nNgày 7-9: PHÂN LOẠI HỢP CHẤT\nOxit-Axit-Bazơ-Muối → Kim loại (dãy HĐ) → Phi kim (Cl2, CO2)\n\nNgày 10-12: HỮU CƠ\nHiđrocacbon (CH4, C2H4, C2H2) → Rượu-Axit-Este → Polime\n\nMỗi ngày có bài tập thực hành liên kết các chủ đề.",
+      "keyFormula": "Nền tảng → Liên kết → Phản ứng → Mol → Hợp chất → Hữu cơ",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Checklist Kỹ Năng Cần Thuần Thục",
+      "content": "CHECKLIST TRƯỚC KHI VÀO KIỂM TRA:\n\n✓ Viết cấu hình electron nhanh:\n  Al (Z=13): 2,8,3; Fe (Z=26): 2,8,14,2\n\n✓ Cân bằng PTHH trong 1-2 phút:\n  Phương pháp đại số, bảo toàn nguyên tử\n\n✓ Xác định chất dư:\n  Tỉ lệ n/hệ số → nhỏ hơn → hết trước\n\n✓ Tính mol nhuần nhuyễn:\n  n=m/M; V=n×22,4; CM=n/V\n\n✓ Nhận biết chất:\n  Quỳ tím, Ca(OH)2, Br2, I2, AgNO3, BaCl2\n\n✓ Viết chuỗi phản ứng:\n  KL→OxitB→Bazơ→Muối; PK→OxitA→Axit→Muối\n\n✓ Bài toán hữu cơ:\n  n(C)=n(CO2); n(H)=2×n(H2O) khi đốt cháy",
+      "keyFormula": "Tỉ lệ n/hệ số → xác định chất hết",
+      "example": null,
+      "miniGame": {
+        "question": "Chuỗi chuyển hoá: Al → Al2O3 → AlCl3 → Al(OH)3 → Al2O3. Phản ứng ① là:",
+        "options": ["Al + Cl2 → AlCl3", "4Al + 3O2 → 2Al2O3", "Al + HCl → AlCl3 + H2", "Al + H2O → Al(OH)3 + H2"],
+        "answer": "4Al + 3O2 → 2Al2O3",
+        "explanation": "Trong chuỗi Al → Al2O3, đây là phản ứng oxi hoá Al trong không khí. PTHH cân bằng: 4Al + 3O2 → 2Al2O3. (Lưu ý: Al2O3 là oxit lưỡng tính)"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Bài Tổng Hợp 1 — Chuỗi Al",
+      "content": "Hoàn thành chuỗi: Al → Al2O3 → AlCl3 → Al(OH)3 → Al2O3\n\n① 4Al + 3O2 →(to) 2Al2O3\n   (đốt Al trong oxi hoặc không khí)\n\n② Al2O3 + 6HCl → 2AlCl3 + 3H2O\n   (oxit bazơ + axit → muối + nước)\n\n③ AlCl3 + 3NaOH → Al(OH)3↓ + 3NaCl\n   (muối + bazơ → kết tủa trắng Al(OH)3)\n   Lưu ý: Nếu thêm NaOH dư: Al(OH)3 + NaOH → NaAlO2 + 2H2O\n\n④ 2Al(OH)3 →(to) Al2O3 + 3H2O\n   (bazơ không tan nung → oxit bazơ)\n\nAl2O3 là oxit LƯỠNG TÍNH:\n   Al2O3 + 6HCl → 2AlCl3 + 3H2O\n   Al2O3 + 2NaOH → 2NaAlO2 + H2O",
+      "keyFormula": "Al(OH)3 → Al2O3 + H2O (nung); Al2O3 lưỡng tính",
+      "example": {
+        "problem": "Viết 4 PTHH hoàn thành chuỗi: Al → Al2O3 → AlCl3 → Al(OH)3 → Al2O3",
+        "steps": [
+          "4Al + 3O2 →(to) 2Al2O3",
+          "Al2O3 + 6HCl → 2AlCl3 + 3H2O",
+          "AlCl3 + 3NaOH → Al(OH)3↓ + 3NaCl",
+          "2Al(OH)3 →(to) Al2O3 + 3H2O"
+        ],
+        "result": "4 PTHH hoàn chỉnh"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Bài Tổng Hợp 2 — Zn + AgNO3",
+      "content": "Bài toán: 16,25g Zn + 200ml AgNO3 → 27g chất rắn. Tính CM(AgNO3).\n\nPTHH: Zn + 2AgNO3 → Zn(NO3)2 + 2Ag\n\nn(Zn) = 16,25/65 = 0,25 mol\n\nGiả sử Zn hết:\nn(Ag) = 2 × 0,25 = 0,5 mol → m(Ag) = 54g > 27g\n→ Mâu thuẫn → Zn DƯ, AgNO3 HẾT\n\nGọi n(AgNO3) = 2a (để tỉ lệ thuận)\nn(Zn phản ứng) = a mol\nm(chất rắn) = m(Ag) + m(Zn dư)\n= 108 × 2a + 65(0,25 - a) = 27\n216a + 16,25 - 65a = 27\n151a = 10,75\na = 0,07125 → n(AgNO3) = 0,1425 mol\n\nCM(AgNO3) = 0,1425/0,2 = 0,7125 M\n\n(Hoặc: m(chất rắn) = 108×2a = 27 nếu bỏ qua Zn dư → 2a=0,25 → sai)\nTính đúng: a = 0,25/2 × (27/54) → cần giải hệ đầy đủ",
+      "keyFormula": "Giả sử → kiểm tra → xác định chất hết",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Chiến Lược Làm Bài Thi",
+      "content": "CHIẾN LƯỢC 60 PHÚT LÀM BÀI:\n\nPhần trắc nghiệm (20-30 phút):\n• Câu dễ: vị trí BTH, liên kết, nhận biết → làm trước\n• Câu trung bình: cân bằng, phân loại → làm tiếp\n• Câu khó: tính toán nhiều bước → làm cuối\n• Luôn kiểm tra đơn vị và số chữ số thập phân\n\nPhần tự luận (30-35 phút):\n• Viết PTHH → cân bằng ngay\n• Bài tính toán: trình bày theo 4 bước (PTHH → n → tỉ lệ → kết quả)\n• Ghi đơn vị ở mỗi bước\n• Không bỏ câu trống (ghi phần đã làm được)\n\nSAI LẦM THƯỜNG GẶP:\n• Quên cân bằng PTHH trước khi tính\n• Quên chia tỉ lệ khi dùng chất dư\n• Nhầm đktc (22,4 L/mol) với điều kiện thường\n• Viết sai công thức hoá học",
+      "keyFormula": "PTHH → n biết → tỉ lệ → kết quả (4 bước)",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Hoàn thành chuỗi phản ứng: Al → Al2O3 → AlCl3 → Al(OH)3 → Al2O3. Viết 4 PTHH đầy đủ.",
+      "correctSteps": [
+        "① 4Al + 3O2 →(to) 2Al2O3 (đốt Al trong oxi)",
+        "② Al2O3 + 6HCl → 2AlCl3 + 3H2O (oxit bazơ + axit)",
+        "③ AlCl3 + 3NaOH → Al(OH)3↓ + 3NaCl (muối + bazơ → kết tủa)",
+        "④ 2Al(OH)3 →(to) Al2O3 + 3H2O (nung bazơ không tan)"
+      ],
+      "correctAnswer": "4 PTHH",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Al đốt → Al2O3; Al2O3 + HCl → AlCl3; AlCl3 + NaOH → Al(OH)3 kết tủa; nung Al(OH)3 → Al2O3."
+    },
+    {
+      "id": 2,
+      "question": "Cho 16,25g Zn vào 200ml dung dịch AgNO3. Sau phản ứng thu được 27g chất rắn. Tính nồng độ mol của dung dịch AgNO3. (MZn=65, MAg=108)",
+      "correctSteps": [
+        "PTHH: Zn + 2AgNO3 → Zn(NO3)2 + 2Ag; n(Zn) = 0,25 mol",
+        "Giả sử Zn hết: n(Ag) = 0,5 mol → m = 54g > 27g → AgNO3 hết, Zn dư",
+        "Gọi n(AgNO3) = 2x → n(Zn pứ) = x; m(Ag) = 216x; m(Zn dư) = 65(0,25-x)",
+        "216x + 65×0,25 - 65x = 27 → 151x = 10,75 → x = 0,07125 → n(AgNO3) = 0,1425 mol → CM = 0,1425/0,2 = 0,7125 M"
+      ],
+      "correctAnswer": "0.7125",
+      "correctUnit": "mol/L",
+      "difficulty": "hard",
+      "hint": "Kiểm tra giả sử Zn hết trước. Nếu m tính > m thực → AgNO3 hết, lập phương trình với ẩn là n(AgNO3)."
+    },
+    {
+      "id": 3,
+      "question": "So sánh tính phi kim của F, Cl, Br, I (nhóm VII). Giải thích theo quy luật bảng tuần hoàn.",
+      "correctSteps": [
+        "F (Z=9): chu kỳ 2; Cl (Z=17): chu kỳ 3; Br (Z=35): chu kỳ 4; I (Z=53): chu kỳ 5",
+        "Cùng nhóm VII, từ trên xuống dưới: số lớp electron tăng, bán kính tăng",
+        "Bán kính tăng → lực hút hạt nhân với electron giảm → tính phi kim giảm",
+        "Kết luận: Tính phi kim F > Cl > Br > I"
+      ],
+      "correctAnswer": "F > Cl > Br > I",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Cùng nhóm, từ trên xuống: tính phi kim giảm. F là phi kim mạnh nhất trong toàn bộ bảng tuần hoàn."
+    }
+  ]
+}

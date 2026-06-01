@@ -1,0 +1,95 @@
+{
+  "id": "hoa-hoc-ngay-10-hidrocacbon",
+  "fileName": "hoa-hoc-ngay-10-hidrocacbon.json",
+  "title": "Ngày 10: Hiđrocacbon — Bước Vào Hữu Cơ",
+  "topics": ["Hoá Học", "Hiđrocacbon", "Metan", "Etilen", "Axetilen"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Metan CH4 — Hiđrocacbon No",
+      "content": "METAN (CH4):\n• Cấu tạo: 4 liên kết đơn C-H (no, bão hoà)\n• Trạng thái: khí không màu, không mùi, nhẹ hơn không khí\n• Nguồn: khí thiên nhiên, khí bùn ao\n\nTính chất hoá học:\n1. Phản ứng CHÁY:\n   CH4 + 2O2 → CO2 + 2H2O\n   (sinh nhiều nhiệt → làm nhiên liệu)\n\n2. Phản ứng THẾ (đặc trưng của ankan):\n   CH4 + Cl2 → CH3Cl + HCl (ánh sáng)\n   CH3Cl + Cl2 → CH2Cl2 + HCl (ánh sáng)\n\nNhận biết: CH4 không làm mất màu Br2, không làm đục Ca(OH)2",
+      "keyFormula": "CH4 + Cl2 → CH3Cl + HCl (phản ứng thế)",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Etilen C2H4 — Hiđrocacbon Không No",
+      "content": "ETILEN (C2H4):\n• Cấu tạo: 1 liên kết đôi C=C (không no)\n• Trạng thái: khí không màu, ít tan trong nước\n\nTính chất hoá học:\n1. Phản ứng CỘNG (đặc trưng của anken):\n   C2H4 + Br2 → C2H4Br2 (mất màu nâu đỏ Br2)\n   C2H4 + H2 → C2H6 (xúc tác Ni, to)\n   C2H4 + H2O → C2H5OH (axit, to — sản xuất rượu)\n\n2. Phản ứng TRÙNG HỢP:\n   n CH2=CH2 → (-CH2-CH2-)n (PE - polyetilen)\n\nNHẬN BIẾT C2H4: Làm MẤT MÀU dung dịch Br2 (đặc trưng!)",
+      "keyFormula": "C2H4 + Br2 → C2H4Br2 (mất màu Br2)",
+      "example": null,
+      "miniGame": {
+        "question": "Cách nhận biết khí etilen C2H4 trong hỗn hợp khí:",
+        "options": ["Đốt cháy, ngọn lửa màu xanh", "Làm mất màu dung dịch Brom", "Làm đục nước vôi trong", "Làm quỳ tím hoá đỏ"],
+        "answer": "Làm mất màu dung dịch Brom",
+        "explanation": "C2H4 có liên kết đôi C=C → phản ứng cộng với Br2: C2H4 + Br2 → C2H4Br2 (không màu). Đây là phản ứng đặc trưng để nhận biết các hợp chất không no (có liên kết đôi hoặc ba)."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Axetilen C2H2 và Benzen C6H6",
+      "content": "AXETILEN (C2H2):\n• Cấu tạo: 1 liên kết ba C≡C (không no)\n• Phản ứng cộng mạnh hơn etilen:\n  C2H2 + Br2 → C2H2Br2 (một mol Br2)\n  C2H2 + 2Br2 → C2H2Br4 (hai mol Br2)\n  C2H2 + H2 → C2H4 → C2H6\n\nBENZEN (C6H6):\n• Cấu tạo: vòng 6 cạnh, liên kết đặc biệt (xen kẽ đơn-đôi)\n• ĐẶC BIỆT: KHÔNG mất màu Br2 (lỏng)\n• Phản ứng thế (không phải cộng):\n  C6H6 + Br2 → C6H5Br + HBr (xúc tác Fe)\n  C6H6 + HNO3 → C6H5NO2 + H2O (nitrobenzen)\n• Cháy tạo khói đen (nhiều C): C6H6 + 7,5O2 → 6CO2 + 3H2O",
+      "keyFormula": "Benzen: phản ứng thế (không cộng), không mất màu Br2",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Bài Tập Xác Định CTPT Hiđrocacbon",
+      "content": "Bài toán: 2,8g CxHy đốt cháy hoàn toàn → 8,8g CO2 và 3,6g H2O. Tìm CTPT.\n\nBước 1: Tính số mol C và H\nn(CO2) = 8,8/44 = 0,2 mol → n(C) = 0,2 mol\nn(H2O) = 3,6/18 = 0,2 mol → n(H) = 0,4 mol\n\nBước 2: Tìm tỉ lệ x:y = n(C):n(H) = 0,2:0,4 = 1:2\n→ Công thức thực nghiệm: CH2\n\nBước 3: Tính n từ M\nM = 2,8/n(hchất) = ?\n→ Giả sử (CH2)n: M = 14n\n→ n(hchất) = 2,8/14n; n(C) = n × n(hchất) = n × 2,8/14n = 2,8/14 = 0,2 ✓\n\nBước 4: Xác định n từ M\nn(hchất) = 2,8/M; n(C) = x × n(hchất) = 0,2 → x/M = 0,2/2,8 = 1/14\nM = 14x; với x=2 → M=28 → C2H4",
+      "keyFormula": "n(C) = n(CO2); n(H) = 2×n(H2O) khi đốt cháy",
+      "example": {
+        "problem": "2,8g CxHy đốt cháy → 8,8g CO2 và 3,6g H2O. Tìm CTPT.",
+        "steps": [
+          "n(C) = n(CO2) = 8,8/44 = 0,2 mol; n(H) = 2×n(H2O) = 2×(3,6/18) = 0,4 mol",
+          "x:y = n(C):n(H) = 0,2:0,4 = 1:2 → CTNN: CH2",
+          "M(hchất) = 2,8/n(hchất); với n(C)=0,2: n(hchất) = 0,2/x = 0,1 mol → M = 2,8/0,1 = 28",
+          "M = 14n = 28 → n = 2 → CTPT: C2H4 (etilen)"
+        ],
+        "result": "CTPT: C2H4 (etilen)"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Nhận Biết Các Hiđrocacbon",
+      "content": "Cách nhận biết CH4, C2H4, CO2 trong hỗn hợp:\n\nBước 1: Dẫn qua dung dịch Ca(OH)2\n→ Nếu đục → CO2 (CO2 + Ca(OH)2 → CaCO3↓)\n→ Các khí còn lại: CH4, C2H4\n\nBước 2: Dẫn qua dung dịch Br2\n→ Nếu mất màu → C2H4 (C2H4 + Br2 → C2H4Br2)\n→ Khí còn lại: CH4 (không phản ứng)\n\nNhận biết CH4, C2H2, CO2 tương tự:\n• Ca(OH)2 → CO2\n• Br2 → C2H2 (mất màu nhanh hơn C2H4)\n• Còn lại → CH4\n\nLưu ý: C2H4 mất màu Br2; CH4, C6H6 không mất màu Br2 lỏng",
+      "keyFormula": "CO2: làm đục Ca(OH)2; C2H4: mất màu Br2",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Nêu cách nhận biết 3 khí CH4, C2H4, CO2 đựng trong 3 bình riêng biệt.",
+      "correctSteps": [
+        "Dẫn từng khí qua dung dịch Ca(OH)2: khí làm đục nước vôi trong → CO2 (CO2 + Ca(OH)2 → CaCO3↓)",
+        "Dẫn 2 khí còn lại qua dung dịch Br2: khí làm mất màu Br2 → C2H4 (C2H4 + Br2 → C2H4Br2)",
+        "Khí không làm đục Ca(OH)2 và không mất màu Br2 → CH4",
+        "Xác nhận: đốt CH4 → ngọn lửa xanh mờ, không có khói"
+      ],
+      "correctAnswer": "CO2: Ca(OH)2 đục; C2H4: Br2 mất màu; CH4: còn lại",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Dùng Ca(OH)2 trước để loại CO2, rồi dùng Br2 để phân biệt C2H4 và CH4."
+    },
+    {
+      "id": 2,
+      "question": "Đốt cháy hoàn toàn 2,8g một hiđrocacbon CxHy, thu được 8,8g CO2 và 3,6g H2O. Xác định công thức phân tử của hiđrocacbon đó.",
+      "correctSteps": [
+        "n(CO2) = 8,8/44 = 0,2 mol → n(C) = 0,2 mol; n(H2O) = 3,6/18 = 0,2 mol → n(H) = 0,4 mol",
+        "Tỉ lệ x:y = n(C):n(H) = 0,2:0,4 = 1:2 → CTNN: CH2",
+        "n(hchất) = 0,2/x; M = 2,8/n(hchất) = 2,8x/0,2 = 14x",
+        "Với x=2: M = 28, CTPT: C2H4 (kiểm tra: 2×12 + 4×1 = 28 ✓)"
+      ],
+      "correctAnswer": "C2H4",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "n(C) = n(CO2); n(H) = 2×n(H2O). Lập tỉ lệ rồi xác định n bằng M."
+    }
+  ]
+}

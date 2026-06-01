@@ -1,0 +1,95 @@
+{
+  "id": "hoa-hoc-ngay-07-oxit-axit-bazo-muoi",
+  "fileName": "hoa-hoc-ngay-07-oxit-axit-bazo-muoi.json",
+  "title": "Ngày 7: Oxit — Axit — Bazơ — Muối",
+  "topics": ["Hoá Học", "Oxit", "Axit", "Bazơ", "Muối"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Oxit Bazơ và Oxit Axit",
+      "content": "OXIT BAZƠ (oxit của kim loại):\n• Tác dụng với nước → dung dịch bazơ:\n  CaO + H2O → Ca(OH)2\n  Na2O + H2O → 2NaOH\n• Tác dụng với axit → muối + nước:\n  CuO + 2HCl → CuCl2 + H2O\n  Fe2O3 + 3H2SO4 → Fe2(SO4)3 + 3H2O\n\nOXIT AXIT (oxit của phi kim):\n• Tác dụng với nước → dung dịch axit:\n  SO3 + H2O → H2SO4\n  CO2 + H2O → H2CO3\n• Tác dụng với bazơ → muối + nước:\n  CO2 + 2NaOH → Na2CO3 + H2O\n  SO2 + 2NaOH → Na2SO3 + H2O",
+      "keyFormula": "Oxit bazơ + Axit → Muối + H2O; Oxit axit + Bazơ → Muối + H2O",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Axit và Bazơ",
+      "content": "AXIT:\n• Làm quỳ tím hoá đỏ\n• Tác dụng kim loại (trước H trong dãy) → muối + H2↑:\n  Fe + 2HCl → FeCl2 + H2↑\n  Zn + H2SO4(loãng) → ZnSO4 + H2↑\n• Tác dụng oxit bazơ → muối + nước\n• Tác dụng bazơ → muối + nước (phản ứng trung hoà)\n\nBAZƠ:\n• Làm quỳ tím hoá xanh\n• Tác dụng với axit → muối + nước:\n  NaOH + HCl → NaCl + H2O\n  Ca(OH)2 + H2SO4 → CaSO4 + 2H2O\n• Bazơ tan (kiềm): NaOH, KOH, Ca(OH)2, Ba(OH)2\n• Bazơ không tan: Cu(OH)2, Fe(OH)3 → bị nhiệt phân",
+      "keyFormula": "Axit + KL → Muối + H2; Bazơ + Axit → Muối + H2O",
+      "example": null,
+      "miniGame": {
+        "question": "Chất nào làm quỳ tím hoá đỏ?",
+        "options": ["NaOH", "Ca(OH)2", "H2SO4", "NaCl"],
+        "answer": "H2SO4",
+        "explanation": "Axit làm quỳ tím hoá đỏ. H2SO4 là axit (có H có thể thay thế). NaOH và Ca(OH)2 là bazơ (quỳ hoá xanh). NaCl là muối (quỳ không đổi màu)."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Sơ Đồ Chuyển Hoá",
+      "content": "SƠ ĐỒ TỔNG QUÁT:\n\nKim loại → Oxit bazơ → Bazơ → Muối\n4Na + O2 → 2Na2O\nNa2O + H2O → 2NaOH\nNaOH + HCl → NaCl + H2O\nNaCl + AgNO3 → AgCl↓ + NaNO3\n\nPhi kim → Oxit axit → Axit → Muối\nS + O2 → SO2\n2SO2 + O2 → 2SO3 (xúc tác)\nSO3 + H2O → H2SO4\nH2SO4 + BaCl2 → BaSO4↓ + 2HCl\n\nMuối có thể chuyển sang muối khác:\nBaSO4 kết tủa trắng không tan\nAgCl kết tủa trắng không tan",
+      "keyFormula": "KL→OxitB→Bazơ→Muối; PK→OxitA→Axit→Muối",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Chuỗi Phản Ứng — Bài Tập Thực Hành",
+      "content": "Hoàn thành chuỗi chuyển hoá: S → SO2 → SO3 → H2SO4 → BaSO4\n\nPTHH:\n① S + O2 →(đốt) SO2\n② 2SO2 + O2 →(xúc tác V2O5, t°) 2SO3\n③ SO3 + H2O → H2SO4\n④ H2SO4 + BaCl2 → BaSO4↓ + 2HCl\n\nChuỗi Fe → FeCl3:\n① 2Fe + 3Cl2 → 2FeCl3\n② FeCl3 + 3NaOH → Fe(OH)3↓ + 3NaCl\n③ 2Fe(OH)3 →(t°) Fe2O3 + 3H2O\n④ Fe2O3 + 3H2SO4 → Fe2(SO4)3 + 3H2O\n\nLưu ý: Fe phản ứng Cl2 tạo Fe³⁺; Fe phản ứng HCl tạo Fe²⁺",
+      "keyFormula": "Fe + Cl2 → FeCl3; Fe + HCl → FeCl2",
+      "example": {
+        "problem": "Viết PTHH hoàn thành chuỗi: S → SO2 → SO3 → H2SO4 → BaSO4",
+        "steps": [
+          "S + O2 →(t°) SO2",
+          "2SO2 + O2 →(V2O5) 2SO3",
+          "SO3 + H2O → H2SO4",
+          "H2SO4 + BaCl2 → BaSO4↓ + 2HCl"
+        ],
+        "result": "4 PTHH hoàn chỉnh từ S đến BaSO4"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Tổng Kết Ngày 7",
+      "content": "Tóm tắt tính chất các loại hợp chất:\n\nOXIT BAZƠ: + H2O → Bazơ; + Axit → Muối + H2O\nOXIT AXIT: + H2O → Axit; + Bazơ → Muối + H2O\nAXIT: quỳ đỏ; + KL → Muối+H2; + OxB → Muối+H2O; + Bazơ → Muối+H2O\nBAZƠ: quỳ xanh; + Axit → Muối+H2O; bazơ không tan → t° → OxitB+H2O\nMUỐI: + Axit mạnh → muối mới + axit yếu; + Bazơ → muối mới + bazơ mới\n\nPhản ứng trao đổi xảy ra khi tạo ra:\n• Kết tủa (↓)\n• Khí bay ra (↑)\n• Nước (H2O)",
+      "keyFormula": "Trao đổi khi có: kết tủa, khí, hoặc nước",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Hoàn thành chuỗi phản ứng: S → SO2 → SO3 → H2SO4 → BaSO4. Viết 4 PTHH.",
+      "correctSteps": [
+        "① S + O2 →(t°) SO2",
+        "② 2SO2 + O2 →(V2O5, t°) 2SO3",
+        "③ SO3 + H2O → H2SO4",
+        "④ H2SO4 + BaCl2 → BaSO4↓ + 2HCl"
+      ],
+      "correctAnswer": "4 PTHH",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "S đốt cháy → SO2; SO2 oxi hoá → SO3; SO3 hấp thụ nước → H2SO4; H2SO4 + BaCl2 → BaSO4 kết tủa."
+    },
+    {
+      "id": 2,
+      "question": "Hoàn thành chuỗi phản ứng: Fe → FeCl3 → Fe(OH)3 → Fe2O3 → Fe2(SO4)3. Viết 4 PTHH.",
+      "correctSteps": [
+        "① 2Fe + 3Cl2 → 2FeCl3",
+        "② FeCl3 + 3NaOH → Fe(OH)3↓ + 3NaCl",
+        "③ 2Fe(OH)3 →(t°) Fe2O3 + 3H2O",
+        "④ Fe2O3 + 3H2SO4 → Fe2(SO4)3 + 3H2O"
+      ],
+      "correctAnswer": "4 PTHH",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Fe + Cl2 → FeCl3 (Fe hoá trị III). Thêm NaOH vào FeCl3 → kết tủa nâu đỏ Fe(OH)3."
+    }
+  ]
+}

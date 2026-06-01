@@ -1,0 +1,132 @@
+{
+  "id": "hoa-hoc-ngay-04-phan-ung-hoa-hoc",
+  "fileName": "hoa-hoc-ngay-04-phan-ung-hoa-hoc.json",
+  "title": "Ngày 4: Phản Ứng Hoá Học & Cân Bằng Phương Trình",
+  "topics": ["Hoá Học", "Phản Ứng Hoá Học", "Cân Bằng Phương Trình"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "4 Loại Phản Ứng Hoá Học",
+      "content": "Bốn loại phản ứng cơ bản:\n\n1. PHẢN ỨNG HOÁ HỢP (A + B → AB):\n   Nhiều chất → một chất\n   Ví dụ: 2H2 + O2 → 2H2O\n\n2. PHẢN ỨNG PHÂN HUỶ (AB → A + B):\n   Một chất → nhiều chất\n   Ví dụ: 2H2O2 → 2H2O + O2↑\n\n3. PHẢN ỨNG THẾ (A + BC → AC + B):\n   Đơn chất thay thế nguyên tố trong hợp chất\n   Ví dụ: Zn + 2HCl → ZnCl2 + H2↑\n\n4. PHẢN ỨNG TRAO ĐỔI (AB + CD → AD + CB):\n   Hai hợp chất đổi chỗ gốc axit/bazơ\n   Ví dụ: NaOH + HCl → NaCl + H2O",
+      "keyFormula": "Hoá hợp; Phân huỷ; Thế; Trao đổi",
+      "example": null,
+      "miniGame": {
+        "question": "Phản ứng Fe + CuSO4 → FeSO4 + Cu thuộc loại phản ứng gì?",
+        "options": ["Hoá hợp", "Phân huỷ", "Thế", "Trao đổi"],
+        "answer": "Thế",
+        "explanation": "Fe (đơn chất) thay thế Cu trong hợp chất CuSO4 → đây là phản ứng thế. Dạng: A + BC → AC + B (Fe + CuSO4 → FeSO4 + Cu)."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Nguyên Tắc Cân Bằng Phương Trình",
+      "content": "Cân bằng phương trình theo ĐỊNH LUẬT BẢO TOÀN NGUYÊN TỬ:\nSố nguyên tử mỗi nguyên tố ở hai vế phải bằng nhau.\n\nPhương pháp đại số:\n1. Đặt các hệ số là a, b, c, d, ...\n2. Lập phương trình theo từng nguyên tố\n3. Giải hệ phương trình (chọn một biến = 1)\n4. Tìm ƯSCNN nếu cần\n\nVí dụ: Fe2O3 + CO → Fe + CO2\n• Đặt: aFe2O3 + bCO → cFe + dCO2\n• Fe: 2a = c\n• O: 3a + b = 2d\n• C: b = d\n• Chọn a=1: c=2, b=d, 3+b=2b → b=3, d=3\n• Kết quả: Fe2O3 + 3CO → 2Fe + 3CO2",
+      "keyFormula": "Bảo toàn nguyên tử: số nguyên tử trái = phải",
+      "example": {
+        "problem": "Cân bằng: Fe2O3 + CO → Fe + CO2",
+        "steps": [
+          "Đặt hệ số: a Fe2O3 + b CO → c Fe + d CO2",
+          "Fe: 2a = c; C: b = d; O: 3a + b = 2d",
+          "Chọn a = 1 → c = 2; b = d; 3 + b = 2b → b = 3, d = 3",
+          "Phương trình cân bằng: Fe2O3 + 3CO → 2Fe + 3CO2"
+        ],
+        "result": "Fe2O3 + 3CO → 2Fe + 3CO2"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Luyện Cân Bằng — Phản Ứng Axit",
+      "content": "Cân bằng các phương trình quan trọng:\n\nAl tác dụng HCl:\n2Al + 6HCl → 2AlCl3 + 3H2↑\n• Kiểm tra: Al: 2=2 ✓; H: 6=6 ✓; Cl: 6=6 ✓\n\nFe3O4 tác dụng H2:\nFe3O4 + 4H2 → 3Fe + 4H2O\n• Kiểm tra: Fe: 3=3 ✓; O: 4=4 ✓; H: 8=8 ✓\n\nMẹo cân bằng nhanh:\n1. Cân bằng kim loại trước\n2. Cân bằng nguyên tố ít biến đổi nhất\n3. Cân bằng H và O cuối cùng",
+      "keyFormula": "Cân bằng KL → PK → H → O",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Phản Ứng Oxi Hoá Khử Nâng Cao",
+      "content": "Một số phương trình khó cần nhớ:\n\nCu + H2SO4 đặc nóng:\nCu + 2H2SO4(đặc) → CuSO4 + SO2↑ + 2H2O\n(Cu không tác dụng H2SO4 loãng)\n\nFeS2 cháy trong O2:\n4FeS2 + 11O2 → 2Fe2O3 + 8SO2\n(Quan trọng trong sản xuất H2SO4)\n\nLưu ý:\n• Cu không tác dụng HCl, H2SO4 loãng\n• Cu tác dụng H2SO4 đặc nóng, HNO3\n• Fe tác dụng HCl, H2SO4 loãng → FeCl2, FeSO4 + H2↑",
+      "keyFormula": "Cu + 2H2SO4đặc → CuSO4 + SO2↑ + 2H2O",
+      "example": {
+        "problem": "Cân bằng: FeS2 + O2 → Fe2O3 + SO2",
+        "steps": [
+          "Đặt: a FeS2 + b O2 → c Fe2O3 + d SO2",
+          "Fe: a = 2c; S: 2a = d; O: 2b = 3c + 2d",
+          "Chọn c = 1 → a = 2, d = 4; 2b = 3 + 8 = 11 → b = 11/2 → nhân 2: a=4, b=11, c=2, d=8",
+          "Kết quả: 4FeS2 + 11O2 → 2Fe2O3 + 8SO2"
+        ],
+        "result": "4FeS2 + 11O2 → 2Fe2O3 + 8SO2"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Tổng Kết Ngày 4",
+      "content": "Tóm tắt kiến thức phản ứng hoá học:\n\n4 loại phản ứng:\n• Hoá hợp: A+B → AB\n• Phân huỷ: AB → A+B\n• Thế: A+BC → AC+B\n• Trao đổi: AB+CD → AD+CB\n\nCân bằng phương trình:\n• Áp dụng định luật bảo toàn nguyên tử\n• Phương pháp đại số: đặt hệ số, lập và giải phương trình\n\nCác PTHH quan trọng:\n• 2Al + 6HCl → 2AlCl3 + 3H2\n• Fe3O4 + 4H2 → 3Fe + 4H2O\n• Cu + 2H2SO4đặc → CuSO4 + SO2 + 2H2O\n• 4FeS2 + 11O2 → 2Fe2O3 + 8SO2",
+      "keyFormula": "Bảo toàn nguyên tử: lập phương trình đại số",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Cân bằng phương trình: Al + HCl → AlCl3 + H2",
+      "correctSteps": [
+        "Đặt hệ số: a Al + b HCl → c AlCl3 + d H2",
+        "Al: a = c; Cl: b = 3c; H: b = 2d",
+        "Chọn c = 1 → a = 1, b = 3, d = 3/2 → nhân 2: a=2, b=6, c=2, d=3",
+        "Kết quả: 2Al + 6HCl → 2AlCl3 + 3H2"
+      ],
+      "correctAnswer": "2Al + 6HCl → 2AlCl3 + 3H2",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Cân bằng Al trước, sau đó Cl, cuối cùng H."
+    },
+    {
+      "id": 2,
+      "question": "Cân bằng phương trình: Fe3O4 + H2 → Fe + H2O",
+      "correctSteps": [
+        "Đặt hệ số: a Fe3O4 + b H2 → c Fe + d H2O",
+        "Fe: 3a = c; O: 4a = d; H: 2b = 2d",
+        "Chọn a = 1 → c = 3, d = 4, b = 4",
+        "Kết quả: Fe3O4 + 4H2 → 3Fe + 4H2O"
+      ],
+      "correctAnswer": "Fe3O4 + 4H2 → 3Fe + 4H2O",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Cân bằng Fe trước, sau đó O, cuối cùng H."
+    },
+    {
+      "id": 3,
+      "question": "Cân bằng phương trình: Cu + H2SO4(đặc) → CuSO4 + SO2 + H2O",
+      "correctSteps": [
+        "Đặt hệ số: a Cu + b H2SO4 → c CuSO4 + d SO2 + e H2O",
+        "Cu: a = c; S: b = c + d; O: 4b = 4c + 2d + e; H: 2b = 2e → b = e",
+        "Chọn a = 1, c = 1: b = 1 + d; 4b = 4 + 2d + b → 3b = 4 + 2d; 3(1+d) = 4+2d → d=1, b=2, e=2",
+        "Kết quả: Cu + 2H2SO4(đặc) → CuSO4 + SO2↑ + 2H2O"
+      ],
+      "correctAnswer": "Cu + 2H2SO4 → CuSO4 + SO2 + 2H2O",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Lưu ý chỉ H2SO4 đặc nóng mới tác dụng với Cu. Cân bằng Cu trước, sau đó S và O."
+    },
+    {
+      "id": 4,
+      "question": "Cân bằng phương trình: FeS2 + O2 → Fe2O3 + SO2",
+      "correctSteps": [
+        "Đặt hệ số: a FeS2 + b O2 → c Fe2O3 + d SO2",
+        "Fe: a = 2c; S: 2a = d; O: 2b = 3c + 2d",
+        "Chọn c = 1 → a = 2, d = 4; 2b = 3 + 8 = 11 → b = 5,5 → nhân 2: a=4, b=11, c=2, d=8",
+        "Kết quả: 4FeS2 + 11O2 → 2Fe2O3 + 8SO2"
+      ],
+      "correctAnswer": "4FeS2 + 11O2 → 2Fe2O3 + 8SO2",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Bài khó vì O2 có hệ số lẻ. Nhân tất cả hệ số với 2 để tránh phân số."
+    }
+  ]
+}

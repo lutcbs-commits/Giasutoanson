@@ -1,0 +1,138 @@
+{
+  "id": "dia-ly-ngay-01-ban-do",
+  "fileName": "dia-ly-ngay-01-ban-do.json",
+  "title": "Ngày 1: Bản Đồ — Công Cụ Số 1 Của Địa Lý",
+  "topics": ["Địa Lý", "Bản Đồ", "Tỉ Lệ Bản Đồ", "Đường Đồng Mức"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "dia-ly",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Tỉ Lệ Bản Đồ & Toạ Độ Địa Lý",
+      "content": "Tỉ lệ bản đồ biểu thị mức độ thu nhỏ của thực tế lên bản đồ.\n\nQuy tắc tỉ lệ:\n• 1:100.000 → 1 cm trên bản đồ = 1 km thực tế\n• Tỉ lệ lớn (1:10.000) → thể hiện chi tiết, diện tích nhỏ\n• Tỉ lệ nhỏ (1:1.000.000) → bao quát, diện tích lớn\n\nToạ độ địa lý:\n• Kinh độ: đo hướng Đông-Tây từ kinh tuyến gốc Greenwich (0°–180°)\n• Vĩ độ: đo hướng Bắc-Nam từ xích đạo (0°–90°)\n• Việt Nam: vĩ độ 8°N – 23°N; kinh độ 102°E – 110°E",
+      "keyFormula": "Khoảng cách thực = Khoảng cách bản đồ × Mẫu số tỉ lệ",
+      "example": {
+        "problem": "Bản đồ tỉ lệ 1:200.000, đo được 7,5 cm. Tính khoảng cách thực tế.",
+        "steps": [
+          "Khoảng cách thực = 7,5 cm × 200.000",
+          "= 1.500.000 cm",
+          "Đổi đơn vị: 1.500.000 cm ÷ 100.000 = 15 km"
+        ],
+        "result": "Khoảng cách thực tế là 15 km"
+      },
+      "miniGame": {
+        "question": "Bản đồ tỉ lệ 1:500.000, đo được 3 cm. Khoảng cách thực là bao nhiêu?",
+        "options": ["10 km", "15 km", "20 km", "25 km"],
+        "answer": "15 km",
+        "explanation": "3 cm × 500.000 = 1.500.000 cm = 15 km"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Đường Đồng Mức — Đọc Địa Hình Qua Bản Đồ",
+      "content": "Đường đồng mức là đường nối tất cả các điểm có cùng độ cao trên bản đồ địa hình.\n\nCách đọc đường đồng mức:\n• Đường đồng mức dày (gần nhau) → địa hình dốc đứng\n• Đường đồng mức thưa (xa nhau) → địa hình thoải\n• Đường đồng mức khép kín, trị số tăng vào trong → đỉnh núi\n• Đường đồng mức lồi về phía thấp → sống núi (gờ núi)\n• Đường đồng mức lồi về phía cao → thung lũng\n\nTính độ dốc:\nĐộ dốc (%) = (Chênh lệch độ cao ÷ Khoảng cách nằm ngang) × 100",
+      "keyFormula": "Độ dốc (%) = (ΔH ÷ L) × 100",
+      "example": {
+        "problem": "Hai điểm cách nhau 2 km, chênh lệch độ cao 200 m. Tính độ dốc.",
+        "steps": [
+          "Đổi đơn vị: L = 2 km = 2.000 m",
+          "Độ dốc = (200 m ÷ 2.000 m) × 100",
+          "= 0,1 × 100 = 10%"
+        ],
+        "result": "Độ dốc là 10%"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Phương Hướng & Ký Hiệu Bản Đồ",
+      "content": "Xác định phương hướng trên bản đồ:\n• Mũi tên chỉ hướng Bắc luôn có trên bản đồ\n• Nếu không có mũi tên: phía trên = Bắc, dưới = Nam, phải = Đông, trái = Tây\n\nCác nhóm ký hiệu bản đồ:\n1. Ký hiệu điểm: thể hiện vị trí (thành phố, mỏ khoáng sản)\n2. Ký hiệu đường: thể hiện đối tượng dạng tuyến (sông, đường giao thông)\n3. Ký hiệu diện: thể hiện vùng (rừng, đồng bằng, hồ)\n\nBảng chú giải (legend) là chìa khoá để đọc bản đồ — luôn đọc trước!",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Trên bản đồ không có mũi tên chỉ hướng. Hà Nội nằm ở phần trên bản đồ, TP.HCM ở phần dưới. Hà Nội nằm ở hướng nào so với TP.HCM?",
+        "options": ["Hướng Nam", "Hướng Bắc", "Hướng Đông", "Hướng Tây"],
+        "answer": "Hướng Bắc",
+        "explanation": "Phần trên bản đồ (khi không có mũi tên) quy ước là hướng Bắc, nên Hà Nội nằm ở phía Bắc so với TP.HCM."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Các Loại Bản Đồ & Ứng Dụng",
+      "content": "Phân loại bản đồ theo nội dung:\n• Bản đồ địa lý tự nhiên: địa hình, khí hậu, sông ngòi\n• Bản đồ kinh tế-xã hội: dân cư, nông nghiệp, công nghiệp\n• Bản đồ hành chính: ranh giới tỉnh/quốc gia\n\nBản đồ có thể được chiếu từ hình cầu Trái Đất lên mặt phẳng:\n• Phép chiếu nón: thích hợp vĩ độ trung bình\n• Phép chiếu trụ: thích hợp vùng xích đạo\n• Phép chiếu phương vị: thích hợp vùng cực\n\nSai số phép chiếu tăng dần từ trung tâm ra ngoài rìa bản đồ.",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Luyện Tập Tổng Hợp — Bản Đồ",
+      "content": "Bài tập thực hành:\n\nBài 1: Bản đồ tỉ lệ 1:500.000, đo được 4 cm\n→ 4 × 500.000 = 2.000.000 cm = 20 km\n\nBài 2: Mô tả địa hình từ bản đồ đồng mức:\n• Phía Đông: đường đồng mức dày, sát nhau → dốc đứng\n• Phía Tây: đường đồng mức thưa, cách xa → thoải dần\n→ Kết luận: địa hình bất đối xứng, phía Đông hiểm trở hơn\n\nMẹo thi chuyên:\n• Đọc kỹ bảng chú giải trước khi mô tả\n• Khi tính khoảng cách: luôn đổi về cm rồi mới tính\n• Đường đồng mức càng dày → càng dốc (nhớ bằng: 'dày = dốc')",
+      "keyFormula": "Khoảng cách thực (km) = Khoảng cách bản đồ (cm) × Mẫu số ÷ 100.000",
+      "example": {
+        "problem": "Bản đồ tỉ lệ 1:500.000, đo được 4 cm. Tính khoảng cách thực tế.",
+        "steps": [
+          "Khoảng cách thực = 4 cm × 500.000 = 2.000.000 cm",
+          "Đổi về km: 2.000.000 ÷ 100.000 = 20 km"
+        ],
+        "result": "Khoảng cách thực tế là 20 km"
+      },
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Trên bản đồ tỉ lệ 1:200.000, khoảng cách đo được giữa hai thành phố là 7,5 cm. Hỏi khoảng cách thực tế giữa hai thành phố đó là bao nhiêu km?",
+      "correctSteps": [
+        "Khoảng cách thực = 7,5 cm × 200.000 = 1.500.000 cm",
+        "Đổi về km: 1.500.000 cm ÷ 100.000 = 15 km"
+      ],
+      "correctAnswer": "15",
+      "correctUnit": "km",
+      "difficulty": "easy",
+      "hint": "Nhân khoảng cách bản đồ với mẫu số tỉ lệ, rồi đổi từ cm sang km (chia cho 100.000)"
+    },
+    {
+      "id": 2,
+      "question": "Trên bản đồ địa hình, quan sát thấy phía Đông núi có các đường đồng mức rất dày và gần nhau, còn phía Tây các đường đồng mức thưa và xa nhau. Hãy mô tả đặc điểm địa hình hai sườn núi đó.",
+      "correctSteps": [
+        "Phía Đông: đường đồng mức dày (gần nhau) → địa hình dốc đứng, hiểm trở",
+        "Phía Tây: đường đồng mức thưa (xa nhau) → địa hình thoải, dễ đi lại",
+        "Kết luận: sườn Đông dốc hơn sườn Tây, núi bất đối xứng"
+      ],
+      "correctAnswer": "Sườn Đông dốc đứng, sườn Tây thoải",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Nhớ quy tắc: đường đồng mức dày = dốc, thưa = thoải"
+    },
+    {
+      "id": 3,
+      "question": "Việt Nam có toạ độ địa lý từ 8°34'N đến 23°23'N và từ 102°09'E đến 109°24'E. Hãy cho biết Việt Nam thuộc đới khí hậu nào và giải thích ý nghĩa vị trí địa lý đó.",
+      "correctSteps": [
+        "Vĩ độ 8°N – 23°N nằm trong vùng nội chí tuyến → đới khí hậu nhiệt đới",
+        "Gần biển (3.260 km bờ biển) → ẩm ướt, mưa nhiều",
+        "Nằm ở ĐNA → chịu ảnh hưởng gió mùa mạnh",
+        "Ý nghĩa: nền nhiệt cao, ẩm ướt, khí hậu nhiệt đới gió mùa"
+      ],
+      "correctAnswer": "Nhiệt đới gió mùa",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Xét vĩ độ → đới khí hậu; xét vị trí gần biển và ĐNA → kiểu khí hậu cụ thể"
+    },
+    {
+      "id": 4,
+      "question": "Hai điểm A và B trên bản đồ cách nhau 5 cm, tỉ lệ bản đồ 1:1.000.000. Chênh lệch độ cao giữa A và B là 500 m. Tính độ dốc (%) của địa hình từ A đến B.",
+      "correctSteps": [
+        "Khoảng cách thực = 5 cm × 1.000.000 = 5.000.000 cm = 50 km = 50.000 m",
+        "Độ dốc = (Chênh lệch độ cao ÷ Khoảng cách nằm ngang) × 100",
+        "= (500 m ÷ 50.000 m) × 100 = 1%"
+      ],
+      "correctAnswer": "1",
+      "correctUnit": "%",
+      "difficulty": "hard",
+      "hint": "Đổi khoảng cách bản đồ về mét, rồi dùng công thức: Độ dốc = (ΔH ÷ L) × 100"
+    }
+  ]
+}

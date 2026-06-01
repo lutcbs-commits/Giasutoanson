@@ -1,0 +1,126 @@
+{
+  "id": "dia-ly-ngay-04-thuy-quyen",
+  "fileName": "dia-ly-ngay-04-thuy-quyen.json",
+  "title": "Ngày 4: Thuỷ Quyển — Sông Ngòi & Biển",
+  "topics": ["Địa Lý", "Sông Ngòi", "Biển", "Thuỷ Triều"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "dia-ly",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Sông Ngòi — Khái Niệm & Đặc Điểm",
+      "content": "Các khái niệm cơ bản về sông ngòi:\n\n• Lưu vực sông: diện tích đất cung cấp nước cho sông (km²)\n• Lưu lượng nước (Q): lượng nước chảy qua mặt cắt trong 1 giây (m³/s)\n• Chế độ nước: sự thay đổi mực nước và lưu lượng theo thời gian\n• Lũ: khi lượng mưa lớn → nước dâng cao đột ngột\n\nSông ngòi Việt Nam:\n• Mạng lưới dày đặc: 2.360 con sông dài trên 10 km\n• Chế độ theo mùa: mùa lũ (70–80% lượng nước cả năm)\n• Nhiều phù sa: hàng trăm triệu tấn/năm\n• Sông Hồng: lũ tháng 7–8; Sông Cửu Long: lũ tháng 9–10",
+      "keyFormula": "Mật độ sông = Tổng chiều dài sông ÷ Diện tích lưu vực (km/km²)",
+      "example": null,
+      "miniGame": {
+        "question": "Sông ngòi Việt Nam có đặc điểm nổi bật nào sau đây?",
+        "options": ["Ít sông, lưu lượng nhỏ", "Mạng lưới dày, chế độ nước theo mùa, nhiều phù sa", "Sông dài, bằng phẳng, ổn định quanh năm", "Chủ yếu chảy theo hướng Nam-Bắc"],
+        "answer": "Mạng lưới dày, chế độ nước theo mùa, nhiều phù sa",
+        "explanation": "Sông VN có 2.360 sông dài >10 km, chế độ theo mùa (70–80% nước tập trung mùa lũ), giàu phù sa do địa hình đồi núi cao."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Biển & Đại Dương — Đặc Điểm Lý Hoá",
+      "content": "Đặc điểm nước biển:\n• Độ muối trung bình: 35‰ (muối chủ yếu là NaCl)\n• Độ muối cao hơn ở vùng khô hạn, thấp hơn ở vùng mưa nhiều\n• Nhiệt độ: giảm theo vĩ độ (xích đạo nóng nhất) và theo độ sâu\n\nCác hiện tượng trong biển:\n• Sóng biển: do gió tạo ra; sóng thần do động đất dưới đáy biển\n• Thuỷ triều: do lực hút của Mặt Trăng và Mặt Trời\n  – Triều cường: Mặt Trời, Mặt Trăng, Trái Đất thẳng hàng\n  – Triều kém: vuông góc nhau\n• Dòng biển nóng: từ xích đạo → cực (sưởi ấm, mưa nhiều)\n• Dòng biển lạnh: từ cực → xích đạo (làm lạnh, ít mưa)",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Biển Đông & Ảnh Hưởng Tới Việt Nam",
+      "content": "Biển Đông:\n• Diện tích: 3,5 triệu km² — biển lớn thứ 2 Tây Thái Bình Dương\n• Kiểu: biển rìa Thái Bình Dương, nửa kín\n• Đặc điểm: ấm, giàu hải sản và dầu khí\n\nẢnh hưởng của Biển Đông đến Việt Nam:\n1. Khí hậu: điều hoà nhiệt độ (ấm hơn mùa đông, mát hơn mùa hè), cung cấp hơi ẩm, tăng lượng mưa\n2. Địa hình ven biển: bờ biển dài 3.260 km, nhiều đầm phá, cửa sông, bãi cát\n3. Tài nguyên: hải sản, dầu khí, muối, vận tải biển\n4. Giao thông: tuyến hàng hải quốc tế quan trọng qua Biển Đông",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Dòng biển nóng ảnh hưởng như thế nào đến khí hậu vùng ven biển?",
+        "options": ["Làm lạnh và giảm mưa", "Làm ấm và tăng lượng mưa", "Không ảnh hưởng đến mưa", "Chỉ làm tăng sóng biển"],
+        "answer": "Làm ấm và tăng lượng mưa",
+        "explanation": "Dòng biển nóng bốc hơi nhiều → cung cấp hơi ẩm cho gió → mưa nhiều ở vùng ven biển đó; đồng thời sưởi ấm không khí."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Chế Độ Nước Sông Theo Mùa & Nguyên Nhân",
+      "content": "Nguyên nhân sông ngòi VN có chế độ nước theo mùa:\n• Khí hậu gió mùa → mưa theo mùa → nước sông theo mùa\n• Mùa hạ (gió Tây Nam): mưa nhiều → lũ lớn\n• Mùa đông (gió Đông Bắc): ít mưa → cạn\n\nSo sánh hai đồng bằng:\n• Sông Hồng: lũ T7–8, dốc, nhiều phù sa, có đê ngăn lũ\n• Sông Cửu Long: lũ T9–10, bằng phẳng, điều tiết qua Biển Hồ (Campuchia), không đê lớn → lũ tràn đồng\n\nVai trò của phù sa:\n• Bồi đắp đồng bằng châu thổ\n• Cung cấp dinh dưỡng cho đất nông nghiệp\n• ĐBSCL và ĐBSH hình thành từ phù sa sông bồi đắp qua hàng nghìn năm",
+      "keyFormula": "",
+      "example": {
+        "problem": "Giải thích tại sao lũ Sông Cửu Long 'hiền hoà' hơn lũ Sông Hồng.",
+        "steps": [
+          "Sông Cửu Long có Biển Hồ (Campuchia) điều tiết, hút nước lũ",
+          "Địa hình đồng bằng SCL bằng phẳng → nước lan rộng, không dâng cao đột ngột",
+          "Sông Hồng địa hình dốc → nước tập trung nhanh, lũ lên nhanh và mạnh"
+        ],
+        "result": "Lũ SCL dâng chậm, thoải; lũ SH lên nhanh, nguy hiểm hơn"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Luyện Tập — Thuỷ Quyển",
+      "content": "Tóm tắt trọng tâm:\n\nSông ngòi: lưu vực, lưu lượng, chế độ nước (mùa)\nBiển: độ muối 35‰, sóng (gió), thuỷ triều (Mặt Trăng)\nDòng biển: nóng → mưa nhiều; lạnh → khô hạn\n\nSo sánh SH và SCL:\n• SH: 169.000 km², lũ T7–8, dốc, đê ngăn lũ\n• SCL: 795.000 km², lũ T9–10, bằng, không đê lớn\n\nBài luận ngắn:\nTại sao sông ngòi VN giàu phù sa?\n→ Địa hình đồi núi cao (3/4 diện tích) → dốc → nước chảy nhanh → xói mòn mạnh → phù sa lớn. Rừng đầu nguồn bị phá → tăng xói mòn thêm.",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Giải thích tại sao sông ngòi Việt Nam có chế độ nước theo mùa rõ rệt. Liên hệ với khí hậu gió mùa.",
+      "correctSteps": [
+        "Việt Nam có khí hậu gió mùa: mùa hạ gió Tây Nam mang mưa lớn, mùa đông ít mưa",
+        "Lượng mưa tập trung vào mùa hạ (70–80% lượng mưa năm) → sông dâng lũ",
+        "Mùa khô (Đông Xuân): ít mưa, không có nguồn bổ sung → mực nước sông xuống thấp",
+        "Kết luận: chế độ nước sông phản ánh trực tiếp chế độ mưa gió mùa"
+      ],
+      "correctAnswer": "Khí hậu gió mùa quy định chế độ nước sông",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Nối: gió mùa → mưa theo mùa → nước sông theo mùa"
+    },
+    {
+      "id": 2,
+      "question": "Dòng biển nóng chảy ven bờ một vùng ven biển. Giải thích ảnh hưởng của dòng biển nóng đó đến khí hậu vùng này.",
+      "correctSteps": [
+        "Dòng biển nóng có nhiệt độ cao hơn bề mặt nước xung quanh",
+        "Bốc hơi mạnh → cung cấp nhiều hơi ẩm cho không khí phía trên",
+        "Gió thổi vào bờ mang hơi ẩm → mưa nhiều ở vùng ven biển",
+        "Đồng thời làm ấm không khí → nhiệt độ vùng ven biển cao hơn bình thường"
+      ],
+      "correctAnswer": "Ấm và mưa nhiều hơn",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Dòng biển nóng = nguồn hơi ẩm và nhiệt cho khí hậu ven bờ"
+    },
+    {
+      "id": 3,
+      "question": "So sánh đặc điểm lũ lụt của Đồng bằng sông Hồng và Đồng bằng sông Cửu Long. Giải thích sự khác biệt.",
+      "correctSteps": [
+        "ĐBSH: Sông Hồng địa hình dốc → lũ lên nhanh, mạnh, có đê ngăn; lũ tháng 7–8",
+        "ĐBSCL: địa hình bằng phẳng, Biển Hồ điều tiết nước → lũ lên chậm, dàn rộng, không đê lớn; lũ tháng 9–10",
+        "ĐBSH nguy hiểm hơn do lũ lên đột ngột; ĐBSCL lũ 'hiền' nhưng kéo dài",
+        "Lũ ĐBSCL còn mang phù sa bồi đắp đất, ít thiệt hại hơn"
+      ],
+      "correctAnswer": "ĐBSH lũ nhanh mạnh; ĐBSCL lũ chậm dàn rộng",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "So sánh: địa hình, có/không có hồ điều tiết, có/không có hệ thống đê"
+    },
+    {
+      "id": 4,
+      "question": "Biển Đông có diện tích 3,5 triệu km². Nêu 3 ảnh hưởng quan trọng nhất của Biển Đông đến Việt Nam và giải thích cơ chế từng ảnh hưởng đó.",
+      "correctSteps": [
+        "1. Khí hậu: Biển Đông cung cấp hơi ẩm → mưa nhiều (1.500–2.000 mm/năm); điều hoà nhiệt độ (ấm hơn mùa đông, mát hơn mùa hè)",
+        "2. Tài nguyên: hải sản phong phú (cá, tôm), dầu khí thềm lục địa → kinh tế biển chiếm tỉ trọng lớn",
+        "3. Giao thông hàng hải: tuyến đường biển quốc tế qua Biển Đông → Việt Nam có vị trí chiến lược, xuất nhập khẩu thuận lợi"
+      ],
+      "correctAnswer": "Khí hậu, tài nguyên, giao thông",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Nghĩ đến 3 nhóm: tự nhiên (khí hậu, địa hình), tài nguyên, và kinh tế (giao thông)"
+    }
+  ]
+}

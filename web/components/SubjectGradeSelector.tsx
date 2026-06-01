@@ -2,7 +2,7 @@
 import { useState } from 'react';
 
 export interface SubjectGradeChoice {
-  subject: 'toan' | 'tieng-anh-ielts';
+  subject: 'toan' | 'tieng-anh-ielts' | 'hoa-hoc' | 'dia-ly';
   grade: string;
 }
 
@@ -27,6 +27,28 @@ const SUBJECTS = [
     color: 'from-sky-500 to-sky-600',
     bg: 'bg-sky-50 border-sky-300',
     selectedBg: 'bg-sky-500',
+    textSelected: 'text-white',
+  },
+  {
+    id: 'hoa-hoc' as const,
+    emoji: '⚗️',
+    label: 'Hoá học',
+    description: 'Thử sức chuyên Hoá lớp 10 — lộ trình 2 tuần 14 ngày',
+    grades: [{ value: '10', label: 'Lớp 10', note: 'Chuyên Hoá — từ nguyên tử đến hữu cơ' }],
+    color: 'from-orange-500 to-red-500',
+    bg: 'bg-orange-50 border-orange-300',
+    selectedBg: 'bg-orange-500',
+    textSelected: 'text-white',
+  },
+  {
+    id: 'dia-ly' as const,
+    emoji: '🌍',
+    label: 'Địa lý',
+    description: 'Thử sức chuyên Địa lớp 10 — lộ trình 2 tuần 14 ngày',
+    grades: [{ value: '10', label: 'Lớp 10', note: 'Chuyên Địa — từ bản đồ đến kinh tế VN' }],
+    color: 'from-emerald-500 to-teal-600',
+    bg: 'bg-emerald-50 border-emerald-300',
+    selectedBg: 'bg-emerald-500',
     textSelected: 'text-white',
   },
 ];

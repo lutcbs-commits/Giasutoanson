@@ -1,0 +1,128 @@
+{
+  "id": "dia-ly-ngay-08-khi-hau-viet-nam",
+  "fileName": "dia-ly-ngay-08-khi-hau-viet-nam.json",
+  "title": "Ngày 8: Khí Hậu Việt Nam",
+  "topics": ["Địa Lý", "Khí Hậu", "Gió Mùa", "Phân Hoá Bắc Nam"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "dia-ly",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Tính Chất Khí Hậu Việt Nam",
+      "content": "Khí hậu Việt Nam mang tính chất:\n\n1. Nhiệt đới:\n   • Nền nhiệt cao quanh năm (>20°C ở hầu hết nơi)\n   • Tổng bức xạ Mặt Trời lớn\n   • Mặt Trời qua thiên đỉnh 2 lần/năm\n\n2. Ẩm ướt:\n   • Lượng mưa 1.500–2.000 mm/năm (nơi mưa nhiều đến 4.000 mm)\n   • Độ ẩm trung bình >80%\n   • Gần biển → cung cấp hơi ẩm liên tục\n\n3. Gió mùa:\n   • 2 mùa gió chính:\n     – Gió mùa Đông Bắc (T11–T4): lạnh khô ở miền Bắc, mưa ở Trung Bộ\n     – Gió mùa Tây Nam (T5–T10): nóng ẩm, mưa khắp cả nước",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Gió mùa Đông Bắc ảnh hưởng như thế nào đến các vùng khác nhau của Việt Nam?",
+        "options": ["Mưa nhiều ở miền Bắc, khô ở miền Trung", "Lạnh khô ở miền Bắc, mưa ở duyên hải Trung Bộ", "Nóng ẩm trên toàn quốc", "Chỉ ảnh hưởng đến miền Nam"],
+        "answer": "Lạnh khô ở miền Bắc, mưa ở duyên hải Trung Bộ",
+        "explanation": "Gió ĐB từ lục địa → lạnh khô cho miền Bắc; khi ra biển hút thêm ẩm → mưa khi gặp địa hình Trường Sơn ở Trung Bộ."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Phân Hoá Khí Hậu Bắc-Nam",
+      "content": "Ranh giới phân chia: dãy Bạch Mã (~16°B, Thừa Thiên Huế)\n\nMiền Bắc (>16°B) — bốn mùa:\n• Mùa đông: lạnh (<18°C ở Hà Nội), ít mưa, có sương mù\n• Mùa hè: nóng, mưa nhiều (gió Tây Nam)\n• Mùa xuân, thu: chuyển tiếp\n• Nhiệt độ trung bình: 23–24°C\n\nMiền Nam (<16°B) — hai mùa:\n• Mùa mưa: tháng 5–11 (gió Tây Nam)\n• Mùa khô: tháng 12–4\n• Nhiệt độ trung bình: >25°C (nóng quanh năm)\n• Không có mùa đông lạnh\n\nTrung Bộ: khắc nghiệt nhất — mùa mưa lệch thu-đông (T9-T12), bão nhiều",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Phân Hoá Đông-Tây & Theo Độ Cao",
+      "content": "Phân hoá Đông-Tây:\n• Sườn đón gió (Đông): mưa nhiều (Huế: 2.868 mm/năm)\n• Sườn khuất gió (Tây): ít mưa, khô nóng\n• Hiệu ứng phơn (gió Lào): gió Tây Nam vượt Trường Sơn → khô nóng ở đồng bằng Bắc Trung Bộ (T7-8)\n\nPhân hoá theo độ cao:\n• <600 m: khí hậu nhiệt đới (nóng ẩm)\n• 600–2.600 m: cận nhiệt đới (mát)\n  – Đà Lạt (1.500 m): nhiệt độ 16–20°C\n  – Sa Pa (1.650 m): nhiệt độ 15–18°C\n• >2.600 m: ôn đới (lạnh, Fansipan có băng giá)\n\nĐây giải thích tại sao Đà Lạt mát mẻ quanh năm dù nằm trong vùng nhiệt đới!",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Tại sao mùa hè ở Bắc Trung Bộ (Vinh, Hà Tĩnh) lại rất nóng và khô?",
+        "options": ["Do nằm gần chí tuyến Bắc", "Do hiệu ứng phơn của gió Tây Nam vượt Trường Sơn", "Do ít rừng che phủ", "Do dòng biển lạnh chạy ven bờ"],
+        "answer": "Do hiệu ứng phơn của gió Tây Nam vượt Trường Sơn",
+        "explanation": "Gió Tây Nam (từ vịnh Thái Lan) mang mưa cho Tây Nguyên và ĐBSCL, khi vượt Trường Sơn sang sườn Đông → khô nóng (phơn/gió Lào), nhiệt độ >40°C."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Gió Mùa Đông Bắc & Gió Mùa Tây Nam",
+      "content": "Gió mùa Đông Bắc (T11–T4):\n• Nguồn gốc: lục địa Á-Âu lạnh giá (áp cao Siberia)\n• Nửa đầu mùa đông (T11-T1): lạnh khô vì chủ yếu từ lục địa\n• Nửa cuối mùa đông (T2-T4): lạnh ẩm, mưa phùn vì qua biển Hoa Nam\n• Ảnh hưởng: miền Bắc; suy yếu khi vào miền Trung; không tới miền Nam\n\nGió mùa Tây Nam (T5–T10):\n• Nguồn gốc: vịnh Thái Lan, Ấn Độ Dương (ấm ẩm)\n• Gây mưa lớn cho ĐBSCL, Tây Nguyên, toàn bộ Nam Bộ\n• Khi vượt Trường Sơn → gió Lào (khô nóng) ở Trung Bộ\n• Kết hợp bão → mưa lũ miền Trung vào thu-đông\n\nThời điểm giao mùa: tháng 4-5 và tháng 10-11",
+      "keyFormula": "",
+      "example": {
+        "problem": "Giải thích tại sao miền Trung có mùa mưa vào thu-đông (T9-T12) trong khi cả nước mưa hè.",
+        "steps": [
+          "Mùa hè: gió Tây Nam thổi từ TBình Dương → bị dãy Trường Sơn chắn → mưa cho sườn Tây, khô hạn cho sườn Đông (Trung Bộ)",
+          "Thu-đông: gió Đông Bắc từ biển Bắc Bộ thổi vào → gặp dãy Bạch Mã và Trường Sơn → mưa lớn ở sườn Đông",
+          "Kết hợp bão (T9-T11) tăng thêm lượng mưa",
+          "→ Trung Bộ mưa lệch pha so với cả nước: mùa mưa thu-đông, mùa khô hè"
+        ],
+        "result": "Gió ĐB + địa hình chắn gió → mưa thu-đông ở Trung Bộ"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Luyện Tập — Khí Hậu Việt Nam",
+      "content": "Bảng tóm tắt phân hoá khí hậu:\n\n| Tiêu chí | Miền Bắc | Miền Trung | Miền Nam |\n|---|---|---|---|\n| Ranh giới | >16°B | 16°B–11°B | <11°B |\n| Số mùa | 4 | 2 (lệch pha) | 2 |\n| Mùa mưa | T5–T10 | T9–T12 | T5–T11 |\n| Mùa khô | T11–T4 | T1–T8 | T12–T4 |\n| Nhiệt độ TB | 23°C | 25–27°C | >25°C |\n\nCâu hỏi thi hay gặp:\n1. Huế mưa nhiều nhất VN: đón gió ĐB + địa hình Bạch Mã chắn → mưa 3.000 mm/năm\n2. Đà Lạt mát quanh năm: độ cao 1.500 m → nhiệt độ giảm 9°C so với mực biển\n3. Gió Lào: phơn từ Tây Nam vượt Trường Sơn → khô nóng Bắc Trung Bộ",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Giải thích tại sao Huế là nơi có lượng mưa nhiều nhất Việt Nam (trên 3.000 mm/năm). Phân tích vai trò của gió mùa và địa hình.",
+      "correctSteps": [
+        "Mùa đông: gió Đông Bắc từ biển Bắc Bộ thổi vào, gặp dãy Bạch Mã và Trường Sơn → bị chặn → bốc lên cao → mưa lớn",
+        "Mùa hè: mặc dù gió Tây Nam thổi, nhưng đèo Hải Vân vẫn tạo hiệu ứng đón gió cục bộ",
+        "Huế còn chịu nhiều cơn bão và áp thấp nhiệt đới đổ bộ (T9-T11)",
+        "Kết quả: mưa quanh năm, đặc biệt mưa lớn thu-đông, tổng năm >3.000 mm"
+      ],
+      "correctAnswer": "Gió ĐB + địa hình Bạch Mã chắn + bão",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Huế nằm ở vị trí đặc biệt: phía Nam dãy Bạch Mã, đón trực tiếp gió Đông Bắc từ biển"
+    },
+    {
+      "id": 2,
+      "question": "So sánh đặc điểm khí hậu của Hà Nội (21°B, mực biển) và Đà Lạt (12°B, cao 1.500 m). Thành phố nào mát hơn và tại sao?",
+      "correctSteps": [
+        "Hà Nội: vĩ độ cao hơn nhưng ở mực biển → nhiệt độ TB ~23°C, có mùa đông lạnh (<18°C)",
+        "Đà Lạt: vĩ độ thấp hơn (nhiệt đới) nhưng cao 1.500 m → giảm (1500÷100)×0,6=9°C",
+        "Nếu Đà Lạt ở mực biển ≈ 28°C; trên cao: 28-9=19°C quanh năm",
+        "→ Đà Lạt mát hơn và đều hơn quanh năm do độ cao; Hà Nội biên độ nhiệt lớn theo mùa"
+      ],
+      "correctAnswer": "Đà Lạt mát hơn nhờ độ cao 1.500 m",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "So sánh: Hà Nội (vĩ độ cao, mực biển) vs Đà Lạt (vĩ độ thấp, cao nguyên 1.500 m)"
+    },
+    {
+      "id": 3,
+      "question": "Tại sao miền Bắc Việt Nam có 4 mùa còn miền Nam chỉ có 2 mùa? Vai trò của gió mùa Đông Bắc trong sự phân hoá này.",
+      "correctSteps": [
+        "Miền Bắc (>16°B): gần cực hơn → chịu ảnh hưởng của gió mùa Đông Bắc từ lục địa Á-Âu lạnh",
+        "Gió ĐB tạo ra mùa đông lạnh rõ rệt (<18°C) → hình thành 4 mùa: xuân-hạ-thu-đông",
+        "Dãy Bạch Mã (16°B) chặn gió ĐB → miền Nam không chịu ảnh hưởng gió lạnh",
+        "Miền Nam chỉ có gió Tây Nam (mưa T5-T11) và gió Đông Bắc yếu → 2 mùa: mưa và khô"
+      ],
+      "correctAnswer": "Gió ĐB tạo mùa đông ở miền Bắc; bị chặn ở Bạch Mã",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Chìa khoá: dãy Bạch Mã (16°B) là ranh giới ngăn gió ĐB lạnh"
+    },
+    {
+      "id": 4,
+      "question": "Giải thích hiện tượng 'gió Lào' (phơn) xảy ra ở Bắc Trung Bộ. Tại sao Vinh, Hà Tĩnh nóng nhất vào tháng 7-8 mặc dù đây là mùa mưa ở phần còn lại của Việt Nam?",
+      "correctSteps": [
+        "Gió Tây Nam (gió mùa mùa hè) thổi từ vịnh Thái Lan, mang nhiều hơi ẩm",
+        "Khi gió vượt dãy Trường Sơn sang sườn Đông (Bắc Trung Bộ): bị giảm ẩm do mưa ở sườn Tây",
+        "Gió chìm xuống sườn Đông: nhiệt độ tăng do nén adiabatic (hiệu ứng phơn)",
+        "Kết quả: gió Lào rất khô và nóng (T°>40°C), gây hạn hán nghiêm trọng tháng 6-8 ở Nghệ An, Hà Tĩnh"
+      ],
+      "correctAnswer": "Phơn/gió Lào: gió vượt núi → nóng khô sườn khuất",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Sườn đón gió (Tây): mưa mang ẩm; sườn khuất (Đông): khô nóng do nén khí"
+    }
+  ]
+}

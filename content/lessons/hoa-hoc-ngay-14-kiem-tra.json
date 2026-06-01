@@ -1,0 +1,147 @@
+{
+  "id": "hoa-hoc-ngay-14-kiem-tra",
+  "fileName": "hoa-hoc-ngay-14-kiem-tra.json",
+  "title": "Ngày 14: Bài Kiểm Tra Hoá Học",
+  "topics": ["Hoá Học", "Kiểm Tra", "Tổng Hợp"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Câu 1 — Vị Trí Trong Bảng Tuần Hoàn",
+      "content": "Nguyên tố X có 12 proton.\n\nXác định:\n• Cấu hình electron: Z=12 → 2, 8, 2\n• Số lớp electron: 3 → chu kỳ 3\n• Số electron lớp ngoài cùng: 2 → nhóm II\n\nX là Magie (Mg).\n\nCác phương án:\nA. Chu kỳ 2, nhóm II\nB. Chu kỳ 3, nhóm II\nC. Chu kỳ 3, nhóm III\nD. Chu kỳ 2, nhóm III",
+      "keyFormula": "Số lớp e = chu kỳ; Số e ngoài = nhóm",
+      "example": null,
+      "miniGame": {
+        "question": "Nguyên tố X có 12 proton. X thuộc chu kỳ và nhóm nào trong bảng tuần hoàn?",
+        "options": ["A. Chu kỳ 2, nhóm II", "B. Chu kỳ 3, nhóm II", "C. Chu kỳ 3, nhóm III", "D. Chu kỳ 2, nhóm III"],
+        "answer": "B. Chu kỳ 3, nhóm II",
+        "explanation": "Z=12 → cấu hình: 2, 8, 2. Số lớp = 3 → chu kỳ 3. Số e ngoài cùng = 2 → nhóm II. X là Magie (Mg)."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Câu 2 — Liên Kết Hoá Học",
+      "content": "Xét phân tử CaCl2:\n\n• Ca là kim loại (Z=20, nhóm II, chu kỳ 4)\n• Cl là phi kim (Z=17, nhóm VII, chu kỳ 3)\n\nKim loại + Phi kim → Liên kết ION\n\nCơ chế:\n• Ca → Ca²⁺ + 2e (nhường 2 electron)\n• 2Cl + 2e → 2Cl⁻ (mỗi Cl nhận 1 electron)\n• Ca²⁺ + 2Cl⁻ → CaCl2\n\nCác phương án:\nA. Liên kết cộng hoá trị có cực\nB. Liên kết ion\nC. Liên kết cộng hoá trị không cực\nD. Liên kết kim loại",
+      "keyFormula": "KL + PK → Liên kết ion",
+      "example": null,
+      "miniGame": {
+        "question": "Liên kết trong phân tử CaCl2 là loại liên kết gì?",
+        "options": ["A. Liên kết cộng hoá trị có cực", "B. Liên kết ion", "C. Liên kết cộng hoá trị không cực", "D. Liên kết kim loại"],
+        "answer": "B. Liên kết ion",
+        "explanation": "CaCl2: Ca là kim loại nhường 2e, Cl là phi kim nhận 1e. Kim loại + phi kim → liên kết ion. Ca²⁺ và 2Cl⁻ hút nhau bằng lực tĩnh điện."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Câu 3 — Kim Loại Tác Dụng HCl",
+      "content": "Dãy hoạt động hoá học (trích):\nK, Na, Mg, Al, Zn, Fe, (H), Cu, Ag\n\nQuy tắc: Kim loại đứng TRƯỚC H trong dãy → tác dụng HCl loãng → muối + H2↑\n\nXét Cu:\n• Cu đứng SAU H trong dãy\n• Cu KHÔNG tác dụng với HCl loãng\n• Cu KHÔNG tác dụng với H2SO4 loãng\n• Cu chỉ tác dụng HNO3, H2SO4 đặc nóng\n\nCác phương án:\nA. Zn\nB. Fe\nC. Cu\nD. Al",
+      "keyFormula": "Kim loại trước H → tác dụng HCl; Cu sau H → không phản ứng",
+      "example": null,
+      "miniGame": {
+        "question": "Kim loại nào sau đây KHÔNG tác dụng với dung dịch HCl loãng?",
+        "options": ["A. Zn", "B. Fe", "C. Cu", "D. Al"],
+        "answer": "C. Cu",
+        "explanation": "Cu đứng sau H trong dãy hoạt động (K Na Ba Ca Mg Al Zn Fe (H) Cu Hg Ag Pt Au) → không đẩy được H ra khỏi HCl. Zn, Fe, Al đều đứng trước H → tác dụng với HCl tạo H2."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Câu 4 — CO2 Dư + NaOH",
+      "content": "Cho CO2 dư vào dung dịch NaOH.\n\nTỉ lệ T = n(NaOH)/n(CO2):\n• CO2 dư → T = n(NaOH)/n(CO2) < 1\n\nKhi T < 1 (CO2 dư so với NaOH):\n→ NaOH hết hoàn toàn\n→ CO2 dư sau phản ứng\n→ Sản phẩm DUY NHẤT là NaHCO3\n\nPTHH: CO2 + NaOH → NaHCO3\n\nCác phương án:\nA. Chỉ tạo Na2CO3\nB. Chỉ tạo NaHCO3\nC. Tạo cả Na2CO3 và NaHCO3\nD. Không có phản ứng",
+      "keyFormula": "CO2 dư → T < 1 → chỉ NaHCO3",
+      "example": null,
+      "miniGame": {
+        "question": "Cho CO2 dư vào dung dịch NaOH. Sản phẩm thu được là:",
+        "options": ["A. Chỉ tạo Na2CO3", "B. Chỉ tạo NaHCO3", "C. Tạo cả Na2CO3 và NaHCO3", "D. Không có phản ứng"],
+        "answer": "B. Chỉ tạo NaHCO3",
+        "explanation": "CO2 dư → T = n(NaOH)/n(CO2) < 1 → sản phẩm chỉ là NaHCO3. PTHH: CO2 + NaOH → NaHCO3. Muốn tạo Na2CO3 cần T ≥ 2 (NaOH dư gấp đôi)."
+      }
+    },
+    {
+      "id": 5,
+      "title": "Câu 5 — Mất Màu Dung Dịch Brom",
+      "content": "Trong các hiđrocacbon: CH4, C2H4, C6H6, CO2\n\nPhân tích:\n• CH4: chỉ liên kết đơn → không làm mất màu Br2\n• C2H4: liên kết đôi C=C → PHẢN ỨNG CỘNG với Br2 → mất màu\n  C2H4 + Br2 → C2H4Br2 (không màu)\n• C6H6 (Benzen): cấu trúc vòng đặc biệt → KHÔNG làm mất màu Br2 lỏng\n  (Benzen chỉ tác dụng Br2 khi có xúc tác Fe → phản ứng thế)\n• CO2: không phải hiđrocacbon, không tác dụng Br2\n\nCác phương án:\nA. CH4\nB. C2H4\nC. C6H6\nD. CO2",
+      "keyFormula": "C2H4 (liên kết đôi) → phản ứng cộng → mất màu Br2",
+      "example": null,
+      "miniGame": {
+        "question": "Chất nào sau đây làm mất màu dung dịch Brom?",
+        "options": ["A. CH4", "B. C2H4", "C. C6H6", "D. CO2"],
+        "answer": "B. C2H4",
+        "explanation": "C2H4 có liên kết đôi C=C → phản ứng cộng với Br2: C2H4 + Br2 → C2H4Br2 (không màu). CH4 chỉ có liên kết đơn → thế chứ không cộng. C6H6 (benzen) không mất màu Br2 lỏng."
+      }
+    },
+    {
+      "id": 6,
+      "title": "Câu 6 — Phản Ứng Trao Đổi",
+      "content": "Phân loại 4 loại phản ứng:\n• Hoá hợp: A + B → AB\n• Phân huỷ: AB → A + B\n• Thế: A + BC → AC + B\n• Trao đổi: AB + CD → AD + CB\n\nXét NaOH + HCl → NaCl + H2O:\n• NaOH: hợp chất (2 nguyên tố)\n• HCl: hợp chất (2 nguyên tố)\n• NaCl và H2O: hai sản phẩm\n→ Hai hợp chất đổi chỗ các gốc → PHẢN ỨNG TRAO ĐỔI\n\nCác phương án:\nA. Hoá hợp\nB. Trao đổi\nC. Phân huỷ\nD. Thế",
+      "keyFormula": "Trao đổi: AB + CD → AD + CB",
+      "example": null,
+      "miniGame": {
+        "question": "Phản ứng NaOH + HCl → NaCl + H2O thuộc loại phản ứng nào?",
+        "options": ["A. Hoá hợp", "B. Trao đổi", "C. Phân huỷ", "D. Thế"],
+        "answer": "B. Trao đổi",
+        "explanation": "NaOH + HCl → NaCl + H2O: Hai hợp chất (NaOH và HCl) đổi chỗ các gốc ion (Na⁺ kết hợp Cl⁻; OH⁻ kết hợp H⁺ → H2O). Đây là phản ứng trung hoà — một dạng phản ứng trao đổi điển hình."
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Bài 1 (Tự luận): Hoàn thành chuỗi phản ứng sau bằng cách viết các PTHH: Fe → FeCl3 → Fe(OH)3 → Fe2O3 → Fe",
+      "correctSteps": [
+        "① 2Fe + 3Cl2 → 2FeCl3 (Fe tác dụng Cl2 tạo Fe³⁺)",
+        "② FeCl3 + 3NaOH → Fe(OH)3↓ + 3NaCl (kết tủa nâu đỏ)",
+        "③ 2Fe(OH)3 →(to) Fe2O3 + 3H2O (nung kết tủa)",
+        "④ Fe2O3 + 3CO →(to) 2Fe + 3CO2 (hoặc Fe2O3 + 3H2 → 2Fe + 3H2O)"
+      ],
+      "correctAnswer": "4 PTHH",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Fe + Cl2 → FeCl3 (Fe hoá trị III). Thêm NaOH → Fe(OH)3 kết tủa. Nung → Fe2O3. Khử bằng CO hoặc H2 → Fe."
+    },
+    {
+      "id": 2,
+      "question": "Bài 2 (Tự luận): Cho 10,8g Al tác dụng với 500ml dung dịch H2SO4 0,6M. PTHH: 2Al + 3H2SO4 → Al2(SO4)3 + 3H2. Tính thể tích H2 sinh ra (đktc) và khối lượng Al dư (nếu có). (MAl=27)",
+      "correctSteps": [
+        "n(Al) = 10,8/27 = 0,4 mol; n(H2SO4) = 0,6 × 0,5 = 0,3 mol",
+        "Tỉ lệ: Al: 0,4/2 = 0,2; H2SO4: 0,3/3 = 0,1 → H2SO4 hết trước (0,1 < 0,2)",
+        "n(H2) = n(H2SO4) = 0,3 mol → V(H2) = 0,3 × 22,4 = 6,72 lít",
+        "n(Al pứ) = (2/3) × 0,3 = 0,2 mol → n(Al dư) = 0,4 - 0,2 = 0,2 mol → m(Al dư) = 0,2 × 27 = 5,4 gam"
+      ],
+      "correctAnswer": "6.72",
+      "correctUnit": "lít",
+      "difficulty": "hard",
+      "hint": "So sánh tỉ lệ n/hệ số: Al 0,4/2=0,2 và H2SO4 0,3/3=0,1. H2SO4 hết trước, tính theo H2SO4."
+    },
+    {
+      "id": 3,
+      "question": "Bài 3 (Tự luận): Nhận biết 4 dung dịch: NaOH, HCl, Na2SO4, CuCl2 chỉ dùng một thuốc thử duy nhất. Nêu hiện tượng và PTHH.",
+      "correctSteps": [
+        "Dùng quỳ tím: HCl → quỳ đỏ (axit); NaOH → quỳ xanh (bazơ); Na2SO4 và CuCl2 → quỳ không đổi",
+        "Quan sát màu sắc: CuCl2 có màu xanh đặc trưng → nhận biết được ngay",
+        "Dùng NaOH (vừa nhận biết) thêm vào Na2SO4 và CuCl2: CuCl2 + 2NaOH → Cu(OH)2↓ (xanh lam) + 2NaCl",
+        "Lọ không tạo kết tủa với NaOH → Na2SO4"
+      ],
+      "correctAnswer": "quỳ tím + quan sát màu",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Quỳ tím nhận biết axit/bazơ. CuCl2 màu xanh đặc trưng. NaOH + CuCl2 → kết tủa xanh lam."
+    },
+    {
+      "id": 4,
+      "question": "Bài 4 (Tự luận): Cho V lít CO2 (đktc) hấp thụ vào 200ml dung dịch Ca(OH)2 0,5M. Tính V để: (a) thu được lượng kết tủa cực đại; (b) kết tủa tan hoàn toàn. (MCaCO3=100)",
+      "correctSteps": [
+        "n(Ca(OH)2) = 0,5 × 0,2 = 0,1 mol; Các PTHH: CO2 + Ca(OH)2 → CaCO3↓ + H2O; CO2 + CaCO3 + H2O → Ca(HCO3)2",
+        "(a) Kết tủa cực đại: dùng toàn bộ Ca(OH)2, CO2 vừa đủ → n(CO2) = n(Ca(OH)2) = 0,1 mol → V = 2,24 lít",
+        "(b) Kết tủa tan hoàn toàn: CO2 phải hoà tan hết CaCO3 → CO2 + CaCO3 + H2O → Ca(HCO3)2; cần thêm 0,1 mol CO2 → tổng n(CO2) = 0,1 + 0,1 = 0,2 mol → V = 4,48 lít",
+        "Kết luận: V = 2,24 lít (kết tủa tối đa, CaCO3 = 10g); V = 4,48 lít (kết tủa tan hoàn toàn)"
+      ],
+      "correctAnswer": "2.24",
+      "correctUnit": "lít",
+      "difficulty": "hard",
+      "hint": "Kết tủa max khi CO2 = Ca(OH)2 (tỉ lệ 1:1). Kết tủa tan khi CO2 gấp đôi Ca(OH)2 (cộng thêm CO2 hoà tan CaCO3)."
+    }
+  ]
+}

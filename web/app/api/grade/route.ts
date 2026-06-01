@@ -79,11 +79,23 @@ export async function POST(req: NextRequest) {
     }
 
     const groq = new Groq({ apiKey });
-    const completion = await groq.chat.completions.create({
-      model: 'llama-3.3-70b-versatile',
-      messages: [{ role: 'user', content: buildGradePrompt(body) }],
-      temperature: 0.3,
-    });
+    let completion;
+    try {
+      completion = await groq.chat.completions.create({
+        model: 'llama-3.3-70b-versatile',
+        messages: [{ role: 'user', content: buildGradePrompt(body) }],
+        temperature: 0.3,
+      });
+    } catch (primaryErr) {
+      const e = primaryErr as { status?: number };
+      if (e.status !== 429) throw primaryErr;
+      // Rate limit hit — fall back to smaller model with higher daily quota
+      completion = await groq.chat.completions.create({
+        model: 'llama-3.1-8b-instant',
+        messages: [{ role: 'user', content: buildGradePrompt(body) }],
+        temperature: 0.3,
+      });
+    }
     const rawText = completion.choices[0]?.message?.content ?? '';
 
     let feedback: GradeFeedback;

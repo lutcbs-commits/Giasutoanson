@@ -1,0 +1,126 @@
+{
+  "id": "dia-ly-ngay-07-viet-nam-vi-tri-dia-hinh",
+  "fileName": "dia-ly-ngay-07-viet-nam-vi-tri-dia-hinh.json",
+  "title": "Ngày 7: Việt Nam — Vị Trí Địa Lý & Địa Hình",
+  "topics": ["Địa Lý", "Việt Nam", "Vị Trí", "Địa Hình"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "dia-ly",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Vị Trí Địa Lý Việt Nam",
+      "content": "Vị trí địa lý:\n• Nằm ở Đông Nam Á, phía đông bán đảo Đông Dương\n• Vĩ độ: 8°34'B – 23°23'B\n• Kinh độ: 102°09'Đ – 109°24'Đ\n• Đường bờ biển: 3.260 km (từ Móng Cái đến Hà Tiên)\n• Giáp: Trung Quốc (phía Bắc), Lào và Campuchia (phía Tây), Biển Đông (phía Đông và Nam)\n\nÝ nghĩa của vị trí địa lý:\n1. Khí hậu: vĩ độ 8°–23°B → nhiệt đới, nền nhiệt cao\n2. Gần biển → ẩm ướt, nhiều mưa\n3. Vị trí ĐNA → chịu ảnh hưởng gió mùa mạnh\n4. Giao lộ hàng hải và hàng không quốc tế quan trọng\n5. Tiếp giáp nhiều quốc gia → giao lưu kinh tế-văn hoá",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Vĩ độ của Việt Nam dao động từ bao nhiêu đến bao nhiêu độ vĩ Bắc?",
+        "options": ["5°B – 20°B", "8°34'B – 23°23'B", "10°B – 25°B", "0°B – 23°27'B"],
+        "answer": "8°34'B – 23°23'B",
+        "explanation": "Việt Nam trải dài từ 8°34'B (Mũi Cà Mau) đến 23°23'B (Lũng Cú, Hà Giang)."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Địa Hình Việt Nam — Đặc Điểm Tổng Quát",
+      "content": "Đặc điểm chung của địa hình Việt Nam:\n• 3/4 diện tích là đồi núi; 1/4 là đồng bằng\n• Hướng chính: Tây Bắc – Đông Nam\n• Đồi núi thấp dưới 1.000 m chiếm phần lớn\n• Địa hình dốc → sông ngắn, dốc, nhiều phù sa\n\n4 khu vực đồi núi:\n1. Đông Bắc: thấp, cánh cung núi (Sông Gâm, Ngân Sơn, Bắc Sơn, Đông Triều)\n2. Tây Bắc: cao nhất, đỉnh Fansipan 3.143 m, dãy Hoàng Liên Sơn\n3. Trường Sơn Bắc: hẹp ngang, đèo thấp (Lao Bảo, Hải Vân)\n4. Trường Sơn Nam & Tây Nguyên: cao nguyên xếp tầng badan",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Đồng Bằng Việt Nam — So Sánh ĐBSH & ĐBSCL",
+      "content": "Hai đồng bằng lớn nhất:\n\nĐồng bằng sông Hồng (ĐBSH):\n• Diện tích: ~15.000 km²\n• Được bồi đắp bởi phù sa sông Hồng và sông Thái Bình\n• Có hệ thống đê điều dài ~2.700 km ngăn lũ\n• Địa hình bằng phẳng, không có vùng ngập lũ tự nhiên\n• Mật độ dân số cao nhất cả nước\n\nĐồng bằng sông Cửu Long (ĐBSCL):\n• Diện tích: ~40.000 km²\n• Được bồi đắp bởi phù sa Mê Kông\n• Không có hệ thống đê lớn → lũ tràn đồng hàng năm\n• Nhiều kênh rạch, vùng ngập mặn\n• Vựa lúa và thuỷ sản lớn nhất cả nước",
+      "keyFormula": "",
+      "example": {
+        "problem": "So sánh ĐBSH và ĐBSCL về diện tích, đê điều và sản xuất nông nghiệp.",
+        "steps": [
+          "Diện tích: ĐBSH 15.000 km² < ĐBSCL 40.000 km² (gấp 2,7 lần)",
+          "Đê điều: ĐBSH có hệ thống đê dài 2.700 km; ĐBSCL không có đê lớn",
+          "Nông nghiệp: ĐBSH là vựa lúa miền Bắc; ĐBSCL sản xuất >50% lúa gạo cả nước"
+        ],
+        "result": "ĐBSCL rộng hơn, không đê, sản lượng lúa nhiều hơn ĐBSH"
+      },
+      "miniGame": {
+        "question": "Điểm khác biệt lớn nhất giữa ĐBSH và ĐBSCL là gì?",
+        "options": ["ĐBSH rộng hơn ĐBSCL", "ĐBSH có đê, ĐBSCL không có đê lớn", "ĐBSCL mật độ dân số cao hơn", "ĐBSH trồng nhiều lúa hơn ĐBSCL"],
+        "answer": "ĐBSH có đê, ĐBSCL không có đê lớn",
+        "explanation": "ĐBSH có hệ thống đê dài ~2.700 km bảo vệ khỏi lũ; ĐBSCL không có đê lớn nên lũ hàng năm tràn đồng (lũ hiền)."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Địa Hình Tây Bắc & Trường Sơn",
+      "content": "Vùng Tây Bắc:\n• Địa hình cao nhất Việt Nam, hiểm trở nhất\n• Dãy Hoàng Liên Sơn chạy theo hướng Tây Bắc–Đông Nam\n• Fansipan 3.143 m — nóc nhà Đông Dương\n• Nhiều đứt gãy sâu, sông cắt ngang tạo hẻm vực\n• Thung lũng: Mường Thanh, Mường Lò, Mường Hịch\n\nDãy Trường Sơn:\n• Trường Sơn Bắc: hẹp ngang (40–50 km), đèo thấp\n  – Đèo Hải Vân: ranh giới Đà Nẵng-Thừa Thiên Huế\n  – Ý nghĩa: chắn gió Đông Bắc cho miền Nam, gió Tây Nam cho miền Trung\n• Trường Sơn Nam + Tây Nguyên: cao nguyên badan xếp tầng\n  – Kon Tum (1.000 m), Pleiku (700 m), Đắk Lắk (500 m), Lâm Đồng (1.000 m)",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Luyện Tập — Địa Hình Việt Nam",
+      "content": "Hệ thống kiến thức cần nhớ:\n\n1. Số liệu quan trọng:\n   • ĐBSH: 15.000 km², có đê, lũ T7-8\n   • ĐBSCL: 40.000 km², không đê, lũ T9-10\n   • Fansipan: 3.143 m\n   • Bờ biển: 3.260 km\n   • 3/4 diện tích là đồi núi\n\n2. Hướng địa hình chính: Tây Bắc–Đông Nam\n\n3. Ý nghĩa: đồi núi cao → sông dốc → phù sa nhiều → đồng bằng màu mỡ\n\n4. Tây Bắc hiểm trở vì: Hoàng Liên Sơn cao, đứt gãy sâu, ít thung lũng mở rộng",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Vị trí địa lý của Việt Nam (8°34'B–23°23'B, gần biển, ở ĐNA) mang lại những điều kiện tự nhiên gì cho khí hậu? Nêu 3 đặc điểm khí hậu xuất phát từ vị trí.",
+      "correctSteps": [
+        "Vĩ độ 8°–23°B → vùng nội chí tuyến → nền nhiệt cao (nhiệt đới), bức xạ Mặt Trời lớn",
+        "Gần Biển Đông (3.260 km bờ biển) → không khí ẩm, lượng mưa nhiều (1.500–2.000 mm/năm)",
+        "Vị trí ĐNA → tiếp giáp với hai hệ thống gió mùa mạnh (Đông Bắc và Tây Nam) → khí hậu gió mùa rõ rệt"
+      ],
+      "correctAnswer": "Nhiệt đới, ẩm ướt, gió mùa",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Ba yếu tố: vĩ độ → nhiệt; biển → ẩm; ĐNA → gió mùa"
+    },
+    {
+      "id": 2,
+      "question": "So sánh Đồng bằng sông Hồng và Đồng bằng sông Cửu Long về: diện tích, hệ thống đê điều, chế độ lũ và vai trò trong sản xuất lúa gạo.",
+      "correctSteps": [
+        "Diện tích: ĐBSH ~15.000 km²; ĐBSCL ~40.000 km² (lớn hơn gần 3 lần)",
+        "Đê điều: ĐBSH có hệ thống đê dài ~2.700 km; ĐBSCL không có đê lớn",
+        "Lũ: ĐBSH lũ tháng 7–8, mạnh, nguy hiểm; ĐBSCL lũ tháng 9–10, dàn rộng, thoải hơn",
+        "Lúa: ĐBSCL sản xuất >50% lúa gạo VN; ĐBSH là vựa lúa miền Bắc"
+      ],
+      "correctAnswer": "ĐBSCL rộng, không đê, sản lượng lúa cao hơn",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "So sánh 4 tiêu chí: diện tích, đê, lũ, lúa"
+    },
+    {
+      "id": 3,
+      "question": "Tại sao vùng Tây Bắc có địa hình hiểm trở nhất Việt Nam? Nêu 3 nguyên nhân địa chất-địa hình.",
+      "correctSteps": [
+        "Dãy Hoàng Liên Sơn cao nhất Đông Dương (Fansipan 3.143 m) chạy theo hướng TB–ĐN",
+        "Nhiều đứt gãy kiến tạo sâu: địa khối nâng cao, bị chia cắt mạnh",
+        "Sông lớn (Đà, Mã, Nậm Rốm) cắt ngang tạo ra hẻm vực sâu, dốc đứng",
+        "Kết quả: giao thông khó khăn, mật độ dân số thấp nhất cả nước"
+      ],
+      "correctAnswer": "Hoàng Liên Sơn cao + đứt gãy + hẻm vực sông",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Nhớ: núi cao nhất + đứt gãy nhiều + sông cắt ngang"
+    },
+    {
+      "id": 4,
+      "question": "Đồng bằng sông Cửu Long có diện tích 40.000 km², không có hệ thống đê lớn. Hãy giải thích tại sao điều này lại là lợi thế cho nông nghiệp ĐBSCL, đồng thời nêu một bất lợi.",
+      "correctSteps": [
+        "Lợi thế: lũ hàng năm tràn đồng → mang theo phù sa màu mỡ bồi đắp ruộng → đất luôn được tái tạo dinh dưỡng",
+        "Lũ còn rửa trôi phèn, muối, tiêu diệt sâu bệnh trong đất và nước",
+        "Bất lợi: khi lũ lớn bất thường → nhấn chìm hoa màu, tài sản, gây thiệt hại người và của",
+        "Ngoài ra, không có đê → khó kiểm soát nước trong mùa khô hạn"
+      ],
+      "correctAnswer": "Lũ mang phù sa là lợi thế; lũ lớn bất thường là bất lợi",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Phù sa từ lũ = dinh dưỡng tự nhiên miễn phí; nhưng lũ quá lớn = thiên tai"
+    }
+  ]
+}

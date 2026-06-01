@@ -1,0 +1,109 @@
+{
+  "id": "hoa-hoc-ngay-03-lien-ket-hoa-hoc",
+  "fileName": "hoa-hoc-ngay-03-lien-ket-hoa-hoc.json",
+  "title": "Ngày 3: Liên Kết Hoá Học",
+  "topics": ["Hoá Học", "Liên Kết Ion", "Liên Kết Cộng Hoá Trị"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Liên Kết Ion",
+      "content": "Liên kết ion hình thành giữa kim loại và phi kim.\n\nCơ chế:\n• Kim loại NHƯỜNG electron → ion dương (cation)\n• Phi kim NHẬN electron → ion âm (anion)\n• Lực hút tĩnh điện giữa ion (+) và ion (-) tạo liên kết ion\n\nVí dụ — NaCl:\n• Na (2,8,1) → Na⁺ (2,8) + 1e (nhường 1e để đạt cấu hình khí hiếm Ar)\n• Cl (2,8,7) + 1e → Cl⁻ (2,8,8) (nhận 1e để đạt cấu hình khí hiếm Ar)\n• Na⁺ + Cl⁻ → NaCl\n\nTính chất hợp chất ion:\n• Tinh thể rắn, nhiệt độ nóng chảy cao\n• Tan trong nước → dung dịch dẫn điện",
+      "keyFormula": "Kim loại → nhường e → cation; Phi kim → nhận e → anion",
+      "example": {
+        "problem": "Mô tả quá trình hình thành liên kết ion trong MgCl2.",
+        "steps": [
+          "Mg (2,8,2) → Mg²⁺ (2,8) + 2e (nhường 2e)",
+          "2Cl (2,8,7) + 2×1e → 2Cl⁻ (2,8,8) (mỗi Cl nhận 1e)",
+          "Mg²⁺ + 2Cl⁻ → MgCl2 (liên kết ion)"
+        ],
+        "result": "MgCl2 là hợp chất ion"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Liên Kết Cộng Hoá Trị",
+      "content": "Liên kết cộng hoá trị (CHT) hình thành giữa hai phi kim.\n\nCơ chế: Các nguyên tử DÙNG CHUNG cặp electron.\n\nVí dụ:\n• H2: Mỗi H cần 1e → 2H góp 2e chung → H:H (1 cặp electron chung)\n• O2: Mỗi O cần 2e → 2O góp 4e chung → O=O (2 cặp electron chung, liên kết đôi)\n• N2: Mỗi N cần 3e → N≡N (3 cặp, liên kết ba)\n\nLiên kết CHT phân cực:\n• HCl: Cl kéo electron mạnh hơn → liên kết có cực\n• H2O: O kéo electron → phân tử phân cực → tan trong nước",
+      "keyFormula": "Phi kim + Phi kim → Liên kết cộng hoá trị",
+      "example": null,
+      "miniGame": {
+        "question": "Phân tử nào sau đây có liên kết cộng hoá trị?",
+        "options": ["NaCl", "MgO", "H2O", "KBr"],
+        "answer": "H2O",
+        "explanation": "H2O gồm 2 phi kim (H và O) liên kết với nhau bằng cách dùng chung electron → liên kết cộng hoá trị. NaCl, MgO, KBr đều là kim loại + phi kim → liên kết ion."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Phân Biệt Liên Kết Ion và Cộng Hoá Trị",
+      "content": "Quy tắc nhận biết nhanh:\n\nLIÊN KẾT ION:\n• Kim loại + Phi kim\n• Ví dụ: NaCl, MgO, KBr, CaCl2, Al2O3\n\nLIÊN KẾT CỘNG HOÁ TRỊ:\n• Phi kim + Phi kim\n• Ví dụ: H2O, CO2, HCl, NH3, CH4, SO2\n\nBảng so sánh:\n┌─────────────────┬──────────────┬──────────────┐\n│ Tính chất       │ Ion          │ CHT          │\n├─────────────────┼──────────────┼──────────────┤\n│ Trạng thái      │ Rắn          │ Khí/lỏng/rắn │\n│ Nhiệt độ nc     │ Cao          │ Thấp hơn     │\n│ Tan trong nước  │ Thường tan   │ Có thể tan   │\n│ Dẫn điện (dd)   │ Có           │ Thường không │\n└─────────────────┴──────────────┴──────────────┘",
+      "keyFormula": "KL + PK → ion; PK + PK → CHT",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Ứng Dụng — Giải Thích Tính Chất",
+      "content": "Liên kết hoá học giải thích tính chất vật lý:\n\nNaCl (ion):\n• Tan trong nước → phân ly thành Na⁺ và Cl⁻\n• Dung dịch NaCl dẫn điện do ion di chuyển\n• Tinh thể rắn, tnc = 801°C\n\nĐường (C12H22O11 — CHT):\n• Tan trong nước nhưng không phân ly thành ion\n• Dung dịch đường KHÔNG dẫn điện\n• Nhiệt độ nóng chảy thấp hơn NaCl\n\nNhận biết thực tế:\n• Thử dẫn điện: ion → dẫn; CHT → không dẫn\n• Quan sát trạng thái: muối = rắn (thường ion); khí = CHT",
+      "keyFormula": "Ion → dẫn điện khi tan; CHT → không dẫn điện",
+      "example": {
+        "problem": "Tại sao dung dịch NaCl dẫn điện còn dung dịch đường thì không?",
+        "steps": [
+          "NaCl có liên kết ion: NaCl → Na⁺ + Cl⁻ khi tan trong nước",
+          "Các ion Na⁺ và Cl⁻ di chuyển tự do → dẫn điện",
+          "Đường có liên kết CHT: tan trong nước nhưng không phân ly thành ion",
+          "Không có hạt mang điện tự do → không dẫn điện"
+        ],
+        "result": "NaCl dẫn điện (có ion); Đường không dẫn điện (phân tử CHT)"
+      },
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Phân loại liên kết hoá học (ion hay cộng hoá trị) cho: MgCl2, H2O, KBr, NH3.",
+      "correctSteps": [
+        "MgCl2: Mg là kim loại, Cl là phi kim → liên kết ion",
+        "H2O: H và O đều là phi kim → liên kết cộng hoá trị",
+        "KBr: K là kim loại, Br là phi kim → liên kết ion",
+        "NH3: N và H đều là phi kim → liên kết cộng hoá trị"
+      ],
+      "correctAnswer": "MgCl2-ion; H2O-CHT; KBr-ion; NH3-CHT",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Kim loại + Phi kim → ion. Phi kim + Phi kim → cộng hoá trị."
+    },
+    {
+      "id": 2,
+      "question": "Giải thích tại sao NaCl tan trong nước thì dẫn điện, còn đường (saccarozơ) tan trong nước thì không dẫn điện.",
+      "correctSteps": [
+        "NaCl là hợp chất ion: NaCl → Na⁺ + Cl⁻ (phân ly hoàn toàn trong nước)",
+        "Các ion Na⁺ và Cl⁻ di chuyển tự do trong dung dịch → dẫn điện",
+        "Đường (C12H22O11) là hợp chất cộng hoá trị: tan trong nước nhưng không phân ly thành ion",
+        "Không có ion/hạt mang điện tự do → dung dịch không dẫn điện"
+      ],
+      "correctAnswer": "NaCl có ion tự do dẫn điện; đường không có ion",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Chất dẫn điện khi có hạt mang điện tự do di chuyển (ion hoặc electron)."
+    },
+    {
+      "id": 3,
+      "question": "Mô tả quá trình hình thành liên kết ion trong CaCl2 (Ca có Z=20, Cl có Z=17).",
+      "correctSteps": [
+        "Ca (2,8,8,2) → Ca²⁺ (2,8,8) + 2e (nhường 2e để đạt cấu hình khí hiếm)",
+        "2Cl (2,8,7) + 2×1e → 2Cl⁻ (2,8,8) (mỗi Cl nhận 1e)",
+        "Lực hút tĩnh điện giữa Ca²⁺ và 2Cl⁻ tạo liên kết ion",
+        "Sản phẩm: CaCl2 là hợp chất ion rắn, tan trong nước dẫn điện"
+      ],
+      "correctAnswer": "CaCl2 là hợp chất ion",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Ca nhóm II → nhường 2e; mỗi Cl nhóm VII → nhận 1e. Cần 2 Cl cho 1 Ca."
+    }
+  ]
+}

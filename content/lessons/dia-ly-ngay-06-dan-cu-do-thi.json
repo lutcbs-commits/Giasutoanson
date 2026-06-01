@@ -1,0 +1,131 @@
+{
+  "id": "dia-ly-ngay-06-dan-cu-do-thi",
+  "fileName": "dia-ly-ngay-06-dan-cu-do-thi.json",
+  "title": "Ngày 6: Dân Cư & Đô Thị Hoá",
+  "topics": ["Địa Lý", "Dân Số", "Đô Thị Hoá", "Mật Độ Dân Số"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "dia-ly",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Các Chỉ Số Dân Số Cơ Bản",
+      "content": "Các chỉ số quan trọng:\n\n• Tỉ suất sinh thô (CBR): số trẻ sinh trong 1 năm / 1.000 dân (‰)\n• Tỉ suất tử thô (CDR): số người tử vong / 1.000 dân / năm (‰)\n• Gia tăng tự nhiên (RNI): RNI = CBR − CDR (‰)\n• Gia tăng cơ học: do di cư (nhập cư − xuất cư)\n• Gia tăng dân số = gia tăng tự nhiên + gia tăng cơ học\n\nViệt Nam hiện nay:\n• Dân số ≈ 100 triệu người (thứ 3 ĐNA, thứ 15 thế giới)\n• Tỉ lệ gia tăng tự nhiên: khoảng 1%/năm (đang giảm)\n• Xu hướng: dân số già hoá (tỉ lệ người cao tuổi tăng)",
+      "keyFormula": "RNI (‰) = CBR − CDR; Dân số năm N+1 = Dân số năm N × (1 + RNI/1000)",
+      "example": {
+        "problem": "Một tỉnh có CBR = 18‰, CDR = 6‰. Tính tỉ lệ gia tăng tự nhiên.",
+        "steps": [
+          "RNI = CBR − CDR = 18‰ − 6‰ = 12‰",
+          "Tức là cứ 1.000 dân thì tăng 12 người mỗi năm",
+          "Tỉ lệ = 12‰ = 1,2% mỗi năm"
+        ],
+        "result": "Tỉ lệ gia tăng tự nhiên là 12‰ (1,2%)"
+      },
+      "miniGame": {
+        "question": "Tỉ suất sinh thô 20‰, tỉ suất tử thô 8‰. Gia tăng tự nhiên là bao nhiêu?",
+        "options": ["10‰", "12‰", "28‰", "160‰"],
+        "answer": "12‰",
+        "explanation": "RNI = CBR − CDR = 20‰ − 8‰ = 12‰"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Tháp Dân Số & Cơ Cấu Dân Số",
+      "content": "Tháp dân số (tháp tuổi) biểu thị cơ cấu dân số theo tuổi và giới tính.\n\nPhân loại tháp dân số:\n1. Tháp dân số trẻ (đáy rộng, đỉnh nhọn):\n   • Nhóm 0–14 tuổi lớn → sinh nhiều, tử cao\n   • Đặc trưng nước đang phát triển\n   • Tiềm năng lao động lớn nhưng gánh nặng phụ thuộc cao\n\n2. Tháp dân số già (đáy hẹp, đỉnh rộng):\n   • Tỉ lệ người cao tuổi lớn\n   • Đặc trưng nước phát triển\n   • Thiếu lao động trẻ, chi phí an sinh xã hội cao\n\nViệt Nam: đang chuyển từ 'dân số vàng' (lực lượng lao động lớn) sang già hoá dân số",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Mật Độ Dân Số & Phân Bố Dân Cư",
+      "content": "Mật độ dân số (MĐDS) = Dân số ÷ Diện tích (người/km²)\n\nPhân bố dân cư Việt Nam:\n• Cao (>1.000 người/km²): ĐBSH, ĐBSCL, các thành phố lớn\n• Trung bình: đồng bằng ven biển miền Trung\n• Thấp (<50 người/km²): vùng núi Tây Bắc, Tây Nguyên\n\nNguyên nhân phân bố không đều:\n• Địa hình: đồng bằng dễ canh tác → dân đông\n• Lịch sử: ĐBSH khai thác từ lâu đời\n• Kinh tế: khu công nghiệp, thành phố hút lao động\n• Khí hậu: điều kiện sống thuận lợi ở đồng bằng",
+      "keyFormula": "MĐDS = Tổng dân số ÷ Diện tích (người/km²)",
+      "example": {
+        "problem": "ĐBSH có diện tích 15.000 km², dân số 22 triệu người. Tính mật độ dân số.",
+        "steps": [
+          "MĐDS = 22.000.000 ÷ 15.000",
+          "= 1.467 người/km²"
+        ],
+        "result": "Mật độ dân số ĐBSH ≈ 1.467 người/km²"
+      },
+      "miniGame": {
+        "question": "Tại sao ĐBSH có mật độ dân số cao nhất Việt Nam?",
+        "options": ["Vì diện tích lớn nhất", "Vì lịch sử khai thác lâu, đất phì nhiêu, điều kiện thuận lợi", "Vì có nhiều khu công nghiệp nhất", "Vì khí hậu lạnh ít bệnh tật"],
+        "answer": "Vì lịch sử khai thác lâu, đất phì nhiêu, điều kiện thuận lợi",
+        "explanation": "ĐBSH có lịch sử khai thác hàng nghìn năm, đất phù sa màu mỡ, khí hậu thuận lợi, là cái nôi của nền văn minh lúa nước Việt Nam."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Đô Thị Hoá — Xu Hướng & Hệ Quả",
+      "content": "Đô thị hoá: quá trình dân số nông thôn chuyển dịch về thành thị và mở rộng thành thị.\n\nĐặc điểm đô thị hoá Việt Nam:\n• Tỉ lệ đô thị hoá: từ 19% (1990) lên ~40% (2023)\n• Tốc độ nhanh nhưng chất lượng chưa cao\n• Tập trung ở Hà Nội, TP.HCM\n\nTác động tích cực:\n• Thúc đẩy kinh tế, công nghiệp hoá\n• Cải thiện giáo dục, y tế, dịch vụ\n• Tạo nhiều việc làm\n\nTác động tiêu cực:\n• Ô nhiễm môi trường\n• Tắc nghẽn giao thông\n• Thiếu nhà ở, dịch vụ công\n• Phân hoá giàu nghèo\n• Nông thôn thiếu lao động trẻ",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Luyện Tập — Dân Cư & Đô Thị",
+      "content": "Tóm tắt bài học:\n\nCông thức quan trọng:\n• RNI = CBR − CDR\n• MĐDS = Dân số ÷ Diện tích\n\nBài tập tổng hợp:\n1. ĐBSH mật độ cao:\n   Lý do: lịch sử canh tác lâu (văn minh Đông Sơn), đất phù sa màu mỡ, nước dồi dào, điều kiện sống tốt\n   Tây Bắc thấp: địa hình núi cao, hiểm trở, giao thông khó khăn, ít đất canh tác\n\n2. TP.HCM — đô thị hoá:\n   Tích cực: trung tâm kinh tế, nhiều cơ hội việc làm, dịch vụ hiện đại\n   Tiêu cực: kẹt xe nghiêm trọng, ô nhiễm không khí và nguồn nước, ngập úng ngày càng nhiều",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Một tỉnh có dân số 2.000.000 người, diện tích 4.000 km². Tính mật độ dân số của tỉnh đó.",
+      "correctSteps": [
+        "MĐDS = Dân số ÷ Diện tích",
+        "= 2.000.000 ÷ 4.000 = 500 người/km²"
+      ],
+      "correctAnswer": "500",
+      "correctUnit": "người/km²",
+      "difficulty": "easy",
+      "hint": "Mật độ dân số = tổng dân số chia cho diện tích"
+    },
+    {
+      "id": 2,
+      "question": "Tỉ suất sinh thô của Việt Nam là 16‰, tỉ suất tử thô là 6‰. Tính tỉ lệ gia tăng tự nhiên. Nếu năm 2025 dân số là 100 triệu người, năm 2026 dân số ước tính là bao nhiêu (giả sử gia tăng cơ học = 0)?",
+      "correctSteps": [
+        "RNI = CBR − CDR = 16‰ − 6‰ = 10‰ = 1%",
+        "Dân số năm 2026 = 100 triệu × (1 + 10/1000)",
+        "= 100 triệu × 1,010 = 101 triệu người"
+      ],
+      "correctAnswer": "101",
+      "correctUnit": "triệu người",
+      "difficulty": "easy",
+      "hint": "RNI = sinh trừ tử; dân số năm sau = năm trước × (1 + RNI/1000)"
+    },
+    {
+      "id": 3,
+      "question": "So sánh mật độ dân số và giải thích sự khác biệt giữa Đồng bằng sông Hồng và vùng Tây Bắc.",
+      "correctSteps": [
+        "ĐBSH: MĐDS cao (~1.400 người/km²) — lịch sử khai thác lâu đời, đất phù sa màu mỡ, đồng bằng bằng phẳng, điều kiện sống thuận lợi",
+        "Tây Bắc: MĐDS thấp (~60 người/km²) — địa hình núi cao hiểm trở, đất ít, giao thông khó khăn",
+        "Nguyên nhân chênh lệch: điều kiện tự nhiên, lịch sử khai thác, khả năng phát triển kinh tế",
+        "ĐBSH thu hút người di cư từ nơi khác; Tây Bắc có hiện tượng di cư ra khỏi vùng"
+      ],
+      "correctAnswer": "ĐBSH mật độ cao, Tây Bắc mật độ thấp",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "So sánh điều kiện tự nhiên và kinh tế-xã hội của hai vùng"
+    },
+    {
+      "id": 4,
+      "question": "Phân tích 2 tác động tích cực và 2 tác động tiêu cực của quá trình đô thị hoá nhanh tại TP.HCM.",
+      "correctSteps": [
+        "Tích cực 1: thúc đẩy kinh tế — TP.HCM đóng góp ~22% GDP cả nước, là trung tâm công nghiệp và dịch vụ",
+        "Tích cực 2: nâng cao chất lượng sống — hệ thống y tế, giáo dục, dịch vụ hiện đại nhất nước",
+        "Tiêu cực 1: ùn tắc giao thông nghiêm trọng — dân số >9 triệu, mỗi ngày hàng triệu xe cá nhân",
+        "Tiêu cực 2: ô nhiễm môi trường — không khí, kênh rạch, rác thải; ngập úng do bê tông hoá bề mặt"
+      ],
+      "correctAnswer": "Kinh tế phát triển + nâng cao sống; ùn tắc + ô nhiễm",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Mỗi tác động cần nêu rõ: nội dung + ví dụ cụ thể ở TP.HCM"
+    }
+  ]
+}

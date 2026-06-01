@@ -1,0 +1,131 @@
+{
+  "id": "dia-ly-ngay-03-khi-quyen",
+  "fileName": "dia-ly-ngay-03-khi-quyen.json",
+  "title": "Ngày 3: Khí Quyển — Thời Tiết & Khí Hậu",
+  "topics": ["Địa Lý", "Khí Quyển", "Nhiệt Độ", "Gió", "Mưa"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "dia-ly",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Cấu Trúc Khí Quyển & Nhiệt Độ Không Khí",
+      "content": "Các tầng khí quyển từ thấp lên cao:\n1. Tầng đối lưu (0–16 km): nơi diễn ra toàn bộ thời tiết; nhiệt độ giảm khi lên cao\n2. Tầng bình lưu (16–50 km): có lớp ozon hấp thụ tia cực tím\n3. Tầng trung lưu (50–85 km): nhiệt độ giảm theo độ cao\n4. Tầng nhiệt (85–500 km): nhiệt độ tăng cao\n5. Tầng ngoài (>500 km): các ion, ánh sáng cực quang\n\nNhiệt độ không khí:\n• Giảm trung bình 0,6°C cho mỗi 100 m lên cao (trong tầng đối lưu)\n• Biến thiên theo vĩ độ: xích đạo nóng nhất, cực lạnh nhất\n• Biến thiên giữa lục địa và đại dương: lục địa có biên độ nhiệt lớn hơn",
+      "keyFormula": "T đỉnh = T chân núi - (Độ cao ÷ 100) × 0,6°C",
+      "example": {
+        "problem": "Chân núi có nhiệt độ 30°C. Đỉnh núi cao 2.500 m. Tính nhiệt độ đỉnh núi.",
+        "steps": [
+          "Độ giảm nhiệt = (2.500 ÷ 100) × 0,6 = 25 × 0,6 = 15°C",
+          "Nhiệt độ đỉnh = 30°C - 15°C = 15°C"
+        ],
+        "result": "Nhiệt độ đỉnh núi là 15°C"
+      },
+      "miniGame": {
+        "question": "Chân núi 28°C, đỉnh núi cao 1.000 m. Nhiệt độ đỉnh núi là bao nhiêu?",
+        "options": ["22°C", "21°C", "20°C", "18°C"],
+        "answer": "22°C",
+        "explanation": "Độ giảm = (1000 ÷ 100) × 0,6 = 6°C; Nhiệt độ đỉnh = 28 - 6 = 22°C"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Khí Áp & Các Đai Khí Áp Trên Trái Đất",
+      "content": "Khí áp là áp lực của cột không khí lên bề mặt Trái Đất.\n\nPhân loại khí áp:\n• Áp thấp (Low): không khí bốc lên → đưa hơi ẩm lên cao → ngưng tụ → mưa\n• Áp cao (High): không khí chìm xuống → khô ráo, ít mưa\n\nCác đai khí áp chính:\n• Xích đạo (0°): áp thấp nhiệt → nóng, mưa nhiều\n• Cận chí tuyến (25°–30°): áp cao → khô, sa mạc\n• Ôn đới (60°): áp thấp → mưa, bão\n• Cực (90°): áp cao → lạnh, khô\n\nQuy luật: Áp thấp = mưa nhiều; Áp cao = khô hạn",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Vùng cận chí tuyến (25°–30°) thường có khí hậu như thế nào và tại sao?",
+        "options": ["Mưa nhiều, vì áp thấp", "Khô hạn, vì áp cao cận chí tuyến", "Mưa theo mùa, vì gió tín phong", "Lạnh và ẩm, vì gió Tây ôn đới"],
+        "answer": "Khô hạn, vì áp cao cận chí tuyến",
+        "explanation": "Vùng cận chí tuyến chịu ảnh hưởng của áp cao → không khí chìm xuống → khô ráo → tập trung nhiều sa mạc lớn nhất thế giới."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Các Loại Gió Chính Trên Trái Đất",
+      "content": "Ba loại gió hành tinh chính:\n\n1. Gió Tín phong (Passat):\n   • Từ áp cao cận chí tuyến → áp thấp xích đạo\n   • Bắc bán cầu: hướng Đông Bắc; Nam bán cầu: Đông Nam\n   • Thổi đều, ổn định quanh năm\n\n2. Gió Tây ôn đới:\n   • Từ áp cao cận chí tuyến → áp thấp ôn đới\n   • Hướng Tây Nam (BCB) hoặc Tây Bắc (BCN)\n   • Đặc trưng cho vùng ôn đới\n\n3. Gió mùa:\n   • Do chênh lệch nhiệt độ lớn giữa lục địa và đại dương\n   • Mùa hè: gió từ đại dương vào lục địa (mát ẩm)\n   • Mùa đông: gió từ lục địa ra đại dương (khô lạnh)\n   • Điển hình ở Đông Nam Á, Nam Á",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Mưa — Phân Bố Lượng Mưa Trên Thế Giới",
+      "content": "Cơ chế tạo mưa:\nKhông khí bốc lên → giảm nhiệt độ → hơi nước ngưng tụ → mưa\n\nVùng mưa nhiều:\n• Xích đạo: quanh năm nóng ẩm, áp thấp\n• Sườn đón gió (đón gió biển): hơi ẩm bị chặn, bốc lên, gây mưa lớn\n• Vĩ độ ôn đới 50°–60°: áp thấp ôn đới\n\nVùng mưa ít:\n• Cận chí tuyến 25°–30°: áp cao, khô\n• Sâu trong lục địa: xa nguồn ẩm\n• Sườn khuất gió: gió đã mất ẩm khi vượt núi (hiệu ứng phơn)\n\nViệt Nam: mưa 1.500–2.000 mm/năm; mưa nhiều nhất tháng 5–10 (gió Tây Nam)",
+      "keyFormula": "",
+      "example": {
+        "problem": "Giải thích tại sao sườn Đông của Trường Sơn mưa nhiều hơn sườn Tây.",
+        "steps": [
+          "Gió Đông Bắc mùa đông thổi từ biển vào, mang nhiều hơi ẩm",
+          "Sườn Đông Trường Sơn: gió từ biển vào gặp núi → bốc lên → mưa lớn",
+          "Sườn Tây: gió đã mất hơi ẩm → khô, ít mưa (hiệu ứng phơn)"
+        ],
+        "result": "Sườn Đông mưa nhiều do đón gió biển; sườn Tây ít mưa do gió khô"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Luyện Tập — Khí Quyển",
+      "content": "Bài 1: Tính nhiệt độ theo độ cao\nĐà Lạt cao 1.500 m so với mực biển:\n• Độ giảm = (1.500 ÷ 100) × 0,6 = 9°C\n• Nếu cùng vĩ độ ở mực biển: 28°C\n• Đà Lạt ≈ 28 - 9 = 19°C → mát mẻ quanh năm\n\nBài 2: Lý giải miền Bắc lạnh hơn mùa đông\n• Mùa đông: gió mùa Đông Bắc từ lục địa Á-Âu (Siberia) thổi về\n• Lục địa mùa đông lạnh, khô → gió mang không khí lạnh khô\n• Miền Nam: gió Đông Bắc đã giảm cường độ, bị chặn bởi dãy Bạch Mã\n\nCông thức ghi nhớ: Lên cao 100m → lạnh hơn 0,6°C",
+      "keyFormula": "ΔT = (H ÷ 100) × 0,6°C",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Chân núi có nhiệt độ 35°C. Đỉnh núi cao 2.500 m. Tính nhiệt độ tại đỉnh núi theo quy luật giảm nhiệt theo độ cao.",
+      "correctSteps": [
+        "Độ giảm nhiệt = (2.500 ÷ 100) × 0,6°C = 25 × 0,6 = 15°C",
+        "Nhiệt độ đỉnh = 35°C - 15°C = 20°C"
+      ],
+      "correctAnswer": "20",
+      "correctUnit": "°C",
+      "difficulty": "easy",
+      "hint": "Cứ lên cao 100 m thì nhiệt độ giảm 0,6°C"
+    },
+    {
+      "id": 2,
+      "question": "Giải thích tại sao vùng xích đạo mưa nhiều quanh năm trong khi vùng cận chí tuyến (25°–30° vĩ độ) lại khô hạn và có nhiều sa mạc.",
+      "correctSteps": [
+        "Xích đạo: nóng quanh năm → không khí bốc lên mạnh → tạo áp thấp → mưa nhiều",
+        "Không khí bốc lên ở xích đạo dịch chuyển về phía cực, nguội lại và chìm xuống ở vĩ độ 25–30°",
+        "Vùng cận chí tuyến: không khí chìm xuống → tạo áp cao → ức chế bốc hơi → khô hạn",
+        "Kết quả: các sa mạc lớn (Sahara, Arabia) nằm ở vĩ độ 25–30°"
+      ],
+      "correctAnswer": "Áp thấp xích đạo gây mưa; áp cao cận chí tuyến gây khô",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Nghĩ đến vòng hoàn lưu Hadley: không khí nóng bốc lên ở xích đạo → chìm xuống ở cận chí tuyến"
+    },
+    {
+      "id": 3,
+      "question": "Một ngọn núi có sườn Đông đón gió biển và sườn Tây khuất gió. Sườn nào mưa nhiều hơn? Giải thích hiệu ứng phơn (Foehn) ở sườn khuất gió.",
+      "correctSteps": [
+        "Sườn Đông (đón gió): gió biển mang hơi ẩm, gặp núi → bốc lên → làm lạnh → mưa lớn",
+        "Gió vượt đỉnh núi sang sườn Tây đã mất phần lớn hơi ẩm",
+        "Sườn Tây (khuất gió): gió chìm xuống → nhiệt độ tăng do nén adiabatic → không khí khô nóng",
+        "Hiệu ứng phơn: sườn khuất gió nóng khô hơn sườn đón gió → ít mưa"
+      ],
+      "correctAnswer": "Sườn Đông mưa nhiều hơn",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Gió đẩy hơi ẩm lên cao ở sườn đón gió, mưa rơi ở đó; sườn khuất gió nhận gió khô và ấm"
+    },
+    {
+      "id": 4,
+      "question": "Đỉnh núi Fansipan cao 3.143 m. Nếu nhiệt độ trung bình ở chân núi (100 m) là 22°C, tính nhiệt độ trung bình tại đỉnh Fansipan.",
+      "correctSteps": [
+        "Chênh lệch độ cao: 3.143 - 100 = 3.043 m",
+        "Độ giảm nhiệt = (3.043 ÷ 100) × 0,6 = 30,43 × 0,6 ≈ 18,3°C",
+        "Nhiệt độ đỉnh = 22 - 18,3 ≈ 3,7°C"
+      ],
+      "correctAnswer": "3.7",
+      "correctUnit": "°C",
+      "difficulty": "hard",
+      "hint": "Tính chênh lệch độ cao so với điểm đo chân núi, rồi áp dụng công thức giảm nhiệt"
+    }
+  ]
+}

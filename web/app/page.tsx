@@ -185,33 +185,41 @@ export default function HomePage() {
           })}
         </>
       ) : (
-        // ── MATH HOME ──────────────────────────────────────────────────────
+        // ── NON-IELTS HOME ─────────────────────────────────────────────────
         <>
-          {/* Hero */}
-          <section className="relative rounded-4xl overflow-hidden mb-10 bg-gradient-to-br from-grass-500 via-grass-600 to-grass-700 p-8 md:p-12 text-white shadow-2xl">
-            <div className="relative z-10">
-              <div className="text-5xl mb-4 animate-float inline-block">🧮</div>
-              <h1 className="text-4xl md:text-5xl font-black mb-3 leading-tight" style={{ fontFamily: "'Baloo 2', sans-serif" }}>
-                Ôn luyện Toán lớp 5<br />
-                <span className="text-sun-300">Chuẩn bị thi vào lớp 6 🎯</span>
-              </h1>
-              <p className="text-grass-100 text-base md:text-lg font-semibold mb-6 max-w-lg">
-                {filteredLessons.length} đề thi và tài liệu ôn luyện từ các trường THCS hàng đầu Hà Nội.
-              </p>
-              <div className="flex flex-wrap gap-3">
-                <div className="bg-white/20 backdrop-blur-sm rounded-2xl px-4 py-2 flex items-center gap-2">
-                  <span className="text-lg">📚</span>
-                  <span className="font-black text-sm">{filteredLessons.length} bài học</span>
+          {/* Hero — dynamic per subject */}
+          {(() => {
+            const heroMap: Record<string, { emoji: string; title: string; subtitle: string; desc: string; gradient: string; icon: string }> = {
+              'toan': { emoji: '🧮', title: 'Ôn luyện Toán lớp 5', subtitle: 'Chuẩn bị thi vào lớp 6 🎯', desc: `${filteredLessons.length} đề thi và tài liệu ôn luyện từ các trường THCS hàng đầu Hà Nội.`, gradient: 'from-grass-500 via-grass-600 to-grass-700', icon: '📐' },
+              'hoa-hoc': { emoji: '⚗️', title: 'Thử sức Hoá học Lớp 10', subtitle: 'Lộ trình 2 tuần — từ nguyên tử đến hữu cơ 🔬', desc: 'Học mỗi ngày 2 tiết (90 phút), từ kiến thức nền tảng đến tư duy chuyên sâu.', gradient: 'from-orange-500 via-red-500 to-rose-600', icon: '🧪' },
+              'dia-ly': { emoji: '🌍', title: 'Thử sức Địa lý Lớp 10', subtitle: 'Lộ trình 2 tuần — từ bản đồ đến kinh tế Việt Nam 🗺️', desc: 'Học mỗi ngày 2 tiết (90 phút), từ tự nhiên đến địa lý kinh tế-xã hội.', gradient: 'from-emerald-500 via-teal-600 to-green-700', icon: '🏔️' },
+            };
+            const h = heroMap[choice.subject] ?? heroMap['toan'];
+            return (
+              <section className={`relative rounded-4xl overflow-hidden mb-10 bg-gradient-to-br ${h.gradient} p-8 md:p-12 text-white shadow-2xl`}>
+                <div className="relative z-10">
+                  <div className="text-5xl mb-4 animate-float inline-block">{h.emoji}</div>
+                  <h1 className="text-4xl md:text-5xl font-black mb-3 leading-tight" style={{ fontFamily: "'Baloo 2', sans-serif" }}>
+                    {h.title}<br />
+                    <span className="text-white/70 text-3xl md:text-4xl">{h.subtitle}</span>
+                  </h1>
+                  <p className="text-white/80 text-base md:text-lg font-semibold mb-6 max-w-lg">{h.desc}</p>
+                  <div className="flex flex-wrap gap-3">
+                    <div className="bg-white/20 backdrop-blur-sm rounded-2xl px-4 py-2 flex items-center gap-2">
+                      <span className="text-lg">📚</span>
+                      <span className="font-black text-sm">{filteredLessons.length} bài học</span>
+                    </div>
+                    <div className="bg-white/20 backdrop-blur-sm rounded-2xl px-4 py-2 flex items-center gap-2">
+                      <span className="text-lg">✅</span>
+                      <span className="font-black text-sm">{processedLessons.length} đã xử lý</span>
+                    </div>
+                  </div>
                 </div>
-                <div className="bg-white/20 backdrop-blur-sm rounded-2xl px-4 py-2 flex items-center gap-2">
-                  <span className="text-lg">✅</span>
-                  <span className="font-black text-sm">{processedLessons.length} đã xử lý</span>
-                </div>
-              </div>
-            </div>
-            <div className="absolute top-6 right-10 w-28 h-28 rounded-full bg-white/10 animate-float" style={{ animationDelay: '0.5s' }} />
-            <div className="absolute bottom-10 right-16 text-6xl opacity-15 select-none">📐</div>
-          </section>
+                <div className="absolute top-6 right-10 w-28 h-28 rounded-full bg-white/10 animate-float" style={{ animationDelay: '0.5s' }} />
+                <div className="absolute bottom-10 right-16 text-6xl opacity-15 select-none">{h.icon}</div>
+              </section>
+            );
+          })()}
 
           {/* Process All */}
           {!loading && pendingLessons.length > 0 && (

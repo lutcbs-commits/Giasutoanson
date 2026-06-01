@@ -1,0 +1,128 @@
+{
+  "id": "dia-ly-ngay-05-tho-nhuong-sinh-vat",
+  "fileName": "dia-ly-ngay-05-tho-nhuong-sinh-vat.json",
+  "title": "Ngày 5: Thổ Nhưỡng & Sinh Vật — Đới Tự Nhiên",
+  "topics": ["Địa Lý", "Thổ Nhưỡng", "Sinh Vật", "Đới Tự Nhiên"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "dia-ly",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Thổ Nhưỡng — Thành Phần & Độ Phì",
+      "content": "Đất (thổ nhưỡng) gồm 4 thành phần chính:\n• Khoáng vật: từ đá mẹ phong hoá\n• Mùn (humus): từ xác sinh vật phân giải → cung cấp dinh dưỡng\n• Nước: hoà tan dinh dưỡng, cần thiết cho cây\n• Không khí: cần cho vi sinh vật và rễ cây hô hấp\n\nĐộ phì của đất:\n→ Khả năng cung cấp đủ nước và chất dinh dưỡng cho cây trồng\n\nNhân tố hình thành đất:\n1. Đá mẹ (quyết định thành phần khoáng)\n2. Khí hậu (nhiệt độ, mưa → tốc độ phong hoá)\n3. Sinh vật (cung cấp mùn)\n4. Địa hình (độ dốc ảnh hưởng xói mòn)\n5. Thời gian (đất càng lâu càng phát triển)",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Độ phì của đất là gì?",
+        "options": ["Màu sắc của đất", "Khả năng cung cấp nước và dinh dưỡng cho cây", "Độ dày tầng đất", "Lượng khoáng vật trong đất"],
+        "answer": "Khả năng cung cấp nước và dinh dưỡng cho cây",
+        "explanation": "Độ phì là khả năng của đất cung cấp đủ nước và chất dinh dưỡng thiết yếu để cây sinh trưởng phát triển tốt."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Đất Việt Nam — Feralit & Phù Sa",
+      "content": "Hai loại đất chính ở Việt Nam:\n\n1. Đất feralit (chiếm 65% diện tích):\n   • Phân bố: vùng đồi núi (Tây Nguyên, Đông Bắc, Tây Bắc)\n   • Màu đỏ vàng do giàu oxit sắt (Fe) và nhôm (Al)\n   • Chua, thoáng khí; trên đất badan (bazan) rất màu mỡ\n   • Thích hợp: cà phê, cao su, hồ tiêu, chè\n\n2. Đất phù sa (chiếm 25% diện tích):\n   • Phân bố: đồng bằng (ĐBSH, ĐBSCL, ven biển Trung Bộ)\n   • Màu nâu xám, tơi xốp, giàu dinh dưỡng\n   • Được bồi đắp hàng năm bởi phù sa sông\n   • Thích hợp: lúa nước, rau màu, hoa quả",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Đới Tự Nhiên Theo Vĩ Độ",
+      "content": "Các đới tự nhiên phân bố từ xích đạo lên cực:\n\n1. Đới nóng (0°–23°27'):\n   • Thực vật: rừng mưa nhiệt đới (xích đạo), xavan, hoang mạc\n   • Động vật: đa dạng, phong phú nhất\n   • Đất: feralit, laterit\n\n2. Đới ôn hoà (23°27'–66°33'):\n   • 4 mùa rõ rệt\n   • Thực vật: rừng lá rộng ôn đới, rừng hỗn giao, thảo nguyên\n   • Đất: nâu, xám, đen (chernozem)\n\n3. Đới lạnh (66°33'–90°):\n   • Thực vật: đài nguyên (rêu, địa y), không có rừng\n   • Đất đóng băng vĩnh cửu (permafrost)\n   • Cực: băng tuyết vĩnh cửu",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Vùng xavan phân bố chủ yếu ở đới khí hậu nào?",
+        "options": ["Đới lạnh", "Đới ôn hoà", "Đới nóng (cận xích đạo)", "Vùng núi cao"],
+        "answer": "Đới nóng (cận xích đạo)",
+        "explanation": "Xavan là thảo nguyên nhiệt đới có cây bụi rải rác, phân bố ở vùng cận xích đạo (khoảng 5°–15°) có mùa khô rõ rệt."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Phân Tầng Theo Độ Cao — Phi Địa Đới",
+      "content": "Quy luật phi địa đới (theo độ cao):\nKhi lên cao → nhiệt độ giảm → các vành đai thực vật thay đổi từ chân lên đỉnh núi\n\nPhân tầng trên núi (ví dụ Fansipan 3.143 m):\n• 0–600 m: rừng nhiệt đới ẩm thường xanh (nóng)\n• 600–1.600 m: rừng cận nhiệt đới lá rộng (mát)\n• 1.600–2.600 m: rừng ôn đới lá kim (lạnh)\n• 2.600–3.143 m: trảng cỏ, địa y (rất lạnh)\n• >3.000 m: đôi khi có băng giá vào mùa đông\n\nĐây là lý do Việt Nam (nhiệt đới) nhưng Fansipan vẫn có giá lạnh và thực vật ôn đới!",
+      "keyFormula": "Mỗi 100 m lên cao → nhiệt độ giảm 0,6°C",
+      "example": {
+        "problem": "Tại sao đỉnh Fansipan (3.143 m) có băng giá dù Việt Nam nằm trong vùng nhiệt đới?",
+        "steps": [
+          "Chân núi (100 m) có nhiệt độ ~22°C",
+          "Chênh lệch độ cao: 3.143 - 100 = 3.043 m",
+          "Độ giảm nhiệt: (3.043 ÷ 100) × 0,6 ≈ 18,3°C",
+          "Nhiệt độ đỉnh ≈ 22 - 18,3 ≈ 3,7°C → đủ lạnh để có băng giá vào mùa đông"
+        ],
+        "result": "Độ cao lớn làm nhiệt độ giảm mạnh → Fansipan có khí hậu ôn đới"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Sinh Vật Việt Nam & Bảo Vệ Rừng",
+      "content": "Sinh vật Việt Nam:\n• Đa dạng sinh học cao: 14.000+ loài thực vật, 300+ loài thú\n• Kiểu rừng:\n  – Rừng kín thường xanh: Tây Nguyên, Nam Bộ\n  – Rừng rụng lá: Tây Bắc, miền Trung (mùa khô)\n  – Rừng ngập mặn: ven biển (Cà Mau, ven ĐBSCL)\n\nBiến động diện tích rừng:\n• 1943: 43% (rừng nguyên sinh, dày đặc)\n• 1990: 27% (giảm mạnh do chiến tranh, chặt phá)\n• Hiện nay: ~42% (trồng rừng nhưng chất lượng thấp)\n\nHậu quả mất rừng: lũ lụt, xói mòn, mất đa dạng sinh học, biến đổi khí hậu cục bộ",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Tại sao đất Tây Nguyên (đất badan/bazan) rất phù hợp để trồng cà phê và cao su? Phân tích từ đặc điểm đất và khí hậu.",
+      "correctSteps": [
+        "Đất badan (bazan) ở Tây Nguyên: màu đỏ sẫm, tơi xốp, thoáng nước, giàu khoáng vật từ đá bazan phong hoá",
+        "Khí hậu Tây Nguyên: cao nguyên 400–600 m, mát mẻ, mưa nhiều (1.500–2.000 mm), nhiệt độ 20–25°C",
+        "Cà phê robusta cần đất tơi, thoát nước, khí hậu mát → Tây Nguyên lý tưởng",
+        "Cao su cần đất sâu, thoát nước, nóng ẩm → phù hợp ở Đông Nam Bộ và phần thấp Tây Nguyên"
+      ],
+      "correctAnswer": "Đất badan màu mỡ + khí hậu mát ẩm",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Phân tích đặc điểm đất (đá mẹ bazan) và đặc điểm khí hậu cao nguyên"
+    },
+    {
+      "id": 2,
+      "question": "Giải thích tại sao đỉnh Fansipan (3.143 m) có thể có băng giá mặc dù Việt Nam nằm trong vùng nhiệt đới.",
+      "correctSteps": [
+        "Quy luật giảm nhiệt theo độ cao: cứ lên 100 m → giảm 0,6°C",
+        "Từ chân núi (t°≈22°C) lên đỉnh (3.143 m): độ giảm ≈ (3.043÷100)×0,6 ≈ 18,3°C",
+        "Nhiệt độ đỉnh ≈ 22 - 18,3 ≈ 3,7°C → dưới 5°C → có thể có sương giá, băng vào mùa đông",
+        "Đây là quy luật phi địa đới: độ cao thay thế vĩ độ trong việc phân tầng khí hậu"
+      ],
+      "correctAnswer": "3.7",
+      "correctUnit": "°C (đỉnh Fansipan)",
+      "difficulty": "medium",
+      "hint": "Dùng công thức: giảm (3043÷100)×0,6°C so với chân núi"
+    },
+    {
+      "id": 3,
+      "question": "Hậu quả của việc rừng Việt Nam giảm từ 43% (1943) xuống 27% (1990) là gì? Nêu ít nhất 3 hậu quả.",
+      "correctSteps": [
+        "Lũ lụt và lũ quét tăng: rừng đầu nguồn mất → nước mưa chảy nhanh xuống đồng bằng",
+        "Xói mòn đất: rễ cây không giữ đất → đất trơ trọi, thoái hoá, sa mạc hoá",
+        "Mất đa dạng sinh học: hàng trăm loài động-thực vật mất nơi sinh sống, có nguy cơ tuyệt chủng",
+        "Biến đổi khí hậu cục bộ: nhiệt độ tăng, mưa thất thường, mùa khô kéo dài hơn"
+      ],
+      "correctAnswer": "Lũ lụt, xói mòn, mất đa dạng sinh học",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Nghĩ đến chức năng của rừng: giữ nước, giữ đất, cung cấp môi trường sống, điều hoà khí hậu"
+    },
+    {
+      "id": 4,
+      "question": "Mô tả sự thay đổi thảm thực vật theo độ cao ở một ngọn núi nhiệt đới (như Fansipan). Giải thích cơ chế của sự thay đổi này.",
+      "correctSteps": [
+        "0–600 m: rừng nhiệt đới nóng ẩm thường xanh (nhiệt độ cao, mưa nhiều)",
+        "600–1.600 m: rừng cận nhiệt đới lá rộng (mát hơn, sương mù)",
+        "1.600–2.600 m: rừng ôn đới lá kim, trúc, đỗ quyên (lạnh, ẩm)",
+        "Trên 2.600 m: trảng cỏ, địa y, rêu (quá lạnh cho cây gỗ lớn); cơ chế: nhiệt độ giảm 0,6°C/100 m → mỗi đai cao có điều kiện nhiệt-ẩm khác nhau → thực vật thích nghi khác nhau"
+      ],
+      "correctAnswer": "Phân tầng: nhiệt đới → cận nhiệt → ôn đới → trảng cỏ",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Quy luật phi địa đới: độ cao thay thế vĩ độ; lên 1.000 m ≈ dịch về cực 1.000 km"
+    }
+  ]
+}

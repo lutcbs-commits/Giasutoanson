@@ -1,5 +1,7 @@
 'use client';
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import { apiFetch } from '@/lib/apiFetch';
 
 const ROADMAP = [
   {
@@ -149,7 +151,34 @@ const DAILY_GUIDE = [
   { time: '20:00-20:30', activity: '📺 Nghe tiếng Anh tự nhiên', tip: 'BBC News, TED Talks, IELTS YouTube' },
 ];
 
+interface Session { lesson_id: string; problems_attempted: number; problems_correct: number; session_date: string; }
+interface LessonStat { count: number; totalCorrect: number; totalAttempted: number; lastDate: string; }
+
 export default function IELTSRoadmapPage() {
+  const [lessonStats, setLessonStats] = useState<Record<string, LessonStat>>({});
+
+  useEffect(() => {
+    const name = localStorage.getItem('studentName');
+    if (!name) return;
+    apiFetch(`/api/students?name=${encodeURIComponent(name)}`)
+      .then(r => r.json())
+      .then((data: { sessions?: Session[] }) => {
+        const stats: Record<string, LessonStat> = {};
+        for (const s of data.sessions ?? []) {
+          if (!s.lesson_id) continue;
+          const prev = stats[s.lesson_id] ?? { count: 0, totalCorrect: 0, totalAttempted: 0, lastDate: '' };
+          stats[s.lesson_id] = {
+            count: prev.count + 1,
+            totalCorrect: prev.totalCorrect + s.problems_correct,
+            totalAttempted: prev.totalAttempted + s.problems_attempted,
+            lastDate: s.session_date > prev.lastDate ? s.session_date : prev.lastDate,
+          };
+        }
+        setLessonStats(stats);
+      })
+      .catch(() => {});
+  }, []);
+
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       {/* Header */}
@@ -222,42 +251,71 @@ export default function IELTSRoadmapPage() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {month.weeks.map(week => (
-              <div key={week.week} className={`rounded-3xl border-2 ${month.bg} p-5 shadow-sm`}>
-                <div className="flex items-start justify-between gap-2 mb-3">
-                  <div>
-                    <p className="text-xs font-black text-gray-400 uppercase tracking-wider mb-1">Tuần {week.week}</p>
-                    <h3 className="font-black text-gray-800 text-sm leading-snug">{week.title}</h3>
+            {month.weeks.map(week => {
+              const stat = week.lessonId ? lessonStats[week.lessonId] : null;
+              const done = !!stat;
+              const pct = stat && stat.totalAttempted > 0
+                ? Math.round((stat.totalCorrect / stat.totalAttempted) * 100) : null;
+              const lastDate = stat ? new Date(stat.lastDate).toLocaleDateString('vi-VN', { day: '2-digit', month: '2-digit' }) : null;
+
+              return (
+                <div key={week.week} className={`rounded-3xl border-2 ${month.bg} p-5 shadow-sm relative overflow-hidden ${done ? 'ring-2 ring-grass-400 ring-offset-2' : ''}`}>
+                  {/* Completed ribbon */}
+                  {done && (
+                    <div className="absolute top-3 right-3 bg-grass-500 text-white text-xs font-black px-2.5 py-1 rounded-xl shadow-sm">
+                      ✅ Đã học
+                    </div>
+                  )}
+
+                  <div className="flex items-start justify-between gap-2 mb-3">
+                    <div>
+                      <p className="text-xs font-black text-gray-400 uppercase tracking-wider mb-1">Tuần {week.week}</p>
+                      <h3 className="font-black text-gray-800 text-sm leading-snug pr-14">{week.title}</h3>
+                    </div>
+                    <span className={`shrink-0 text-xs font-bold px-2 py-1 rounded-xl border ${SKILL_COLORS[week.skill] ?? ''}`}>
+                      {week.skillEmoji} {week.skill.charAt(0).toUpperCase() + week.skill.slice(1)}
+                    </span>
                   </div>
-                  <span className={`shrink-0 text-xs font-bold px-2 py-1 rounded-xl border ${SKILL_COLORS[week.skill] ?? ''}`}>
-                    {week.skillEmoji} {week.skill.charAt(0).toUpperCase() + week.skill.slice(1)}
-                  </span>
-                </div>
 
-                <ul className="flex flex-col gap-1 mb-3">
-                  {week.focus.map((f, i) => (
-                    <li key={i} className="text-xs text-gray-600 font-medium flex items-start gap-1.5">
-                      <span className="shrink-0 text-gray-400 mt-0.5">•</span>{f}
-                    </li>
-                  ))}
-                </ul>
+                  <ul className="flex flex-col gap-1 mb-3">
+                    {week.focus.map((f, i) => (
+                      <li key={i} className="text-xs text-gray-600 font-medium flex items-start gap-1.5">
+                        <span className="shrink-0 text-gray-400 mt-0.5">•</span>{f}
+                      </li>
+                    ))}
+                  </ul>
 
-                <div className="bg-white/70 rounded-xl px-3 py-2 mb-3 border border-white">
-                  <p className="text-xs font-bold text-gray-600">⏱️ {week.daily}</p>
-                </div>
-
-                {week.lessonId ? (
-                  <Link href={`/bai-tap/${week.lessonId}`}
-                    className={`block text-center text-sm font-black py-2.5 rounded-2xl bg-gradient-to-br ${month.color} text-white hover:shadow-md transition-all hover:-translate-y-0.5`}>
-                    🚀 Bắt đầu tuần {week.week}
-                  </Link>
-                ) : (
-                  <div className="text-center text-xs font-bold text-gray-400 py-2.5 rounded-2xl bg-gray-100 border border-gray-200">
-                    📅 Bài học sẽ được thêm
+                  <div className="bg-white/70 rounded-xl px-3 py-2 mb-3 border border-white">
+                    <p className="text-xs font-bold text-gray-600">⏱️ {week.daily}</p>
                   </div>
-                )}
-              </div>
-            ))}
+
+                  {/* Progress stats if done */}
+                  {done && stat && (
+                    <div className="flex items-center gap-2 mb-3 bg-grass-50 border border-grass-200 rounded-xl px-3 py-2">
+                      <span className="text-xs font-black text-grass-700">{stat.count} lần học</span>
+                      <span className="text-grass-300">·</span>
+                      {pct !== null && <span className="text-xs font-bold text-grass-600">{pct}% đúng</span>}
+                      {lastDate && <><span className="text-grass-300">·</span><span className="text-xs text-grass-600 font-medium">{lastDate}</span></>}
+                    </div>
+                  )}
+
+                  {week.lessonId ? (
+                    <Link href={`/bai-tap/${week.lessonId}`}
+                      className={`block text-center text-sm font-black py-2.5 rounded-2xl transition-all hover:-translate-y-0.5 ${
+                        done
+                          ? 'bg-grass-100 text-grass-700 border-2 border-grass-300 hover:bg-grass-200'
+                          : `bg-gradient-to-br ${month.color} text-white hover:shadow-md`
+                      }`}>
+                      {done ? '🔄 Học lại' : `🚀 Bắt đầu tuần ${week.week}`}
+                    </Link>
+                  ) : (
+                    <div className="text-center text-xs font-bold text-gray-400 py-2.5 rounded-2xl bg-gray-100 border border-gray-200">
+                      📅 Bài học sẽ được thêm
+                    </div>
+                  )}
+                </div>
+              );
+            })}
           </div>
         </section>
       ))}

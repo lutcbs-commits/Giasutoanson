@@ -1,0 +1,86 @@
+{
+  "id": "hoa-hoc-ngay-12-polime",
+  "fileName": "hoa-hoc-ngay-12-polime.json",
+  "title": "Ngày 12: Polime — Tổng Hợp Hữu Cơ & Nhận Biết",
+  "topics": ["Hoá Học", "Polime", "Tinh Bột", "Protein", "Nhận Biết"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Polime — Chất Dẻo Tổng Hợp",
+      "content": "POLIME là hợp chất cao phân tử gồm nhiều mắt xích lặp lại.\n\nCÁC POLIME QUAN TRỌNG:\n\n1. PE (Polyetilen):\n   n CH2=CH2 → (-CH2-CH2-)n\n   Dùng làm túi nhựa, màng bọc thực phẩm\n\n2. PVC (Polyvinyl Clorua):\n   n CH2=CHCl → (-CH2-CHCl-)n\n   Dùng làm ống nước, dây điện\n\n3. PP (Polypropylen):\n   n CH2=CH(CH3) → (-CH2-CH(CH3)-)n\n   Dùng làm đồ nhựa cứng\n\n4. Cao su thiên nhiên: (-CH2-C(CH3)=CH-CH2-)n\n\nPhản ứng trùng hợp: n monome → polime (liên kết đôi mở ra)",
+      "keyFormula": "n CH2=CH2 → (-CH2-CH2-)n (polime)",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Tinh Bột và Protein",
+      "content": "TINH BỘT (C6H10O5)n:\n• Nguồn: gạo, ngô, khoai, sắn\n• Nhận biết: (C6H10O5)n + I2 → màu XANH TÍM (đặc trưng!)\n• Thuỷ phân:\n  (C6H10O5)n + nH2O →(axit/enzim) nC6H12O6 (glucozơ)\n\nXELULOZƠ (C6H10O5)n:\n• Cấu trúc khác tinh bột (liên kết β)\n• Không cho màu xanh với I2\n• Không tan trong nước\n\nPROTEIN:\n• Polipeptit - nhiều axit amin\n• Nhận biết: đốt cháy → MÙI KHÉT (như tóc cháy)\n• Phản ứng màu Biure: Cu(OH)2 + protein → màu tím\n• Biến tính bởi axit, kiềm, nhiệt độ cao",
+      "keyFormula": "Tinh bột + I2 → màu xanh tím (nhận biết)",
+      "example": null,
+      "miniGame": {
+        "question": "Cách nhận biết tinh bột trong dung dịch:",
+        "options": ["Dùng quỳ tím, sẽ hoá đỏ", "Nhỏ vài giọt I2, dung dịch chuyển xanh tím", "Đốt cháy, có mùi khét", "Dùng Na, sủi bọt khí"],
+        "answer": "Nhỏ vài giọt I2, dung dịch chuyển xanh tím",
+        "explanation": "Tinh bột phản ứng đặc trưng với I2 tạo màu xanh tím (do chuỗi amylozơ xoắn ốc bao quanh phân tử I2). Đây là phản ứng đặc trưng nhất để nhận biết tinh bột."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Nhận Biết 5 Chất Đặc Biệt",
+      "content": "Bài toán nhận biết: NaOH, HCl, NaCl, CuSO4, Na2CO3 (dạng dung dịch)\n\nBước 1: Quan sát màu sắc\n→ Dung dịch màu xanh → CuSO4 (đã nhận biết 1 chất)\n\nBước 2: Dùng CuSO4 làm thuốc thử cho 4 lọ còn lại:\n→ Tạo kết tủa xanh lam (Cu(OH)2) → NaOH\n   CuSO4 + 2NaOH → Cu(OH)2↓ + Na2SO4\n→ Tạo kết tủa xanh lá (CuCO3) → Na2CO3\n   CuSO4 + Na2CO3 → CuCO3↓ + Na2SO4\n→ Không hiện tượng → HCl và NaCl (chưa phân biệt được)\n\nBước 3: Dùng NaOH (vừa nhận biết) thêm vào HCl và NaCl:\n→ Không hiện tượng với cả hai\n→ Dùng quỳ tím để phân biệt HCl (đỏ) và NaCl (không đổi)",
+      "keyFormula": "CuSO4 + 2NaOH → Cu(OH)2 (xanh lam)↓",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Nhận Biết Khí — O2, CO2, H2, CH4",
+      "content": "Nhận biết 4 khí: O2, CO2, H2, CH4\n\nBước 1: Đưa que đóm còn than hồng vào\n→ Que đóm bùng cháy → O2 (đã nhận biết O2)\n\nBước 2: Dẫn 3 khí còn lại qua Ca(OH)2\n→ Đục trắng → CO2 (đã nhận biết CO2)\n→ Còn lại: H2 và CH4\n\nBước 3: Đốt cháy H2 và CH4\n→ Dẫn sản phẩm qua CuSO4 khan (trắng):\n   Nếu có hơi nước → CuSO4 hoá xanh\n• CH4 cháy: CH4 + 2O2 → CO2 + 2H2O (tạo CO2 và H2O)\n• H2 cháy: 2H2 + O2 → 2H2O (chỉ tạo H2O)\n→ Dẫn sản phẩm qua Ca(OH)2: CH4 tạo CO2 → đục; H2 không → còn lại H2\n\nHoặc đơn giản hơn: H2 ngọn lửa nhỏ màu xanh nhạt; CH4 ngọn lửa xanh lớn hơn",
+      "keyFormula": "O2: que đóm bùng; CO2: Ca(OH)2 đục; H2/CH4: đốt rồi phân biệt CO2",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Tổng Kết Ngày 12",
+      "content": "Polime quan trọng:\n• PE: n CH2=CH2 → (-CH2-CH2-)n\n• PVC: n CH2=CHCl → (-CH2-CHCl-)n\n\nNhận biết sinh học:\n• Tinh bột: + I2 → xanh tím\n• Protein: đốt → mùi khét\n• Glucozơ: tráng gương (AgNO3/NH3)\n\nNhận biết dung dịch vô cơ:\n• Quan sát màu (CuSO4: xanh; FeCl3: vàng nâu)\n• Dùng quỳ tím (axit/bazơ)\n• Dùng BaCl2 (SO4²⁻ → BaSO4 trắng)\n• Dùng AgNO3 (Cl⁻ → AgCl trắng)\n\nNhận biết khí:\n• O2: que đóm bùng cháy\n• CO2: Ca(OH)2 đục trắng\n• H2: đốt, CuSO4 khan hoá xanh (chỉ H2O, không CO2)",
+      "keyFormula": "AgNO3: Cl⁻→AgCl↓; BaCl2: SO4²⁻→BaSO4↓",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Nêu cách nhận biết 4 khí: O2, CO2, H2, CH4 đựng trong 4 bình riêng biệt.",
+      "correctSteps": [
+        "Đưa que đóm còn than hồng vào: bình làm que đóm bùng cháy → O2",
+        "Dẫn 3 khí còn lại qua Ca(OH)2: bình làm đục nước vôi → CO2",
+        "Đốt 2 khí còn lại, dẫn sản phẩm qua Ca(OH)2: bình làm đục → CH4 (tạo CO2+H2O); không đục → H2 (chỉ tạo H2O)",
+        "Xác nhận: H2 cháy ngọn lửa xanh nhạt nhỏ; CH4 cháy ngọn lửa xanh lớn hơn"
+      ],
+      "correctAnswer": "O2: que đóm; CO2: Ca(OH)2; CH4/H2: đốt rồi thử Ca(OH)2",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "O2 → que đóm; CO2 → Ca(OH)2; CH4 cháy tạo CO2+H2O; H2 cháy chỉ tạo H2O."
+    },
+    {
+      "id": 2,
+      "question": "Nhận biết 5 dung dịch: NaOH, HCl, NaCl, CuSO4, Na2CO3 chỉ dùng quỳ tím và quan sát màu sắc.",
+      "correctSteps": [
+        "Quan sát màu sắc: dung dịch màu xanh → CuSO4",
+        "Dùng quỳ tím: hoá đỏ → HCl (axit); hoá xanh → NaOH (bazơ); không đổi → NaCl hoặc Na2CO3",
+        "NaCl và Na2CO3 đều không đổi màu quỳ (Na2CO3 kiềm yếu có thể hơi xanh)",
+        "Nhỏ HCl vào 2 lọ còn lại: sủi bọt CO2 → Na2CO3 (2HCl + Na2CO3 → CO2↑); không hiện tượng → NaCl"
+      ],
+      "correctAnswer": "CuSO4: màu xanh; HCl: quỳ đỏ; NaOH: quỳ xanh; Na2CO3: sủi bọt với HCl; NaCl: còn lại",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Quan sát màu trước. Quỳ tím để phân axit/bazơ. HCl + Na2CO3 → CO2 để phân biệt cuối."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "hoa-hoc-ngay-06-chat-du",
+  "fileName": "hoa-hoc-ngay-06-chat-du.json",
+  "title": "Ngày 6: Bài Toán Chất Dư — Nâng Tầm Tư Duy",
+  "topics": ["Hoá Học", "Chất Dư", "Bài Toán Mol"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Nguyên Tắc Xác Định Chất Dư",
+      "content": "Khi bài toán cho ĐỒNG THỜI hai chất phản ứng → phải xác định chất nào HẾT TRƯỚC.\n\nNGUYÊN TẮC:\nTính theo CHẤT HẾT TRƯỚC (chất thiếu).\n\nCÁCH XÁC ĐỊNH CHẤT HẾT:\n1. Tính n (mol) của từng chất đã cho\n2. Chia n cho hệ số tương ứng trong PTHH\n3. Giá trị nhỏ hơn → chất đó hết trước\n\nCó 3 trường hợp:\n• Chất A hết (B dư)\n• Chất B hết (A dư)\n• Vừa đủ (cả hai hết cùng lúc)",
+      "keyFormula": "n(A)/hệ số A < n(B)/hệ số B → A hết trước",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Bài Mẫu — Fe + HCl",
+      "content": "Bài toán: 5,6g Fe + 200ml HCl 1M\nPTHH: Fe + 2HCl → FeCl2 + H2\n\nBước 1: Tính mol các chất\nn(Fe) = 5,6/56 = 0,1 mol\nn(HCl) = CM × V = 1 × 0,2 = 0,2 mol\n\nBước 2: So sánh tỉ lệ\n• Fe: 0,1/1 = 0,1\n• HCl: 0,2/2 = 0,1\n→ Hai tỉ lệ bằng nhau → PHẢN ỨNG VỪA ĐỦ!\n\nBước 3: Tính kết quả (không có chất dư)\nn(H2) = n(Fe) = 0,1 mol\nV(H2) = 0,1 × 22,4 = 2,24 lít\n\nn(FeCl2) = n(Fe) = 0,1 mol",
+      "keyFormula": "n/hệ số: bằng nhau → vừa đủ; nhỏ hơn → hết",
+      "example": {
+        "problem": "5,6g Fe + 200ml HCl 1M. Phản ứng vừa đủ hay có chất dư?",
+        "steps": [
+          "n(Fe) = 5,6/56 = 0,1 mol; n(HCl) = 1 × 0,2 = 0,2 mol",
+          "Tỉ lệ: Fe: 0,1/1 = 0,1; HCl: 0,2/2 = 0,1",
+          "Hai tỉ lệ bằng nhau → phản ứng vừa đủ",
+          "n(H2) = 0,1 mol → V(H2) = 2,24 lít"
+        ],
+        "result": "Vừa đủ, V(H2) = 2,24 lít"
+      },
+      "miniGame": {
+        "question": "Trong bài toán: 0,3 mol Al + 0,3 mol H2SO4. PTHH: 2Al + 3H2SO4 → Al2(SO4)3 + 3H2. Chất nào hết trước?",
+        "options": ["Al hết vì ít hơn", "H2SO4 hết vì nhiều hơn", "Al hết: 0,3/2=0,15 < H2SO4: 0,3/3=0,1 nên H2SO4 hết", "H2SO4 hết: 0,3/3=0,1 < Al: 0,3/2=0,15"],
+        "answer": "H2SO4 hết: 0,3/3=0,1 < Al: 0,3/2=0,15",
+        "explanation": "So sánh n/hệ số: Al: 0,3/2 = 0,15; H2SO4: 0,3/3 = 0,1. H2SO4 có tỉ lệ nhỏ hơn → H2SO4 hết trước, Al dư."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Bài Mẫu Nâng Cao — Al + H2SO4",
+      "content": "Bài toán: 8,1g Al + 300ml H2SO4 1M\nPTHH: 2Al + 3H2SO4 → Al2(SO4)3 + 3H2\n\nBước 1: Tính mol\nn(Al) = 8,1/27 = 0,3 mol\nn(H2SO4) = 1 × 0,3 = 0,3 mol\n\nBước 2: Xác định chất hết\n• Al: 0,3/2 = 0,15\n• H2SO4: 0,3/3 = 0,1\n→ H2SO4 hết trước! Tính theo H2SO4.\n\nBước 3: Tính H2 (theo H2SO4 hết)\nn(H2) = n(H2SO4) = 0,3 mol (tỉ lệ 3:3 = 1:1)\nV(H2) = 0,3 × 22,4 = 6,72 lít\n\nBước 4: Tính Al dư\nn(Al phản ứng) = (2/3) × 0,3 = 0,2 mol\nn(Al dư) = 0,3 - 0,2 = 0,1 mol\nm(Al dư) = 0,1 × 27 = 2,7 gam",
+      "keyFormula": "n(dư) = n(ban đầu) - n(đã phản ứng)",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Bài Toán Chất Dư — Zn + HCl",
+      "content": "Bài toán: 6,5g Zn + 100ml HCl 1,5M\nPTHH: Zn + 2HCl → ZnCl2 + H2\n\nn(Zn) = 6,5/65 = 0,1 mol\nn(HCl) = 1,5 × 0,1 = 0,15 mol\n\nXác định chất hết:\n• Zn: 0,1/1 = 0,1\n• HCl: 0,15/2 = 0,075\n→ HCl hết trước! Tính theo HCl.\n\nTính H2:\nn(H2) = n(HCl)/2 = 0,15/2 = 0,075 mol\nV(H2) = 0,075 × 22,4 = 1,68 lít\n\nTính Zn dư:\nn(Zn phản ứng) = n(HCl)/2 = 0,075 mol\nn(Zn dư) = 0,1 - 0,075 = 0,025 mol\nm(Zn dư) = 0,025 × 65 = 1,625 gam",
+      "keyFormula": "Tính theo chất hết → n(X phản ứng) → n(dư) = n đầu - n pứ",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Tổng Kết Ngày 6",
+      "content": "QUY TRÌNH GIẢI BÀI TOÁN CHẤT DƯ:\n\n① Viết PTHH, cân bằng\n② Tính n của từng chất đã cho\n③ Lập tỉ lệ: n₁/a₁ so với n₂/a₂ (a = hệ số)\n④ Tỉ lệ nhỏ hơn → chất đó HẾT → tính theo chất đó\n⑤ Tính n sản phẩm theo chất hết\n⑥ Tính lượng chất dư = n đầu - n đã phản ứng\n\nTóm tắt bài tập:\n• Zn + HCl: HCl hết → V(H2) = 1,68L; Zn dư = 1,625g\n• Mg + O2: vừa đủ → MgO = 8g\n\nMẹo nhớ: \"Nhỏ hơn → hết trước\"",
+      "keyFormula": "n₁/a₁ < n₂/a₂ → chất 1 hết trước",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Cho 6,5g Zn tác dụng với 100ml HCl 1,5M. PTHH: Zn + 2HCl → ZnCl2 + H2. Tính thể tích H2 (đktc) và khối lượng Zn dư (nếu có). (MZn=65)",
+      "correctSteps": [
+        "n(Zn) = 6,5/65 = 0,1 mol; n(HCl) = 1,5 × 0,1 = 0,15 mol",
+        "Tỉ lệ: Zn: 0,1/1 = 0,1; HCl: 0,15/2 = 0,075 → HCl hết trước",
+        "n(H2) = n(HCl)/2 = 0,075 mol → V(H2) = 0,075 × 22,4 = 1,68 lít",
+        "n(Zn pứ) = 0,075 mol → n(Zn dư) = 0,1 - 0,075 = 0,025 mol → m(Zn dư) = 1,625 gam"
+      ],
+      "correctAnswer": "1.68",
+      "correctUnit": "lít",
+      "difficulty": "medium",
+      "hint": "So sánh n/hệ số: Zn 0,1/1 và HCl 0,15/2. Tỉ lệ nhỏ hơn → hết trước."
+    },
+    {
+      "id": 2,
+      "question": "Đốt cháy 4,8g Mg trong 2,24 lít O2 (đktc). PTHH: 2Mg + O2 → 2MgO. Tính khối lượng MgO thu được. (MMg=24)",
+      "correctSteps": [
+        "n(Mg) = 4,8/24 = 0,2 mol; n(O2) = 2,24/22,4 = 0,1 mol",
+        "Tỉ lệ: Mg: 0,2/2 = 0,1; O2: 0,1/1 = 0,1 → hai tỉ lệ bằng nhau → vừa đủ",
+        "n(MgO) = n(Mg) = 0,2 mol (tỉ lệ 2:2 = 1:1)",
+        "m(MgO) = 0,2 × 40 = 8 gam"
+      ],
+      "correctAnswer": "8",
+      "correctUnit": "gam",
+      "difficulty": "medium",
+      "hint": "M(MgO) = 24 + 16 = 40. Kiểm tra tỉ lệ n/hệ số trước khi tính."
+    },
+    {
+      "id": 3,
+      "question": "Cho 8,1g Al tác dụng với 300ml H2SO4 1M. PTHH: 2Al + 3H2SO4 → Al2(SO4)3 + 3H2. Tính V(H2) ở đktc và m(Al dư). (MAl=27)",
+      "correctSteps": [
+        "n(Al) = 8,1/27 = 0,3 mol; n(H2SO4) = 1 × 0,3 = 0,3 mol",
+        "Tỉ lệ: Al: 0,3/2 = 0,15; H2SO4: 0,3/3 = 0,1 → H2SO4 hết trước",
+        "n(H2) = n(H2SO4) × (3/3) = 0,3 mol → V(H2) = 0,3 × 22,4 = 6,72 lít",
+        "n(Al pứ) = (2/3) × 0,3 = 0,2 mol → n(Al dư) = 0,3 - 0,2 = 0,1 mol → m = 2,7 gam"
+      ],
+      "correctAnswer": "6.72",
+      "correctUnit": "lít",
+      "difficulty": "hard",
+      "hint": "H2SO4 hết trước (tỉ lệ 0,1 < 0,15). Tính H2 và Al dư đều theo H2SO4."
+    }
+  ]
+}

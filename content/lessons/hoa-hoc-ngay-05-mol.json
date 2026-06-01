@@ -1,0 +1,117 @@
+{
+  "id": "hoa-hoc-ngay-05-mol",
+  "fileName": "hoa-hoc-ngay-05-mol.json",
+  "title": "Ngày 5: Mol — Ngôn Ngữ Định Lượng Của Hoá Học",
+  "topics": ["Hoá Học", "Mol", "Tính Toán Hoá Học"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Khái Niệm Mol và Các Công Thức",
+      "content": "MOL là đơn vị đo lượng chất trong hoá học.\n\n1 mol = 6,022 × 10²³ hạt (số Avogadro)\n\nCác công thức tính mol:\n\n1. Từ khối lượng:\n   n = m / M\n   (n: mol; m: khối lượng (g); M: khối lượng mol (g/mol))\n\n2. Từ thể tích khí ở đktc (0°C, 1atm):\n   n = V / 22,4\n   (V: thể tích (lít); 22,4 lít/mol ở đktc)\n\n3. Từ nồng độ mol:\n   n = CM × Vdd\n   (CM: nồng độ (mol/L); Vdd: thể tích dung dịch (lít))\n\nKhối lượng mol phổ biến:\n• H=1; C=12; N=14; O=16; Na=23; Mg=24; Al=27; S=32; Cl=35,5; Ca=40; Fe=56; Cu=64; Zn=65",
+      "keyFormula": "n = m/M; n = V/22,4; n = CM × Vdd",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Bài Mẫu — Al + HCl",
+      "content": "Ví dụ điển hình: Tính thể tích khí H2 sinh ra.\n\nBài toán: 5,4g Al tác dụng với HCl dư, tính V(H2) ở đktc.\n\nGiải:\nBước 1: Viết PTHH\n2Al + 6HCl → 2AlCl3 + 3H2↑\n\nBước 2: Tính mol chất đã biết\nn(Al) = m/M = 5,4/27 = 0,2 mol\n\nBước 3: Dùng tỉ lệ mol theo PTHH\nTheo PTHH: 2 mol Al → 3 mol H2\nn(H2) = (3/2) × n(Al) = (3/2) × 0,2 = 0,3 mol\n\nBước 4: Tính thể tích\nV(H2) = n × 22,4 = 0,3 × 22,4 = 6,72 lít",
+      "keyFormula": "Tỉ lệ mol = tỉ lệ hệ số phương trình",
+      "example": {
+        "problem": "5,4g Al tác dụng HCl dư. Tính V(H2) ở đktc.",
+        "steps": [
+          "PTHH: 2Al + 6HCl → 2AlCl3 + 3H2",
+          "n(Al) = 5,4/27 = 0,2 mol",
+          "Tỉ lệ: n(H2) = (3/2) × 0,2 = 0,3 mol",
+          "V(H2) = 0,3 × 22,4 = 6,72 lít"
+        ],
+        "result": "V(H2) = 6,72 lít"
+      },
+      "miniGame": {
+        "question": "Tính n(Al) nếu có 13,5g Al (M = 27 g/mol):",
+        "options": ["0,3 mol", "0,5 mol", "364,5 mol", "0,1 mol"],
+        "answer": "0,5 mol",
+        "explanation": "n = m/M = 13,5/27 = 0,5 mol. Luôn áp dụng công thức n = m/M khi biết khối lượng và khối lượng mol."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Bài Tập Về Mol — Đốt Cháy Cu",
+      "content": "Bài toán 1: Đốt cháy 6,4g Cu trong O2 dư, tính khối lượng CuO tạo thành.\n\nGiải:\nPTHH: 2Cu + O2 → 2CuO\n\nn(Cu) = 6,4/64 = 0,1 mol\nTheo tỉ lệ: 2Cu → 2CuO → n(CuO) = n(Cu) = 0,1 mol\nm(CuO) = 0,1 × (64+16) = 0,1 × 80 = 8 gam\n\nBài toán 2: Tính nồng độ mol dung dịch Na2CO3\n10,6g Na2CO3 hoà tan trong 500ml nước.\n\nn(Na2CO3) = 10,6/106 = 0,1 mol\nCM = n/V = 0,1/0,5 = 0,2 mol/L",
+      "keyFormula": "CM = n / Vdd (Vdd tính bằng lít)",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Sơ Đồ Giải Bài Tập Mol",
+      "content": "QUY TRÌNH 4 BƯỚC CHUẨN:\n\nBước 1: Viết PTHH cân bằng\nBước 2: Tính mol chất đã biết (dùng n=m/M hoặc n=V/22,4 hoặc n=CM×V)\nBước 3: Dùng tỉ lệ mol theo hệ số phương trình\nBước 4: Tính đại lượng cần tìm (m, V, CM)\n\nVí dụ: Fe + HCl → FeCl2 + H2\n11,2g Fe + HCl dư → V(H2)?\n• PTHH: Fe + 2HCl → FeCl2 + H2\n• n(Fe) = 11,2/56 = 0,2 mol\n• n(H2) = n(Fe) = 0,2 mol (tỉ lệ 1:1)\n• V(H2) = 0,2 × 22,4 = 4,48 lít",
+      "keyFormula": "4 bước: PTHH → n biết → tỉ lệ → tính",
+      "example": {
+        "problem": "11,2g Fe tác dụng HCl dư. Tính V(H2) ở đktc.",
+        "steps": [
+          "PTHH: Fe + 2HCl → FeCl2 + H2↑",
+          "n(Fe) = 11,2/56 = 0,2 mol",
+          "Tỉ lệ 1:1 → n(H2) = n(Fe) = 0,2 mol",
+          "V(H2) = 0,2 × 22,4 = 4,48 lít"
+        ],
+        "result": "V(H2) = 4,48 lít"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Tổng Kết Ngày 5",
+      "content": "Các công thức mol cần thuộc:\n\n• n = m/M ↔ m = n×M ↔ M = m/n\n• n = V/22,4 ↔ V = n×22,4 (đktc)\n• n = CM×V ↔ CM = n/V ↔ V = n/CM\n\nKhối lượng mol quan trọng:\nFe=56, Cu=64, Al=27, Zn=65, Mg=24\nNa=23, Ca=40, Cl=35,5, S=32, O=16\n\nTóm tắt bài tập ngày 5:\n• 6,4g Cu + O2 → 8g CuO\n• 10,6g Na2CO3/500ml → CM = 0,2M\n• 11,2g Fe + HCl → V(H2) = 4,48 lít\n\nLưu ý: Thể tích khí đo ở đktc (0°C, 1atm) → dùng 22,4 lít/mol",
+      "keyFormula": "n = m/M; V(đktc) = n × 22,4",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Đốt cháy hoàn toàn 6,4g Cu trong oxi dư. Tính khối lượng CuO tạo thành. (MCu=64, MO=16)",
+      "correctSteps": [
+        "PTHH: 2Cu + O2 → 2CuO",
+        "n(Cu) = 6,4/64 = 0,1 mol",
+        "Theo tỉ lệ PTHH: n(CuO) = n(Cu) = 0,1 mol",
+        "m(CuO) = 0,1 × 80 = 8 gam"
+      ],
+      "correctAnswer": "8",
+      "correctUnit": "gam",
+      "difficulty": "easy",
+      "hint": "M(CuO) = 64 + 16 = 80 g/mol. Tỉ lệ Cu:CuO = 1:1 theo phương trình."
+    },
+    {
+      "id": 2,
+      "question": "Hoà tan 10,6g Na2CO3 vào nước được 500ml dung dịch. Tính nồng độ mol của dung dịch. (MNa2CO3 = 106 g/mol)",
+      "correctSteps": [
+        "n(Na2CO3) = m/M = 10,6/106 = 0,1 mol",
+        "Thể tích dung dịch V = 500ml = 0,5 lít",
+        "CM = n/V = 0,1/0,5 = 0,2 mol/L"
+      ],
+      "correctAnswer": "0.2",
+      "correctUnit": "mol/L",
+      "difficulty": "easy",
+      "hint": "Chuyển đổi 500ml sang lít trước khi tính CM = n/V."
+    },
+    {
+      "id": 3,
+      "question": "Cho 11,2g Fe tác dụng với dung dịch HCl dư. Tính thể tích khí H2 sinh ra ở đktc. (MFe=56)",
+      "correctSteps": [
+        "PTHH: Fe + 2HCl → FeCl2 + H2↑",
+        "n(Fe) = 11,2/56 = 0,2 mol",
+        "Tỉ lệ PTHH: n(H2) = n(Fe) = 0,2 mol",
+        "V(H2) = 0,2 × 22,4 = 4,48 lít"
+      ],
+      "correctAnswer": "4.48",
+      "correctUnit": "lít",
+      "difficulty": "easy",
+      "hint": "Tỉ lệ Fe:H2 = 1:1 trong phương trình. V = n × 22,4 lít ở đktc."
+    }
+  ]
+}

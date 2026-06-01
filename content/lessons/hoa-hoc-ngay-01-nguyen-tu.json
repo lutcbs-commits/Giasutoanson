@@ -1,0 +1,121 @@
+{
+  "id": "hoa-hoc-ngay-01-nguyen-tu",
+  "fileName": "hoa-hoc-ngay-01-nguyen-tu.json",
+  "title": "Ngày 1: Nguyên Tử — Nền Tảng Của Mọi Thứ",
+  "topics": ["Hoá Học", "Nguyên Tử", "Cấu Hình Electron"],
+  "processedAt": "2026-06-01T00:00:00.000Z",
+  "subject": "hoa-hoc",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Cấu Tạo Nguyên Tử",
+      "content": "Nguyên tử gồm 3 loại hạt cơ bản:\n• Proton (p): điện tích dương (+), nằm trong hạt nhân\n• Neutron (n): không mang điện (0), nằm trong hạt nhân\n• Electron (e): điện tích âm (-), chuyển động xung quanh hạt nhân\n\nQuy tắc quan trọng:\n• Z = số proton = số electron (nguyên tử trung hoà điện)\n• A = Z + N (số khối = số proton + số neutron)\n\nVí dụ — Natri (Na): Z=11, A=23\n→ 11 proton, 11 electron, N = 23 - 11 = 12 neutron",
+      "keyFormula": "A = Z + N",
+      "example": {
+        "problem": "Nguyên tử Natri có Z=11, A=23. Tính số proton, electron, neutron.",
+        "steps": [
+          "Số proton = Z = 11",
+          "Số electron = Z = 11 (nguyên tử trung hoà)",
+          "Số neutron = A - Z = 23 - 11 = 12"
+        ],
+        "result": "Na có 11p, 11e, 12n"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Đồng Vị",
+      "content": "Đồng vị là những nguyên tử của cùng một nguyên tố (cùng Z) nhưng có số khối A khác nhau (khác N).\n\nVí dụ — Cacbon:\n• 12C: Z=6, N=6\n• 14C: Z=6, N=8\n→ Cùng 6 proton, 6 electron nhưng khác số neutron\n\nỨng dụng:\n• 14C dùng trong xác định niên đại cổ vật (phương pháp cacbon phóng xạ)\n• Nhiều nguyên tố trong tự nhiên tồn tại dưới dạng hỗn hợp đồng vị",
+      "keyFormula": "Đồng vị: cùng Z, khác N",
+      "example": null,
+      "miniGame": {
+        "question": "Hai nguyên tử 35Cl và 37Cl là đồng vị của nhau vì:",
+        "options": ["Cùng số neutron", "Cùng số proton nhưng khác số neutron", "Cùng số khối", "Khác số proton"],
+        "answer": "Cùng số proton nhưng khác số neutron",
+        "explanation": "Đồng vị là các nguyên tử cùng Z (cùng số proton) nhưng khác N (khác số neutron). 35Cl và 37Cl đều có Z=17 nhưng N lần lượt là 18 và 20."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Cấu Hình Electron — Nguyên Tắc",
+      "content": "Electron được phân bố theo từng lớp từ trong ra ngoài:\n• Lớp K (n=1): tối đa 2 electron\n• Lớp L (n=2): tối đa 8 electron\n• Lớp M (n=3): tối đa 18 electron\n\nCách viết cấu hình: điền electron từ lớp K ra ngoài theo thứ tự.\n\nVí dụ:\n• Na (Z=11): 2, 8, 1\n• Cl (Z=17): 2, 8, 7\n• Ar (Z=18): 2, 8, 8",
+      "keyFormula": "K≤2e; L≤8e; M≤18e",
+      "example": {
+        "problem": "Viết cấu hình electron của Clo (Z=17)",
+        "steps": [
+          "Lớp K: điền 2e → còn 15e",
+          "Lớp L: điền 8e → còn 7e",
+          "Lớp M: điền 7e còn lại"
+        ],
+        "result": "Cl (Z=17): 2, 8, 7"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Kim Loại, Phi Kim, Khí Hiếm",
+      "content": "Dựa vào số electron lớp ngoài cùng để xác định loại nguyên tố:\n\n• 1-3 electron ngoài cùng → Kim loại (dễ nhường e)\n• 5-7 electron ngoài cùng → Phi kim (dễ nhận e)\n• 8 electron ngoài cùng → Khí hiếm (bền vững, không phản ứng)\n• 4 electron ngoài cùng → Có thể là kim loại hoặc phi kim\n\nVí dụ:\n• Na: 2,8,1 → 1e ngoài → kim loại\n• Cl: 2,8,7 → 7e ngoài → phi kim\n• Ar: 2,8,8 → 8e ngoài → khí hiếm",
+      "keyFormula": "1-3e ngoài → kim loại; 5-7e → phi kim; 8e → khí hiếm",
+      "example": null,
+      "miniGame": {
+        "question": "Nguyên tố X có cấu hình electron 2, 8, 6. X là nguyên tố gì?",
+        "options": ["Kim loại vì có 3 lớp electron", "Khí hiếm vì lớp ngoài gần đầy", "Phi kim vì có 6 electron lớp ngoài cùng", "Kim loại vì Z=16"],
+        "answer": "Phi kim vì có 6 electron lớp ngoài cùng",
+        "explanation": "X có 6 electron lớp ngoài cùng (5-7e → phi kim). Z = 2+8+6 = 16 → đây là lưu huỳnh S."
+      }
+    },
+    {
+      "id": 5,
+      "title": "Tổng Kết Ngày 1",
+      "content": "Tóm tắt kiến thức quan trọng:\n\n1. Cấu tạo nguyên tử: p(+), n(0), e(-)\n   A = Z + N; Z = số p = số e\n\n2. Đồng vị: cùng Z, khác N\n   Ví dụ: 12C và 14C (Z=6)\n\n3. Cấu hình electron: điền từ K ra ngoài\n   K≤2, L≤8, M≤18\n\n4. Phân loại:\n   • 1-3e ngoài → kim loại\n   • 5-7e ngoài → phi kim\n   • 8e ngoài → khí hiếm\n\nLuyện tập nhanh:\n• X có Z=13 → Al: 2,8,3 → 3e ngoài → kim loại\n• Y có cấu hình 2,8,6 → Z=16 → S → phi kim",
+      "keyFormula": "A = Z + N; n ngoài cùng quyết định tính chất",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Nguyên tố X có 13 proton. Viết cấu hình electron và cho biết X là kim loại hay phi kim?",
+      "correctSteps": [
+        "Xác định Z = 13, viết cấu hình: lớp K=2, L=8, M=3",
+        "Cấu hình electron: 2, 8, 3",
+        "Số electron lớp ngoài cùng = 3 (thuộc 1-3e → kim loại)",
+        "X là nhôm (Al), là kim loại"
+      ],
+      "correctAnswer": "Al: 2,8,3 → kim loại",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Z = số proton = số electron. Điền e từ lớp K ra ngoài. 1-3e ngoài → kim loại."
+    },
+    {
+      "id": 2,
+      "question": "Nguyên tố Y có cấu hình electron 2, 8, 6. Xác định Z, tên nguyên tố và tính kim loại hay phi kim?",
+      "correctSteps": [
+        "Z = tổng số electron = 2 + 8 + 6 = 16",
+        "Z=16 là nguyên tố Lưu huỳnh (S)",
+        "Số electron lớp ngoài cùng = 6 (thuộc 5-7e → phi kim)",
+        "Y là lưu huỳnh S, phi kim"
+      ],
+      "correctAnswer": "S, phi kim",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Cộng tất cả electron trong các lớp để ra Z. 5-7e ngoài → phi kim."
+    },
+    {
+      "id": 3,
+      "question": "Nguyên tử M có 26 proton và số khối A = 56. Tính số neutron và viết cấu hình electron của M.",
+      "correctSteps": [
+        "Số neutron N = A - Z = 56 - 26 = 30",
+        "Số electron = Z = 26",
+        "Cấu hình: K=2, L=8, M=14, N=2 → viết: 2, 8, 14, 2",
+        "M là sắt (Fe), có 2e lớp ngoài cùng → kim loại"
+      ],
+      "correctAnswer": "30",
+      "correctUnit": "neutron",
+      "difficulty": "medium",
+      "hint": "N = A - Z. Cấu hình Fe: lớp M có thể chứa tới 18e nhưng điền theo thực tế."
+    }
+  ]
+}
