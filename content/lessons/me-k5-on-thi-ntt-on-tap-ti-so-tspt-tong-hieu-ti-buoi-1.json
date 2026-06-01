@@ -1,0 +1,136 @@
+{
+  "id": "me-k5-on-thi-ntt-on-tap-ti-so-tspt-tong-hieu-ti-buoi-1",
+  "fileName": "ME_K5 Ôn thi NTT_On tap ti so, TSPT, Tong (Hieu) - Ti (Buổi 1).pdf",
+  "title": "Tỉ số, Tỉ số phần trăm và Tổng tỉ, Hiệu tỉ",
+  "topics": [
+    "Tỉ số",
+    "Tỉ số phần trăm",
+    "Tổng tỉ",
+    "Hiệu tỉ"
+  ],
+  "processedAt": "2026-06-01T14:13:22.554Z",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Tỉ số",
+      "content": "Tỉ số là một cách biểu diễn số học để so sánh hai lượng bằng nhau.\nVí dụ: 2/3, 3/4, 1/2",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Tỉ số phần trăm",
+      "content": "Tỉ số phần trăm là một cách biểu diễn số học để so sánh hai lượng bằng nhau, nhưng được biểu diễn dưới dạng phần trăm.\nVí dụ: 25%, 50%, 75%",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Tổng tỉ",
+      "content": "Tổng tỉ là tổng của hai tỉ số.\nVí dụ: 1/2 + 1/3 = 5/6",
+      "keyFormula": "",
+      "example": {
+        "problem": "Tìm tổng tỉ của 1/2 và 1/3",
+        "steps": [
+          "Bước 1: Tìm tử số chung",
+          "Bước 2: Cộng tử số",
+          "Bước 3: Giữ nguyên mẫu số"
+        ],
+        "result": "5/6"
+      },
+      "miniGame": {
+        "question": "Tổng tỉ của 1/2 và 1/3 là gì?",
+        "options": [
+          "3/5",
+          "5/6",
+          "2/3",
+          "1/4"
+        ],
+        "answer": "5/6",
+        "explanation": "Tổng tỉ của 1/2 và 1/3 là 5/6 vì chúng có tử số chung là 6"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Hiệu tỉ",
+      "content": "Hiệu tỉ là hiệu của hai tỉ số.\nVí dụ: 3/4 - 1/4 = 2/4",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Ứng dụng của tỉ số và tỉ số phần trăm",
+      "content": "Tỉ số và tỉ số phần trăm có nhiều ứng dụng trong đời sống hàng ngày, chẳng hạn như tính toán số lượng hàng hóa, tính toán tỷ lệ phần trăm của một sự kiện",
+      "keyFormula": "",
+      "example": {
+        "problem": "Một người bán hàng giảm giá 20% cho một sản phẩm. Nếu giá gốc là 100.000 đồng, thì giá bán sau khi giảm giá là bao nhiêu?",
+        "steps": [
+          "Bước 1: Tính 20% của giá gốc",
+          "Bước 2: Trừ đi giá giảm"
+        ],
+        "result": "80.000 đồng"
+      },
+      "miniGame": {
+        "question": "Một người bán hàng giảm giá 25% cho một sản phẩm. Nếu giá gốc là 50.000 đồng, thì giá bán sau khi giảm giá là bao nhiêu?",
+        "options": [
+          "37.500 đồng",
+          "40.000 đồng",
+          "42.500 đồng",
+          "45.000 đồng"
+        ],
+        "answer": "37.500 đồng",
+        "explanation": "Giá bán sau khi giảm giá là 37.500 đồng vì 25% của 50.000 đồng là 12.500 đồng, và 50.000 đồng - 12.500 đồng = 37.500 đồng"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Bài tập về tỉ số và tỉ số phần trăm",
+      "content": "Bài tập về tỉ số và tỉ số phần trăm giúp học sinh luyện tập và nắm vững kiến thức về tỉ số và tỉ số phần trăm",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Một người bán hàng giảm giá 15% cho một sản phẩm. Nếu giá gốc là 200.000 đồng, thì giá bán sau khi giảm giá là bao nhiêu?",
+      "correctSteps": [
+        "Bước 1: Tính 15% của giá gốc",
+        "Bước 2: Trừ đi giá giảm"
+      ],
+      "correctAnswer": "170000",
+      "correctUnit": "đồng",
+      "difficulty": "easy",
+      "hint": "Hãy tính 15% của giá gốc trước"
+    },
+    {
+      "id": 2,
+      "question": "Một người mua 10kg gạo với giá 20.000 đồng/kg. Nếu người đó trả thêm 10% tiền cho người bán, thì tổng số tiền người đó phải trả là bao nhiêu?",
+      "correctSteps": [
+        "Bước 1: Tính tổng số tiền người đó phải trả trước khi trả thêm",
+        "Bước 2: Tính 10% của tổng số tiền",
+        "Bước 3: Cộng thêm 10% vào tổng số tiền"
+      ],
+      "correctAnswer": "220000",
+      "correctUnit": "đồng",
+      "difficulty": "medium",
+      "hint": "Hãy tính tổng số tiền trước khi trả thêm trước"
+    },
+    {
+      "id": 3,
+      "question": "Một người bán hàng giảm giá 20% cho một sản phẩm. Nếu giá bán sau khi giảm giá là 120.000 đồng, thì giá gốc là bao nhiêu?",
+      "correctSteps": [
+        "Bước 1: Tính giá gốc trước khi giảm giá",
+        "Bước 2: Sử dụng công thức giảm giá để tìm giá gốc"
+      ],
+      "correctAnswer": "150000",
+      "correctUnit": "đồng",
+      "difficulty": "hard",
+      "hint": "Hãy sử dụng công thức giảm giá để tìm giá gốc"
+    }
+  ]
+}

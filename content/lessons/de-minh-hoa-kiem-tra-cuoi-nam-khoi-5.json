@@ -1,0 +1,252 @@
+{
+  "id": "de-minh-hoa-kiem-tra-cuoi-nam-khoi-5",
+  "fileName": "Đề minh hoạ kiểm tra cuối năm Khối 5.pdf",
+  "title": "Luyện tập Toán lớp 5 chuẩn bị vào lớp 6",
+  "topics": [
+    "Toán cơ bản",
+    "Toán nâng cao"
+  ],
+  "processedAt": "2026-06-01T14:11:08.657Z",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Bài 1: Tìm số học sinh yêu thích Câu lạc bộ Múa",
+      "content": "Bài toán về số học sinh yêu thích Câu lạc bộ Múa, biết tổng số học sinh là 500 và tỷ lệ phần trăm của mỗi câu lạc bộ.\nHọc sinh cần tính số học sinh yêu thích Câu lạc bộ Múa.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Tìm số học sinh yêu thích Câu lạc bộ Múa, biết tổng số học sinh là 500 và tỷ lệ phần trăm của mỗi câu lạc bộ là 20%.",
+        "steps": [
+          "Bước 1: Tính số học sinh yêu thích Câu lạc bộ Múa bằng 20% của 500.",
+          "Bước 2: Kết quả là số học sinh yêu thích Câu lạc bộ Múa."
+        ],
+        "result": "100 học sinh"
+      },
+      "miniGame": {
+        "question": "Câu lạc bộ Múa được bao nhiêu học sinh yêu thích?",
+        "options": [
+          "A. 100 học sinh",
+          "B. 90 học sinh",
+          "C. 180 học sinh",
+          "D. 120 học sinh"
+        ],
+        "answer": "A. 100 học sinh",
+        "explanation": "Vì tỷ lệ phần trăm của Câu lạc bộ Múa là 20%, nên số học sinh yêu thích Câu lạc bộ Múa là 20% của 500, tức là 100 học sinh."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Bài 2: Tìm số a",
+      "content": "Bài toán về tìm số a, biết rằng (1,257 x a + 1,743 x a) - 223 = 224.\nHọc sinh cần tính số a.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Tìm số a, biết rằng (1,257 x a + 1,743 x a) - 223 = 224.",
+        "steps": [
+          "Bước 1: Tính (1,257 x a + 1,743 x a).",
+          "Bước 2: Tính (1,257 x a + 1,743 x a) - 223.",
+          "Bước 3: Kết quả là số a."
+        ],
+        "result": "149"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Bài 3: Tìm số lít dầu còn lại",
+      "content": "Bài toán về số lít dầu còn lại, biết rằng một can chứa 32,5 lít dầu và sau khi dùng 40% lượng dầu đó thì trong can còn lại bao nhiêu lít dầu.\nHọc sinh cần tính số lít dầu còn lại.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Tìm số lít dầu còn lại, biết rằng một can chứa 32,5 lít dầu và sau khi dùng 40% lượng dầu đó.",
+        "steps": [
+          "Bước 1: Tính 40% của 32,5.",
+          "Bước 2: Tính số lít dầu còn lại."
+        ],
+        "result": "19,5 lít"
+      },
+      "miniGame": {
+        "question": "Số lít dầu còn lại là bao nhiêu?",
+        "options": [
+          "A. 20 lít",
+          "B. 19 lít",
+          "C. 18,5 lít",
+          "D. 19,5 lít"
+        ],
+        "answer": "D. 19,5 lít",
+        "explanation": "Vì 40% của 32,5 là 13, nên số lít dầu còn lại là 32,5 - 13 = 19,5 lít."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Bài 4: Tìm số ban đầu",
+      "content": "Bài toán về số ban đầu, biết rằng nếu là Sóc thì sẽ lấy số đó cộng với 4, nếu là Rùa sẽ lấy số đó nhân 2 cho đến số cuối cùng là 96.\nHọc sinh cần tính số ban đầu.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Tìm số ban đầu, biết rằng nếu là Sóc thì sẽ lấy số đó cộng với 4, nếu là Rùa sẽ lấy số đó nhân 2 cho đến số cuối cùng là 96.",
+        "steps": [
+          "Bước 1: Tìm số ban đầu bằng cách chia 96 cho 2.",
+          "Bước 2: Kết quả là số ban đầu."
+        ],
+        "result": "42"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Bài 5: Tìm số chiếc cúp",
+      "content": "Bài toán về số chiếc cúp, biết rằng hình thứ 10 có bao nhiêu chiếc cúp.\nHọc sinh cần tính số chiếc cúp.",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Số chiếc cúp của hình thứ 10 là bao nhiêu?",
+        "options": [
+          "A. 28",
+          "B. 29",
+          "C. 27",
+          "D. 30"
+        ],
+        "answer": "B. 29",
+        "explanation": "Vì số chiếc cúp tăng dần, nên số chiếc cúp của hình thứ 10 là 29."
+      }
+    },
+    {
+      "id": 6,
+      "title": "Bài 6: Tìm quãng đường từ Hải Phòng về quê",
+      "content": "Bài toán về quãng đường từ Hải Phòng về quê, biết rằng quãng đường từ Hải Phòng về quê bằng 40% quãng đường từ Hà Nội đi Hải Phòng.\nHọc sinh cần tính quãng đường từ Hải Phòng về quê.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Tìm quãng đường từ Hải Phòng về quê, biết rằng quãng đường từ Hải Phòng về quê bằng 40% quãng đường từ Hà Nội đi Hải Phòng.",
+        "steps": [
+          "Bước 1: Tính quãng đường từ Hà Nội đi Hải Phòng.",
+          "Bước 2: Tính quãng đường từ Hải Phòng về quê."
+        ],
+        "result": "52 km"
+      },
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Tìm số học sinh yêu thích Câu lạc bộ Múa, biết tổng số học sinh là 500 và tỷ lệ phần trăm của mỗi câu lạc bộ là 20%.",
+      "correctSteps": [
+        "Bước 1: Tính số học sinh yêu thích Câu lạc bộ Múa bằng 20% của 500.",
+        "Bước 2: Kết quả là số học sinh yêu thích Câu lạc bộ Múa."
+      ],
+      "correctAnswer": "100",
+      "correctUnit": "học sinh",
+      "difficulty": "easy",
+      "hint": "Gợi ý: Hãy đọc kỹ đề và xác định dữ kiện đã cho."
+    },
+    {
+      "id": 2,
+      "question": "Tìm số a, biết rằng (1,257 x a + 1,743 x a) - 223 = 224.",
+      "correctSteps": [
+        "Bước 1: Tính (1,257 x a + 1,743 x a).",
+        "Bước 2: Tính (1,257 x a + 1,743 x a) - 223.",
+        "Bước 3: Kết quả là số a."
+      ],
+      "correctAnswer": "149",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Gợi ý: Hãy đọc kỹ đề và xác định dữ kiện đã cho."
+    },
+    {
+      "id": 3,
+      "question": "Tìm số lít dầu còn lại, biết rằng một can chứa 32,5 lít dầu và sau khi dùng 40% lượng dầu đó.",
+      "correctSteps": [
+        "Bước 1: Tính 40% của 32,5.",
+        "Bước 2: Tính số lít dầu còn lại."
+      ],
+      "correctAnswer": "19,5",
+      "correctUnit": "lít",
+      "difficulty": "easy",
+      "hint": "Gợi ý: Hãy đọc kỹ đề và xác định dữ kiện đã cho."
+    },
+    {
+      "id": 4,
+      "question": "Tìm số ban đầu, biết rằng nếu là Sóc thì sẽ lấy số đó cộng với 4, nếu là Rùa sẽ lấy số đó nhân 2 cho đến số cuối cùng là 96.",
+      "correctSteps": [
+        "Bước 1: Tìm số ban đầu bằng cách chia 96 cho 2.",
+        "Bước 2: Kết quả là số ban đầu."
+      ],
+      "correctAnswer": "42",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Gợi ý: Hãy đọc kỹ đề và xác định dữ kiện đã cho."
+    },
+    {
+      "id": 5,
+      "question": "Tìm số chiếc cúp của hình thứ 10.",
+      "correctSteps": [
+        "Bước 1: Xác định số chiếc cúp của hình thứ 9.",
+        "Bước 2: Tính số chiếc cúp của hình thứ 10."
+      ],
+      "correctAnswer": "29",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Gợi ý: Hãy đọc kỹ đề và xác định dữ kiện đã cho."
+    },
+    {
+      "id": 6,
+      "question": "Tìm quãng đường từ Hải Phòng về quê, biết rằng quãng đường từ Hải Phòng về quê bằng 40% quãng đường từ Hà Nội đi Hải Phòng.",
+      "correctSteps": [
+        "Bước 1: Tính quãng đường từ Hà Nội đi Hải Phòng.",
+        "Bước 2: Tính quãng đường từ Hải Phòng về quê."
+      ],
+      "correctAnswer": "52",
+      "correctUnit": "km",
+      "difficulty": "medium",
+      "hint": "Gợi ý: Hãy đọc kỹ đề và xác định dữ kiện đã cho."
+    },
+    {
+      "id": 7,
+      "question": "Một cửa hàng dự trữ một số tấn gạo trong kho. Cửa hàng đã xuất đi 1/3 tổng số gạo để cứu trợ đồng bào bị lũ lụt, sau đó bán đi 3/7 tổng số gạo, cuối cùng bán thêm 2 tấn gạo nữa thì còn lại 3 tấn gạo trong kho. Hỏi ban đầu cửa hàng dự trữ tất cả bao nhiêu tấn gạo trong kho?",
+      "correctSteps": [
+        "Bước 1: Xác định số tấn gạo còn lại sau khi xuất đi 1/3 tổng số gạo.",
+        "Bước 2: Tính số tấn gạo còn lại sau khi bán đi 3/7 tổng số gạo.",
+        "Bước 3: Tính số tấn gạo ban đầu."
+      ],
+      "correctAnswer": "21",
+      "correctUnit": "tấn",
+      "difficulty": "hard",
+      "hint": "Gợi ý: Hãy đọc kỹ đề và xác định dữ kiện đã cho."
+    },
+    {
+      "id": 8,
+      "question": "Cho ba số tự nhiên liên tiếp. Biết tổng của số lớn nhất và số bé nhất bằng 530. Tìm số ở giữa.",
+      "correctSteps": [
+        "Bước 1: Xác định số bé nhất và số lớn nhất.",
+        "Bước 2: Tính số ở giữa."
+      ],
+      "correctAnswer": "265",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Gợi ý: Hãy đọc kỹ đề và xác định dữ kiện đã cho."
+    },
+    {
+      "id": 9,
+      "question": "Một cái bể hình hộp chữ nhật có kích thước trong lòng bể là: chiều dài 3m; chiều rộng 2m và chiều cao 1,5 m. Người ta cho máy bơm bơm nước vào bể trong thời gian 1 giờ 15 phút thì bể đầy nước. Hỏi lúc đầu bể có bao nhiêu lít nước? Biết rằng máy bơm trong 1 giờ được 6756 lít nước.",
+      "correctSteps": [
+        "Bước 1: Tính thể tích bể.",
+        "Bước 2: Tính số lít nước bơm vào bể trong 1 giờ 15 phút.",
+        "Bước 3: Tính số lít nước trong bể lúc đầu."
+      ],
+      "correctAnswer": "0",
+      "correctUnit": "lít",
+      "difficulty": "hard",
+      "hint": "Gợi ý: Hãy đọc kỹ đề và xác định dữ kiện đã cho."
+    },
+    {
+      "id": 10,
+      "question": "Hiện nay tuổi anh gấp đôi tuổi em, biết rằng sau 4 năm nữa thì tuổi anh bằng 8/5 tuổi em. Tính tuổi của anh hiện nay.",
+      "correctSteps": [
+        "Bước 1: Xác định tuổi em sau 4 năm.",
+        "Bước 2: Tính tuổi anh sau 4 năm.",
+        "Bước 3: Tính tuổi anh hiện nay."
+      ],
+      "correctAnswer": "16",
+      "correctUnit": "tuổi",
+      "difficulty": "medium",
+      "hint": "Gợi ý: Hãy đọc kỹ đề và xác định dữ kiện đã cho."
+    }
+  ]
+}

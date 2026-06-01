@@ -1,0 +1,224 @@
+{
+  "id": "5-4c-18-5-2026-ndbh-on-tap-tong-hop-phan-5",
+  "fileName": "5.4C - 18.5.2026-NDBH ÔN TẬP TỔNG HỢP (PHẦN 5).pdf",
+  "title": "Ôn Tập Tổng Hợp Toán Lớp 5",
+  "topics": [
+    "Phép tính",
+    "Tìm x",
+    "Diện tích"
+  ],
+  "processedAt": "2026-06-01T14:09:33.313Z",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Phép Tính Cơ Bản",
+      "content": "Phép tính là một trong những phần quan trọng của toán học. Chúng ta cần thực hiện phép tính đúng theo thứ tự: nhân và chia trước, cộng và trừ sau.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Tính 5 + 4 - 3",
+        "steps": [
+          "Bước 1: Cộng 5 và 4",
+          "Bước 2: Trừ 3"
+        ],
+        "result": "6"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Tìm x Trong Phép Tính",
+      "content": "Tìm x là một phần quan trọng của toán học. Chúng ta cần tìm giá trị của x bằng cách thực hiện phép tính ngược lại.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Tìm x trong 2x + 3 = 7",
+        "steps": [
+          "Bước 1: Trừ 3 từ cả hai vế",
+          "Bước 2: Chia cả hai vế cho 2"
+        ],
+        "result": "2"
+      },
+      "miniGame": {
+        "question": "Tìm x trong 4x - 2 = 10",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "answer": "3",
+        "explanation": "4x - 2 = 10 => 4x = 12 => x = 3"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Diện Tích Hình Chữ Nhật",
+      "content": "Diện tích hình chữ nhật được tính bằng công thức: diện tích = chiều dài x chiều rộng.",
+      "keyFormula": "diện tích = chiều dài x chiều rộng",
+      "example": {
+        "problem": "Tính diện tích hình chữ nhật có chiều dài 5cm và chiều rộng 3cm",
+        "steps": [
+          "Bước 1: Tính diện tích bằng công thức"
+        ],
+        "result": "15cm²"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Diện Tích Tam Giác",
+      "content": "Diện tích tam giác được tính bằng công thức: diện tích = (cơ sở x chiều cao) / 2.",
+      "keyFormula": "diện tích = (cơ sở x chiều cao) / 2",
+      "example": {
+        "problem": "Tính diện tích tam giác có cơ sở 4cm và chiều cao 6cm",
+        "steps": [
+          "Bước 1: Tính diện tích bằng công thức"
+        ],
+        "result": "12cm²"
+      },
+      "miniGame": {
+        "question": "Tính diện tích tam giác có cơ sở 5cm và chiều cao 8cm",
+        "options": [
+          "10cm²",
+          "15cm²",
+          "20cm²",
+          "25cm²"
+        ],
+        "answer": "20cm²",
+        "explanation": "diện tích = (5 x 8) / 2 = 20cm²"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Tính Toán Với Số Thập Phân",
+      "content": "Tính toán với số thập phân là một phần quan trọng của toán học. Chúng ta cần thực hiện phép tính đúng theo thứ tự: nhân và chia trước, cộng và trừ sau.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Tính 2,5 + 1,8",
+        "steps": [
+          "Bước 1: Cộng 2,5 và 1,8"
+        ],
+        "result": "4,3"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 6,
+      "title": "Tính Toán Với Số Nguyên",
+      "content": "Tính toán với số nguyên là một phần quan trọng của toán học. Chúng ta cần thực hiện phép tính đúng theo thứ tự: nhân và chia trước, cộng và trừ sau.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Tính 5 x 6",
+        "steps": [
+          "Bước 1: Nhân 5 và 6"
+        ],
+        "result": "30"
+      },
+      "miniGame": {
+        "question": "Tính 4 x 9",
+        "options": [
+          "32",
+          "36",
+          "40",
+          "45"
+        ],
+        "answer": "36",
+        "explanation": "4 x 9 = 36"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Tính giá trị của biểu thức 3 + 2 x 4",
+      "correctSteps": [
+        "Bước 1: Nhân 2 và 4",
+        "Bước 2: Cộng 3 và kết quả bước 1"
+      ],
+      "correctAnswer": "11",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Hãy thực hiện phép tính đúng theo thứ tự"
+    },
+    {
+      "id": 2,
+      "question": "Tìm x trong 2x + 5 = 11",
+      "correctSteps": [
+        "Bước 1: Trừ 5 từ cả hai vế",
+        "Bước 2: Chia cả hai vế cho 2"
+      ],
+      "correctAnswer": "3",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Hãy tìm giá trị của x bằng cách thực hiện phép tính ngược lại"
+    },
+    {
+      "id": 3,
+      "question": "Tính diện tích hình chữ nhật có chiều dài 6cm và chiều rộng 4cm",
+      "correctSteps": [
+        "Bước 1: Tính diện tích bằng công thức"
+      ],
+      "correctAnswer": "24",
+      "correctUnit": "cm²",
+      "difficulty": "easy",
+      "hint": "Hãy sử dụng công thức diện tích hình chữ nhật"
+    },
+    {
+      "id": 4,
+      "question": "Tính giá trị của biểu thức 2,5 + 1,8",
+      "correctSteps": [
+        "Bước 1: Cộng 2,5 và 1,8"
+      ],
+      "correctAnswer": "4,3",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Hãy thực hiện phép tính đúng theo thứ tự"
+    },
+    {
+      "id": 5,
+      "question": "Tìm x trong 4x - 2 = 10",
+      "correctSteps": [
+        "Bước 1: Cộng 2 vào cả hai vế",
+        "Bước 2: Chia cả hai vế cho 4"
+      ],
+      "correctAnswer": "3",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Hãy tìm giá trị của x bằng cách thực hiện phép tính ngược lại"
+    },
+    {
+      "id": 6,
+      "question": "Tính diện tích tam giác có cơ sở 5cm và chiều cao 6cm",
+      "correctSteps": [
+        "Bước 1: Tính diện tích bằng công thức"
+      ],
+      "correctAnswer": "15",
+      "correctUnit": "cm²",
+      "difficulty": "easy",
+      "hint": "Hãy sử dụng công thức diện tích tam giác"
+    },
+    {
+      "id": 7,
+      "question": "Tính giá trị của biểu thức 3 x 2 + 4",
+      "correctSteps": [
+        "Bước 1: Nhân 3 và 2",
+        "Bước 2: Cộng 4 và kết quả bước 1"
+      ],
+      "correctAnswer": "10",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Hãy thực hiện phép tính đúng theo thứ tự"
+    },
+    {
+      "id": 8,
+      "question": "Tìm x trong 2x + 3 = 9",
+      "correctSteps": [
+        "Bước 1: Trừ 3 từ cả hai vế",
+        "Bước 2: Chia cả hai vế cho 2"
+      ],
+      "correctAnswer": "3",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Hãy tìm giá trị của x bằng cách thực hiện phép tính ngược lại"
+    }
+  ]
+}

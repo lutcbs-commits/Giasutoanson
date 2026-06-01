@@ -1,0 +1,273 @@
+{
+  "id": "de-minh-hoa-vao-lop-6-truong-thcs-nang-khieu-dai-hoc-su-pham",
+  "fileName": "Đề minh hoạ vào lớp 6 trường THCS Năng khiếu Đại học Sư phạm.pdf",
+  "title": "Chuẩn bị thi vào lớp 6: Toán học thú vị",
+  "topics": [
+    "toán học cơ bản",
+    "toán học nâng cao",
+    "đại số",
+    "hình học"
+  ],
+  "processedAt": "2026-06-01T14:12:22.490Z",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Tổng quan về toán học",
+      "content": "Toán học là môn học quan trọng và thú vị\nToán học giúp chúng ta phát triển tư duy logic và giải quyết vấn đề",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Phép tính cơ bản",
+      "content": "Phép tính cơ bản bao gồm cộng, trừ, nhân, chia\nChúng ta cần nhớ các quy tắc và công thức để thực hiện phép tính",
+      "keyFormula": "",
+      "example": {
+        "problem": "2 + 2 = ?",
+        "steps": [
+          "Bước 1: Cộng 2 + 2",
+          "Bước 2: Kết quả là 4"
+        ],
+        "result": "4"
+      },
+      "miniGame": {
+        "question": "2 + 2 bằng bao nhiêu?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "answer": "4",
+        "explanation": "Vì 2 + 2 = 4"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Đại số cơ bản",
+      "content": "Đại số là môn học về biến và hằng số\nChúng ta cần học cách giải phương trình và bất phương trình",
+      "keyFormula": "",
+      "example": {
+        "problem": "2x + 3 = 5",
+        "steps": [
+          "Bước 1: Trừ 3 cho cả 2 vế",
+          "Bước 2: Chia cả 2 vế cho 2"
+        ],
+        "result": "x = 1"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Hình học cơ bản",
+      "content": "Hình học là môn học về điểm, đường, hình\nChúng ta cần học cách tính diện tích và chu vi",
+      "keyFormula": "",
+      "example": {
+        "problem": "Tính diện tích hình chữ nhật có chiều dài 4cm và chiều rộng 3cm",
+        "steps": [
+          "Bước 1: Tính diện tích = chiều dài x chiều rộng",
+          "Bước 2: Kết quả là 12cm²"
+        ],
+        "result": "12cm²"
+      },
+      "miniGame": {
+        "question": "Tính diện tích hình chữ nhật có chiều dài 4cm và chiều rộng 3cm?",
+        "options": [
+          "10cm²",
+          "12cm²",
+          "15cm²",
+          "20cm²"
+        ],
+        "answer": "12cm²",
+        "explanation": "Vì diện tích = chiều dài x chiều rộng = 4 x 3 = 12"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Tổng hợp và phân tích dữ liệu",
+      "content": "Tổng hợp và phân tích dữ liệu là kỹ năng quan trọng\nChúng ta cần học cách thu thập, phân tích và trình bày dữ liệu",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 6,
+      "title": "Câu hỏi trắc nghiệm",
+      "content": "Câu hỏi trắc nghiệm là một phần quan trọng của kỳ thi\nChúng ta cần học cách đọc kỹ câu hỏi và lựa chọn đáp án đúng",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Câu hỏi trắc nghiệm nào sau đây là đúng?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Vì câu hỏi trắc nghiệm A là đúng"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Một tàu du lịch khởi hành từ đảo A đến đảo B với khoảng cách trên hải đồ là 65 hải lí. Hỏi quãng đường tàu đi dài bao nhiêu ki-lô-mét?",
+      "correctSteps": [
+        "Bước 1: Tính quãng đường = 65 hải lí x 1,852km/hải lí",
+        "Bước 2: Kết quả là 120,38km"
+      ],
+      "correctAnswer": "120.38",
+      "correctUnit": "km",
+      "difficulty": "easy",
+      "hint": "Hãy đọc kỹ đề và xác định dữ kiện đã cho"
+    },
+    {
+      "id": 2,
+      "question": "Hàm lượng Protein (chất đạm) có trong 100 gram của mỗi loại thực phẩm được cho trong bảng sau. Bác sĩ khuyên An mỗi ngày nên nạp khoảng 45 gram đến 50 gram Protein. Hỏi trong các thực đơn sau, An nên chọn thực đơn nào cho phù hợp với lời khuyên của bác sĩ?",
+      "correctSteps": [
+        "Bước 1: Tính hàm lượng Protein của mỗi loại thực phẩm",
+        "Bước 2: So sánh với lời khuyên của bác sĩ"
+      ],
+      "correctAnswer": "B",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Hãy đọc kỹ bảng và so sánh với lời khuyên của bác sĩ"
+    },
+    {
+      "id": 3,
+      "question": "Một lớp học có 40 bạn học sinh cùng nhau đi xem phim. Mỗi học sinh cần 1 vé để vào xem. Giá mỗi vé cho học sinh là 50 000 đồng. Nếu mua 5 vé thì được tặng 1 vé. Vậy lớp đó cần trả ít nhất bao nhiêu tiền để mua đủ số vé cho cả lớp vào xem phim?",
+      "correctSteps": [
+        "Bước 1: Tính số vé cần mua = 40 học sinh",
+        "Bước 2: Tính số vé được tặng = 40 / 5 = 8 vé",
+        "Bước 3: Tính số tiền cần trả = (40 - 8) x 50 000 đồng"
+      ],
+      "correctAnswer": "1650000",
+      "correctUnit": "đồng",
+      "difficulty": "easy",
+      "hint": "Hãy đọc kỹ đề và tính toán"
+    },
+    {
+      "id": 4,
+      "question": "An dùng các khối lập phương nhỏ giống nhau xếp thành mô hình như hình bên và sơn toàn bộ mặt ngoài. Lượng sơn đã dùng là 32 lít. Sau đó, An tháo rời mô hình và sơn nốt các mặt chưa có màu của từng khối lập phương. Hỏi An cần thêm bao nhiêu lít sơn nữa?",
+      "correctSteps": [
+        "Bước 1: Tính số mặt cần sơn = 6 mặt / khối lập phương",
+        "Bước 2: Tính số mặt đã sơn = 32 lít / số mặt cần sơn",
+        "Bước 3: Tính số mặt chưa sơn = tổng số mặt - số mặt đã sơn",
+        "Bước 4: Tính số lít sơn cần thêm = số mặt chưa sơn x số lít sơn / số mặt cần sơn"
+      ],
+      "correctAnswer": "32",
+      "correctUnit": "lít",
+      "difficulty": "hard",
+      "hint": "Hãy đọc kỹ đề và tính toán"
+    },
+    {
+      "id": 5,
+      "question": "Sofia có các thanh gỗ dạng hình hộp chữ nhật có kích thước 1cm × 1cm × 2cm. Bạn ấy có thể dùng chúng để xếp thành các tòa tháp như hình minh họa bên dưới. Theo quy luật đó, với 28 thanh gỗ, Sofia có thể xếp được tòa tháp cao bao nhiêu xăng-ti-mét?",
+      "correctSteps": [
+        "Bước 1: Tính số thanh gỗ cần dùng = 28 thanh gỗ",
+        "Bước 2: Tính chiều cao của mỗi tầng = 2cm",
+        "Bước 3: Tính số tầng = số thanh gỗ cần dùng / số thanh gỗ / tầng",
+        "Bước 4: Tính chiều cao của tòa tháp = số tầng x chiều cao của mỗi tầng"
+      ],
+      "correctAnswer": "14",
+      "correctUnit": "cm",
+      "difficulty": "medium",
+      "hint": "Hãy đọc kỹ đề và tính toán"
+    },
+    {
+      "id": 6,
+      "question": "Một hồ sen ở trường tiểu học Hạnh Phúc đang bị xâm lấn bởi bèo lục bình. Ban đầu, diện tích bèo bao phủ là 1 024m². Để bảo vệ hồ, các bạn học sinh lớp 5A đã sử dụng một loại chế phẩm sinh học để diệt bèo. Cứ sau 1 ngày, nhờ tác dụng của chế phẩm, diện tích bèo lại giảm đi 25% so với ngày trước đó. Hỏi sau 4 ngày, diện tích bèo còn lại trong hồ là bao nhiêu mét vuông?",
+      "correctSteps": [
+        "Bước 1: Tính diện tích bèo giảm sau 1 ngày = 1 024m² x 25% = 256m²",
+        "Bước 2: Tính diện tích bèo còn lại sau 1 ngày = 1 024m² - 256m² = 768m²",
+        "Bước 3: Tính diện tích bèo giảm sau 2 ngày = 768m² x 25% = 192m²",
+        "Bước 4: Tính diện tích bèo còn lại sau 2 ngày = 768m² - 192m² = 576m²",
+        "Bước 5: Tính diện tích bèo giảm sau 3 ngày = 576m² x 25% = 144m²",
+        "Bước 6: Tính diện tích bèo còn lại sau 3 ngày = 576m² - 144m² = 432m²",
+        "Bước 7: Tính diện tích bèo giảm sau 4 ngày = 432m² x 25% = 108m²",
+        "Bước 8: Tính diện tích bèo còn lại sau 4 ngày = 432m² - 108m² = 324m²"
+      ],
+      "correctAnswer": "324",
+      "correctUnit": "m²",
+      "difficulty": "hard",
+      "hint": "Hãy đọc kỹ đề và tính toán"
+    },
+    {
+      "id": 7,
+      "question": "Trên hòn đảo Evenland, người dân chỉ biết đến sự tồn tại của các chữ số chẵn. Các số tự nhiên họ biết theo thứ tự từ bé đến lớn là 0; 2; 4; 6; 8; 20; 22; 24; 26; 28; 40; 42;... (mỗi số đều chỉ được tạo bởi các chữ số chẵn). Hỏi số thứ 100 theo quy tắc đó là số nào?",
+      "correctSteps": [
+        "Bước 1: Tính số chữ số trong số thứ 100",
+        "Bước 2: Tính số thứ 100"
+      ],
+      "correctAnswer": "804",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Hãy đọc kỹ đề và tính toán"
+    },
+    {
+      "id": 8,
+      "question": "Doraemon và Nobita đi chụp ảnh photobooth và nhận được một khung ảnh hình chữ nhật, bên trong có ba tấm ảnh hình tròn bằng nhau như hình dưới đây. Biết diện tích của khung ảnh hình chữ nhật là 150cm². Hãy tính diện tích phần nền của khung ảnh (không tính diện tích của 3 tấm ảnh hình tròn).",
+      "correctSteps": [
+        "Bước 1: Tính bán kính của từng tấm ảnh hình tròn",
+        "Bước 2: Tính diện tích của từng tấm ảnh hình tròn",
+        "Bước 3: Tính diện tích phần nền của khung ảnh"
+      ],
+      "correctAnswer": "32.25",
+      "correctUnit": "cm²",
+      "difficulty": "medium",
+      "hint": "Hãy đọc kỹ đề và tính toán"
+    },
+    {
+      "id": 9,
+      "question": "Một người bán cam, buổi sáng bán được 3/5 số cam mang đi, buổi chiều bán thêm được 5/2 quả và số cam còn lại đúng bằng 1/8 số cam đã bán. Tính số quả cam mà người đó đã mang đi bán.",
+      "correctSteps": [
+        "Bước 1: Tính số cam bán buổi sáng = 3/5 x số cam mang đi",
+        "Bước 2: Tính số cam bán buổi chiều = 5/2 quả",
+        "Bước 3: Tính số cam còn lại = 1/8 x số cam đã bán",
+        "Bước 4: Tính số cam mang đi"
+      ],
+      "correctAnswer": "200",
+      "correctUnit": "quả",
+      "difficulty": "hard",
+      "hint": "Hãy đọc kỹ đề và tính toán"
+    },
+    {
+      "id": 10,
+      "question": "Có 2 hộp kẹo A và B. Mỗi hộp có 10 viên kẹo dâu, 10 viên kẹo cam và 10 viên kẹo bạc hà. Người ta lấy từ hộp A chuyển sang hộp B 12 viên kẹo. Hỏi cần chuyển ít nhất bao nhiêu viên từ hộp B sang hộp A để chắc chắn rằng hộp A có ít nhất 9 viên kẹo mỗi loại?",
+      "correctSteps": [
+        "Bước 1: Tính số viên kẹo còn lại trong hộp A",
+        "Bước 2: Tính số viên kẹo cần chuyển từ hộp B sang hộp A"
+      ],
+      "correctAnswer": "9",
+      "correctUnit": "viên",
+      "difficulty": "medium",
+      "hint": "Hãy đọc kỹ đề và tính toán"
+    },
+    {
+      "id": 11,
+      "question": "Một bạn uống 250ml sữa tươi nguyên kem. Hỏi bạn đó đã nạp vào cơ thể bao nhiêu kcal?",
+      "correctSteps": [
+        "Bước 1: Tính lượng calo trong 100ml sữa tươi nguyên kem",
+        "Bước 2: Tính lượng calo trong 250ml sữa tươi nguyên kem"
+      ],
+      "correctAnswer": "175",
+      "correctUnit": "kcal",
+      "difficulty": "easy",
+      "hint": "Hãy đọc kỹ đề và tính toán"
+    },
+    {
+      "id": 12,
+      "question": "Một ly trà sữa 200ml, hỏi ly trà sữa đó chứa bao nhiêu kcal?",
+      "correctSteps": [
+        "Bước 1: Tính lượng calo trong 100ml trà sữa",
+        "Bước 2: Tính lượng calo trong 200ml trà sữa"
+      ],
+      "correctAnswer": "220",
+      "correctUnit": "kcal",
+      "difficulty": "easy",
+      "hint": "Hãy đọc kỹ đề và tính toán"
+    }
+  ]
+}

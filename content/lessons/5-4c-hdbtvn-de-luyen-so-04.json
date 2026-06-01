@@ -1,0 +1,331 @@
+{
+  "id": "5-4c-hdbtvn-de-luyen-so-04",
+  "fileName": "5.4C - HDBTVN Đề luyện số 04.pdf",
+  "title": "Luyện tập tổng hợp số 04",
+  "topics": [
+    "phép tính",
+    "tìm x",
+    "diện tích",
+    "vận tốc"
+  ],
+  "processedAt": "2026-06-01T14:09:36.106Z",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Thực hiện phép tính",
+      "content": "Để thực hiện phép tính, chúng ta cần đọc kỹ đề và thực hiện theo thứ tự các phép tính.\nVí dụ: 27% × 45,6 + 23% × 45,6",
+      "keyFormula": "",
+      "example": {
+        "problem": "27% × 45,6 + 23% × 45,6",
+        "steps": [
+          "Bước 1: Tính 27% × 45,6",
+          "Bước 2: Tính 23% × 45,6",
+          "Bước 3: Cộng hai kết quả"
+        ],
+        "result": "22,8"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Tìm x",
+      "content": "Để tìm x, chúng ta cần đọc kỹ đề và sử dụng các phép tính để giải quyết.\nVí dụ: 15 : 1 = 5 + 6 - 14x",
+      "keyFormula": "",
+      "example": {
+        "problem": "15 : 1 = 5 + 6 - 14x",
+        "steps": [
+          "Bước 1: Tính 15 : 1",
+          "Bước 2: Tính 5 + 6",
+          "Bước 3: Tính x"
+        ],
+        "result": "x = 1"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Diện tích hình thang",
+      "content": "Diện tích hình thang được tính bằng công thức: diện tích = (a + b) × h / 2\ntrong đó a và b là hai cạnh đáy, h là chiều cao",
+      "keyFormula": "(a + b) × h / 2",
+      "example": null,
+      "miniGame": {
+        "question": "Diện tích hình thang có cạnh đáy 5cm và 7cm, chiều cao 3cm là bao nhiêu?",
+        "options": [
+          "10cm²",
+          "12cm²",
+          "15cm²",
+          "20cm²"
+        ],
+        "answer": "12cm²",
+        "explanation": "Sử dụng công thức (a + b) × h / 2 với a = 5, b = 7, h = 3"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Vận tốc",
+      "content": "Vận tốc được tính bằng công thức: vận tốc = quãng đường / thời gian",
+      "keyFormula": "quãng đường / thời gian",
+      "example": {
+        "problem": "Một xe đua đi từ A đến C với quãng đường 120km trong 4 giờ",
+        "steps": [
+          "Bước 1: Tính vận tốc",
+          "Bước 2: Sử dụng công thức"
+        ],
+        "result": "30km/h"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Phép tính với số phần trăm",
+      "content": "Để tính số phần trăm, chúng ta cần đọc kỹ đề và thực hiện theo thứ tự các phép tính.\nVí dụ: giá niêm yết của một chiếc váy là bao nhiêu nếu giá giảm 15% là 212500 đồng",
+      "keyFormula": "",
+      "example": {
+        "problem": "Giá niêm yết của một chiếc váy là bao nhiêu nếu giá giảm 15% là 212500 đồng",
+        "steps": [
+          "Bước 1: Tính giá giảm",
+          "Bước 2: Tính giá niêm yết"
+        ],
+        "result": "250000"
+      },
+      "miniGame": {
+        "question": "Giá giảm 20% của một chiếc điện thoại là 100000 đồng, giá niêm yết là bao nhiêu?",
+        "options": [
+          "120000",
+          "125000",
+          "130000",
+          "140000"
+        ],
+        "answer": "125000",
+        "explanation": "Sử dụng công thức giá giảm = giá niêm yết × (100% - 20%)"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Tìm số vali và số túi xách",
+      "content": "Để tìm số vali và số túi xách, chúng ta cần đọc kỹ đề và sử dụng các phép tính để giải quyết.\nVí dụ: một cửa hàng có 2400 sản phẩm, số balo bằng 3/8 tổng số sản phẩm",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 7,
+      "title": "Tìm diện tích hình tam giác",
+      "content": "Diện tích hình tam giác được tính bằng công thức: diện tích = (a × b) / 2\ntrong đó a và b là hai cạnh của hình tam giác",
+      "keyFormula": "(a × b) / 2",
+      "example": null,
+      "miniGame": {
+        "question": "Diện tích hình tam giác có cạnh 5cm và 6cm là bao nhiêu?",
+        "options": [
+          "10cm²",
+          "12cm²",
+          "15cm²",
+          "20cm²"
+        ],
+        "answer": "15cm²",
+        "explanation": "Sử dụng công thức (a × b) / 2 với a = 5, b = 6"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Tìm vận tốc của xe đua",
+      "content": "Để tìm vận tốc của xe đua, chúng ta cần đọc kỹ đề và sử dụng các phép tính để giải quyết.\nVí dụ: một xe đua đi từ A đến C với quãng đường 360km trong 4 giờ",
+      "keyFormula": "",
+      "example": {
+        "problem": "Một xe đua đi từ A đến C với quãng đường 360km trong 4 giờ",
+        "steps": [
+          "Bước 1: Tính vận tốc",
+          "Bước 2: Sử dụng công thức"
+        ],
+        "result": "90km/h"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 9,
+      "title": "Tìm thời gian gặp nhau",
+      "content": "Để tìm thời gian gặp nhau, chúng ta cần đọc kỹ đề và sử dụng các phép tính để giải quyết.\nVí dụ: hai xe đua xuất phát từ A và B, gặp nhau tại điểm C",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Hai xe đua xuất phát từ A và B, gặp nhau tại điểm C, thời gian gặp nhau là bao nhiêu?",
+        "options": [
+          "2 giờ",
+          "3 giờ",
+          "4 giờ",
+          "5 giờ"
+        ],
+        "answer": "2 giờ",
+        "explanation": "Sử dụng công thức thời gian = quãng đường / vận tốc"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Tìm tổng hai chữ số",
+      "content": "Để tìm tổng hai chữ số, chúng ta cần đọc kỹ đề và sử dụng các phép tính để giải quyết.\nVí dụ: ba tấm thẻ có tổng giá trị của ba số được ghi trên các tấm thẻ là 826",
+      "keyFormula": "",
+      "example": {
+        "problem": "Ba tấm thẻ có tổng giá trị của ba số được ghi trên các tấm thẻ là 826",
+        "steps": [
+          "Bước 1: Tính tổng",
+          "Bước 2: Sử dụng công thức"
+        ],
+        "result": "9"
+      },
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Thực hiện phép tính: 27% × 45,6 + 23% × 45,6",
+      "correctSteps": [
+        "Bước 1: Tính 27% × 45,6",
+        "Bước 2: Tính 23% × 45,6",
+        "Bước 3: Cộng hai kết quả"
+      ],
+      "correctAnswer": "22.8",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Hãy đọc kỹ đề và thực hiện theo thứ tự các phép tính"
+    },
+    {
+      "id": 2,
+      "question": "Tìm x trong biểu thức: 15 : 1 = 5 + 6 - 14x",
+      "correctSteps": [
+        "Bước 1: Tính 15 : 1",
+        "Bước 2: Tính 5 + 6",
+        "Bước 3: Tính x"
+      ],
+      "correctAnswer": "1",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Hãy đọc kỹ đề và sử dụng các phép tính để giải quyết"
+    },
+    {
+      "id": 3,
+      "question": "Một khu vườn hình chữ nhật có chu vi 112m, chiều rộng bằng 3/5 chiều dài, tính diện tích khu vườn",
+      "correctSteps": [
+        "Bước 1: Tính chiều rộng",
+        "Bước 2: Tính chiều dài",
+        "Bước 3: Tính diện tích"
+      ],
+      "correctAnswer": "735",
+      "correctUnit": "m²",
+      "difficulty": "medium",
+      "hint": "Hãy sử dụng công thức chu vi và diện tích hình chữ nhật"
+    },
+    {
+      "id": 4,
+      "question": "Một cửa hàng có 2400 sản phẩm, số balo bằng 3/8 tổng số sản phẩm, tính số vali và số túi xách",
+      "correctSteps": [
+        "Bước 1: Tính số balo",
+        "Bước 2: Tính số vali",
+        "Bước 3: Tính số túi xách"
+      ],
+      "correctAnswer": "900",
+      "correctUnit": "cái",
+      "difficulty": "medium",
+      "hint": "Hãy sử dụng các phép tính để giải quyết"
+    },
+    {
+      "id": 5,
+      "question": "Giá niêm yết của một chiếc váy là bao nhiêu nếu giá giảm 15% là 212500 đồng",
+      "correctSteps": [
+        "Bước 1: Tính giá giảm",
+        "Bước 2: Tính giá niêm yết"
+      ],
+      "correctAnswer": "250000",
+      "correctUnit": "đồng",
+      "difficulty": "easy",
+      "hint": "Hãy sử dụng công thức giá giảm"
+    },
+    {
+      "id": 6,
+      "question": "Một xe đua đi từ A đến C với quãng đường 360km trong 4 giờ, tính vận tốc của xe đua",
+      "correctSteps": [
+        "Bước 1: Tính vận tốc",
+        "Bước 2: Sử dụng công thức"
+      ],
+      "correctAnswer": "90",
+      "correctUnit": "km/h",
+      "difficulty": "easy",
+      "hint": "Hãy sử dụng công thức vận tốc"
+    },
+    {
+      "id": 7,
+      "question": "Hai xe đua xuất phát từ A và B, gặp nhau tại điểm C, thời gian gặp nhau là bao nhiêu?",
+      "correctSteps": [
+        "Bước 1: Tính thời gian",
+        "Bước 2: Sử dụng công thức"
+      ],
+      "correctAnswer": "2.25",
+      "correctUnit": "giờ",
+      "difficulty": "medium",
+      "hint": "Hãy sử dụng công thức thời gian"
+    },
+    {
+      "id": 8,
+      "question": "Ba tấm thẻ có tổng giá trị của ba số được ghi trên các tấm thẻ là 826, tính tổng hai chữ số bị che khuất",
+      "correctSteps": [
+        "Bước 1: Tính tổng",
+        "Bước 2: Sử dụng công thức"
+      ],
+      "correctAnswer": "9",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Hãy sử dụng các phép tính để giải quyết"
+    },
+    {
+      "id": 9,
+      "question": "Một hình thang có cạnh đáy 5cm và 7cm, chiều cao 3cm, tính diện tích hình thang",
+      "correctSteps": [
+        "Bước 1: Tính diện tích",
+        "Bước 2: Sử dụng công thức"
+      ],
+      "correctAnswer": "15",
+      "correctUnit": "cm²",
+      "difficulty": "medium",
+      "hint": "Hãy sử dụng công thức diện tích hình thang"
+    },
+    {
+      "id": 10,
+      "question": "Một khu vườn hình chữ nhật có chu vi 112m, chiều rộng bằng 3/5 chiều dài, tính diện tích phần trồng hoa nếu có một cái ao hình tròn có bán kính 2m",
+      "correctSteps": [
+        "Bước 1: Tính chiều rộng",
+        "Bước 2: Tính chiều dài",
+        "Bước 3: Tính diện tích",
+        "Bước 4: Tính diện tích phần trồng hoa"
+      ],
+      "correctAnswer": "722.44",
+      "correctUnit": "m²",
+      "difficulty": "hard",
+      "hint": "Hãy sử dụng công thức chu vi và diện tích hình chữ nhật, cũng như công thức diện tích hình tròn"
+    },
+    {
+      "id": 11,
+      "question": "Một cửa hàng có 2400 sản phẩm, số balo bằng 3/8 tổng số sản phẩm, nếu bán 300 vali thì số vali bằng số túi xách, tính số vali và số túi xách ban đầu",
+      "correctSteps": [
+        "Bước 1: Tính số balo",
+        "Bước 2: Tính số vali",
+        "Bước 3: Tính số túi xách"
+      ],
+      "correctAnswer": "900",
+      "correctUnit": "cái",
+      "difficulty": "medium",
+      "hint": "Hãy sử dụng các phép tính để giải quyết"
+    },
+    {
+      "id": 12,
+      "question": "Một hình tam giác có cạnh 5cm và 6cm, tính diện tích hình tam giác",
+      "correctSteps": [
+        "Bước 1: Tính diện tích",
+        "Bước 2: Sử dụng công thức"
+      ],
+      "correctAnswer": "15",
+      "correctUnit": "cm²",
+      "difficulty": "easy",
+      "hint": "Hãy sử dụng công thức diện tích hình tam giác"
+    }
+  ]
+}

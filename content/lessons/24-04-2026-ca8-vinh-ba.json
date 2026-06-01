@@ -1,0 +1,202 @@
+{
+  "id": "24-04-2026-ca8-vinh-ba",
+  "fileName": "(24.04.2026) CA8 Vĩnh Bá.pdf",
+  "title": "Luyện tập tiếng Anh qua chuyên đề từ vựng",
+  "topics": [
+    "Từ vựng tiếng Anh",
+    "Luyện tập viết"
+  ],
+  "processedAt": "2026-06-01T14:09:31.626Z",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Chọn từ vựng đúng",
+      "content": "Trong tiếng Anh, chúng ta cần chọn từ vựng đúng để thể hiện ý nghĩa của câu.\nChúng ta sẽ luyện tập chọn từ vựng đúng qua các câu sau.",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Điền từ vựng vào chỗ trống",
+      "content": "Chúng ta sẽ luyện tập điền từ vựng vào chỗ trống để hoàn thành câu.\nChúng ta cần đọc kỹ câu và chọn từ vựng phù hợp.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Bill Gates is a _________________ millionaire he started his own business with no financial help at all.",
+        "steps": [
+          "Bước 1: Đọc câu và xác định từ cần điền",
+          "Bước 2: Chọn từ phù hợp"
+        ],
+        "result": "Bill Gates là một triệu phú tự lập"
+      },
+      "miniGame": {
+        "question": "Bill Gates là một triệu phú nào?",
+        "options": [
+          "Tự lập",
+          "Không tự lập",
+          "Lập trình",
+          "Không lập trình"
+        ],
+        "answer": "Tự lập",
+        "explanation": "Bill Gates là một triệu phú tự lập vì ông đã bắt đầu kinh doanh mà không cần sự giúp đỡ tài chính nào."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Sử dụng từ vựng trong câu",
+      "content": "Chúng ta sẽ luyện tập sử dụng từ vựng trong câu để thể hiện ý nghĩa.\nChúng ta cần đọc kỹ câu và chọn từ vựng phù hợp.",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Hoàn thành nhóm câu",
+      "content": "Chúng ta sẽ luyện tập hoàn thành nhóm câu để thể hiện ý nghĩa.\nChúng ta cần đọc kỹ câu và chọn từ vựng phù hợp.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Some environmental groups claim we can _____ solar energy to generate electricity for all the people living on our planet.",
+        "steps": [
+          "Bước 1: Đọc câu và xác định từ cần điền",
+          "Bước 2: Chọn từ phù hợp"
+        ],
+        "result": "sử dụng"
+      },
+      "miniGame": {
+        "question": "Chúng ta có thể làm gì với năng lượng mặt trời?",
+        "options": [
+          "Sử dụng",
+          "Không sử dụng",
+          "Tạo ra",
+          "Không tạo ra"
+        ],
+        "answer": "Sử dụng",
+        "explanation": "Chúng ta có thể sử dụng năng lượng mặt trời để tạo ra điện cho tất cả mọi người trên trái đất."
+      }
+    },
+    {
+      "id": 5,
+      "title": "Sử dụng từ vựng trong tình huống",
+      "content": "Chúng ta sẽ luyện tập sử dụng từ vựng trong tình huống để thể hiện ý nghĩa.\nChúng ta cần đọc kỹ tình huống và chọn từ vựng phù hợp.",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 6,
+      "title": "Luyện tập viết",
+      "content": "Chúng ta sẽ luyện tập viết để thể hiện ý nghĩa.\nChúng ta cần đọc kỹ và viết rõ ràng.",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Chúng ta cần làm gì để luyện tập viết?",
+        "options": [
+          "Đọc sách",
+          "Viết rõ ràng",
+          "Nghe nhạc",
+          "Đi chơi"
+        ],
+        "answer": "Viết rõ ràng",
+        "explanation": "Chúng ta cần viết rõ ràng để thể hiện ý nghĩa."
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Bill Gates là một triệu phú nào?",
+      "correctSteps": [
+        "Bước 1: Đọc câu và xác định từ cần điền",
+        "Bước 2: Chọn từ phù hợp"
+      ],
+      "correctAnswer": "Tự lập",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Đọc câu và chọn từ phù hợp"
+    },
+    {
+      "id": 2,
+      "question": "Chúng ta có thể làm gì với năng lượng mặt trời?",
+      "correctSteps": [
+        "Bước 1: Đọc câu và xác định từ cần điền",
+        "Bước 2: Chọn từ phù hợp"
+      ],
+      "correctAnswer": "Sử dụng",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Đọc câu và chọn từ phù hợp"
+    },
+    {
+      "id": 3,
+      "question": "Chúng ta cần làm gì để luyện tập viết?",
+      "correctSteps": [
+        "Bước 1: Đọc câu và xác định từ cần điền",
+        "Bước 2: Chọn từ phù hợp"
+      ],
+      "correctAnswer": "Viết rõ ràng",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Đọc câu và chọn từ phù hợp"
+    },
+    {
+      "id": 4,
+      "question": "Chúng ta có thể sử dụng từ vựng nào để mô tả một người đã đạt được thành công?",
+      "correctSteps": [
+        "Bước 1: Đọc câu và xác định từ cần điền",
+        "Bước 2: Chọn từ phù hợp"
+      ],
+      "correctAnswer": "Thành công",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Đọc câu và chọn từ phù hợp"
+    },
+    {
+      "id": 5,
+      "question": "Chúng ta cần làm gì để hoàn thành nhóm câu?",
+      "correctSteps": [
+        "Bước 1: Đọc câu và xác định từ cần điền",
+        "Bước 2: Chọn từ phù hợp"
+      ],
+      "correctAnswer": "Chọn từ phù hợp",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Đọc câu và chọn từ phù hợp"
+    },
+    {
+      "id": 6,
+      "question": "Chúng ta có thể sử dụng từ vựng nào để mô tả một người đã đạt được thành công trong kinh doanh?",
+      "correctSteps": [
+        "Bước 1: Đọc câu và xác định từ cần điền",
+        "Bước 2: Chọn từ phù hợp"
+      ],
+      "correctAnswer": "Triệu phú",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Đọc câu và chọn từ phù hợp"
+    },
+    {
+      "id": 7,
+      "question": "Chúng ta cần làm gì để luyện tập tiếng Anh?",
+      "correctSteps": [
+        "Bước 1: Đọc câu và xác định từ cần điền",
+        "Bước 2: Chọn từ phù hợp"
+      ],
+      "correctAnswer": "Luyện tập thường xuyên",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Đọc câu và chọn từ phù hợp"
+    },
+    {
+      "id": 8,
+      "question": "Chúng ta có thể sử dụng từ vựng nào để mô tả một người đã đạt được thành công trong học tập?",
+      "correctSteps": [
+        "Bước 1: Đọc câu và xác định từ cần điền",
+        "Bước 2: Chọn từ phù hợp"
+      ],
+      "correctAnswer": "Giỏi",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Đọc câu và chọn từ phù hợp"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": "me-k5-on-thi-ntt-chua-de-minh-hoa-buoi-3-4",
+  "fileName": "ME_K5 Ôn thi NTT_Chua de minh hoa (Buổi 3 + 4).pdf",
+  "title": "Chuẩn bị thi vào lớp 6: Toán tiểu học nâng cao",
+  "topics": [
+    "Đồ thị",
+    "Hình học",
+    "Số học",
+    "Phương trình"
+  ],
+  "processedAt": "2026-06-01T14:11:47.718Z",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Giới thiệu về toán nâng cao",
+      "content": "Toán nâng cao là môn học giúp phát triển tư duy logic và giải quyết vấn đề.\nChúng ta sẽ học cách giải quyết các bài toán nâng cao và phức tạp.",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 2,
+      "title": "Hình tròn và tính chu vi",
+      "content": "Hình tròn là hình có tất cả các điểm đều nằm trên một đường cong.\nChu vi của hình tròn được tính bằng công thức: C = 2 * π * r",
+      "keyFormula": "C = 2 * π * r",
+      "example": {
+        "problem": "Tính chu vi của hình tròn có bán kính 10cm",
+        "steps": [
+          "Bước 1: Tính chu vi bằng công thức C = 2 * π * r",
+          "Bước 2: Thay giá trị r = 10cm vào công thức"
+        ],
+        "result": "62.8cm"
+      },
+      "miniGame": {
+        "question": "Chu vi của hình tròn có bán kính 5cm là bao nhiêu?",
+        "options": [
+          "15.7cm",
+          "31.4cm",
+          "62.8cm",
+          "125.6cm"
+        ],
+        "answer": "31.4cm",
+        "explanation": "Sử dụng công thức C = 2 * π * r và thay giá trị r = 5cm"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Tính diện tích hình vuông",
+      "content": "Diện tích hình vuông được tính bằng công thức: S = a^2\ntrong đó a là độ dài cạnh của hình vuông",
+      "keyFormula": "S = a^2",
+      "example": {
+        "problem": "Tính diện tích hình vuông có cạnh 4cm",
+        "steps": [
+          "Bước 1: Tính diện tích bằng công thức S = a^2",
+          "Bước 2: Thay giá trị a = 4cm vào công thức"
+        ],
+        "result": "16cm^2"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Giải phương trình đơn giản",
+      "content": "Phương trình là câu lệnh chứa biến và hằng số.\nChúng ta cần giải phương trình để tìm giá trị của biến",
+      "keyFormula": "",
+      "example": {
+        "problem": "Giải phương trình 2x + 3 = 5",
+        "steps": [
+          "Bước 1: Trừ 3 từ cả hai vế",
+          "Bước 2: Chia cả hai vế cho 2"
+        ],
+        "result": "x = 1"
+      },
+      "miniGame": {
+        "question": "Giải phương trình x - 2 = 3",
+        "options": [
+          "x = 1",
+          "x = 2",
+          "x = 3",
+          "x = 5"
+        ],
+        "answer": "x = 5",
+        "explanation": "Sử dụng phương trình và giải để tìm giá trị của x"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Tính thể tích hình hộp chữ nhật",
+      "content": "Thể tích hình hộp chữ nhật được tính bằng công thức: V = l * w * h\ntrong đó l, w, h là chiều dài, chiều rộng và chiều cao của hình hộp",
+      "keyFormula": "V = l * w * h",
+      "example": {
+        "problem": "Tính thể tích hình hộp chữ nhật có chiều dài 5cm, chiều rộng 2cm và chiều cao 1.2cm",
+        "steps": [
+          "Bước 1: Tính thể tích bằng công thức V = l * w * h",
+          "Bước 2: Thay giá trị l = 5cm, w = 2cm và h = 1.2cm vào công thức"
+        ],
+        "result": "12cm^3"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 6,
+      "title": "Đổi đơn vị đo lường",
+      "content": "Đổi đơn vị đo lường là chuyển đổi từ đơn vị này sang đơn vị khác.\nChúng ta cần đổi đơn vị để phù hợp với yêu cầu của bài toán",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Đổi 1 lít nước sang đơn vị cm^3",
+        "options": [
+          "1000cm^3",
+          "100cm^3",
+          "10cm^3",
+          "1cm^3"
+        ],
+        "answer": "1000cm^3",
+        "explanation": "Sử dụng tỷ lệ đổi đơn vị 1 lít = 1000cm^3"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Tính chu vi của hình tròn có bán kính 8cm",
+      "correctSteps": [
+        "Bước 1: Tính chu vi bằng công thức C = 2 * π * r",
+        "Bước 2: Thay giá trị r = 8cm vào công thức"
+      ],
+      "correctAnswer": "50.27",
+      "correctUnit": "cm",
+      "difficulty": "easy",
+      "hint": "Sử dụng công thức C = 2 * π * r"
+    },
+    {
+      "id": 2,
+      "question": "Tính diện tích hình vuông có cạnh 6cm",
+      "correctSteps": [
+        "Bước 1: Tính diện tích bằng công thức S = a^2",
+        "Bước 2: Thay giá trị a = 6cm vào công thức"
+      ],
+      "correctAnswer": "36",
+      "correctUnit": "cm^2",
+      "difficulty": "easy",
+      "hint": "Sử dụng công thức S = a^2"
+    },
+    {
+      "id": 3,
+      "question": "Giải phương trình x + 2 = 7",
+      "correctSteps": [
+        "Bước 1: Trừ 2 từ cả hai vế",
+        "Bước 2: Tìm giá trị của x"
+      ],
+      "correctAnswer": "5",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Sử dụng phương trình và giải để tìm giá trị của x"
+    },
+    {
+      "id": 4,
+      "question": "Tính thể tích hình hộp chữ nhật có chiều dài 4cm, chiều rộng 3cm và chiều cao 2cm",
+      "correctSteps": [
+        "Bước 1: Tính thể tích bằng công thức V = l * w * h",
+        "Bước 2: Thay giá trị l = 4cm, w = 3cm và h = 2cm vào công thức"
+      ],
+      "correctAnswer": "24",
+      "correctUnit": "cm^3",
+      "difficulty": "medium",
+      "hint": "Sử dụng công thức V = l * w * h"
+    },
+    {
+      "id": 5,
+      "question": "Đổi 500cm^3 nước sang đơn vị lít",
+      "correctSteps": [
+        "Bước 1: Sử dụng tỷ lệ đổi đơn vị 1 lít = 1000cm^3",
+        "Bước 2: Tính số lít tương ứng với 500cm^3"
+      ],
+      "correctAnswer": "0.5",
+      "correctUnit": "lít",
+      "difficulty": "easy",
+      "hint": "Sử dụng tỷ lệ đổi đơn vị 1 lít = 1000cm^3"
+    },
+    {
+      "id": 6,
+      "question": "Tính diện tích hình vuông có chu vi 20cm",
+      "correctSteps": [
+        "Bước 1: Tìm giá trị của cạnh hình vuông bằng công thức C = 4 * a",
+        "Bước 2: Tính diện tích bằng công thức S = a^2"
+      ],
+      "correctAnswer": "25",
+      "correctUnit": "cm^2",
+      "difficulty": "medium",
+      "hint": "Sử dụng công thức C = 4 * a và S = a^2"
+    },
+    {
+      "id": 7,
+      "question": "Giải phương trình 2x - 3 = 5",
+      "correctSteps": [
+        "Bước 1: Cộng 3 vào cả hai vế",
+        "Bước 2: Chia cả hai vế cho 2"
+      ],
+      "correctAnswer": "4",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Sử dụng phương trình và giải để tìm giá trị của x"
+    },
+    {
+      "id": 8,
+      "question": "Tính thể tích hình hộp chữ nhật có chiều dài 6cm, chiều rộng 4cm và chiều cao 3cm",
+      "correctSteps": [
+        "Bước 1: Tính thể tích bằng công thức V = l * w * h",
+        "Bước 2: Thay giá trị l = 6cm, w = 4cm và h = 3cm vào công thức"
+      ],
+      "correctAnswer": "72",
+      "correctUnit": "cm^3",
+      "difficulty": "medium",
+      "hint": "Sử dụng công thức V = l * w * h"
+    }
+  ]
+}

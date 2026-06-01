@@ -1,0 +1,217 @@
+{
+  "id": "hdbtvn-5-4c-on-tap-tong-hop-so-04",
+  "fileName": "HDBTVN 5.4C Ôn tập tổng hợp số 04.pdf",
+  "title": "Ôn tập tổng hợp Toán lớp 5",
+  "topics": [
+    "chuyển động cùng chiều",
+    "chuyển động ngược chiều",
+    "phân số",
+    "hình thang"
+  ],
+  "processedAt": "2026-06-01T14:12:43.013Z",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Chuyển động cùng chiều",
+      "content": "Khi hai vật chuyển động cùng chiều, vật này đuổi kịp vật kia nếu khoảng cách giữa chúng giảm dần.\nVí dụ: Một ô tô đuổi kịp một xe máy sau một thời gian nhất định.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Một ô tô xuất phát từ điểm A với vận tốc 50km/giờ và dự định đến điểm B. Cùng lúc đó, từ điểm C cách A 40km, nằm trên quãng đường AB, một xe máy đi với vận tốc 40km/giờ hướng về phía B. Hỏi sau bao lâu ô tô đuổi kịp xe máy?",
+        "steps": [
+          "Tính thời gian ô tô đuổi kịp xe máy",
+          "Thời gian = khoảng cách / hiệu vận tốc"
+        ],
+        "result": "4 giờ"
+      },
+      "miniGame": {
+        "question": "Một ô tô đuổi kịp một xe máy sau 4 giờ. Nếu vận tốc của ô tô là 50km/giờ và vận tốc của xe máy là 40km/giờ, thì khoảng cách giữa chúng ban đầu là bao nhiêu?",
+        "options": [
+          "30km",
+          "40km",
+          "50km",
+          "60km"
+        ],
+        "answer": "40km",
+        "explanation": "Thời gian = khoảng cách / hiệu vận tốc => khoảng cách = thời gian * hiệu vận tốc"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Chuyển động ngược chiều",
+      "content": "Khi hai vật chuyển động ngược chiều, chúng sẽ gặp nhau sau một thời gian nhất định.\nVí dụ: Hai con bọ cánh cam bay ngược chiều nhau sẽ gặp nhau sau một thời gian nhất định.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Hai con bọ cánh cam bay quanh một hồ nước hình tròn. Vận tốc của con thứ nhất là 30m/phút, còn vận tốc của con thứ hai là 40m/phút. Chu vi hồ nước là 350m. Hai con bọ xuất phát tại cùng một điểm. Hỏi sau bao lâu hai con bọ bay ngang qua nhau nếu chúng bay ngược chiều?",
+        "steps": [
+          "Tính thời gian hai con bọ bay ngang qua nhau",
+          "Thời gian = chu vi hồ / tổng vận tốc"
+        ],
+        "result": "5 phút"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Phân số",
+      "content": "Phân số là một số được biểu diễn dưới dạng tử số / mẫu số.\nVí dụ: 1/2, 3/4",
+      "keyFormula": "",
+      "example": {
+        "problem": "Cho phân số 17/33. Tìm số tự nhiên m sao cho khi thêm m vào tử số và bớt m ở mẫu số của phân số đã cho thì ta được phân số mới có giá trị bằng 2/3.",
+        "steps": [
+          "Tính tổng của tử số và mẫu số",
+          "Tìm số tự nhiên m"
+        ],
+        "result": "3"
+      },
+      "miniGame": {
+        "question": "Cho phân số 17/33. Nếu thêm 3 vào tử số và bớt 3 ở mẫu số, thì phân số mới có giá trị bằng bao nhiêu?",
+        "options": [
+          "1/2",
+          "2/3",
+          "3/4",
+          "4/5"
+        ],
+        "answer": "2/3",
+        "explanation": "Tổng của tử số và mẫu số không thay đổi"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Hình thang",
+      "content": "Hình thang là một hình có bốn cạnh, trong đó hai cạnh đối diện song song với nhau.\nVí dụ: Hình thang ABCD có AB = 16cm, DC = 24cm, AC = 30cm.",
+      "keyFormula": "",
+      "example": {
+        "problem": "Hình thang ABCD có AB = 16cm, DC = 24cm, AC = 30cm. Diện tích hình thang ABCD bằng 360cm². Tính độ dài cạnh AD.",
+        "steps": [
+          "Tính diện tích hình thang",
+          "Tính độ dài cạnh AD"
+        ],
+        "result": "18cm"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 5,
+      "title": "Tính diện tích tam giác",
+      "content": "Diện tích tam giác có thể được tính bằng công thức: diện tích = (đáy * chiều cao) / 2.\nVí dụ: Tam giác ABC có đáy 16cm, chiều cao 18cm.",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": {
+        "question": "Tam giác ABC có đáy 16cm, chiều cao 18cm. Tính diện tích tam giác ABC.",
+        "options": [
+          "144cm²",
+          "160cm²",
+          "176cm²",
+          "192cm²"
+        ],
+        "answer": "144cm²",
+        "explanation": "Diện tích = (đáy * chiều cao) / 2"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Tính độ dài cạnh AI",
+      "content": "Độ dài cạnh AI có thể được tính bằng cách sử dụng tỉ số của hai tam giác.\nVí dụ: Tam giác ABD và tam giác BDC có chung đáy BD.",
+      "keyFormula": "",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Một ô tô xuất phát từ điểm A với vận tốc 50km/giờ và dự định đến điểm B. Cùng lúc đó, từ điểm C cách A 40km, nằm trên quãng đường AB, một xe máy đi với vận tốc 40km/giờ hướng về phía B. Hỏi sau bao lâu ô tô đuổi kịp xe máy?",
+      "correctSteps": [
+        "Tính thời gian ô tô đuổi kịp xe máy",
+        "Thời gian = khoảng cách / hiệu vận tốc"
+      ],
+      "correctAnswer": "4",
+      "correctUnit": "giờ",
+      "difficulty": "easy",
+      "hint": "Hãy tính hiệu vận tốc của ô tô và xe máy"
+    },
+    {
+      "id": 2,
+      "question": "Hai con bọ cánh cam bay quanh một hồ nước hình tròn. Vận tốc của con thứ nhất là 30m/phút, còn vận tốc của con thứ hai là 40m/phút. Chu vi hồ nước là 350m. Hai con bọ xuất phát tại cùng một điểm. Hỏi sau bao lâu hai con bọ bay ngang qua nhau nếu chúng bay ngược chiều?",
+      "correctSteps": [
+        "Tính thời gian hai con bọ bay ngang qua nhau",
+        "Thời gian = chu vi hồ / tổng vận tốc"
+      ],
+      "correctAnswer": "5",
+      "correctUnit": "phút",
+      "difficulty": "easy",
+      "hint": "Hãy tính tổng vận tốc của hai con bọ"
+    },
+    {
+      "id": 3,
+      "question": "Cho phân số 17/33. Tìm số tự nhiên m sao cho khi thêm m vào tử số và bớt m ở mẫu số của phân số đã cho thì ta được phân số mới có giá trị bằng 2/3.",
+      "correctSteps": [
+        "Tính tổng của tử số và mẫu số",
+        "Tìm số tự nhiên m"
+      ],
+      "correctAnswer": "3",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Hãy tính tổng của tử số và mẫu số"
+    },
+    {
+      "id": 4,
+      "question": "Hình thang ABCD có AB = 16cm, DC = 24cm, AC = 30cm. Diện tích hình thang ABCD bằng 360cm². Tính độ dài cạnh AD.",
+      "correctSteps": [
+        "Tính diện tích hình thang",
+        "Tính độ dài cạnh AD"
+      ],
+      "correctAnswer": "18",
+      "correctUnit": "cm",
+      "difficulty": "medium",
+      "hint": "Hãy tính diện tích hình thang"
+    },
+    {
+      "id": 5,
+      "question": "Tam giác ABC có đáy 16cm, chiều cao 18cm. Tính diện tích tam giác ABC.",
+      "correctSteps": [
+        "Tính diện tích tam giác"
+      ],
+      "correctAnswer": "144",
+      "correctUnit": "cm²",
+      "difficulty": "easy",
+      "hint": "Hãy sử dụng công thức tính diện tích tam giác"
+    },
+    {
+      "id": 6,
+      "question": "Một tờ giấy bị cắt nhỏ thành 6 mảnh. Các mảnh nhỏ nhận được lại có thể chọn để tiếp tục cắt thành 6 mảnh. Cứ như vậy thì ta có thể nhận được 2005 mảnh cắt không?",
+      "correctSteps": [
+        "Tính số mảnh giấy tăng thêm sau mỗi lần cắt"
+      ],
+      "correctAnswer": "Không",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Hãy tính số mảnh giấy tăng thêm sau mỗi lần cắt"
+    },
+    {
+      "id": 7,
+      "question": "Cho phân số 67/47. Tìm số tự nhiên m sao cho khi bớt m ở cả tử số và mẫu số của phân số đã cho thì ta được phân số mới có giá trị bằng 5/3.",
+      "correctSteps": [
+        "Tính hiệu của mẫu số và tử số",
+        "Tìm số tự nhiên m"
+      ],
+      "correctAnswer": "17",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Hãy tính hiệu của mẫu số và tử số"
+    },
+    {
+      "id": 8,
+      "question": "Hình thang vuông ABCD có AB = 16cm, DC = 24cm, AC = 30cm. Diện tích hình thang ABCD bằng 360cm². Tính độ dài cạnh AI.",
+      "correctSteps": [
+        "Tính diện tích hình thang",
+        "Tính độ dài cạnh AD",
+        "Tính độ dài cạnh AI"
+      ],
+      "correctAnswer": "12",
+      "correctUnit": "cm",
+      "difficulty": "hard",
+      "hint": "Hãy tính diện tích hình thang"
+    }
+  ]
+}
