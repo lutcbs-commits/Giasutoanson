@@ -80,8 +80,9 @@ export default function SubjectGradeSelector({ onSelect }: Props) {
   }
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-gradient-to-br from-grass-600 via-sky-600 to-violet-700 p-4">
-      <div className="w-full max-w-lg animate-scale-in">
+    <div className="fixed inset-0 z-50 overflow-y-auto bg-gradient-to-br from-grass-600 via-sky-600 to-violet-700">
+      <div className="flex min-h-full items-center justify-center p-4">
+      <div className="w-full max-w-lg animate-scale-in py-2">
         {/* Header */}
         <div className="text-center mb-8">
           <div className="text-6xl mb-3 animate-float inline-block">📚</div>
@@ -158,6 +159,7 @@ export default function SubjectGradeSelector({ onSelect }: Props) {
             ? `🚀 Bắt đầu học ${subjectObj?.label} ${subjectObj?.grades.find(g => g.value === selectedGrade)?.label}`
             : '👆 Chọn môn và lớp để tiếp tục'}
         </button>
+      </div>
       </div>
     </div>
   );
