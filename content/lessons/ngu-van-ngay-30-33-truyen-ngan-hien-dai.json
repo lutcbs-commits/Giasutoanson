@@ -1,0 +1,102 @@
+{
+  "id": "ngu-van-ngay-30-33-truyen-ngan-hien-dai",
+  "fileName": "ngu-van-ngay-30-33-truyen-ngan-hien-dai.json",
+  "title": "Ngày 30–33: Truyện Ngắn Hiện Đại (Làng, Lặng Lẽ Sa Pa, Chiếc Lược Ngà, Sao Xa Xôi)",
+  "topics": ["Ngữ Văn", "Làng", "Lặng Lẽ Sa Pa", "Chiếc Lược Ngà", "Những Ngôi Sao Xa Xôi"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "ngu-van",
+  "grade": "9",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Làng (Kim Lân) — Tình yêu làng, tình yêu nước",
+      "content": "KIM LÂN: Viết 1948, kháng chiến chống Pháp. Ông Hai — người nông dân yêu làng, phải đi tản cư.\n\nDIỄN BIẾN TÂM TRẠNG khi nghe tin làng theo giặc:\n1. Sững sờ: 'Cổ ông lão nghẹn ắng hẳn lại, da mặt tê rân rân' → sốc\n2. Xấu hổ: Không dám nhìn ai, sợ người ta khinh\n3. Đau đớn, giằng xé: Yêu làng nhưng làng theo giặc → 'Làng thì yêu thật, nhưng làng theo Tây mất rồi thì phải thù' → TÌNH YÊU NƯỚC LỚN HƠN tình yêu làng\n4. Khi tin cải chính: 'Tây nó đốt nhà tôi rồi bác ạ!' → mất nhà mà VUI → vì làng vẫn theo kháng chiến!\n\nNGHỆ THUẬT: Miêu tả tâm lý nhân vật bậc thầy qua ngôn ngữ mộc mạc đậm chất nông dân.",
+      "keyFormula": "Mất nhà mà VUI = chi tiết đắt giá nhất! Ngôi nhà vật chất < Danh dự làng kháng chiến. Tình yêu nước > tình yêu làng.",
+      "example": null,
+      "miniGame": {
+        "question": "Ông Hai nói 'Tây nó đốt nhà tôi rồi bác ạ!' với thái độ VUI MỪNG. Chi tiết này có ý nghĩa gì?",
+        "options": ["Ông Hai mất trí vì đau buồn", "Nhà mất mà vui vì làng theo kháng chiến — danh dự quan trọng hơn tài sản", "Ông Hai không quan tâm đến nhà cửa", "Ông được đền bù tiền"],
+        "answer": "Nhà mất mà vui vì làng theo kháng chiến — danh dự quan trọng hơn tài sản",
+        "explanation": "Đây là chi tiết đắt nhất bài: khi biết làng vẫn theo kháng chiến (tin cải chính), ông Hai vui đến mức quên cả nhà bị đốt. Tình yêu nước và danh dự làng quan trọng hơn mọi tài sản vật chất."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Lặng Lẽ Sa Pa — Anh thanh niên cống hiến thầm lặng",
+      "content": "NGUYỄN THÀNH LONG: Viết 1970, sau chuyến đi thực tế ở Lào Cai.\n\nANH THANH NIÊN — nhân vật chính:\n• Môi trường: Một mình trên đỉnh núi 2.600m, đo gió, đo mưa, đo nắng\n• Phải dậy lúc 1h sáng giữa rét buốt để đo\n• Phẩm chất: Yêu nghề, tận tuỵ, KHIÊM TỐN ('Công việc của cháu chỉ là công việc nhỏ')\n• Giàu tình cảm: Trồng hoa, nuôi gà, tặng tam thất cho vợ bác lái xe\n• Vượt CÔ ĐƠN bằng sách: 'Khi ta làm việc, ta với công việc là đôi, sao gọi là một mình được?'\n\nÝ NGHĨA: Anh thanh niên = đại diện cho những con người 'lặng lẽ' cống hiến không ồn ào → liên hệ 'Mùa xuân nho nhỏ'.",
+      "keyFormula": "Triết lý: 'Ta với công việc là đôi, không cô đơn' → yêu nghề làm ta không cô đơn. Cống hiến thầm lặng = nét đẹp tâm hồn!",
+      "example": null,
+      "miniGame": {
+        "question": "Câu nói 'Khi ta làm việc, ta với công việc là đôi, sao gọi là một mình được?' của anh thanh niên cho thấy anh là người như thế nào?",
+        "options": ["Anh không biết mình đang cô đơn", "Anh yêu nghề sâu sắc — công việc là người bạn giúp vượt qua cô đơn", "Anh đang nói chuyện với ai đó", "Anh không muốn ai biết anh cô đơn"],
+        "answer": "Anh yêu nghề sâu sắc — công việc là người bạn giúp vượt qua cô đơn",
+        "explanation": "Anh thanh niên sống một mình trên núi cao — cô đơn theo nghĩa vật lý. Nhưng với anh, công việc không phải gánh nặng mà là người bạn đồng hành. Đây là triết lý sống: người yêu nghề không bao giờ thực sự cô đơn."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Chiếc Lược Ngà & Những Ngôi Sao Xa Xôi",
+      "content": "CHIẾC LƯỢC NGÀ — NGUYỄN QUANG SÁNG (1966):\n\nHai tình huống truyện:\n1. Bé Thu không nhận cha (vì vết sẹo khác ảnh) → nhận ra khi chia tay → ĐAU XÓT\n2. Ông Sáu làm lược ngà cho con → hy sinh trước khi tặng → BI KỊCH\n\nBé Thu: Bướng bỉnh vì YÊU CHA (chỉ nhận cha đúng với hình trong trí nhớ). Khi nhận ra: 'Ba... ba!' → tiếng gọi xé lòng.\n\nÔng Sáu: Tỉ mỉ làm từng răng lược → tình cha sâu nặng. Phút cuối trao lược cho bạn → lời hứa không thể thực hiện.\n\nNHỮNG NGÔI SAO XA XÔI — LÊ MINH KHUÊ (1971):\nPhương Định: Mơ mộng, nhạy cảm + Dũng cảm phá bom hàng ngày + Giàu tình cảm đồng đội.\nNgôi kể thứ nhất → gần gũi, chân thực → tiếng nói nội tâm của người lính nữ.",
+      "keyFormula": "Bé Thu: yêu cha nên không nhận người khác. Ông Sáu: yêu con nên cặm cụi làm lược. Hai chiều tình cảm = một tình cha con bất diệt.",
+      "example": null,
+      "miniGame": {
+        "question": "Tại sao bé Thu bướng bỉnh không nhận Ông Sáu là cha trong suốt những ngày đầu?",
+        "options": ["Thu không thích cha", "Thu nhớ cha qua ảnh chụp (không có vết sẹo) — người trước mặt khác ảnh nên không nhận", "Thu bị người khác xúi giục", "Thu không nhớ cha vì xa cách quá lâu"],
+        "answer": "Thu nhớ cha qua ảnh chụp (không có vết sẹo) — người trước mặt khác ảnh nên không nhận",
+        "explanation": "Bé Thu chỉ biết cha qua tấm ảnh chụp trước chiến tranh (không có vết sẹo). Ông Sáu bị thương để lại sẹo trên mặt — khác với hình trong ảnh → Thu không nhận. Đây là biểu hiện của tình yêu cha sâu sắc và trung thành: chỉ nhận đúng người cha mình yêu."
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Phân tích diễn biến tâm trạng của ông Hai khi nghe tin làng Chợ Dầu theo giặc trong truyện ngắn 'Làng' (Kim Lân). Viết đoạn 15–18 dòng.",
+      "correctSteps": [
+        "Mở đoạn: Tình yêu làng và tình yêu nước của ông Hai được thể hiện rõ nhất qua diễn biến tâm trạng khi nghe tin làng theo giặc.",
+        "Giai đoạn 1 — Sững sờ: 'Cổ ông lão nghẹn ắng hẳn lại, da mặt tê rân rân' — phản ứng bản năng khi bị sốc.",
+        "Giai đoạn 2 — Xấu hổ: Cúi gằm mặt, không dám nhìn ai, về nhà không nói một lời — nỗi nhục.",
+        "Giai đoạn 3 — Giằng xé nội tâm: 'Làng thì yêu thật, nhưng làng theo Tây mất rồi thì phải thù' — mâu thuẫn đau đớn.",
+        "Đỉnh điểm: Khi tin cải chính, ông Hai mừng đến mức khoe 'Tây đốt nhà tôi rồi' — vật chất thua danh dự!",
+        "Nghệ thuật: Kim Lân dùng độc thoại nội tâm + ngôn ngữ đời thường → tâm lý chân thực.",
+        "Kết luận: Tình yêu nước, tình yêu kháng chiến lớn hơn tình cảm cá nhân — phẩm chất cao quý của người nông dân."
+      ],
+      "correctAnswer": "Sững sờ → Xấu hổ → Giằng xé → Vui khi biết tin cải chính",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "4 giai đoạn tâm trạng: sốc → nhục nhã → mâu thuẫn nội tâm → vui khi tin cải chính. Dẫn chứng bằng chi tiết cụ thể từ văn bản."
+    },
+    {
+      "id": 2,
+      "question": "Cảm nhận vẻ đẹp của anh thanh niên trong 'Lặng lẽ Sa Pa' (Nguyễn Thành Long). Liên hệ với ước nguyện sống và cống hiến trong bài thơ 'Mùa xuân nho nhỏ' (Thanh Hải).",
+      "correctSteps": [
+        "Vẻ đẹp anh thanh niên: Yêu nghề và tận tụy (dậy 1h sáng đo thời tiết giữa rét); Khiêm tốn ('chỉ là công việc nhỏ'); Giàu tình cảm (trồng hoa, tặng tam thất).",
+        "Anh vượt cô đơn bằng triết lý: 'Ta với công việc là đôi' → yêu nghề làm ta không lẻ loi.",
+        "Liên hệ Mùa xuân nho nhỏ: Thanh Hải cũng muốn 'lặng lẽ dâng cho đời' — cống hiến không ồn ào.",
+        "Cả hai đều thể hiện: Sống có ý nghĩa không phải ở vai trò lớn mà ở tinh thần tận tụy.",
+        "Điểm chung: Cống hiến thầm lặng nhưng không kém phần quý giá — 'nốt trầm xao xuyến'.",
+        "Kết: Anh thanh niên là hình mẫu của lý tưởng 'mùa xuân nho nhỏ' trong thực tế cuộc sống."
+      ],
+      "correctAnswer": "Anh thanh niên = hiện thân của lý tưởng 'mùa xuân nho nhỏ'",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Điểm chung giữa anh thanh niên và Thanh Hải: đều muốn cống hiến âm thầm, không ồn ào nhưng có giá trị. Đó là triết lý sống nào?"
+    },
+    {
+      "id": 3,
+      "question": "Phân tích nhân vật bé Thu trong truyện 'Chiếc lược ngà' (Nguyễn Quang Sáng). Qua nhân vật này, tác giả muốn gửi gắm thông điệp gì về chiến tranh?",
+      "correctSteps": [
+        "Bé Thu là đứa trẻ bướng bỉnh nhưng sâu sắc: không nhận cha vì chỉ tin người cha trong ảnh (không có sẹo).",
+        "Bướng bỉnh = biểu hiện của tình yêu cha sâu sắc, trung thành với hình ảnh người cha trong tâm trí.",
+        "Khoảnh khắc nhận ra: Tiếng kêu 'Ba... ba!' xé lòng — bao nhiêu tình cảm nén lại trong tiếng gọi duy nhất.",
+        "Nhưng ngay lúc đó, cha phải đi → lại xa cách — bi kịch được xây dựng tài tình.",
+        "Thông điệp về chiến tranh: Chiến tranh không chỉ tàn phá thể xác mà còn cướp đi thời gian cha con bên nhau.",
+        "Sẹo trên mặt ông Sáu = dấu ấn chiến tranh — gây ra hiểu lầm đau đớn.",
+        "Kết: Tình cha con vượt qua chiến tranh, nhưng chiến tranh đã lấy đi quá nhiều — thời gian bên nhau không thể lấy lại."
+      ],
+      "correctAnswer": "Bé Thu: yêu cha nên bướng bỉnh. Thông điệp: chiến tranh cướp đi thời gian sum họp gia đình.",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Bé Thu không ác — bé yêu cha. Hiểu lầm từ đâu? Ai gây ra? Đó là ai? Điều đó cho ta thấy chiến tranh tàn phá điều gì?"
+    }
+  ]
+}

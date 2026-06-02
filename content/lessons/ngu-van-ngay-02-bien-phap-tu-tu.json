@@ -1,0 +1,116 @@
+{
+  "id": "ngu-van-ngay-02-bien-phap-tu-tu",
+  "fileName": "ngu-van-ngay-02-bien-phap-tu-tu.json",
+  "title": "Ngày 2: Biện Pháp Tu Từ — Vũ Khí Phân Tích Thơ",
+  "topics": ["Ngữ Văn", "Biện Pháp Tu Từ", "Đọc Hiểu"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "ngu-van",
+  "grade": "9",
+  "slides": [
+    {
+      "id": 1,
+      "title": "8 Biện pháp tu từ trọng tâm (Nhóm 1: So sánh, Ẩn dụ, Hoán dụ)",
+      "content": "1. So sánh: Đối chiếu 2 sự vật có nét tương đồng.\n   Dấu hiệu: 'như', 'tựa', 'giống', 'là'\n   VD: 'Công cha như núi Thái Sơn' → nhấn mạnh sự vĩ đại\n\n2. Ẩn dụ: So sánh ngầm, bỏ vế so sánh — tinh tế hơn so sánh.\n   VD: 'Thuyền về có nhớ bến chăng' → Thuyền = người đi, bến = người ở lại\n   Phân biệt ẩn dụ & hoán dụ: Ẩn dụ dựa trên SỰ GIỐNG NHAU; hoán dụ dựa trên SỰ GẦN GŨI\n\n3. Hoán dụ: Gọi tên sự vật bằng đặc điểm/bộ phận tiêu biểu.\n   VD: 'Áo nâu cùng với áo xanh' → Áo nâu = nông dân, áo xanh = công nhân",
+      "keyFormula": "Công thức phân tích BPTT: Tác giả dùng [TÊN BPTT] qua '[TRÍCH DẪN]'. BPTT này gợi [HÌNH ẢNH] + [CẢM XÚC], nhấn mạnh [NỘI DUNG].",
+      "example": {
+        "problem": "Phân tích biện pháp tu từ trong câu: 'Mặt trời xuống biển như hòn lửa / Sóng đã cài then, đêm sập cửa'",
+        "steps": [
+          "Câu 1: So sánh 'mặt trời' — 'hòn lửa' → gợi hình ảnh mặt trời lặn đỏ rực, tráng lệ",
+          "Câu 2: Nhân hoá 'sóng cài then', 'đêm sập cửa' → biển và đêm như đang đóng cửa nghỉ ngơi",
+          "Ẩn dụ: biển = ngôi nhà lớn → thiên nhiên trở nên gần gũi, thân thuộc với con người"
+        ],
+        "result": "Hình ảnh hoàng hôn trên biển vừa tráng lệ vừa ấm áp — cảm giác thiên nhiên là ngôi nhà của ngư dân."
+      },
+      "miniGame": {
+        "question": "'Thuyền về có nhớ bến chăng / Bến thì một dạ khăng khăng đợi thuyền' — Thuyền và bến là biện pháp tu từ gì?",
+        "options": ["So sánh", "Ẩn dụ", "Hoán dụ", "Nhân hoá"],
+        "answer": "Ẩn dụ",
+        "explanation": "Thuyền và bến là ẩn dụ: thuyền = người đi (người trai), bến = người ở lại (người gái). Đây là so sánh NGẦM vì bỏ vế 'như' — dựa trên sự GIỐNG NHAU về đặc tính (người đi/ở)."
+      }
+    },
+    {
+      "id": 2,
+      "title": "8 Biện pháp tu từ trọng tâm (Nhóm 2: Nhân hoá, Điệp ngữ, Liệt kê, Câu hỏi tu từ, Đảo ngữ)",
+      "content": "4. Nhân hoá: Gán tính chất/hành động người cho sự vật.\n   VD: 'Sông được lúc dềnh dàng' → Sông như người thong thả\n\n5. Điệp ngữ: Lặp lại từ/cụm từ/cấu trúc câu.\n   VD: 'Tre giữ làng, giữ nước, giữ mái nhà tranh' → Điệp 'giữ' nhấn mạnh vai trò\n\n6. Liệt kê: Kể ra hàng loạt sự vật, hành động.\n   Thường đi kèm điệp ngữ.\n\n7. Câu hỏi tu từ: Hỏi không cần trả lời, nhằm khẳng định/bộc lộ cảm xúc.\n   VD: 'Bác đã đi rồi sao, Bác ơi!' → Không hỏi mà là tiếng kêu đau xót\n\n8. Đảo ngữ: Đảo trật tự thông thường của câu.\n   VD: 'Lom khom dưới núi, tiều vài chú' → Đảo 'lom khom' lên đầu để nhấn mạnh",
+      "keyFormula": "Điệp ngữ → nhấn mạnh, tăng cường | Câu hỏi tu từ → bộc lộ cảm xúc | Đảo ngữ → nhấn mạnh hình ảnh đầu câu",
+      "example": {
+        "problem": "Phân tích biện pháp tu từ trong câu thơ của Chế Lan Viên: 'Ơi con chim chiền chiện / Hót chi mà vang trời'",
+        "steps": [
+          "Câu hỏi tu từ 'hót chi mà vang trời' → không hỏi mà bộc lộ niềm say mê, ngỡ ngàng",
+          "Từ cảm thán 'Ơi' → cảm xúc trào dâng, hân hoan",
+          "Tác dụng: Diễn tả niềm vui sướng tột cùng của tác giả trước vẻ đẹp mùa xuân"
+        ],
+        "result": "Niềm hân hoan trước thiên nhiên mùa xuân tươi đẹp."
+      },
+      "miniGame": {
+        "question": "Câu thơ 'Muốn làm con chim hót quanh lăng Bác / Muốn làm đoá hoa toả hương đâu đây' dùng biện pháp tu từ gì nổi bật nhất?",
+        "options": ["Ẩn dụ", "Điệp ngữ", "So sánh", "Đảo ngữ"],
+        "answer": "Điệp ngữ",
+        "explanation": "Điệp cấu trúc 'Muốn làm' được lặp lại 3 lần → nhấn mạnh ước nguyện cống hiến mãnh liệt, thiết tha của nhà thơ Viễn Phương khi rời lăng Bác."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Công thức phân tích biện pháp tu từ (Áp dụng mọi câu hỏi)",
+      "content": "CÔNG THỨC VÀNG (học thuộc):\n\n'Tác giả sử dụng biện pháp [TÊN] qua hình ảnh/từ ngữ \"[TRÍCH DẪN]\". Biện pháp này có tác dụng [GỢI HÌNH ẢNH GÌ] + [GỢI CẢM XÚC GÌ], qua đó nhấn mạnh/làm nổi bật [NỘI DUNG/Ý NGHĨA].'\n\nVí dụ áp dụng công thức:\nTác giả dùng nhân hoá qua 'sóng cài then, đêm sập cửa'. BPTT này gợi hình ảnh biển như ngôi nhà lớn đang đóng cửa nghỉ ngơi + cảm giác thiên nhiên gần gũi, qua đó nhấn mạnh vẻ đẹp bình yên của hoàng hôn trên biển.",
+      "keyFormula": "TÊN BPTT → TRÍCH DẪN → GỢI HÌNH ẢNH + GỢI CẢM XÚC → NỘI DUNG/Ý NGHĨA",
+      "example": {
+        "problem": "Phân tích BPTT trong câu: 'Chiếc thuyền im bến mỏi trở về nằm / Nghe chất muối thấm dần trong thớ vỏ' (Quê hương — Tế Hanh)",
+        "steps": [
+          "Nhân hoá: 'thuyền im bến mỏi', 'trở về nằm' → con thuyền như con người sau ngày lao động mệt mỏi",
+          "'Nghe chất muối thấm' → cảm giác của thuyền được nhân hoá rất tinh tế",
+          "Tác dụng: Gợi hình ảnh con thuyền như người bạn đồng hành gắn bó với ngư dân; thể hiện tình yêu làng chài sâu nặng"
+        ],
+        "result": "Con thuyền trở thành biểu tượng cho cuộc sống ngư dân — vất vả, gắn bó, thân thương."
+      },
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Chỉ ra và phân tích biện pháp tu từ trong đoạn thơ sau (Sang thu — Hữu Thỉnh):\n'Sương chùng chình qua ngõ\nHình như thu đã về'",
+      "correctSteps": [
+        "BPTT: Nhân hoá — 'sương chùng chình' (chùng chình là hành động của người, không phải của sương)",
+        "Trích dẫn: từ láy 'chùng chình' → sương như cố ý đi chậm, lưu luyến",
+        "Gợi hình ảnh: làn sương mùa thu lan tỏa nhẹ nhàng, lãng đãng qua từng ngõ nhỏ",
+        "Gợi cảm xúc: cảm giác bâng khuâng, bất ngờ, mơ hồ khi mùa thu vừa chớm đến",
+        "Kết hợp 'Hình như' → sự không chắc chắn, ngỡ ngàng → thu đến rất nhẹ nhàng, tinh tế"
+      ],
+      "correctAnswer": "Nhân hoá",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Hỏi: Ai mới có thể 'chùng chình'? Con người hay sương? → Đó chính là gán hành động người cho vật."
+    },
+    {
+      "id": 2,
+      "question": "Phân tích biện pháp tu từ nổi bật trong câu thơ:\n'Đầu súng trăng treo' (Đồng chí — Chính Hữu)",
+      "correctSteps": [
+        "BPTT chính: Ẩn dụ — 'súng' ẩn dụ cho chiến tranh, 'trăng' ẩn dụ cho hoà bình, vẻ đẹp, lý tưởng",
+        "Hình ảnh: súng và trăng cùng xuất hiện trên một đầu súng → hai thứ đối lập song hành",
+        "Gợi hình ảnh: người lính vừa cầm súng chiến đấu vừa mơ ước về hoà bình — thực tế và lãng mạn",
+        "Gợi cảm xúc: ngưỡng mộ vẻ đẹp tâm hồn người lính — không chỉ là chiến sĩ mà còn là thi sĩ",
+        "Đây là hình ảnh kết đỉnh, biểu tượng cao nhất của bài thơ Đồng chí"
+      ],
+      "correctAnswer": "Ẩn dụ",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "'Súng' và 'trăng' tượng trưng cho điều gì trong bối cảnh chiến tranh? Hai thứ tưởng đối lập lại song hành — điều đó nói lên điều gì về người lính?"
+    },
+    {
+      "id": 3,
+      "question": "Chỉ ra và phân tích tác dụng của điệp ngữ trong đoạn thơ:\n'Nhóm bếp lửa ấp iu nồng đượm,\nNhóm niềm yêu thương, khoai sắn ngọt bùi,\nNhóm nồi xôi gạo mới sẻ chung vui,\nNhóm dậy cả những tâm tình tuổi nhỏ.' (Bếp lửa — Bằng Việt)",
+      "correctSteps": [
+        "Điệp ngữ: từ 'Nhóm' được lặp lại 4 lần ở đầu mỗi câu → điệp từ + điệp cấu trúc",
+        "Chuyển nghĩa: 'nhóm' từ nghĩa đen (nhóm lửa) → nghĩa bóng (nhóm dậy tình yêu, ký ức, nhân cách)",
+        "Bà không chỉ nhóm lửa để nấu cơm, mà còn NUÔI DƯỠNG TÂM HỒN người cháu",
+        "Tác dụng: Làm nổi bật ý nghĩa biểu tượng của bếp lửa — bếp lửa = tình bà, tình quê, nguồn cội",
+        "Nhịp điệu: điệp ngữ tạo nhịp điệu như tiếng nhóm lửa đều đặn mỗi sáng — ký ức in sâu"
+      ],
+      "correctAnswer": "Điệp ngữ",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Đếm xem từ 'Nhóm' xuất hiện mấy lần? Nghĩa của 'nhóm' có thay đổi theo từng câu không?"
+    }
+  ]
+}

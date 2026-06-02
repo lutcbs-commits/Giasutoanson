@@ -1,0 +1,110 @@
+{
+  "id": "ngu-van-ngay-36-45-luyen-viet",
+  "fileName": "ngu-van-ngay-36-45-luyen-viet.json",
+  "title": "Ngày 36–45: Luyện Viết Chuyên Sâu — Bài Nghị Luận Hoàn Chỉnh",
+  "topics": ["Ngữ Văn", "Luyện Viết", "Nghị Luận Văn Học", "Kỹ Năng Thi"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "ngu-van",
+  "grade": "9",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Quy trình viết bài nghị luận văn học hoàn chỉnh",
+      "content": "QUY TRÌNH 5 BƯỚC (75 phút cho phần NLVH):\n\nBước 1 — Đọc kỹ đề (3 phút):\n• Xác định: Tác phẩm nào? Đoạn thơ/nhân vật nào? Yêu cầu gì (phân tích / cảm nhận / liên hệ)?\n• Gạch chân từ khoá\n\nBước 2 — Lập dàn ý nháp (7 phút):\n• Mở bài: Chọn cách nào (trực tiếp/gián tiếp)?\n• Thân bài: Bao nhiêu luận điểm? Dẫn chứng nào?\n• Kết bài: Đánh giá gì? Liên hệ gì?\n\nBước 3 — Viết mở bài (5 phút)\nBước 4 — Viết thân bài (50 phút)\nBước 5 — Viết kết bài + đọc lại (10 phút)",
+      "keyFormula": "KHÔNG LẬP DÀN Ý NHÁP = NGUY HIỂM! Dành 10 phút đầu lập dàn ý = tiết kiệm 20 phút sau. Viết có định hướng, không lan man.",
+      "example": {
+        "problem": "Lập dàn ý cho đề: 'Cảm nhận vẻ đẹp của người lính trong bài thơ Đồng chí (Chính Hữu)'",
+        "steps": [
+          "MỞ BÀI (gián tiếp): Nhận định về thơ kháng chiến → Chính Hữu → Đồng chí",
+          "THÂN BÀI:",
+          "LD1: Vẻ đẹp tinh thần — cùng xuất thân nông dân nghèo, cùng lý tưởng",
+          "LD2: Vẻ đẹp tình cảm — chia sẻ gian khổ, 'thương nhau tay nắm lấy bàn tay'",
+          "LD3: Vẻ đẹp tâm hồn — lãng mạn giữa thực tế (đầu súng trăng treo)",
+          "KẾT BÀI: Đánh giá + liên hệ Bài thơ về TĐXKK (hai thế hệ lính đều đẹp)"
+        ],
+        "result": "Dàn ý rõ ràng = bài viết không bị lan man, đủ ý trong 75 phút!"
+      },
+      "miniGame": {
+        "question": "Nên dành bao nhiêu phút đầu để lập dàn ý nháp trước khi viết?",
+        "options": ["Không cần dàn ý, viết thẳng cho nhanh", "5–10 phút lập dàn ý nháp", "30 phút lập dàn ý thật chi tiết", "15–20 phút"],
+        "answer": "5–10 phút lập dàn ý nháp",
+        "explanation": "Lập dàn ý 5–10 phút giúp: (1) Không quên ý, (2) Biết thứ tự luận điểm, (3) Ước lượng thời gian phân bổ. Dàn ý dù ngắn gọn cũng hiệu quả hơn viết thẳng — tránh bị lạc đề hoặc mất ý giữa chừng."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Checklist tự chấm bài (Dùng sau mỗi bài viết)",
+      "content": "CHECKLIST TỰ CHẤM (9 tiêu chí):\n\n✓ Mở bài hấp dẫn, giới thiệu đúng tác phẩm/vấn đề?\n✓ Có luận điểm rõ ràng?\n✓ Phân tích kết hợp nghệ thuật + nội dung (không chỉ kể lại)?\n✓ Trích dẫn chính xác?\n✓ Có cảm xúc cá nhân (không khô khan, sáo rỗng)?\n✓ Có liên hệ/so sánh/mở rộng?\n✓ Kết bài đánh giá + nâng cao?\n✓ Diễn đạt trôi chảy, ít lỗi chính tả?\n✓ Đúng thời gian (75 phút)?\n\nSau mỗi bài viết: Đếm ✓ được bao nhiêu? Tìm 1 tiêu chí chưa đạt → viết lại phần đó.",
+      "keyFormula": "Thiếu tiêu chí nào nhiều nhất = điểm yếu cần luyện tập thêm. Bài 9 điểm = đạt ÍT NHẤT 8/9 tiêu chí!",
+      "example": null,
+      "miniGame": {
+        "question": "Lỗi nào phổ biến nhất khiến học sinh mất điểm trong phần Nghị luận văn học?",
+        "options": ["Viết chữ xấu", "Chỉ kể lại nội dung tác phẩm mà không phân tích nghệ thuật và nội dung", "Viết quá ngắn", "Không có mở bài"],
+        "answer": "Chỉ kể lại nội dung tác phẩm mà không phân tích nghệ thuật và nội dung",
+        "explanation": "Người chấm thi luôn trừ điểm bài 'kể văn': chỉ tóm tắt cốt truyện hoặc liệt kê câu thơ mà không phân tích TẠI SAO hay, BIỆN PHÁP gì được dùng, CẢM XÚC gì được gợi lên. Bài điểm cao phải có phân tích nghệ thuật + nội dung + cảm xúc."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Lỗi thường gặp và cách sửa",
+      "content": "5 LỖI PHỔ BIẾN VÀ CÁCH SỬA:\n\n1. Mở bài khô khan → Sửa: Bắt đầu bằng nhận định/liên tưởng/so sánh\n\n2. Chỉ kể lại nội dung → Sửa: Sau mỗi dẫn chứng, LUÔN hỏi 'Điều đó có ý nghĩa gì? Nghệ thuật nào?'\n\n3. Thiếu dẫn chứng cụ thể → Sửa: Trích dẫn ÍT NHẤT 1 câu thơ/văn cho mỗi luận điểm\n\n4. Không có phản biện trong NLXH → Sửa: Câu 7 LUÔN bắt đầu 'Tuy nhiên...'\n\n5. Kết bài nhạt, chỉ tóm lại → Sửa: Thêm liên hệ hôm nay hoặc câu kết gợi mở ấn tượng\n\nMẸO: Đọc lại bài viết của mình như người chấm thi. Hỏi: 'Nếu tôi chấm bài này, tôi có thấy học sinh HIỂU và CẢM được tác phẩm không?'",
+      "keyFormula": "Sau mỗi dẫn chứng: GÃP ĐÔI câu hỏi 'Tại sao?' → buộc phải phân tích, không chỉ kể lại.",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Viết bài phân tích hoàn chỉnh cho đề: 'Cảm nhận khổ thơ 1 và 2 bài Sang thu của Hữu Thỉnh'. Thời gian: 45 phút. Sau khi viết, tự chấm theo checklist 9 tiêu chí.",
+      "correctSteps": [
+        "DÀN Ý (5 phút):",
+        "MB: Gián tiếp — 'Thu đến không ồn ào...' → Sang thu → khổ 1 và 2",
+        "TB LD1 — Khổ 1: Tín hiệu thu về qua hương ổi, gió se, sương → cảm nhận đa giác quan, mơ hồ, bâng khuâng",
+        "TB LD2 — Khổ 2: Thu hiện rõ hơn qua sông dềnh dàng, chim vội vã, mây 'vắt nửa mình sang thu' → bức tranh chuyển mùa",
+        "KB: Đánh giá bài thơ + liên hệ lớp nghĩa ẩn (sấm không bất ngờ = người đứng tuổi bình tĩnh trước biến cố)",
+        "VIẾT BÀI HOÀN CHỈNH — TỰ CHẤM sau khi viết xong"
+      ],
+      "correctAnswer": "Viết bài hoàn chỉnh + tự chấm checklist",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Khổ 1: Hương ổi, gió se, sương chùng chình, 'hình như' → đa giác quan + mơ hồ. Khổ 2: Sông dềnh dàng, chim vội vã, mây 'vắt nửa mình' → thu rõ nét hơn."
+    },
+    {
+      "id": 2,
+      "question": "Viết bài phân tích nhân vật ông Hai ('Làng' — Kim Lân) để làm rõ tình yêu làng và tình yêu nước. Lập dàn ý 3 luận điểm, sau đó viết thân bài luận điểm 2 (khoảng 15 dòng).",
+      "correctSteps": [
+        "DÀN Ý 3 luận điểm:",
+        "LD1: Tình yêu làng sâu nặng (đặc điểm thường ngày: khoe làng, nhớ làng khi tản cư)",
+        "LD2: Xung đột khi nghe tin làng theo giặc (tâm trạng 4 giai đoạn: sốc → nhục → giằng xé → vui khi tin cải chính)",
+        "LD3: Tình yêu nước lớn hơn tình yêu làng ('phải thù làng' + 'mất nhà mà vui')",
+        "VIẾT THÂN BÀI LD2 (15 dòng):",
+        "Khi nghe tin, ông Hai sững sờ: 'Cổ ông lão nghẹn ắng hẳn lại...' → phản ứng bản năng của người bị sốc nặng.",
+        "Về nhà: Không nói, cúi gằm mặt, không dám nhìn người → nỗi nhục của người có làng theo giặc.",
+        "Giằng xé nội tâm: 'Làng thì yêu thật... nhưng phải thù' → mâu thuẫn tột cùng giữa tình cảm và lý trí.",
+        "Kim Lân dùng độc thoại nội tâm tinh tế, ngôn ngữ mộc mạc → tâm lý chân thực."
+      ],
+      "correctAnswer": "Dàn ý 3 LD + Thân bài LD2 hoàn chỉnh",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "LD2 là phần hay nhất của bài: miêu tả 4 giai đoạn tâm trạng khi nghe tin. Dẫn chứng bằng câu văn Kim Lân viết về tâm lý ông Hai."
+    },
+    {
+      "id": 3,
+      "question": "Đọc đoạn mở bài sau và nhận xét: Đây là mở bài loại nào? Điểm mạnh và điểm cần cải thiện là gì?\n\n'Viễn Phương là nhà thơ miền Nam. Năm 1976, ông ra thăm lăng Bác lần đầu và viết bài thơ Viếng lăng Bác. Bài thơ thể hiện tình cảm sâu sắc của nhà thơ. Đặc biệt, khổ thơ cuối là phần hay nhất bài.'",
+      "correctSteps": [
+        "Loại mở bài: TRỰC TIẾP (giới thiệu thẳng tác giả → tác phẩm → vấn đề).",
+        "Điểm mạnh: Đúng nội dung, không sai về thông tin, đi thẳng vào đề.",
+        "Điểm cần cải thiện:",
+        "(1) Câu 'thể hiện tình cảm sâu sắc' quá chung chung — cần cụ thể hơn",
+        "(2) Mở bài khô, không hấp dẫn — người đọc không bị thu hút",
+        "(3) Thiếu nhận định về giá trị bài thơ — chỉ kể thông tin",
+        "CÁCH SỬA — thêm nhận định: '...Viếng lăng Bác là bài thơ viết bằng cả trái tim người con miền Nam — xúc động, ngôi xưng gần gũi 'con' như tiếng gọi cha...'"
+      ],
+      "correctAnswer": "Mở bài trực tiếp, khô khan, thiếu nhận định gây ấn tượng",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "So sánh với mở bài gián tiếp: Mở bài tốt phải khiến người đọc MUỐN ĐỌC TIẾP. Mở bài này có làm được điều đó không?"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ngu-van-ngay-01-cau-truc-de-thi",
+  "fileName": "ngu-van-ngay-01-cau-truc-de-thi.json",
+  "title": "Ngày 1: Cấu Trúc Đề Thi & Kỹ Năng Tiếng Việt",
+  "topics": ["Ngữ Văn", "Cấu Trúc Đề", "Phương Thức Biểu Đạt"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "ngu-van",
+  "grade": "9",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Cấu trúc đề thi vào lớp 10 Hà Nội",
+      "content": "Đề thi gồm 3 phần, thời gian 120 phút:\n\n• Phần I — Đọc hiểu (3 điểm): Một đoạn văn bản ngoài SGK, 4–5 câu hỏi nhận biết, thông hiểu, vận dụng.\n• Phần II — Nghị luận xã hội (2 điểm): Viết đoạn văn ~200 chữ về vấn đề tư tưởng đạo lý hoặc hiện tượng đời sống.\n• Phần III — Nghị luận văn học (5 điểm): Phân tích đoạn thơ hoặc nhân vật/tình huống trong tác phẩm lớp 9.",
+      "keyFormula": "Chiến lược phân bổ thời gian 9 điểm: Đọc hiểu 20 phút → NLXH 20 phút → NLVH 75 phút → Đọc lại 5 phút",
+      "example": {
+        "problem": "Làm thế nào để không mất điểm phần Đọc hiểu?",
+        "steps": [
+          "Bước 1: Đọc kỹ đoạn văn, xác định chủ đề chính trong 2–3 phút",
+          "Bước 2: Đọc từng câu hỏi, xác định mức độ (nhận biết / thông hiểu / vận dụng)",
+          "Bước 3: Trả lời ngắn gọn, chính xác — KHÔNG chép lại cả đoạn văn",
+          "Bước 4: Câu vận dụng: viết đoạn 5–7 dòng đúng cấu trúc"
+        ],
+        "result": "Đạt 3/3 điểm Đọc hiểu — không được mất điểm phần này!"
+      },
+      "miniGame": {
+        "question": "Phần Nghị luận văn học có bao nhiêu điểm?",
+        "options": ["2 điểm", "3 điểm", "4 điểm", "5 điểm"],
+        "answer": "5 điểm",
+        "explanation": "Nghị luận văn học chiếm 5/10 điểm — là phần quan trọng nhất. Cần đầu tư 75 phút để phân tích sâu, có cảm xúc và liên hệ mở rộng."
+      }
+    },
+    {
+      "id": 2,
+      "title": "6 Phương thức biểu đạt — BẮT BUỘC THUỘC",
+      "content": "6 phương thức biểu đạt:\n\n1. Tự sự: Kể lại sự việc, có nhân vật, cốt truyện → Ví dụ: truyện ngắn\n2. Miêu tả: Tái hiện hình ảnh, đặc điểm sự vật → Ví dụ: tả cảnh, tả người\n3. Biểu cảm: Bộc lộ tình cảm, cảm xúc → Ví dụ: thơ trữ tình\n4. Nghị luận: Bàn luận, chứng minh vấn đề → Ví dụ: bài xã luận\n5. Thuyết minh: Cung cấp tri thức khách quan → Ví dụ: bài giới thiệu\n6. Hành chính — công vụ: Văn bản pháp lý → Ví dụ: đơn từ, biên bản",
+      "keyFormula": "Mẹo nhận dạng nhanh: Mục đích chính → kể = tự sự | tả = miêu tả | bày tỏ cảm xúc = biểu cảm | bàn luận = nghị luận",
+      "example": {
+        "problem": "Xác định phương thức biểu đạt chính của 3 đoạn văn sau:",
+        "steps": [
+          "(a) 'Mùa thu, lá vàng rơi lả tả...' → Mục đích TẢ cảnh → Miêu tả",
+          "(b) 'Lòng biết ơn là phẩm chất đẹp nhất...' → Mục đích BÀN LUẬN → Nghị luận",
+          "(c) 'Tôi nhớ mãi buổi sáng hôm ấy...' → Mục đích KỂ → Tự sự"
+        ],
+        "result": "Luôn hỏi: 'Đoạn này MỤC ĐÍCH CHÍNH là gì?' — đó là phương thức biểu đạt chính!"
+      },
+      "miniGame": {
+        "question": "Đoạn thơ trữ tình bộc lộ tình cảm, cảm xúc thuộc phương thức biểu đạt nào?",
+        "options": ["Tự sự", "Miêu tả", "Biểu cảm", "Nghị luận"],
+        "answer": "Biểu cảm",
+        "explanation": "Thơ trữ tình có mục đích chính là bộc lộ tình cảm, cảm xúc của tác giả → phương thức biểu đạt chính là Biểu cảm. Tuy nhiên thơ thường kết hợp nhiều phương thức (miêu tả, tự sự)."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Triết lý học Văn để đạt 9 điểm",
+      "content": "Văn không phải môn học thuộc. Văn là môn HIỂU — CẢM — DIỄN ĐẠT.\n\nBa nguyên tắc vàng:\n1. Đọc hiểu: Không mất điểm nào (đạt 3/3)\n2. Nghị luận XH: Viết đủ ý, đúng cấu trúc (đạt 1,5–2/2)\n3. Nghị luận VH: Phân tích sâu, có cảm xúc, liên hệ mở rộng (đạt 4–4,5/5)\n\nHọc thuộc văn mẫu CHỈ cho 6–7 điểm. Điểm 9 dành cho bài có CẢM XÚC THẬT và TƯ DUY RIÊNG.",
+      "keyFormula": "HIỂU tác phẩm → CẢM được cái hay → DIỄN ĐẠT bằng ngôn ngữ của mình = 9 điểm",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 4,
+      "title": "Nhận dạng phong cách ngôn ngữ",
+      "content": "4 phong cách ngôn ngữ hay gặp trong đề thi:\n\n• Nghệ thuật: Dùng hình ảnh, biểu tượng, ngôn ngữ giàu cảm xúc → thơ, truyện\n• Báo chí: Thông tin nhanh, khách quan, rõ ràng → bài báo, tin tức\n• Khoa học: Chính xác, lý luận, thuật ngữ chuyên ngành → bài nghiên cứu\n• Chính luận: Bàn về chính trị, xã hội, có lý lẽ sắc bén → diễn văn, xã luận\n\nCách nhận biết: Nhìn vào NGÔN NGỮ và MỤC ĐÍCH của văn bản.",
+      "keyFormula": "Đề hỏi 'phong cách ngôn ngữ': Đoạn thơ/truyện → Nghệ thuật | Bài báo → Báo chí | Nghiên cứu → Khoa học",
+      "example": null,
+      "miniGame": {
+        "question": "Một bài thơ về mùa thu thuộc phong cách ngôn ngữ nào?",
+        "options": ["Báo chí", "Nghệ thuật", "Khoa học", "Chính luận"],
+        "answer": "Nghệ thuật",
+        "explanation": "Thơ dùng ngôn ngữ hình ảnh, cảm xúc, biểu tượng để diễn đạt → phong cách ngôn ngữ nghệ thuật. Đây là phong cách ngôn ngữ phổ biến nhất trong đề thi Đọc hiểu."
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Xác định phương thức biểu đạt chính và phong cách ngôn ngữ của đoạn văn: 'Bạo lực học đường đang ngày càng gia tăng. Theo thống kê của Bộ GD&ĐT năm 2025, có hơn 1.600 vụ bạo lực học đường được ghi nhận. Vấn đề này cần được xã hội quan tâm và giải quyết khẩn cấp.'",
+      "correctSteps": [
+        "Bước 1: Xác định MỤC ĐÍCH chính của đoạn → Bàn luận về vấn đề xã hội, đưa số liệu thuyết phục → Nghị luận",
+        "Bước 2: Xác định PHONG CÁCH ngôn ngữ → Thông tin nhanh, khách quan, có số liệu → Báo chí",
+        "Bước 3: Trả lời đầy đủ: Phương thức biểu đạt chính là Nghị luận. Phong cách ngôn ngữ là Báo chí."
+      ],
+      "correctAnswer": "Nghị luận / Báo chí",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Hỏi: Đoạn văn này MUỐN LÀM GÌ? Kể chuyện / tả / bày tỏ cảm xúc / bàn luận / cung cấp thông tin?"
+    },
+    {
+      "id": 2,
+      "question": "Phân bổ thời gian hợp lý cho bài thi Ngữ văn 120 phút. Giải thích vì sao nên ưu tiên nhiều thời gian nhất cho Nghị luận văn học.",
+      "correctSteps": [
+        "Phân bổ thời gian: Đọc hiểu 20 phút + NLXH 20 phút + NLVH 75 phút + Đọc lại 5 phút = 120 phút",
+        "Lý do ưu tiên NLVH: Chiếm 5/10 điểm (50%) — nhiều nhất trong 3 phần",
+        "Bài NLVH đòi hỏi viết nhiều, cần thời gian phân tích sâu, liên hệ, và trình bày cảm xúc",
+        "Nếu viết nhanh sẽ bị nông, thiếu chiều sâu → mất 1,5–2 điểm dễ dàng",
+        "Ngược lại: Đọc hiểu có thể làm nhanh (trả lời trực tiếp), NLXH chỉ ~200 chữ"
+      ],
+      "correctAnswer": "75 phút cho NLVH",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Nhìn vào số điểm của từng phần: Đọc hiểu 3đ / NLXH 2đ / NLVH 5đ → Ưu tiên theo tỷ lệ điểm!"
+    },
+    {
+      "id": 3,
+      "question": "Cho 3 đoạn văn sau, xác định phương thức biểu đạt chính của mỗi đoạn:\n(a) 'Ôi! Mùa xuân ơi, sao mà đẹp thế! Tim tôi rộn ràng, xao xuyến khi nhìn những bông hoa đào nở.'\n(b) 'Vào năm 1786, Nguyễn Huệ dẫn quân ra Bắc, đánh tan quân Trịnh chỉ trong vài ngày.'\n(c) 'Tre Việt Nam thân thẳng, mọc thành bụi dày. Lá tre xanh mướt, nhọn và dài khoảng 10-15 cm.'",
+      "correctSteps": [
+        "(a) 'Ôi!', 'sao mà đẹp thế', 'rộn ràng, xao xuyến' → Bộc lộ tình cảm, cảm xúc → Biểu cảm",
+        "(b) Kể lại sự kiện lịch sử, có nhân vật (Nguyễn Huệ), có cốt truyện → Tự sự",
+        "(c) Nêu đặc điểm hình dáng, kích thước của cây tre → Miêu tả (hoặc Thuyết minh nếu mang tính khoa học)"
+      ],
+      "correctAnswer": "Biểu cảm / Tự sự / Miêu tả",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Với mỗi đoạn, hỏi: Đoạn này MUỐN làm gì chủ yếu? Bày tỏ cảm xúc / kể lại / mô tả đặc điểm?"
+    }
+  ]
+}

@@ -51,7 +51,7 @@ export interface GradeFeedback {
 
 // ── Multi-subject metadata ──────────────────────────────────────────────────
 
-export type Subject = 'toan' | 'tieng-anh-ielts' | 'hoa-hoc' | 'dia-ly';
+export type Subject = 'toan' | 'tieng-anh-ielts' | 'hoa-hoc' | 'dia-ly' | 'ngu-van';
 export type Grade = '5' | '6' | '7' | '8' | '9' | '10' | '11' | '12';
 export type IELTSSkill = 'reading' | 'writing' | 'listening' | 'speaking';
 

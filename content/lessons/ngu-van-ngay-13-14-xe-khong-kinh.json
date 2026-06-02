@@ -1,0 +1,103 @@
+{
+  "id": "ngu-van-ngay-13-14-xe-khong-kinh",
+  "fileName": "ngu-van-ngay-13-14-xe-khong-kinh.json",
+  "title": "Ngày 13–14: Bài Thơ Về Tiểu Đội Xe Không Kính (Phạm Tiến Duật)",
+  "topics": ["Ngữ Văn", "Bài Thơ Về Tiểu Đội Xe Không Kính", "Thơ Chống Mỹ", "Người Lính"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "ngu-van",
+  "grade": "9",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Tác giả, nhan đề đặc biệt và giọng thơ",
+      "content": "PHẠM TIẾN DUẬT (1941–2007): Nhà thơ trẻ thời chống Mỹ, phong cách ngang tàng, trẻ trung, hóm hỉnh.\n\nHOÀN CẢNH: 1969, viết trên đường Trường Sơn. Những chiếc xe vận tải bị bom phá hỏng kính, hỏng đèn nhưng vẫn chạy.\n\nNHAN ĐỀ ĐẶC BIỆT: 'Bài thơ VỀ tiểu đội xe không kính' — chữ 'bài thơ' cho thấy: từ hiện thực trần trụi (xe không kính), tác giả tìm ra THƠ — tìm ra vẻ đẹp.\n\nGIONG THƠ: Khẩu ngữ, tự nhiên như lời nói thường — rất khác với giọng trầm lắng của Đồng chí.",
+      "keyFormula": "Đặc trưng nổi bật: Giọng khẩu ngữ (lời nói thường) + Chất lính trẻ (ngang tàng, lạc quan) + Hình ảnh trần trụi nhưng tràn đầy lý tưởng",
+      "example": null,
+      "miniGame": {
+        "question": "Nhan đề 'Bài thơ VỀ tiểu đội xe không kính' — chữ 'bài thơ' ở đầu nhan đề có ý nghĩa gì?",
+        "options": ["Chỉ đây là bài thơ (phân biệt với văn xuôi)", "Tác giả ý thức tìm ra THƠ — vẻ đẹp từ hiện thực trần trụi", "Làm cho nhan đề dài và ấn tượng hơn", "Theo quy định đặt tên thơ thời kháng chiến"],
+        "answer": "Tác giả ý thức tìm ra THƠ — vẻ đẹp từ hiện thực trần trụi",
+        "explanation": "Phạm Tiến Duật chủ ý thêm 'bài thơ về' để khẳng định: từ hình ảnh xe không kính thô ráp, xấu xí của chiến tranh, ông đã tìm ra được vẻ đẹp — vẻ đẹp của người lính. Đó là tư duy của nhà thơ."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Phân tích hình ảnh người lính qua các khổ thơ",
+      "content": "KHỔI 1 — Giải thích vì sao xe không kính:\n'Không có kính không phải vì xe không có kính\nBom giật, bom rung kính vỡ đi rồi'\n→ Giọng giải thích tự nhiên, ngang tàng. 'Bom giật, bom rung' — điệp từ + động từ mạnh → hiện thực ác liệt. Nhưng giọng thản nhiên → bản lĩnh.\n\n'Ung dung buồng lái ta ngồi\nNhìn đất, nhìn trời, nhìn thẳng'\n→ Đảo ngữ 'Ung dung' lên đầu → nhấn mạnh tư thế tự tại. Điệp 'nhìn' → tầm nhìn rộng mở, không e sợ.\n\nKHỔ 5–6 — Vẻ đẹp tinh thần:\n'Xe vẫn chạy vì miền Nam phía trước:\nChỉ cần trong xe có một trái tim.'\n→ 'Trái tim' (hoán dụ) = lòng yêu nước, ý chí chiến đấu. Đối lập mạnh: xe không có kính/đèn/mui NHƯNG CÓ trái tim → vật chất mất hết nhưng tinh thần vẫn còn.",
+      "keyFormula": "Liệt kê những thứ xe KHÔNG CÓ → nhấn mạnh thiếu thốn → kết bằng 'có một trái tim' → ĐẢNG ngược hoàn toàn: tinh thần chiến thắng vật chất!",
+      "example": {
+        "problem": "Phân tích câu thơ 'Chỉ cần trong xe có một trái tim'",
+        "steps": [
+          "Hoán dụ 'trái tim' = lòng yêu nước, ý chí, lý tưởng chiến đấu vì miền Nam",
+          "Đối lập: xe không kính, không đèn, không mui (thiếu thốn vật chất) → NHƯNG có trái tim (giàu tinh thần)",
+          "Tác dụng: Câu thơ như một NGHỊCH LÝ đẹp — khi vật chất kiệt quệ, tinh thần lên cao nhất",
+          "Đây là câu thơ kết đỉnh toàn bài — kết luận về vẻ đẹp người lính Trường Sơn"
+        ],
+        "result": "Câu kết tinh thần toàn bài: lòng yêu nước là điều bất diệt, dù xe có nát vẫn chạy!"
+      },
+      "miniGame": {
+        "question": "Hình ảnh 'trái tim' trong 'Chỉ cần trong xe có một trái tim' là biện pháp tu từ gì?",
+        "options": ["Ẩn dụ", "Hoán dụ", "So sánh", "Nhân hoá"],
+        "answer": "Hoán dụ",
+        "explanation": "'Trái tim' là bộ phận cơ thể gần gũi với tình cảm, tinh thần → thay thế cho 'lòng yêu nước, ý chí chiến đấu' → Đây là Hoán dụ (dùng bộ phận thay cho tổng thể/đặc điểm). Khác ẩn dụ vì ở đây dựa trên SỰ GẦN GŨI, không phải SỰ GIỐNG NHAU."
+      }
+    },
+    {
+      "id": 3,
+      "title": "So sánh Đồng chí và Bài thơ về tiểu đội xe không kính",
+      "content": "Bảng so sánh 2 bài thơ:\n\n| Tiêu chí | Đồng chí | Bài thơ về TĐXKK |\n|----------|---------|-------------------|\n| Thời kỳ | Chống Pháp (1948) | Chống Mỹ (1969) |\n| Hình ảnh người lính | Nông dân, mộc mạc, lặng lẽ | Trẻ, ngang tàng, vui nhộn |\n| Giọng thơ | Trầm lắng, cô đọng | Sôi nổi, khẩu ngữ |\n| Hình ảnh thơ | Giản dị, biểu tượng | Chân thực, trần trụi |\n| Biểu tượng đỉnh | Đầu súng trăng treo | Trái tim |\n\nĐIỂM CHUNG: Cả hai đều ca ngợi vẻ đẹp người lính: lạc quan, yêu nước, tình đồng đội.\n\nCặp liên hệ này RẤT HAY RA TRONG ĐỀ THI!",
+      "keyFormula": "Đồng chí: trầm lắng + biểu tượng | TĐXKK: sôi nổi + chân thực. Điểm chung: vẻ đẹp tinh thần người lính!",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Phân tích khổ thơ cuối bài 'Bài thơ về tiểu đội xe không kính':\n'Không có kính rồi xe không có đèn,\nKhông có mui xe, thùng xe có xước,\nXe vẫn chạy vì miền Nam phía trước:\nChỉ cần trong xe có một trái tim.'\nViết đoạn phân tích 12–15 dòng.",
+      "correctSteps": [
+        "Mở đoạn: Khổ thơ là đỉnh cao bài thơ, kết tinh vẻ đẹp tinh thần người lính.",
+        "Liệt kê: 'Không có kính... không có đèn... không có mui... có xước' — liệt kê dồn dập những thiếu thốn cực độ.",
+        "Đối lập: 'Xe vẫn chạy' — dù thiếu tất cả, xe vẫn tiến lên.",
+        "Hoán dụ 'trái tim' = lòng yêu nước, ý chí vì miền Nam ruột thịt.",
+        "'Miền Nam phía trước' = mục tiêu, lý tưởng → câu thơ có hai vế: hoàn cảnh (khó khăn) và sức mạnh (trái tim).",
+        "Kết: Câu thơ là tuyên ngôn của người lính — khi vật chất cạn kiệt, tinh thần là tất cả."
+      ],
+      "correctAnswer": "Phân tích đầy đủ liệt kê + hoán dụ + đối lập",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Để ý: bao nhiêu thứ xe KHÔNG CÓ? Rồi câu cuối xe CÓ gì? → Đó là nghệ thuật đối lập để làm nổi bật giá trị tinh thần."
+    },
+    {
+      "id": 2,
+      "question": "Từ hai bài thơ 'Đồng chí' và 'Bài thơ về tiểu đội xe không kính', em thấy hình ảnh người lính Việt Nam trong hai cuộc kháng chiến có nét gì GIỐNG và KHÁC nhau? Viết đoạn 8–10 dòng.",
+      "correctSteps": [
+        "Nét GIỐNG: Cả hai đều là người lính yêu nước, bất khuất, vượt qua gian khổ. Tình đồng đội ấm áp, gắn bó.",
+        "Nét KHÁC nhau:",
+        "Đồng chí: Người lính nông dân trầm lặng, mộc mạc, chia sẻ khó khăn bằng cử chỉ nhỏ ('tay nắm tay').",
+        "TĐXKK: Người lính trẻ ngang tàng, hóm hỉnh, đối mặt gian khổ bằng nụ cười ('nhìn thẳng', 'ung dung').",
+        "Sự khác nhau phản ánh hai thế hệ: 1948 — gian khổ âm thầm; 1969 — trẻ trung lạc quan.",
+        "Nhưng cả hai đều có điểm chung: tinh thần bất khuất và trái tim vì Tổ quốc."
+      ],
+      "correctAnswer": "Giống: yêu nước, đồng đội. Khác: mộc mạc lặng lẽ vs trẻ trung ngang tàng.",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "So sánh: thái độ trước gian khổ (ai lặng lẽ, ai cười?), cách thể hiện tình đồng đội (cử chỉ nhỏ vs lời nói tự nhiên)."
+    },
+    {
+      "id": 3,
+      "question": "Giải thích tại sao Phạm Tiến Duật dùng giọng thơ như lời nói thường trong bài 'Bài thơ về tiểu đội xe không kính'. Ví dụ: 'Không có kính không phải vì xe không có kính'.",
+      "correctSteps": [
+        "Giọng thơ khẩu ngữ = gần gũi, chân thực, như người lính đang nói chuyện trực tiếp với người đọc.",
+        "Phù hợp với hình tượng nhân vật: Người lính trẻ chống Mỹ tự tin, ngang tàng — không nói theo kiểu 'thơ' truyền thống.",
+        "Phù hợp với hiện thực: Chiến tranh ác liệt, trần trụi → ngôn ngữ cũng trần trụi, không cần hoa mỹ.",
+        "Tạo hiệu quả nghệ thuật: Câu thơ nghe như lời giải thích rất thường — nhưng lại ẩn chứa bản lĩnh phi thường.",
+        "So sánh: Nếu dùng giọng Đồng chí (trầm lắng) → không phù hợp với người lính trẻ, hóm hỉnh này."
+      ],
+      "correctAnswer": "Khẩu ngữ = chân thực, phù hợp với người lính trẻ, tạo cảm giác gần gũi",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Hỏi: Tại sao không dùng ngôn ngữ thơ hoa mỹ? Người lính này có tính cách gì? Giọng thơ phản ánh tính cách nhân vật như thế nào?"
+    }
+  ]
+}

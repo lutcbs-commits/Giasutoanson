@@ -1,0 +1,96 @@
+{
+  "id": "ngu-van-ngay-17-20-vieng-lang-bac-sang-thu",
+  "fileName": "ngu-van-ngay-17-20-vieng-lang-bac-sang-thu.json",
+  "title": "Ngày 17–20: Viếng Lăng Bác, Mùa Xuân Nho Nhỏ, Sang Thu, Nói Với Con",
+  "topics": ["Ngữ Văn", "Viếng Lăng Bác", "Mùa Xuân Nho Nhỏ", "Sang Thu", "Nói Với Con"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "ngu-van",
+  "grade": "9",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Viếng Lăng Bác — Viễn Phương (1976)",
+      "content": "VIỄN PHƯƠNG: Nhà thơ miền Nam, 1976 lần đầu ra Bắc viếng lăng Bác.\n\nMẠCH CẢM XÚC: Đến lăng (xúc động) → Vào lăng (thương nhớ) → Trong lăng (nghẹn ngào) → Rời lăng (lưu luyến, nguyện ước).\n\nXUNG HÔ 'CON': 'Con ở miền Nam ra thăm lăng Bác' → như con với cha, thân thương, kính trọng.\n'THĂM' thay 'VIẾNG' → giảm nhẹ đau mất mát, như Bác chỉ đang nghỉ ngơi.\n\nẨN DỤ 'MẶT TRỜI TRONG LĂNG':\n'Ngày ngày mặt trời đi qua trên lăng / Thấy một mặt trời trong lăng rất đỏ'\n→ Bác = mặt trời → vĩ đại, soi sáng dân tộc. 'Rất đỏ' = lý tưởng cách mạng.\n\nKHỔ CUỐI:\n'Muốn làm con chim hót... Muốn làm đoá hoa... Muốn làm cây tre trung hiếu'\n→ Điệp 'muốn làm' → ước nguyện hoá thân vào thiên nhiên bên Bác. 'Cây tre trung hiếu' quay về hình ảnh tre ở đầu bài → kết cấu vòng tròn.",
+      "keyFormula": "Mặt trời (nghĩa đen): Thiên nhiên. Mặt trời trong lăng (ẩn dụ): Bác Hồ = vĩ đại, soi sáng. Kết cấu vòng: Tre đầu bài → tre cuối bài.",
+      "example": null,
+      "miniGame": {
+        "question": "Tại sao Viễn Phương dùng từ 'thăm' thay vì 'viếng' trong câu 'Con ở miền Nam ra thăm lăng Bác'?",
+        "options": ["Vì 'thăm' đúng nghĩa hơn về mặt ngôn ngữ", "Để giảm nhẹ nỗi đau — như Bác chỉ đang nghỉ, chưa mất hẳn", "Vì Viễn Phương không biết dùng từ 'viếng'", "Để câu thơ có vần điệu hay hơn"],
+        "answer": "Để giảm nhẹ nỗi đau — như Bác chỉ đang nghỉ, chưa mất hẳn",
+        "explanation": "'Thăm' có nghĩa đến gặp người còn sống, trong khi 'viếng' mang nghĩa tang lễ, chia buồn. Dùng 'thăm' thể hiện trong tiềm thức tác giả, Bác vẫn còn sống — vừa giảm đau mất mát, vừa thể hiện tình cảm sâu nặng."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Mùa Xuân Nho Nhỏ — Thanh Hải (1980)",
+      "content": "THANH HẢI: Nhà thơ xứ Huế, viết năm 1980 trên giường bệnh, không lâu trước khi mất.\n\nỦ NGHĨA ĐẶC BIỆT: Biết mình sắp mất mà vẫn viết tặng cuộc đời 'mùa xuân nho nhỏ' → tinh thần cống hiến đáng khâm phục.\n\nKHỔ 4–5 — Ước nguyện:\n'Ta làm con chim hót\nTa làm một cành hoa\nTa nhập vào hoà ca\nMột nốt trầm xao xuyến'\n\n→ Điệp 'ta làm' — chủ động, tự tin (khác 'muốn làm' trong Viếng lăng Bác)\n→ 'Nốt trầm' — khiêm tốn, không đòi vai chính, chỉ muốn đóng góp phần nhỏ\n→ 'Xao xuyến' — dù nhỏ bé nhưng vẫn lay động lòng người\n\n'Một mùa xuân nho nhỏ / Lặng lẽ dâng cho đời' → 'Nho nhỏ' + 'lặng lẽ' = cống hiến không ồn ào.",
+      "keyFormula": "Mùa xuân nho nhỏ = triết lý sống: mỗi người góp 'mùa xuân nhỏ' → tạo mùa xuân lớn của đất nước. Cống hiến khiêm tốn nhưng có giá trị!",
+      "example": null,
+      "miniGame": {
+        "question": "Hình ảnh 'nốt trầm' trong 'Một nốt trầm xao xuyến' thể hiện điều gì về ước nguyện của Thanh Hải?",
+        "options": ["Ông muốn được nổi tiếng trong âm nhạc", "Muốn cống hiến nhỏ bé, khiêm tốn — không cần vai chính nhưng vẫn có giá trị", "Nốt trầm là nốt đẹp nhất trong âm nhạc", "Ông không muốn cống hiến nhiều"],
+        "answer": "Muốn cống hiến nhỏ bé, khiêm tốn — không cần vai chính nhưng vẫn có giá trị",
+        "explanation": "Nốt trầm là nốt nhỏ, không nổi bật — nhưng 'xao xuyến' có nghĩa là vẫn lay động. Thanh Hải không cần làm điều vĩ đại, chỉ cần là một 'nốt trầm' nhỏ bé nhưng có ý nghĩa trong bản hoà ca của đất nước."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Sang Thu (Hữu Thỉnh) & Nói Với Con (Y Phương)",
+      "content": "SANG THU — HỮU THỈNH (1977):\nKhổ 1 (rất hay thi): 'Bỗng nhận ra hương ổi / Phả vào trong gió se / Sương chùng chình qua ngõ / Hình như thu đã về'\n→ 'Bỗng' = bất ngờ. 'Phả' = động từ mạnh. 'Chùng chình' = nhân hoá sương. 'Hình như' = mơ hồ → thu đến rất nhẹ nhàng.\n\nLỚP NGHĨA ẨN (khổ 3 — cho điểm 9):\n'Sấm cũng bớt bất ngờ / Trên hàng cây đứng tuổi'\n→ Sấm = biến động cuộc đời. Hàng cây đứng tuổi = người trưởng thành. Bài thơ từ SANG THU thiên nhiên → SANG THU đời người: càng trải đời, càng bình tĩnh trước biến cố.\n\nNÓI VỚI CON — Y PHƯƠNG:\n'Người đồng mình thương lắm con ơi / Người đồng mình tự đứng lên bằng đôi chân mình'\n→ Điệp 'không chê' → kiên cường, không than phận\n→ Hai câu kết: 'Con ơi tuy thô sơ da thịt / Lên đường / Không bao giờ nhỏ bé được' — dù xuất thân bình thường, hãy sống lớn lao.",
+      "keyFormula": "Sang thu: Thu = lúc chuyển mùa = lúc người trưởng thành bước vào độ chín. Hàng cây đứng tuổi = người đã trải qua thử thách.",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Phân tích khổ thơ đầu bài Sang thu (Hữu Thỉnh):\n'Bỗng nhận ra hương ổi / Phả vào trong gió se / Sương chùng chình qua ngõ / Hình như thu đã về'\nViết đoạn 10–12 dòng.",
+      "correctSteps": [
+        "'Bỗng' — phó từ chỉ sự đột ngột, bất ngờ → thu đến không báo trước, thi sĩ ngỡ ngàng",
+        "'Hương ổi' — mùi quê rất Việt Nam, không phải hoa lá sang trọng → thu dân dã, gần gũi",
+        "'Phả' — động từ mạnh, chủ động → hương ổi như chủ động ùa vào không gian, đánh thức giác quan",
+        "Nhân hoá 'sương chùng chình' — sương như người cố tình đi chậm, lưu luyến → giao mùa nhẹ nhàng",
+        "'Hình như' — không chắc chắn → mơ hồ, bâng khuâng khi thu mới chớm đến",
+        "Cả 4 câu dùng nhiều giác quan: khứu giác (hương ổi), xúc giác (gió se), thị giác (sương)",
+        "Đánh giá: Nghệ thuật cảm nhận thiên nhiên đa giác quan rất tinh tế — đặc trưng của Hữu Thỉnh."
+      ],
+      "correctAnswer": "Phân tích đầy đủ các hình ảnh và cảm xúc trong khổ 1",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Chú ý: 'Bỗng' (bất ngờ), 'Phả' (chủ động), 'chùng chình' (nhân hoá), 'Hình như' (không chắc). Mỗi từ gợi lên cảm giác gì?"
+    },
+    {
+      "id": 2,
+      "question": "So sánh ước nguyện cống hiến trong hai bài thơ Viếng lăng Bác (Viễn Phương) và Mùa xuân nho nhỏ (Thanh Hải). Viết đoạn 8–10 dòng.",
+      "correctSteps": [
+        "Điểm GIỐNG: Cả hai đều thể hiện ước muốn hoá thân vào thiên nhiên để được ở bên (Bác/đất nước) và cống hiến.",
+        "Đều dùng điệp ngữ: 'Muốn làm' (Viếng lăng Bác) và 'Ta làm' (Mùa xuân nho nhỏ).",
+        "Điểm KHÁC:",
+        "Viếng lăng Bác: 'Muốn làm' — ước nguyện, khát vọng, chưa dám khẳng định → tình cảm kính trọng.",
+        "Mùa xuân nho nhỏ: 'Ta làm' — quyết tâm, chủ động → khát vọng cống hiến mạnh mẽ hơn.",
+        "Đối tượng: Viếng lăng Bác hướng đến Bác Hồ; Mùa xuân nho nhỏ hướng đến cuộc đời, đất nước.",
+        "Hoàn cảnh: Thanh Hải viết khi sắp mất → giá trị ước nguyện càng sâu sắc, cảm động."
+      ],
+      "correctAnswer": "Giống: hoá thân, cống hiến. Khác: muốn làm vs ta làm, Bác vs đất nước.",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "So sánh: 'muốn làm' và 'ta làm' — câu nào mạnh mẽ hơn? Viễn Phương hướng đến ai? Thanh Hải hướng đến điều gì?"
+    },
+    {
+      "id": 3,
+      "question": "Trong bài Nói với con, Y Phương viết: 'Con ơi tuy thô sơ da thịt / Lên đường / Không bao giờ nhỏ bé được'. Em hiểu câu thơ này như thế nào? Liên hệ bài học cho bản thân.",
+      "correctSteps": [
+        "'Thô sơ da thịt' = thừa nhận xuất thân giản dị, mộc mạc của người miền núi.",
+        "'Không bao giờ nhỏ bé được' = mệnh lệnh của cha: dù khởi đầu bình thường, không được sống tầm thường, nhỏ nhoi về tâm hồn và nhân cách.",
+        "'Lên đường' — ngắn gọn, mạnh mẽ, dứt khoát → bắt đầu cuộc hành trình trưởng thành.",
+        "Ý nghĩa: Không phải xuất thân quyết định tầm vóc con người, mà là ý chí và lòng tự trọng.",
+        "Liên hệ bản thân: Dù là học sinh bình thường, nhưng nếu sống có lý tưởng, mục tiêu và không bao giờ đánh mất giá trị của mình → đó là sống 'không bao giờ nhỏ bé'."
+      ],
+      "correctAnswer": "Dù xuất thân bình thường, không được sống tầm thường về tâm hồn",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Đối lập: 'thô sơ da thịt' (ngoài) vs 'không bao giờ nhỏ bé' (trong). Điều quan trọng là PHẨM CHẤT bên trong, không phải vẻ ngoài."
+    }
+  ]
+}

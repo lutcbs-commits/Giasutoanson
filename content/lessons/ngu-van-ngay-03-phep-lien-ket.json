@@ -1,0 +1,98 @@
+{
+  "id": "ngu-van-ngay-03-phep-lien-ket",
+  "fileName": "ngu-van-ngay-03-phep-lien-ket.json",
+  "title": "Ngày 3: Phép Liên Kết & Thao Tác Lập Luận",
+  "topics": ["Ngữ Văn", "Phép Liên Kết", "Thao Tác Lập Luận"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "ngu-van",
+  "grade": "9",
+  "slides": [
+    {
+      "id": 1,
+      "title": "4 Phép liên kết câu",
+      "content": "Phép liên kết giữ các câu trong đoạn văn gắn kết với nhau:\n\n1. Phép lặp: Lặp lại từ ngữ ở câu trước.\n   VD: 'Tôi yêu Hà Nội. Hà Nội đẹp nhất mùa thu.'\n\n2. Phép thế: Dùng từ khác thay thế.\n   VD: 'Nguyễn Du viết Truyện Kiều. Ông là đại thi hào dân tộc.' (Ông = Nguyễn Du)\n\n3. Phép nối: Dùng từ nối logic.\n   VD: 'Tuy nhiên', 'Bởi vì', 'Do đó', 'Ngoài ra', 'Vì vậy'\n\n4. Phép liên tưởng (đồng nghĩa/trái nghĩa): Dùng từ cùng trường nghĩa.\n   VD: 'Mùa xuân, hoa nở rực rỡ. Ong bướm bay lượn.' (Hoa, ong bướm = cùng trường nghĩa thiên nhiên)",
+      "keyFormula": "Câu hỏi đề hay hỏi: 'Chỉ ra phép liên kết trong đoạn' → Tìm từ LẶP, từ THẾ (đại từ), từ NỐI, từ LIÊN TƯỞNG",
+      "example": {
+        "problem": "Xác định phép liên kết trong đoạn: 'Sách là người bạn lớn của con người. Nhờ sách, ta được mở mang tầm hiểu biết. Tuy nhiên, không phải cuốn sách nào cũng có ích. Bởi vậy, mỗi người cần biết chọn lọc khi đọc.'",
+        "steps": [
+          "Phép lặp: 'sách' lặp lại ở câu 1 và 3",
+          "Phép nối: 'Tuy nhiên' (câu 3) và 'Bởi vậy' (câu 4) — từ nối logic",
+          "Không có phép thế và liên tưởng rõ trong đoạn này"
+        ],
+        "result": "Đoạn văn dùng phép lặp ('sách') và phép nối ('Tuy nhiên', 'Bởi vậy')."
+      },
+      "miniGame": {
+        "question": "Trong câu: 'Chủ tịch Hồ Chí Minh sinh năm 1890. Người đã dành cả cuộc đời cho sự nghiệp giải phóng dân tộc.' — 'Người' là phép liên kết gì?",
+        "options": ["Phép lặp", "Phép thế", "Phép nối", "Phép liên tưởng"],
+        "answer": "Phép thế",
+        "explanation": "'Người' thay thế cho 'Chủ tịch Hồ Chí Minh' ở câu trước → Đây là phép thế (dùng đại từ/từ đồng nghĩa thay thế). Phân biệt với phép lặp là KHÔNG lặp lại nguyên từ."
+      }
+    },
+    {
+      "id": 2,
+      "title": "6 Thao tác lập luận",
+      "content": "6 thao tác lập luận là nền tảng viết bài nghị luận:\n\n1. Giải thích: Làm rõ nghĩa khái niệm → Dùng mở đầu nghị luận XH\n2. Chứng minh: Đưa dẫn chứng thuyết phục → Dùng ở thân bài\n3. Phân tích: Chia nhỏ vấn đề → Dùng khi phân tích tác phẩm VH\n4. So sánh: Đối chiếu 2 đối tượng → Dùng khi liên hệ mở rộng\n5. Bình luận: Đánh giá, nhận xét → Dùng ở kết bài, nâng cao\n6. Bác bỏ: Phản biện ý kiến sai → Dùng trong NLXH nâng cao (phần 'Tuy nhiên')",
+      "keyFormula": "Giải thích → Chứng minh → Phân tích → So sánh → Bình luận → Bác bỏ (6 thao tác)",
+      "example": null,
+      "miniGame": {
+        "question": "Trong bài nghị luận XH, đoạn 'Lòng biết ơn là ghi nhớ, trân trọng những gì người khác đã làm cho mình' — đây là thao tác lập luận gì?",
+        "options": ["Chứng minh", "Giải thích", "Phân tích", "Bình luận"],
+        "answer": "Giải thích",
+        "explanation": "Đoạn này làm rõ nghĩa của khái niệm 'lòng biết ơn' → Thao tác Giải thích. Thường đặt ngay sau câu mở bài để người đọc hiểu rõ vấn đề trước khi bàn luận."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Từ ngữ nối thường gặp trong đề thi",
+      "content": "Từ ngữ nối hay được hỏi trong Đọc hiểu:\n\nNối NGUYÊN NHÂN: 'vì', 'bởi vì', 'do', 'nhờ'\nNối KẾT QUẢ: 'vì vậy', 'do đó', 'bởi thế'\nNối TƯƠNG PHẢN: 'tuy nhiên', 'nhưng', 'mặc dù', 'song'\nNối BỔ SUNG: 'ngoài ra', 'hơn nữa', 'thêm vào đó'\nNối TỔNG KẾT: 'tóm lại', 'như vậy', 'nhìn chung'\n\nKỹ năng: Khi viết bài, dùng từ nối để bài văn MẠCH LẠC — tránh các ý bị rời rạc.",
+      "keyFormula": "Bài văn có từ nối tốt = logic rõ ràng = người chấm dễ theo dõi = điểm cao",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Xác định phép liên kết và thao tác lập luận trong đoạn văn sau:\n'Ý chí là sức mạnh giúp con người vượt qua mọi khó khăn. Bởi vì không có ý chí, con người dễ dàng bỏ cuộc khi gặp thất bại. Thầy Nguyễn Ngọc Ký là minh chứng: dù bị liệt hai tay, ông vẫn dùng chân viết chữ và trở thành nhà giáo ưu tú. Tuy nhiên, ý chí cần đi kèm phương pháp đúng đắn mới phát huy hết hiệu quả.'",
+      "correctSteps": [
+        "Phép liên kết: Phép lặp ('ý chí' lặp ở câu 1, 2, 4) + Phép nối ('Bởi vì' câu 2, 'Tuy nhiên' câu 4)",
+        "Thao tác lập luận câu 1: Giải thích — nêu định nghĩa ý chí là gì",
+        "Câu 2: Chứng minh/Phân tích — lý giải tại sao cần ý chí",
+        "Câu 3: Chứng minh — dẫn chứng thầy Nguyễn Ngọc Ký",
+        "Câu 4: Bác bỏ (phản biện) — 'Tuy nhiên' mở ra góc nhìn ngược lại"
+      ],
+      "correctAnswer": "Phép lặp + Phép nối; Giải thích → Chứng minh → Bác bỏ",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Tìm: (1) từ nào LẶP LẠI? (2) Từ nối nào? (3) Mỗi câu đang LÀM GÌ: giải thích / chứng minh / bác bỏ?"
+    },
+    {
+      "id": 2,
+      "question": "Viết đoạn văn ngắn (5–6 câu) về chủ đề 'Vai trò của đọc sách', trong đó sử dụng ÍT NHẤT 2 phép liên kết khác nhau. Sau đó gạch chân và ghi chú phép liên kết đã dùng.",
+      "correctSteps": [
+        "Câu 1 (mở): Nêu vai trò của sách — ví dụ: 'Sách là người thầy vĩ đại nhất của nhân loại.'",
+        "Câu 2 (dùng phép lặp): Lặp từ 'sách' — 'Sách mở ra cho ta chân trời tri thức...'",
+        "Câu 3 (dùng phép thế): Thay 'sách' bằng 'những trang giấy ấy' hoặc 'chúng'",
+        "Câu 4 (dùng phép nối): Dùng 'Hơn nữa' hoặc 'Không chỉ vậy'",
+        "Câu 5-6 (kết): Bình luận và liên hệ bản thân"
+      ],
+      "correctAnswer": "Viết đoạn văn hoàn chỉnh",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Phép lặp: lặp lại từ 'sách'. Phép nối: dùng 'Hơn nữa', 'Bởi vì'. Phép thế: thay 'sách' bằng 'chúng', 'những trang sách ấy'."
+    },
+    {
+      "id": 3,
+      "question": "Xác định phép liên kết trong các câu sau:\n(a) 'Nguyễn Du là nhà thơ vĩ đại nhất của văn học Việt Nam. Ông sinh năm 1766 tại Hà Tĩnh.'\n(b) 'Mùa xuân đến, hoa đào nở rực rỡ khắp nơi. Tuy nhiên, mùa xuân qua nhanh như một giấc mơ.'",
+      "correctSteps": [
+        "(a) 'Ông' = đại từ thay thế cho 'Nguyễn Du' → Phép thế",
+        "(b) 'Tuy nhiên' = từ nối tương phản → Phép nối",
+        "Lưu ý: Trong (a) không có phép lặp vì 'Ông' KHÔNG lặp lại từ 'Nguyễn Du' mà THAY THẾ bằng đại từ"
+      ],
+      "correctAnswer": "(a) Phép thế; (b) Phép nối",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Câu (a): 'Ông' thay cho ai? Câu (b): 'Tuy nhiên' là từ nối loại gì?"
+    }
+  ]
+}

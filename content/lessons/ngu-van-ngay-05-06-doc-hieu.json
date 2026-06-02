@@ -1,0 +1,111 @@
+{
+  "id": "ngu-van-ngay-05-06-doc-hieu",
+  "fileName": "ngu-van-ngay-05-06-doc-hieu.json",
+  "title": "Ngày 5–6: Luyện Đọc Hiểu Tổng Hợp (Thơ & Văn Xuôi)",
+  "topics": ["Ngữ Văn", "Đọc Hiểu", "Thơ", "Văn Xuôi"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "ngu-van",
+  "grade": "9",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Phương pháp đọc hiểu đoạn thơ",
+      "content": "3 mức độ câu hỏi đọc hiểu:\n\n• Nhận biết: Phương thức biểu đạt / thể thơ / nhân vật trữ tình → Trả lời ngắn gọn trực tiếp\n\n• Thông hiểu: Nội dung chính? Tâm trạng nhân vật? Ý nghĩa hình ảnh? → Diễn giải bằng lời mình (3–5 dòng)\n\n• Vận dụng: BPTT + tác dụng? Viết đoạn liên hệ? → Dùng công thức phân tích BPTT\n\nQuy trình làm bài: Đọc thơ 2 lần → Xác định chủ đề/cảm xúc → Đọc câu hỏi → Trả lời theo đúng mức độ.",
+      "keyFormula": "Nhận biết = trả lời 1 câu | Thông hiểu = diễn giải 2–4 câu | Vận dụng = phân tích đầy đủ theo công thức",
+      "example": {
+        "problem": "Đọc đoạn thơ 'Con cò' (Chế Lan Viên) và trả lời:\n'Dù ở gần con, Dù ở xa con, Lên rừng xuống bể, Cò sẽ tìm con, Cò mãi yêu con.\nCon dù lớn vẫn là con của mẹ, Đi hết đời, lòng mẹ vẫn theo con.'",
+        "steps": [
+          "C1 (Nhận biết): Phong cách ngôn ngữ nghệ thuật. Phương thức biểu đạt chính: biểu cảm.",
+          "C2 (Thông hiểu): Điệp 'Dù ở... con' + đối lập 'gần–xa', 'rừng–bể': nhấn mạnh tình mẹ bao la vô điều kiện.",
+          "C3 (Vận dụng): 'Đi hết đời, lòng mẹ vẫn theo con' — chân lý: dù con lớn, trưởng thành đến đâu thì tình mẹ vẫn bền bỉ, theo dõi từng bước đi."
+        ],
+        "result": "Câu trả lời mức nhận biết: ngắn, chính xác. Mức thông hiểu: diễn giải bằng lời mình. Mức vận dụng: phân tích sâu."
+      },
+      "miniGame": {
+        "question": "Câu hỏi 'Em hiểu câu thơ X như thế nào?' thuộc mức độ nào?",
+        "options": ["Nhận biết", "Thông hiểu", "Vận dụng", "Phân tích"],
+        "answer": "Thông hiểu",
+        "explanation": "Câu hỏi yêu cầu 'em hiểu... như thế nào' → mức Thông hiểu — cần diễn giải, làm rõ ý nghĩa bằng lời mình, không chỉ nhận biết hoặc áp dụng công thức phân tích BPTT."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Phương pháp đọc hiểu đoạn văn xuôi",
+      "content": "Khác biệt so với đọc thơ:\n• Văn xuôi thường dài hơn → cần ĐỌC LƯỚT tìm ý chính trước\n• Chú ý: câu chủ đề (thường ở đầu hoặc cuối đoạn), từ khoá lặp lại, từ nối logic\n• Câu hỏi về nội dung → tóm tắt bằng 1–2 câu CỦA MÌNH, không chép lại nguyên văn\n\nKỹ thuật 'ĐỌC NHANH TÌM Ý CHÍNH':\n1. Đọc câu đầu và câu cuối của đoạn → thường chứa ý chính\n2. Tìm từ khoá lặp lại nhiều nhất → đó là chủ đề\n3. Chú ý dấu hiệu liệt kê → cho biết cấu trúc ý",
+      "keyFormula": "Câu đầu + câu cuối đoạn = thường chứa ý chính | Từ khoá lặp nhiều nhất = chủ đề đoạn văn",
+      "example": {
+        "problem": "Đọc đoạn: 'Chính những lúc vấp ngã, ta mới hiểu mình cần gì... Đá quý phải mài giũa mới sáng, vàng phải qua lửa mới ròng. Con người cũng vậy, phải qua khó khăn mới trưởng thành thực sự.'",
+        "steps": [
+          "C1 (Nhận biết): Phương thức biểu đạt chính → Nghị luận (bàn về vấn đề trưởng thành)",
+          "C2 (Thông hiểu): Nội dung chính → Khó khăn thử thách là điều kiện để con người trưởng thành",
+          "C3 (Phân tích BPTT): 'Đá quý... vàng...' → Ẩn dụ: con người = đá quý/vàng cần trải qua thử thách mới toả sáng",
+          "Điệp cấu trúc 'phải... mới...' → nhấn mạnh quy luật tất yếu"
+        ],
+        "result": "Phân tích đầy đủ: phương thức, nội dung, BPTT."
+      },
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Kỹ năng viết đoạn liên hệ 5–7 dòng (Câu vận dụng)",
+      "content": "Nhiều đề Đọc hiểu yêu cầu viết đoạn 5–7 dòng liên hệ bản thân hoặc thực tế.\n\nCấu trúc mini:\n[Câu 1] Nêu vấn đề/thông điệp rút ra từ đoạn\n[Câu 2–4] Giải thích + lý do tại sao đúng (2 ý)\n[Câu 5–6] Liên hệ bản thân hoặc ví dụ thực tế\n[Câu 7] Kết luận ngắn\n\nLưu ý: KHÔNG viết dài hơn yêu cầu. Không mở bài – kết bài kiểu văn lớn. Ngắn gọn, đúng trọng tâm!",
+      "keyFormula": "Đoạn 5–7 dòng: Thông điệp → Lý do → Liên hệ bản thân → Kết (4 ý trong 7 câu)",
+      "example": null,
+      "miniGame": {
+        "question": "Câu hỏi 'Từ nội dung đoạn thơ, viết đoạn văn 5–7 dòng về ý nghĩa tình mẫu tử' — đây là mức độ nào?",
+        "options": ["Nhận biết", "Thông hiểu", "Vận dụng", "Giải thích"],
+        "answer": "Vận dụng",
+        "explanation": "Câu hỏi yêu cầu học sinh VẬN DỤNG nội dung đã hiểu để tạo ra sản phẩm viết mới → mức Vận dụng. Cần viết theo cấu trúc mini: thông điệp → lý do → liên hệ bản thân."
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Đọc đoạn thơ và trả lời các câu hỏi:\n'Mùa xuân nho nhỏ\nLặng lẽ dâng cho đời\nDù là tuổi hai mươi\nDù là khi tóc bạc' (Thanh Hải — Mùa xuân nho nhỏ)\n\nCâu 1: Phương thức biểu đạt chính?\nCâu 2: Nội dung chính của đoạn?\nCâu 3: Ý nghĩa của hình ảnh 'mùa xuân nho nhỏ'?",
+      "correctSteps": [
+        "C1: Phương thức biểu đạt chính: Biểu cảm (kết hợp nghị luận) — bộc lộ ước nguyện cống hiến",
+        "C2: Nội dung chính: Ước nguyện cống hiến âm thầm, khiêm tốn của tác giả cho cuộc đời, bất kể tuổi tác",
+        "C3: 'Mùa xuân nho nhỏ' = ẩn dụ cho sự cống hiến khiêm tốn, không ồn ào. 'Nho nhỏ' nhấn mạnh sự khiêm tốn — không đòi hỏi vai trò lớn, chỉ muốn là một phần nhỏ bé nhưng có ý nghĩa",
+        "Ý nghĩa sâu hơn: Mỗi người như một 'mùa xuân nho nhỏ' — lặng lẽ góp phần tạo nên mùa xuân lớn của đất nước"
+      ],
+      "correctAnswer": "Biểu cảm / Ước nguyện cống hiến / Ẩn dụ cho sự cống hiến khiêm tốn",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "C1: Đoạn thơ MUỐN LÀM GÌ chủ yếu? C2: Tóm tắt trong 1–2 câu. C3: 'Nho nhỏ' gợi lên điều gì về mức độ cống hiến?"
+    },
+    {
+      "id": 2,
+      "question": "Đọc đoạn văn và trả lời:\n'Có người hỏi tôi: Nếu cuộc sống chỉ toàn thuận lợi, liệu con người có thể trưởng thành? Tôi nghĩ rằng không. Chính những lúc vấp ngã, ta mới hiểu mình cần gì. Đá quý phải mài giũa mới sáng, vàng phải qua lửa mới ròng. Con người cũng vậy, phải qua khó khăn mới trưởng thành thực sự.'\n\nCâu 1: Nội dung chính?\nCâu 2: Phép liên kết câu?\nCâu 3: Viết đoạn 5–7 dòng về vai trò của khó khăn với sự trưởng thành.",
+      "correctSteps": [
+        "C1: Nội dung chính: Khó khăn, thử thách là điều kiện cần thiết để con người trưởng thành",
+        "C2: Phép lặp ('Chính những...' lặp cấu trúc) + Phép nối ('Cũng vậy')",
+        "C3 — Viết đoạn 5–7 dòng:",
+        "Câu 1: Cuộc sống không có khó khăn không thể tạo ra những con người bản lĩnh.",
+        "Câu 2–3: Vấp ngã giúp ta hiểu ra điểm yếu, từ đó cải thiện bản thân. Người không trải qua thất bại thường thiếu sự kiên nhẫn và kinh nghiệm.",
+        "Câu 4–5: Thầy Nguyễn Ngọc Ký liệt hai tay nhưng không bỏ cuộc — đó là ví dụ điển hình về trưởng thành qua khó khăn.",
+        "Câu 6: Vì vậy, tôi học cách đón nhận thất bại như cơ hội để lớn lên."
+      ],
+      "correctAnswer": "Khó khăn giúp con người trưởng thành",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "C3: Dùng cấu trúc mini: Thông điệp → Lý do (2 ý) → Dẫn chứng thầy Nguyễn Ngọc Ký → Liên hệ bản thân"
+    },
+    {
+      "id": 3,
+      "question": "Cho câu hỏi đọc hiểu: 'Xác định thể thơ của đoạn thơ sau: Dù ở gần con / Dù ở xa con / Lên rừng xuống bể / Cò sẽ tìm con'\n\nEm xác định thể thơ dựa vào đặc điểm nào? Kể tên 3 thể thơ phổ biến trong thơ hiện đại Việt Nam lớp 9.",
+      "correctSteps": [
+        "Thể thơ của đoạn: Thơ tự do (không có số chữ cố định mỗi dòng: 4, 4, 4, 4 chữ — nhưng đây là sự lựa chọn tự do của tác giả)",
+        "Đặc điểm xác định thể thơ: số chữ mỗi dòng, vần điệu, nhịp thơ",
+        "3 thể thơ phổ biến lớp 9:",
+        "1. Lục bát (6-8): Truyện Kiều — 'Trăm năm trong cõi người ta / Chữ tài chữ mệnh khéo là ghét nhau'",
+        "2. Thơ 7 chữ: 'Đồng chí' (Chính Hữu)",
+        "3. Thơ tự do: 'Sang thu', 'Mùa xuân nho nhỏ', 'Con cò'"
+      ],
+      "correctAnswer": "Thơ tự do",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Đếm số chữ trong mỗi dòng thơ. Nếu không đều nhau và không theo quy tắc cố định → thơ tự do."
+    }
+  ]
+}

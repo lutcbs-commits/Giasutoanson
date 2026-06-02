@@ -1,0 +1,114 @@
+{
+  "id": "ngu-van-ngay-04-nghi-luan-xa-hoi",
+  "fileName": "ngu-van-ngay-04-nghi-luan-xa-hoi.json",
+  "title": "Ngày 4: Kỹ Năng Viết Nghị Luận Xã Hội 200 Chữ",
+  "topics": ["Ngữ Văn", "Nghị Luận Xã Hội", "Viết Đoạn Văn"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "ngu-van",
+  "grade": "9",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Cấu trúc đoạn văn 200 chữ — Công thức vàng",
+      "content": "Cấu trúc Tổng — Phân — Hợp (dùng cho MỌI đề):\n\n[Câu 1 — MỞ] Giới thiệu vấn đề + nêu ý kiến/nhận định.\n\n[Câu 2–3 — GIẢI THÍCH] Giải thích từ khoá/khái niệm trong đề bài.\n\n[Câu 4–6 — BÀN LUẬN] Vì sao đúng/sai? Biểu hiện? (2–3 lý lẽ + 1 dẫn chứng cụ thể)\n\n[Câu 7 — MỞ RỘNG/PHẢN BIỆN] 'Tuy nhiên...' (mặt ngược lại, lưu ý)\n\n[Câu 8 — ĐÓNG] Bài học nhận thức + hành động cho bản thân.\n\n⚠️ Phản biện (câu 7) là điểm khác biệt giữa bài 7đ và bài 9đ — đánh giá tư duy đa chiều!",
+      "keyFormula": "MỞ → GIẢI THÍCH → BÀN LUẬN + DẪN CHỨNG → PHẢN BIỆN → ĐÓNG (5 bước = 200 chữ)",
+      "example": {
+        "problem": "Viết đoạn 200 chữ: 'Suy nghĩ về ý nghĩa của lòng biết ơn trong cuộc sống.'",
+        "steps": [
+          "[MỞ] Lòng biết ơn là một trong những phẩm chất cao đẹp nhất làm nên giá trị con người.",
+          "[GIẢI THÍCH] Biết ơn là sự ghi nhớ, trân trọng những gì người khác đã làm cho mình, từ đó có thái độ đền đáp xứng đáng.",
+          "[BÀN LUẬN] Không ai lớn lên mà không cần sự chăm sóc của gia đình, thầy cô. Bác Hồ dạy: 'Ăn quả nhớ kẻ trồng cây'.",
+          "[PHẢN BIỆN] Tuy nhiên, biết ơn không nghĩa là phụ thuộc hay mang ơn mù quáng; phải đi kèm nỗ lực sống tốt.",
+          "[ĐÓNG] Là học sinh, tôi thể hiện lòng biết ơn bằng hành động: chăm chỉ học, yêu thương gia đình."
+        ],
+        "result": "Bài mẫu đúng cấu trúc, có dẫn chứng (Bác Hồ), có phản biện, có liên hệ bản thân → đạt 9 điểm!"
+      },
+      "miniGame": {
+        "question": "Yếu tố nào phân biệt bài NLXH 7 điểm và 9 điểm?",
+        "options": ["Viết dài hơn 200 chữ", "Có phản biện (câu 'Tuy nhiên...')", "Có nhiều dẫn chứng hơn", "Có mở bài dài hơn"],
+        "answer": "Có phản biện (câu 'Tuy nhiên...')",
+        "explanation": "Phản biện thể hiện tư duy đa chiều — nhìn nhận vấn đề từ nhiều góc độ. Người chấm đánh giá cao điều này vì nó chứng tỏ học sinh không suy nghĩ một chiều, máy móc."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Cấu trúc NLXH dạng Hiện tượng đời sống",
+      "content": "Dạng đề: 'Suy nghĩ về hiện tượng [bạo lực học đường / nghiện mạng xã hội...]'\n\nCấu trúc (khác một chút so với đạo lý):\n\n[MỞ] Nêu hiện tượng.\n[GIẢI THÍCH] Hiện tượng là gì? Biểu hiện?\n[NGUYÊN NHÂN] Vì sao xảy ra? (2–3 nguyên nhân)\n[HẬU QUẢ] Gây ra tác hại gì?\n[GIẢI PHÁP + LIÊN HỆ] Cần làm gì? Bản thân em?\n\nCác chủ đề hay thi: bạo lực học đường, nghiện mạng xã hội, thói vô cảm, ô nhiễm môi trường, văn hoá đọc sách.",
+      "keyFormula": "Hiện tượng → Nguyên nhân → Hậu quả → Giải pháp (4 bước cho đề Hiện tượng)",
+      "example": {
+        "problem": "Đề: Suy nghĩ về hiện tượng nghiện mạng xã hội ở giới trẻ.",
+        "steps": [
+          "[MỞ + GT] Nghiện MXH là dành quá nhiều thời gian trên Facebook, TikTok đến mức ảnh hưởng học tập, sức khoẻ.",
+          "[NGUYÊN NHÂN] Thuật toán hấp dẫn + nhu cầu thể hiện bản thân + thiếu giám sát gia đình",
+          "[HẬU QUẢ] Mất thời gian học, sức khoẻ suy giảm, nguy cơ trầm cảm khi so sánh với 'hình ảnh hoàn hảo'",
+          "[PHẢN BIỆN] MXH không xấu — vấn đề là cách sử dụng",
+          "[GIẢI PHÁP] Tự đặt giới hạn thời gian, ưu tiên hoạt động thực tế"
+        ],
+        "result": "Bài NLXH dạng hiện tượng đầy đủ 4 bước chính + phản biện + liên hệ bản thân."
+      },
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Kho dẫn chứng 10 chủ đề NLXH hay thi",
+      "content": "10 chủ đề thường gặp + dẫn chứng chuẩn:\n\n1. Ý chí, nghị lực: Thầy Nguyễn Ngọc Ký (liệt 2 tay, dùng chân viết)\n2. Lòng biết ơn: Bác Hồ — 'Ăn quả nhớ kẻ trồng cây'\n3. Tinh thần tự học: Nick Vujicic (không tay không chân, diễn thuyết toàn cầu)\n4. Lòng nhân ái, sẻ chia: Đặng Thuỳ Trâm — hy sinh vì người bệnh\n5. Lòng tự trọng, trung thực: câu chuyện về danh dự\n6. Sống có ích: Malala Yousafzai — đấu tranh cho quyền học tập\n7. Khiêm tốn: Einstein từng bị đuổi học nhưng trở thành thiên tài\n8. Ô nhiễm môi trường: số liệu ô nhiễm không khí Hà Nội\n9. Bạo lực học đường: thống kê Bộ GD&ĐT\n10. Văn hoá đọc: 'Sách là ngọn đèn sáng bất diệt của văn minh nhân loại'\n\nMỗi chủ đề chuẩn bị 2–3 dẫn chứng để linh hoạt sử dụng.",
+      "keyFormula": "Học thuộc 5–6 dẫn chứng ĐA NĂNG có thể dùng cho nhiều đề: Bác Hồ, thầy Nguyễn Ngọc Ký, Nick Vujicic, Đặng Thuỳ Trâm",
+      "example": null,
+      "miniGame": {
+        "question": "Khi viết NLXH về chủ đề 'ý chí vượt khó', dẫn chứng NÀO phù hợp nhất?",
+        "options": ["Einstein phát minh thuyết tương đối", "Thầy Nguyễn Ngọc Ký liệt 2 tay dùng chân viết chữ", "Bác Hồ ra đi tìm đường cứu nước", "Sách mở ra chân trời tri thức"],
+        "answer": "Thầy Nguyễn Ngọc Ký liệt 2 tay dùng chân viết chữ",
+        "explanation": "Thầy Nguyễn Ngọc Ký là dẫn chứng ĐIỂN HÌNH nhất về ý chí vượt qua khó khăn thể chất. Dẫn chứng tốt phải: (1) Đúng chủ đề, (2) Cụ thể (có tên, hoàn cảnh, kết quả), (3) Học sinh Việt Nam dễ biết."
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Viết đoạn văn 200 chữ theo cấu trúc Tổng-Phân-Hợp với đề: 'Suy nghĩ của em về câu nói: Có chí thì nên.'",
+      "correctSteps": [
+        "[MỞ] 'Có chí thì nên' là lời khẳng định: ý chí quyết định thành công của con người.",
+        "[GIẢI THÍCH] 'Chí' = ý chí, quyết tâm, nghị lực. 'Nên' = thành công, đạt được mục tiêu.",
+        "[BÀN LUẬN] Ý chí giúp kiên trì khi gặp khó khăn, không bỏ cuộc.",
+        "[DẪN CHỨNG] Thầy Nguyễn Ngọc Ký bị liệt hai tay, dùng chân viết chữ, trở thành nhà giáo ưu tú.",
+        "[PHẢN BIỆN] Tuy nhiên, chỉ có chí chưa đủ — cần phương pháp đúng và biết cầu thị.",
+        "[ĐÓNG] Bản thân tôi rèn ý chí bằng việc nhỏ mỗi ngày: hoàn thành bài tập đúng hạn."
+      ],
+      "correctAnswer": "Viết đoạn 200 chữ đúng cấu trúc",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "5 bước: MỞ → GIẢI THÍCH từ khoá → BÀN LUẬN + DẪN CHỨNG thầy Nguyễn Ngọc Ký → PHẢN BIỆN 'Tuy nhiên' → ĐÓNG liên hệ bản thân"
+    },
+    {
+      "id": 2,
+      "question": "Viết đoạn văn 200 chữ về hiện tượng: 'Bạo lực học đường — thực trạng đáng báo động ở giới trẻ hiện nay.'",
+      "correctSteps": [
+        "[MỞ + GT] Bạo lực học đường là các hành vi xúc phạm, tấn công thể chất hoặc tinh thần giữa học sinh.",
+        "[NGUYÊN NHÂN] Thiếu kỹ năng kiểm soát cảm xúc + ảnh hưởng game/phim bạo lực + thiếu giáo dục gia đình.",
+        "[HẬU QUẢ] Gây tổn thương thể chất, tâm lý; ảnh hưởng kết quả học tập; rối loạn trật tự xã hội.",
+        "[PHẢN BIỆN] Không phải tất cả môi trường học đường đều có bạo lực — nhiều trường xây dựng văn hoá lành mạnh.",
+        "[GIẢI PHÁP + ĐÓNG] Gia đình-nhà trường-xã hội phối hợp; bản thân không tham gia và dám lên tiếng."
+      ],
+      "correctAnswer": "Viết đoạn 200 chữ đúng cấu trúc",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Dạng Hiện tượng: MỞ → GT → NGUYÊN NHÂN (2-3 nguyên nhân) → HẬU QUẢ → PHẢN BIỆN → GIẢI PHÁP"
+    },
+    {
+      "id": 3,
+      "question": "Phân tích bài viết mẫu sau, xác định từng phần theo cấu trúc T-P-H và chỉ ra phần nào THIẾU:\n'Lòng nhân ái là tình cảm yêu thương, sẵn sàng chia sẻ với người khác. Trong cuộc sống, nhân ái biểu hiện qua việc giúp đỡ người khó khăn, nhường cơm sẻ áo. Nick Vujicic, người không tay không chân, vẫn đi khắp thế giới truyền cảm hứng — đó là nhân ái lớn lao nhất. Là học sinh, tôi sẽ sống nhân ái bằng cách giúp bạn bè khi cần.'",
+      "correctSteps": [
+        "Câu 1: GIẢI THÍCH (thiếu câu MỞ — câu nêu vấn đề và ý kiến chung)",
+        "Câu 2: BÀN LUẬN",
+        "Câu 3: DẪN CHỨNG (Nick Vujicic)",
+        "Câu 4: ĐÓNG (liên hệ bản thân)",
+        "THIẾU: Câu MỞ (giới thiệu vấn đề, nêu ý kiến chung) + Câu PHẢN BIỆN ('Tuy nhiên...')",
+        "Hậu quả: Bài thiếu cấu trúc rõ ràng và thiếu tư duy đa chiều → không đạt 9 điểm"
+      ],
+      "correctAnswer": "Thiếu câu MỞ và PHẢN BIỆN",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Đối chiếu với cấu trúc 5 bước: MỞ → GT → BL+DC → PHẢN BIỆN → ĐÓNG. Phần nào trong 5 bước bị thiếu?"
+    }
+  ]
+}

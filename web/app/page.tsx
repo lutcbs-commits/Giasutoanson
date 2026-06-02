@@ -193,6 +193,7 @@ export default function HomePage() {
               'toan': { emoji: '🧮', title: 'Ôn luyện Toán lớp 5', subtitle: 'Chuẩn bị thi vào lớp 6 🎯', desc: `${filteredLessons.length} đề thi và tài liệu ôn luyện từ các trường THCS hàng đầu Hà Nội.`, gradient: 'from-grass-500 via-grass-600 to-grass-700', icon: '📐' },
               'hoa-hoc': { emoji: '⚗️', title: 'Thử sức Hoá học Lớp 10', subtitle: 'Lộ trình 2 tuần — từ nguyên tử đến hữu cơ 🔬', desc: 'Học mỗi ngày 2 tiết (90 phút), từ kiến thức nền tảng đến tư duy chuyên sâu.', gradient: 'from-orange-500 via-red-500 to-rose-600', icon: '🧪' },
               'dia-ly': { emoji: '🌍', title: 'Thử sức Địa lý Lớp 10', subtitle: 'Lộ trình 2 tuần — từ bản đồ đến kinh tế Việt Nam 🗺️', desc: 'Học mỗi ngày 2 tiết (90 phút), từ tự nhiên đến địa lý kinh tế-xã hội.', gradient: 'from-emerald-500 via-teal-600 to-green-700', icon: '🏔️' },
+              'ngu-van': { emoji: '📝', title: 'Ôn thi Ngữ văn Lớp 9', subtitle: 'Mục tiêu 9 điểm vào lớp 10 Hà Nội ✍️', desc: 'Lộ trình 60 ngày, 2 tiết/ngày. Nắm vững đọc hiểu, NLXH, phân tích tác phẩm văn học.', gradient: 'from-pink-500 via-rose-500 to-red-600', icon: '✒️' },
             };
             const h = heroMap[choice.subject] ?? heroMap['toan'];
             return (

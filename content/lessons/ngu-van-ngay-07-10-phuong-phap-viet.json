@@ -1,0 +1,106 @@
+{
+  "id": "ngu-van-ngay-07-10-phuong-phap-viet",
+  "fileName": "ngu-van-ngay-07-10-phuong-phap-viet.json",
+  "title": "Ngày 7–10: Phương Pháp Viết Mở Bài, Kết Bài & Thân Bài Nghị Luận",
+  "topics": ["Ngữ Văn", "Mở Bài", "Kết Bài", "Thân Bài", "Nghị Luận Văn Học"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "ngu-van",
+  "grade": "9",
+  "slides": [
+    {
+      "id": 1,
+      "title": "4 Cách viết mở bài nghị luận văn học",
+      "content": "Cách 1 — Trực tiếp (an toàn, nhanh):\nGiới thiệu tác giả → tác phẩm → vấn đề cần phân tích.\nVD: 'Chính Hữu là nhà thơ tiêu biểu của thơ ca kháng chiến chống Pháp. Bài thơ Đồng chí (1948) đã khắc hoạ vẻ đẹp tình đồng chí...'\n\nCách 2 — Gián tiếp bằng lý luận văn học (cho bài 9 điểm):\nMở đầu bằng nhận định về văn học → dẫn đến tác phẩm.\nVD: 'Có người nói rằng thơ hay là thơ giản dị mà chạm đến trái tim. Đồng chí của Chính Hữu đúng là bài thơ như thế...'\n\nCách 3 — Gián tiếp bằng liên tưởng:\nVD: 'Trong muôn vàn bài thơ về người lính, có những bài lặng lẽ mà ám ảnh. Đồng chí thuộc về loại thơ ấy...'\n\nCách 4 — So sánh:\nVD: 'Nếu Phạm Tiến Duật viết về người lính bằng giọng ngang tàng, thì Chính Hữu lại khắc hoạ tình đồng chí bằng giọng thơ mộc mạc...'",
+      "keyFormula": "Mở bài Trực tiếp = an toàn (bài 7đ) | Mở bài Gián tiếp = hấp dẫn, tạo ấn tượng (bài 9đ)",
+      "example": {
+        "problem": "Viết 2 mở bài cho đề: 'Phân tích đoạn thơ đầu bài Sang thu (Hữu Thỉnh)'",
+        "steps": [
+          "Mở bài Trực tiếp: 'Hữu Thỉnh là nhà thơ với những cảm nhận tinh tế về thiên nhiên. Bài thơ Sang thu (1977) đã ghi lại khoảnh khắc giao mùa hạ–thu qua những hình ảnh giản dị mà đầy gợi cảm. Đặc biệt, đoạn thơ đầu là những câu thơ đặc sắc nhất.'",
+          "Mở bài Gián tiếp: 'Thu đến không ồn ào. Thu đến bằng hương ổi, bằng gió se, bằng sương chùng chình. Hữu Thỉnh trong bài Sang thu đã cảm nhận khoảnh khắc giao mùa ấy bằng tất cả giác quan tinh tế nhất, và đoạn thơ đầu là minh chứng rõ nhất cho điều đó.'"
+        ],
+        "result": "Mở bài gián tiếp tạo cảm giác hấp dẫn ngay từ đầu — người chấm ấn tượng hơn!"
+      },
+      "miniGame": {
+        "question": "Mở bài gián tiếp bằng lý luận văn học nghĩa là gì?",
+        "options": ["Kể chuyện về tác giả rồi mới nêu tác phẩm", "Bắt đầu bằng nhận định chung về văn học rồi dẫn đến tác phẩm", "Trích thẳng câu thơ cần phân tích", "So sánh với một tác phẩm khác"],
+        "answer": "Bắt đầu bằng nhận định chung về văn học rồi dẫn đến tác phẩm",
+        "explanation": "Ví dụ: 'Có người nói thơ hay là thơ chạm đến tim...' → đây là nhận định chung về văn học → '...Đồng chí của Chính Hữu là bài thơ như thế' → dẫn vào tác phẩm. Cách này tạo ấn tượng ban đầu tốt hơn so với mở thẳng."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Cách viết kết bài và thân bài nghị luận văn học",
+      "content": "KẾT BÀI:\nCách 1: Tổng hợp + đánh giá: Tóm lại nội dung + nghệ thuật → đánh giá vị trí tác phẩm\nCách 2 (9 điểm): Tóm lại → liên hệ đến hôm nay/bản thân → kết bằng câu gợi mở\n\nVí dụ kết bài về 'Đồng chí':\n'Bằng ngôn ngữ giản dị, hình ảnh chân thực và cảm xúc chân thành, Đồng chí đã khắc hoạ thành công vẻ đẹp tình đồng đội trong kháng chiến. Bài thơ là lời nhắc nhở thế hệ trẻ về giá trị của sự sẻ chia — thứ tình cảm tưởng bình thường mà có sức mạnh vượt qua mọi gian khổ.'\n\nTHÂN BÀI — Phân tích đoạn thơ:\nTheo trình tự câu thơ: Câu 1–2 → phân tích → Câu 3–4 → phân tích → ... → Đánh giá chung",
+      "keyFormula": "Công thức phân tích 1 câu thơ: TRÍCH DẪN → NGHỆ THUẬT → NỘI DUNG → CẢM XÚC → ĐÁNH GIÁ",
+      "example": {
+        "problem": "Phân tích câu thơ 'Bỗng nhận ra hương ổi / Phả vào trong gió se' (Sang thu)",
+        "steps": [
+          "TRÍCH DẪN: 'Bỗng nhận ra hương ổi / Phả vào trong gió se'",
+          "NGHỆ THUẬT: 'Bỗng' = phó từ chỉ sự bất ngờ; 'Phả' = động từ mạnh, chủ động; 'hương ổi' = hình ảnh quen thuộc, gần gũi",
+          "NỘI DUNG: Tín hiệu đầu tiên báo thu về là mùi hương ổi thoảng qua gió se",
+          "CẢM XÚC: Gợi cảm giác ngỡ ngàng, bất ngờ, bâng khuâng khi nhận ra thu đến",
+          "ĐÁNH GIÁ: Hữu Thỉnh chọn 'hương ổi' thay vì hoa lá sang trọng → thu của quê hương bình dị, gần gũi"
+        ],
+        "result": "Một câu thơ phân tích đầy đủ 5 bước = khoảng 8–10 dòng viết!"
+      },
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Cấu trúc phân tích nhân vật văn xuôi",
+      "content": "Phân tích nhân vật theo 3 luận điểm:\n\nLuận điểm 1: Hoàn cảnh nhân vật → dẫn chứng + phân tích\nLuận điểm 2: Phẩm chất/tính cách nổi bật → dẫn chứng + phân tích\nLuận điểm 3: Ý nghĩa nhân vật → liên hệ thực tế\n\nVí dụ với nhân vật Vũ Nương:\nLD1: Hoàn cảnh — chồng đi lính, một mình nuôi con phụng dưỡng mẹ chồng\nLD2: Phẩm chất — hiền thảo, thuỷ chung (bằng chứng: dùng bóng mình thay hình cha cho con)\nLD3: Ý nghĩa — đại diện người phụ nữ phong kiến bị xã hội bất công, phụ quyền vùi dập",
+      "keyFormula": "Mỗi luận điểm: Nêu luận điểm → Dẫn chứng (trích dẫn) → Phân tích (tại sao, ý nghĩa gì) → Đánh giá",
+      "example": null,
+      "miniGame": {
+        "question": "Khi phân tích nhân vật, đoạn nào PHẢI có để bài đạt điểm cao?",
+        "options": ["Tóm tắt toàn bộ truyện", "Dẫn chứng cụ thể (trích dẫn) + Phân tích (tại sao hay)", "Giới thiệu tác giả", "Nhận xét về thể loại văn học"],
+        "answer": "Dẫn chứng cụ thể (trích dẫn) + Phân tích (tại sao hay)",
+        "explanation": "Người chấm thi luôn đánh giá cao bài có: (1) Trích dẫn chính xác câu văn/thơ minh chứng, (2) Phân tích được TẠI SAO chi tiết đó hay — không chỉ kể lại. Đây là điểm phân biệt bài 6–7 và bài 8–9 điểm."
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Viết mở bài gián tiếp (cách 2 — lý luận văn học) cho đề: 'Cảm nhận khổ cuối bài Ánh trăng (Nguyễn Duy): Trăng cứ tròn vành vạnh... đủ cho ta giật mình.'",
+      "correctSteps": [
+        "Bắt đầu bằng nhận định về văn học: 'Thơ hay không chỉ đẹp về ngôn từ mà còn đánh thức lương tâm con người...'",
+        "Hoặc: 'Có những bài thơ chỉ đọc một lần mà nhớ mãi, không vì vần điệu đẹp mà vì nó chạm đúng vào điều ta đang cố quên...'",
+        "Dẫn vào tác phẩm: '...Ánh trăng của Nguyễn Duy là một bài thơ như thế.'",
+        "Giới thiệu vấn đề: 'Đặc biệt, khổ thơ cuối là đỉnh điểm của bài — khoảnh khắc 'giật mình' đầy sức nặng của lương tâm.'"
+      ],
+      "correctAnswer": "Viết mở bài gián tiếp hoàn chỉnh",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Bước 1: Viết nhận định chung về văn học (1–2 câu). Bước 2: '...Ánh trăng là bài thơ như thế'. Bước 3: Giới thiệu vấn đề cần phân tích."
+    },
+    {
+      "id": 2,
+      "question": "Phân tích câu thơ 'Đầu súng trăng treo' (Đồng chí — Chính Hữu) theo đúng công thức: Trích dẫn → Nghệ thuật → Nội dung → Cảm xúc → Đánh giá.",
+      "correctSteps": [
+        "TRÍCH DẪN: 'Đầu súng trăng treo'",
+        "NGHỆ THUẬT: Ẩn dụ ('súng' = chiến tranh, 'trăng' = hoà bình, lãng mạn); hình ảnh đối lập nhưng song hành; nhịp thơ ngắn 4 chữ mạnh mẽ",
+        "NỘI DUNG: Người lính trong đêm canh gác — khẩu súng chỉ lên trời, vầng trăng treo trên đó",
+        "CẢM XÚC: Vừa hiện thực (súng — chiến tranh) vừa lãng mạn (trăng — vẻ đẹp, hoà bình). Người lính vừa là chiến sĩ vừa là thi sĩ",
+        "ĐÁNH GIÁ: Câu thơ hay nhất bài — biểu tượng kép: người lính kháng chiến mang trong mình cả ý chí chiến đấu lẫn tâm hồn yêu đời"
+      ],
+      "correctAnswer": "Phân tích đầy đủ 5 bước",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Súng → tượng trưng cho gì? Trăng → tượng trưng cho gì? Hai thứ đối lập mà lại song hành → điều đó nói lên điều gì về tâm hồn người lính?"
+    },
+    {
+      "id": 3,
+      "question": "Viết kết bài 'nâng cao' (cách 2) cho đề phân tích bài thơ 'Mùa xuân nho nhỏ' (Thanh Hải). Kết bài cần: tóm lại giá trị + liên hệ bài học hôm nay + câu gợi mở.",
+      "correctSteps": [
+        "Tóm lại giá trị: 'Với thể thơ 5 chữ nhẹ nhàng, hình ảnh biểu tượng giản dị và cảm xúc chân thành, Mùa xuân nho nhỏ đã thể hiện triết lý sống đẹp: sống cống hiến khiêm tốn, lặng lẽ nhưng có giá trị.'",
+        "Liên hệ bài học: 'Bài thơ được Thanh Hải viết trên giường bệnh — khi cái chết đang đến gần — nhưng ông không nói về nỗi sợ mà nói về khát vọng. Điều đó nhắc nhở thế hệ trẻ: đừng đợi đến lúc sắp mất mới trân trọng sự sống.'",
+        "Câu gợi mở: 'Mỗi chúng ta hãy là một mùa xuân nho nhỏ — lặng lẽ dâng cho đời, không cần ồn ào nhưng đủ để cuộc đời này thêm đẹp hơn.'"
+      ],
+      "correctAnswer": "Viết kết bài hoàn chỉnh 3 phần",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "3 phần kết bài nâng cao: (1) Tóm giá trị nội dung + nghệ thuật, (2) Liên hệ ý nghĩa với cuộc sống hôm nay, (3) Câu cuối gợi mở, ấn tượng."
+    }
+  ]
+}

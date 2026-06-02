@@ -1,0 +1,104 @@
+{
+  "id": "ngu-van-ngay-23-25-vu-nuong",
+  "fileName": "ngu-van-ngay-23-25-vu-nuong.json",
+  "title": "Ngày 23–25: Chuyện Người Con Gái Nam Xương (Nguyễn Dữ)",
+  "topics": ["Ngữ Văn", "Chuyện Người Con Gái Nam Xương", "Vũ Nương", "Phụ Nữ Phong Kiến"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "ngu-van",
+  "grade": "9",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Tác giả, tóm tắt cốt truyện và giá trị",
+      "content": "NGUYỄN DỮ: Sống thế kỷ XVI, viết 'Truyền kỳ mạn lục' (ghi chép chuyện kỳ lạ).\n\nCỐT TRUYỆN: Vũ Nương — chồng (Trương Sinh) đi lính. Ở nhà, nàng nuôi con, phụng dưỡng mẹ chồng. Đêm đêm, chỉ cái bóng mình trên vách bảo con đó là 'cha'. Chồng về, con nói có 'cha khác' hay đến ban đêm. Trương Sinh ghen, mắng đuổi vợ → Vũ Nương nhảy xuống sông tự vẫn. Sau đó Trương Sinh thấy bóng mình trên vách, con gọi 'cha' → hiểu ra nhưng quá muộn.\n\nGIÁ TRỊ:\n• Nhân đạo: ca ngợi phẩm chất Vũ Nương, tố cáo xã hội phong kiến bất công\n• Hiện thực: phản ánh chiến tranh phi nghĩa, thân phận người phụ nữ bị bóc lột",
+      "keyFormula": "Chi tiết cái bóng = nguyên nhân bi kịch. Yếu tố kỳ ảo (thuỷ cung) = ước mơ nhân dân về sự công bằng.",
+      "example": null,
+      "miniGame": {
+        "question": "Nguyên nhân trực tiếp dẫn đến cái chết của Vũ Nương là gì?",
+        "options": ["Mẹ chồng qua đời", "Trương Sinh đa nghi ghen tuông vì lời trẻ con về 'cha khác'", "Vũ Nương bị bệnh nặng", "Chiến tranh chia cắt vợ chồng"],
+        "answer": "Trương Sinh đa nghi ghen tuông vì lời trẻ con về 'cha khác'",
+        "explanation": "Đêm đêm Vũ Nương chỉ bóng mình cho con gọi là 'cha'. Khi Trương Sinh về, con nói 'cha hay đến ban đêm' → Trương Sinh hiểu lầm vợ ngoại tình → ghen tuông, mắng đuổi → Vũ Nương tự vẫn. Đây là bi kịch từ sự hiểu lầm và tính đa nghi của người chồng."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Phân tích nhân vật Vũ Nương — Người phụ nữ lý tưởng",
+      "content": "3 luận điểm chính về Vũ Nương:\n\nLUẬN ĐIỂM 1: Vợ hiền, dâu thảo\n• Chồng đi lính: 'nàng giữ gìn khuôn phép, không từng để lúc nào vui cười'\n• Mẹ chồng ốm: 'hết sức thuốc thang, lấy lời ngọt ngào khuyên lơn'\n• Mẹ chồng mất: 'hết lời thương xót, phàm việc ma chay tế lễ lo liệu như cha mẹ đẻ'\n\nLUẬN ĐIỂM 2: Thuỷ chung\n• Chiếu bóng mình lên vách, bảo con là 'cha' → yêu chồng, muốn con luôn cảm nhận hình bóng cha\n\nLUẬN ĐIỂM 3: Phẩm giá trong bi kịch\n• Bị oan nhưng chọn cái chết để giữ phẩm tiết → không chịu sống nhục\n• Câu nói trước khi nhảy sông: 'Nếu đoan chính mà chịu tiếng oan... xin hãy chứng giám cho' → đanh thép",
+      "keyFormula": "Vũ Nương: Vợ hiền + dâu thảo + thuỷ chung = người phụ nữ lý tưởng theo quan niệm phong kiến → nhưng vẫn bị xã hội vùi dập → tố cáo mạnh mẽ!",
+      "example": null,
+      "miniGame": {
+        "question": "Hành động 'chiếu bóng mình lên vách, bảo con đó là cha' thể hiện phẩm chất gì của Vũ Nương?",
+        "options": ["Vũ Nương thích đùa giỡn với con", "Tình yêu thương chồng sâu sắc, muốn con luôn có cha dù cha vắng nhà", "Vũ Nương mê tín dị đoan", "Nàng muốn lừa dối Trương Sinh"],
+        "answer": "Tình yêu thương chồng sâu sắc, muốn con luôn có cha dù cha vắng nhà",
+        "explanation": "Trong thời chiến, người cha vắng nhà, đứa trẻ không biết mặt cha. Vũ Nương chỉ bóng mình lên vách để an ủi con, giữ hình ảnh người cha trong trái tim con. Đây là biểu hiện của tình yêu chồng và tình mẫu tử sâu nặng."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Chi tiết 'cái bóng' — Nghệ thuật xây dựng bi kịch",
+      "content": "CHI TIẾT 'CÁI BÓNG' — nhân tố tạo nên toàn bộ bi kịch:\n\nVới VŨ NƯƠNG: Cái bóng = hình ảnh người cha → tình yêu thương\nVới BÉ ĐẢN: Cái bóng = người cha thật → nhận thức ngây thơ của trẻ con\nVới TRƯƠNG SINH: Cái bóng = 'bằng chứng' ngoại tình → ghen tuông, đa nghi\n\n→ Cùng một sự vật, ba cách hiểu KHÁC NHAU → bi kịch\n→ Chi tiết cái bóng vừa là nguyên nhân, vừa là kết quả, vừa là lời giải oan — RẤT TINH TẾ\n\nYẾU TỐ KỲ ẢO (Thuỷ cung):\n→ Ước mơ nhân dân: người tốt được minh oan\n→ Nhưng chua xót: Vũ Nương không thể trở về → oan giải nhưng hạnh phúc không thể phục hồi",
+      "keyFormula": "Cái bóng = nghệ thuật THẮT NÚT bi kịch. Một chi tiết mà gây ra toàn bộ thảm kịch → tài năng của Nguyễn Dữ!",
+      "example": {
+        "problem": "Phân tích ý nghĩa chi tiết 'cái bóng' trong tác phẩm",
+        "steps": [
+          "Ba cách hiểu khác nhau về cùng một cái bóng → bi kịch đến từ sự hiểu lầm",
+          "Nguyên nhân: Vũ Nương quá yêu chồng → dùng bóng thay cha cho con → vô tình tạo ra hiểu lầm",
+          "Kết quả: Trương Sinh đa nghi + thiếu tin tưởng vợ → không cho vợ giải thích → bi kịch",
+          "Đảo ngược cuối: Chính cái bóng Trương Sinh cũng là 'cha' trong mắt con → giải oan, nhưng muộn rồi",
+          "Ý nghĩa xã hội: Bi kịch không chỉ từ cái bóng mà từ XÃ HỘI PHONG KIẾN gia trưởng, không tin phụ nữ"
+        ],
+        "result": "Chi tiết cái bóng là minh chứng về tài năng xây dựng tình huống của Nguyễn Dữ."
+      },
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Phân tích nhân vật Vũ Nương để thấy vẻ đẹp và số phận bi kịch của người phụ nữ trong xã hội phong kiến. Lập dàn ý chi tiết và viết phần thân bài khoảng 20–25 dòng.",
+      "correctSteps": [
+        "DÀN Ý THÂN BÀI:",
+        "Luận điểm 1: Vũ Nương là người vợ hiền, dâu thảo (dẫn chứng: chăm sóc mẹ chồng ốm, lo tang lễ...)",
+        "Luận điểm 2: Người phụ nữ thuỷ chung sâu sắc (dẫn chứng: cái bóng, lời trăng trối trước khi mất)",
+        "Luận điểm 3: Số phận bi kịch — nạn nhân của xã hội phong kiến bất công (Trương Sinh đa nghi, gia trưởng, không cho giải thích)",
+        "THÂN BÀI mẫu: Phân tích từng luận điểm với trích dẫn cụ thể từ văn bản + đánh giá",
+        "Kết thân bài: Vũ Nương tiêu biểu cho người phụ nữ VN — đẹp người, đẹp nết nhưng bi thảm vì xã hội phong kiến"
+      ],
+      "correctAnswer": "Dàn ý 3 luận điểm + viết thân bài hoàn chỉnh",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "3 luận điểm: (1) Vợ hiền dâu thảo, (2) Thuỷ chung, (3) Bi kịch từ xã hội phong kiến. Mỗi luận điểm phải có TRÍCH DẪN từ văn bản."
+    },
+    {
+      "id": 2,
+      "question": "Phân tích ý nghĩa của chi tiết 'cái bóng' trong 'Chuyện người con gái Nam Xương'. Chi tiết này đóng vai trò gì trong việc tạo nên bi kịch của Vũ Nương?",
+      "correctSteps": [
+        "Xuất hiện ở đầu: Vũ Nương dùng bóng thay 'cha' cho con → xuất phát từ tình yêu thương",
+        "Gây hiểu lầm: Trương Sinh nghe con nói 'cha hay đến ban đêm' → ghen tuông",
+        "Tạo bi kịch: Trương Sinh không cho vợ giải thích → Vũ Nương tự vẫn",
+        "Giải oan cuối: Bé Đản chỉ bóng Trương Sinh trên vách gọi là 'cha' → Trương Sinh hiểu ra → nhưng đã muộn",
+        "Ý nghĩa nghệ thuật: Cùng một cái bóng, 3 người hiểu khác nhau → tạo xung đột, bi kịch",
+        "Ý nghĩa tư tưởng: Bi kịch Vũ Nương không đến từ tội lỗi mà từ sự đa nghi, gia trưởng → tố cáo xã hội"
+      ],
+      "correctAnswer": "Cái bóng = nguyên nhân hiểu lầm → tạo bi kịch. Ba cách hiểu khác nhau = nghệ thuật thắt nút.",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Hỏi: Vũ Nương dùng cái bóng với mục đích gì? Trương Sinh hiểu cái bóng là gì? Kết quả là gì? Đây là nghệ thuật gì?"
+    },
+    {
+      "id": 3,
+      "question": "Nguyên nhân nào dẫn đến bi kịch của Vũ Nương? Xã hội phong kiến đã đối xử bất công với người phụ nữ như thế nào qua câu chuyện này?",
+      "correctSteps": [
+        "Nguyên nhân trực tiếp: Trương Sinh đa nghi, vội tin vào lời trẻ con, không cho vợ giải thích.",
+        "Nguyên nhân sâu xa: Xã hội phong kiến — người chồng có quyền tuyệt đối, phụ nữ không được bào chữa.",
+        "Chiến tranh phi nghĩa: Chồng phải đi lính — xa cách lâu dài gây thiếu tin tưởng.",
+        "Thái độ của xã hội: Trương Sinh mắng đuổi vợ mà không ai can ngăn → xã hội đồng lõa với bất công.",
+        "Kết luận: Bi kịch Vũ Nương không phải ngẫu nhiên mà là hệ quả tất yếu của chế độ phong kiến trọng nam khinh nữ."
+      ],
+      "correctAnswer": "Nguyên nhân: đa nghi + chế độ phong kiến gia trưởng + chiến tranh",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Hỏi: Nếu Trương Sinh tin vợ, cho vợ giải thích → bi kịch có xảy ra không? Vậy gốc rễ vấn đề là ở đâu?"
+    }
+  ]
+}

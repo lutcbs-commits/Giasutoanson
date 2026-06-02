@@ -2,7 +2,7 @@
 import { useState } from 'react';
 
 export interface SubjectGradeChoice {
-  subject: 'toan' | 'tieng-anh-ielts' | 'hoa-hoc' | 'dia-ly';
+  subject: 'toan' | 'tieng-anh-ielts' | 'hoa-hoc' | 'dia-ly' | 'ngu-van';
   grade: string;
 }
 
@@ -49,6 +49,17 @@ const SUBJECTS = [
     color: 'from-emerald-500 to-teal-600',
     bg: 'bg-emerald-50 border-emerald-300',
     selectedBg: 'bg-emerald-500',
+    textSelected: 'text-white',
+  },
+  {
+    id: 'ngu-van' as const,
+    emoji: '📝',
+    label: 'Ngữ văn',
+    description: 'Ôn thi vào lớp 10 môn Ngữ văn — mục tiêu 9 điểm Hà Nội',
+    grades: [{ value: '9', label: 'Lớp 9', note: 'Ôn thi vào lớp 10 — 9 điểm trong 2 tháng' }],
+    color: 'from-pink-500 to-rose-600',
+    bg: 'bg-pink-50 border-pink-300',
+    selectedBg: 'bg-pink-500',
     textSelected: 'text-white',
   },
 ];
