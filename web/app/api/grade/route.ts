@@ -14,112 +14,50 @@ interface GradeRequest {
   essayAnswer?: string;
 }
 
+function cut(s: string, max: number) {
+  return s && s.length > max ? s.slice(0, max) + '…' : (s ?? '');
+}
+
 function buildEssayGradePrompt(req: GradeRequest): string {
-  const keyPoints = (req.correctSteps ?? []).slice(0, 6).map(s => truncate(s, 150)).join('\n');
   const subjectLabel: Record<string, string> = {
-    'ngu-van': 'Ngữ văn lớp 9',
-    'hoa-hoc': 'Hoá học lớp 10',
-    'dia-ly': 'Địa lý lớp 10',
+    'ngu-van': 'Ngữ văn 9',
+    'hoa-hoc': 'Hoá học 10',
+    'dia-ly': 'Địa lý 10',
   };
-  const teacher = subjectLabel[req.subject ?? ''] ?? 'giáo viên giàu kinh nghiệm';
-  return `Bạn là giáo viên ${teacher} giàu kinh nghiệm.
+  const subj = subjectLabel[req.subject ?? ''] ?? 'môn học';
+  const keyPoints = (req.correctSteps ?? []).slice(0, 4)
+    .map((s, i) => `${i + 1}. ${cut(s, 80)}`).join('\n');
+  const answer = cut(req.essayAnswer || '', 800);
 
-ĐỀ BÀI:
-${truncate(req.question, 500)}
+  return `GV ${subj}. Chấm bài HS, trả JSON duy nhất.
 
-CÁC Ý CHÍNH CẦN CÓ TRONG BÀI LÀM:
+ĐỀ: ${cut(req.question, 200)}
+Ý CHÍNH CẦN CÓ:
 ${keyPoints}
+BÀI HS: ${answer || '(trống)'}
 
-BÀI LÀM CỦA HỌC SINH:
-${truncate(req.essayAnswer || '(Học sinh không viết gì)', 2000)}
+Trả đúng cấu trúc JSON sau, không kèm text:
+{"stepFeedback":[],"answerCorrect":true,"answerFeedback":"","overallFeedback":"nhận xét 2 câu","score":7,"modelSolution":{"steps":["đoạn văn mẫu 1","đoạn văn mẫu 2"],"answer":"","unit":"","explanation":"1 câu tóm tắt"},"diagram":null}
 
-Hãy chấm bài và trả về JSON với cấu trúc CHÍNH XÁC sau (không có text nào khác):
-
-{
-  "stepFeedback": [],
-  "answerCorrect": true,
-  "answerFeedback": "",
-  "overallFeedback": "Nhận xét chung 2–3 câu: điểm mạnh, điểm cần cải thiện, lời động viên",
-  "score": 7,
-  "modelSolution": {
-    "steps": [
-      "Đoạn 1 lời giải mẫu (viết thành đoạn văn đầy đủ, không phải gạch đầu dòng)",
-      "Đoạn 2 lời giải mẫu (tiếp theo, nếu cần)",
-      "Đoạn 3 lời giải mẫu (kết luận)"
-    ],
-    "answer": "",
-    "unit": "",
-    "explanation": "1 câu tóm tắt điểm cốt lõi của bài"
-  },
-  "diagram": null
+score: 0-10 (9-10=đủ ý+dẫn chứng+sâu; 7-8=khá; 5-6=thiếu phân tích; <5=yếu). answerCorrect=true nếu score>=5. modelSolution.steps: đoạn văn hoàn chỉnh.`;
 }
-
-HƯỚNG DẪN CHẤM:
-- score 9–10: Đủ ý chính, có dẫn chứng cụ thể, phân tích sâu, có cảm xúc, diễn đạt tốt
-- score 7–8: Đủ ý chính, có dẫn chứng, phân tích khá
-- score 5–6: Có ý nhưng thiếu dẫn chứng hoặc phân tích còn nông
-- score 3–4: Thiếu nhiều ý, hoặc chỉ kể lại không phân tích
-- score 0–2: Không viết hoặc lạc đề hoàn toàn
-- answerCorrect: true nếu score >= 5
-- modelSolution.steps: Viết lời giải mẫu dạng đoạn văn hoàn chỉnh (như bài văn thật), KHÔNG phải gạch đầu dòng. Mỗi phần tử là một đoạn văn.
-- Dùng ngôn ngữ thân thiện, khuyến khích học sinh
-- Output CHỈ là JSON thuần túy`;
-}
-
-function truncate(s: string, max: number) { return s.length > max ? s.slice(0, max) + '...' : s; }
 
 function buildGradePrompt(req: GradeRequest): string {
-  const steps = Array.isArray(req.studentSteps) ? req.studentSteps : [];
-  const correctSteps = (Array.isArray(req.correctSteps) ? req.correctSteps : []).slice(0, 5);
-  const studentStepsText = steps.slice(0, 5)
-    .map((s, i) => `Bước ${i + 1}: ${truncate(s, 120)}`)
-    .join('\n');
-  const correctStepsText = correctSteps.length > 0
-    ? correctSteps.map((s, i) => `Bước ${i + 1}: ${truncate(s, 150)}`).join('\n')
-    : '(Hãy tự xây dựng lời giải mẫu phù hợp với đề bài)';
+  const studentSteps = (req.studentSteps ?? []).slice(0, 4)
+    .map((s, i) => `B${i + 1}: ${cut(s, 80)}`).join('\n');
 
-  return `Bạn là giáo viên toán lớp 5. Hãy chấm bài làm của học sinh và trả về JSON.
+  return `GV toán lớp 5. Chấm bài, trả JSON duy nhất.
 
-ĐỀ BÀI: ${truncate(req.question, 400)}
+ĐỀ: ${cut(req.question, 200)}
+ĐÁP ÁN: ${cut(req.correctAnswer ?? '', 30)} ${cut(req.correctUnit ?? '', 10)}
+BÀI HS:
+${studentSteps || '(trống)'}
+KQ HS: ${cut(req.studentNumber ?? '', 20)} ${cut(req.studentUnit ?? '', 10)}
 
-ĐÁP ÁN ĐÚNG:
-${correctStepsText}
-Kết quả: ${req.correctAnswer ?? '?'} ${req.correctUnit ?? ''}
+Trả đúng cấu trúc JSON sau, không kèm text:
+{"stepFeedback":[{"step":"bước hs viết","isCorrect":true,"comment":"nhận xét"}],"answerCorrect":false,"answerFeedback":"nhận xét đáp án","overallFeedback":"1 câu động viên","score":7,"modelSolution":{"steps":["B1:...","B2:..."],"answer":"${cut(req.correctAnswer ?? '', 20)}","unit":"${cut(req.correctUnit ?? '', 10)}","explanation":"giải thích ngắn"},"diagram":null}
 
-BÀI LÀM CỦA HỌC SINH:
-${studentStepsText || '(Học sinh không viết lời giải)'}
-Kết quả học sinh ghi: ${req.studentNumber || '(trống)'} ${req.studentUnit || ''}
-
-Hãy chấm bài và trả về JSON với cấu trúc CHÍNH XÁC sau (không có text nào khác):
-
-{
-  "stepFeedback": [
-    {
-      "step": "nội dung bước học sinh viết (hoặc '(không có)' nếu bỏ trống)",
-      "isCorrect": true,
-      "comment": "nhận xét ngắn về bước này"
-    }
-  ],
-  "answerCorrect": false,
-  "answerFeedback": "nhận xét về đáp án học sinh ghi",
-  "overallFeedback": "nhận xét chung 1-2 câu, khuyến khích học sinh",
-  "score": 7,
-  "modelSolution": {
-    "steps": ["Bước 1: ...", "Bước 2: ...", "Bước 3: ..."],
-    "answer": "${req.correctAnswer}",
-    "unit": "${req.correctUnit}",
-    "explanation": "Giải thích ngắn tại sao làm như vậy"
-  },
-  "diagram": null
-}
-
-LƯU Ý:
-- stepFeedback: có đúng số phần tử bằng số bước học sinh đã viết (nếu không viết bước nào thì mảng rỗng [])
-- answerCorrect: so sánh kỹ số và đơn vị học sinh ghi với đáp án đúng
-- score: 0-10, chấm dựa trên lời giải (không chỉ đáp án cuối)
-- diagram: null (để null, không cần vẽ)
-- Dùng ngôn ngữ thân thiện, khuyến khích học sinh lớp 5
-- Output CHỈ là JSON thuần túy`;
+stepFeedback: 1 phần tử/bước hs viết (rỗng nếu không có). score: 0-10. diagram: null.`;
 }
 
 export async function POST(req: NextRequest) {
@@ -144,6 +82,7 @@ export async function POST(req: NextRequest) {
         model: 'llama-3.3-70b-versatile',
         messages: [{ role: 'user', content: prompt }],
         temperature: 0.3,
+        max_tokens: 1024,
       });
     } catch (primaryErr) {
       const e = primaryErr as { status?: number };
@@ -161,7 +100,6 @@ export async function POST(req: NextRequest) {
         jsonStr = jsonStr.replace(/^```[a-z]*\n?/, '').replace(/\n?```$/, '');
       }
       const raw = JSON.parse(jsonStr);
-      // Normalize để tránh undefined khi Gemini trả về thiếu fields
       feedback = {
         stepFeedback: Array.isArray(raw.stepFeedback) ? raw.stepFeedback : [],
         answerCorrect: Boolean(raw.answerCorrect),
@@ -169,7 +107,6 @@ export async function POST(req: NextRequest) {
         overallFeedback: raw.overallFeedback ?? '',
         score: typeof raw.score === 'number' ? raw.score : 5,
         modelSolution: {
-          // Always use authoritative correctSteps — never rely on AI to reproduce them
           steps: Array.isArray(body.correctSteps) && body.correctSteps.length > 0
             ? body.correctSteps
             : Array.isArray(raw.modelSolution?.steps) ? raw.modelSolution.steps : [],
@@ -180,7 +117,7 @@ export async function POST(req: NextRequest) {
         diagram: raw.diagram ?? null,
       };
     } catch {
-      return NextResponse.json({ error: 'Gemini trả về dữ liệu không hợp lệ' }, { status: 500 });
+      return NextResponse.json({ error: 'AI trả về dữ liệu không hợp lệ' }, { status: 500 });
     }
 
     return NextResponse.json({ success: true, feedback });
