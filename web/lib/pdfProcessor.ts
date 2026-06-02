@@ -93,16 +93,17 @@ async function extractTextFromPdf(pdfPath: string): Promise<string> {
 
 function buildPrompt(pdfText: string, fileName: string): string {
   const content = pdfText.slice(0, 3000);
-  return `GV toán lớp 5 VN. Tạo bài học từ tài liệu. Trả JSON thuần túy, không markdown.
+  return `Bạn là GV toán lớp 5. Nhiệm vụ: tạo bài học JSON từ tài liệu dưới đây.
+QUAN TRỌNG: Chỉ trả về JSON, bắt đầu bằng { và kết thúc bằng }. Không có text nào khác.
 
 FILE: ${fileName}
-NỘI DUNG:
+NỘI DUNG TÀI LIỆU:
 ${content}
 
-JSON schema (4 slides, 5 bài tập):
-{"title":"...","topics":["..."],"slides":[{"id":1,"title":"...","content":"...","keyFormula":"","example":{"problem":"...","steps":["B1:...","B2:..."],"result":"..."},"miniGame":{"question":"...","options":["A","B","C","D"],"answer":"A","explanation":"..."}}],"exercises":[{"id":1,"question":"...","correctSteps":["B1:...","B2:...","B3:..."],"correctAnswer":"5","correctUnit":"kg","difficulty":"easy","hint":"..."}]}
+Tạo JSON với cấu trúc sau (4 slides, 5 bài tập, tiếng Việt):
+{"title":"Tên bài","topics":["topic1","topic2"],"slides":[{"id":1,"title":"Tiêu đề","content":"Nội dung lý thuyết","keyFormula":"công thức hoặc rỗng","example":{"problem":"Ví dụ","steps":["B1","B2"],"result":"Đáp án"},"miniGame":null}],"exercises":[{"id":1,"question":"Đề bài","correctSteps":["B1","B2","B3"],"correctAnswer":"5","correctUnit":"kg","difficulty":"easy","hint":"Gợi ý"}]}
 
-Yêu cầu: 4 slides (dạy lý thuyết), 5 bài tập tự luận từ tài liệu. miniGame chỉ cho 2 slides. correctAnswer chỉ ghi số. difficulty: easy/medium/hard. Tiếng Việt thân thiện lớp 5.`;
+Lưu ý: miniGame chỉ thêm cho 2 slides (question/options[4]/answer/explanation). correctAnswer chỉ ghi số. difficulty: easy/medium/hard.`;
 }
 
 export async function processLesson(fileName: string): Promise<LessonData> {
@@ -152,10 +153,11 @@ export async function processLesson(fileName: string): Promise<LessonData> {
 
   let parsed: { title: string; topics: string[]; slides: LessonData['slides']; exercises: LessonData['exercises'] };
   try {
-    let jsonStr = rawText.trim();
-    if (jsonStr.startsWith('```')) {
-      jsonStr = jsonStr.replace(/^```[a-z]*\n?/, '').replace(/\n?```$/, '');
-    }
+    // Extract JSON robustly: find first { and last }
+    const start = rawText.indexOf('{');
+    const end = rawText.lastIndexOf('}');
+    if (start === -1 || end === -1) throw new Error('No JSON object found');
+    const jsonStr = rawText.slice(start, end + 1);
     parsed = JSON.parse(jsonStr);
   } catch {
     throw new Error(`Groq API trả về JSON không hợp lệ. Raw: ${rawText.slice(0, 200)}`);

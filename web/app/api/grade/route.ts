@@ -95,11 +95,10 @@ export async function POST(req: NextRequest) {
 
     let feedback: GradeFeedback;
     try {
-      let jsonStr = rawText.trim();
-      if (jsonStr.startsWith('```')) {
-        jsonStr = jsonStr.replace(/^```[a-z]*\n?/, '').replace(/\n?```$/, '');
-      }
-      const raw = JSON.parse(jsonStr);
+      const start = rawText.indexOf('{');
+      const end = rawText.lastIndexOf('}');
+      if (start === -1 || end === -1) throw new Error('no JSON');
+      const raw = JSON.parse(rawText.slice(start, end + 1));
       feedback = {
         stepFeedback: Array.isArray(raw.stepFeedback) ? raw.stepFeedback : [],
         answerCorrect: Boolean(raw.answerCorrect),
