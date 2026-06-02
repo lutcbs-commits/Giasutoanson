@@ -5,6 +5,8 @@ import type { LessonData } from './lessonTypes';
 
 export const CONTENT_DIR = path.resolve(process.cwd(), '../content');
 export const LESSONS_DIR = path.resolve(process.cwd(), '../content/lessons');
+// Writable fallback for serverless environments (Vercel /var/task is read-only)
+const TMP_LESSONS_DIR = '/tmp/lessons';
 
 function slugify(fileName: string): string {
   return fileName
@@ -26,13 +28,23 @@ export function getLessonPath(id: string): string {
   return path.join(LESSONS_DIR, `${id}.json`);
 }
 
+function findLessonFile(id: string): string | null {
+  const bundled = path.join(LESSONS_DIR, `${id}.json`);
+  if (fs.existsSync(bundled)) return bundled;
+  const tmp = path.join(TMP_LESSONS_DIR, `${id}.json`);
+  if (fs.existsSync(tmp)) return tmp;
+  return null;
+}
+
 export function lessonExists(id: string): boolean {
-  return fs.existsSync(getLessonPath(id));
+  return findLessonFile(id) !== null;
 }
 
 export function loadLesson(id: string): LessonData | null {
   try {
-    const raw = fs.readFileSync(getLessonPath(id), 'utf-8');
+    const filePath = findLessonFile(id);
+    if (!filePath) return null;
+    const raw = fs.readFileSync(filePath, 'utf-8');
     return JSON.parse(raw) as LessonData;
   } catch {
     return null;
@@ -50,17 +62,25 @@ export function listLessons(): Array<{ id: string; fileName: string; processed: 
     processed: lessonExists(getLessonId(fileName)),
   }));
 
-  // Include JSON-only lessons (manually created, no PDF source)
-  if (!fs.existsSync(LESSONS_DIR)) return pdfLessons;
-  const pdfIds = new Set(pdfLessons.map(l => l.id));
-  const jsonOnlyLessons = fs
-    .readdirSync(LESSONS_DIR)
-    .filter(f => /\.json$/i.test(f))
-    .map(f => f.replace(/\.json$/i, ''))
-    .filter(id => !pdfIds.has(id))
-    .map(id => ({ id, fileName: `${id}.json`, processed: true }));
+  const knownIds = new Set(pdfLessons.map(l => l.id));
 
-  return [...pdfLessons, ...jsonOnlyLessons];
+  const collectJsonOnly = (dir: string): Array<{ id: string; fileName: string; processed: boolean }> => {
+    if (!fs.existsSync(dir)) return [];
+    return fs
+      .readdirSync(dir)
+      .filter(f => /\.json$/i.test(f))
+      .map(f => f.replace(/\.json$/i, ''))
+      .filter(id => !knownIds.has(id))
+      .map(id => {
+        knownIds.add(id);
+        return { id, fileName: `${id}.json`, processed: true };
+      });
+  };
+
+  const bundledJsonOnly = collectJsonOnly(LESSONS_DIR);
+  const tmpJsonOnly = collectJsonOnly(TMP_LESSONS_DIR);
+
+  return [...pdfLessons, ...bundledJsonOnly, ...tmpJsonOnly];
 }
 
 async function extractTextFromPdf(pdfPath: string): Promise<string> {
@@ -200,8 +220,23 @@ export async function processLesson(fileName: string): Promise<LessonData> {
     exercises: parsed.exercises ?? [],
   };
 
-  fs.mkdirSync(LESSONS_DIR, { recursive: true });
-  fs.writeFileSync(getLessonPath(id), JSON.stringify(lessonData, null, 2), 'utf-8');
+  // Try writing to content/lessons; fall back to /tmp/lessons when filesystem is read-only (serverless)
+  try {
+    fs.mkdirSync(LESSONS_DIR, { recursive: true });
+    fs.writeFileSync(getLessonPath(id), JSON.stringify(lessonData, null, 2), 'utf-8');
+  } catch (writeErr) {
+    const e = writeErr as NodeJS.ErrnoException;
+    if (e.code === 'EROFS' || e.code === 'EACCES') {
+      fs.mkdirSync(TMP_LESSONS_DIR, { recursive: true });
+      fs.writeFileSync(
+        path.join(TMP_LESSONS_DIR, `${id}.json`),
+        JSON.stringify(lessonData, null, 2),
+        'utf-8'
+      );
+    } else {
+      throw writeErr;
+    }
+  }
 
   return lessonData;
 }
