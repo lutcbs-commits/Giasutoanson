@@ -91,7 +91,11 @@ async function extractTextFromPdf(pdfPath: string): Promise<string> {
   return data.text as string;
 }
 
-function buildPrompt(pdfText: string, fileName: string): string {
+function buildPrompt(pdfText: string, fileName: string, lite = false): string {
+  const slidesReq = lite ? '3-4 slides' : '6-10 slides';
+  const exReq = lite ? '4-5 bài tập' : '8-12 bài tập';
+  const contentSlice = lite ? pdfText.slice(0, 10000) : pdfText.slice(0, 14000);
+
   return `Bạn là giáo viên toán tiểu học Việt Nam giàu kinh nghiệm, chuyên dạy lớp 5 chuẩn bị thi vào lớp 6.
 
 Dựa vào nội dung tài liệu toán sau đây, hãy tạo bài học tương tác cho học sinh lớp 5.
@@ -99,7 +103,7 @@ Dựa vào nội dung tài liệu toán sau đây, hãy tạo bài học tương
 TÊN FILE: ${fileName}
 
 NỘI DUNG TÀI LIỆU:
-${pdfText.slice(0, 14000)}
+${contentSlice}
 
 Hãy tạo output JSON với cấu trúc CHÍNH XÁC như sau (không có text nào khác ngoài JSON):
 
@@ -143,11 +147,11 @@ Hãy tạo output JSON với cấu trúc CHÍNH XÁC như sau (không có text n
 }
 
 YÊU CẦU:
-- Tạo 6-10 slides lý thuyết từ cơ bản đến nâng cao
+- Tạo ${slidesReq} lý thuyết từ cơ bản đến nâng cao
 - keyFormula: để trống string "" nếu không có công thức
 - example: null nếu slide không có ví dụ cụ thể
 - miniGame: CHỈ thêm cho 3-4 slides, để null cho các slide còn lại
-- Tạo 8-12 bài tập TỰ LUẬN lấy từ tài liệu, đa dạng từ dễ đến khó
+- Tạo ${exReq} TỰ LUẬN lấy từ tài liệu, đa dạng từ dễ đến khó
 - correctSteps: 2-5 bước giải chi tiết, mỗi bước ghi rõ phép tính
 - correctAnswer: CHỈ ghi con số (ví dụ "5", "12.5", "120")
 - correctUnit: đơn vị đo (ví dụ "kg", "cm", "m²", "giờ", "đồng", "" nếu không có đơn vị)
@@ -186,15 +190,14 @@ export async function processLesson(fileName: string): Promise<LessonData> {
       model: 'llama-3.3-70b-versatile',
       messages: [{ role: 'user', content: buildPrompt(pdfText, fileName) }],
       temperature: 0.7,
+      max_tokens: 8192,
     });
   } catch (primaryErr) {
     const e = primaryErr as { status?: number };
-    if (e.status !== 429) throw primaryErr;
-    completion = await groq.chat.completions.create({
-      model: 'llama-3.1-8b-instant',
-      messages: [{ role: 'user', content: buildPrompt(pdfText, fileName) }],
-      temperature: 0.7,
-    });
+    if (e.status === 429) {
+      throw new Error('Groq đang bận (rate limit). Hãy thử lại sau 60 giây.');
+    }
+    throw primaryErr;
   }
   const rawText = completion.choices[0]?.message?.content ?? '';
 
@@ -206,7 +209,7 @@ export async function processLesson(fileName: string): Promise<LessonData> {
     }
     parsed = JSON.parse(jsonStr);
   } catch {
-    throw new Error('Gemini API trả về JSON không hợp lệ');
+    throw new Error(`Groq API trả về JSON không hợp lệ. Raw: ${rawText.slice(0, 200)}`);
   }
 
   const id = getLessonId(fileName);

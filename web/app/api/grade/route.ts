@@ -88,13 +88,10 @@ export async function POST(req: NextRequest) {
       });
     } catch (primaryErr) {
       const e = primaryErr as { status?: number };
-      if (e.status !== 429) throw primaryErr;
-      // Rate limit hit — fall back to smaller model with higher daily quota
-      completion = await groq.chat.completions.create({
-        model: 'llama-3.1-8b-instant',
-        messages: [{ role: 'user', content: buildGradePrompt(body) }],
-        temperature: 0.3,
-      });
+      if (e.status === 429) {
+        throw new Error('Groq đang bận (rate limit). Hãy thử lại sau 60 giây.');
+      }
+      throw primaryErr;
     }
     const rawText = completion.choices[0]?.message?.content ?? '';
 
