@@ -1,0 +1,111 @@
+{
+  "id": "dia-ly-ngay-09-song-ngoi-dat-sinh-vat",
+  "fileName": "dia-ly-ngay-09-song-ngoi-dat-sinh-vat.json",
+  "title": "Ngày 9: Sông Ngòi, Đất & Sinh Vật Việt Nam",
+  "topics": ["Địa Lý", "Sông Ngòi", "Đất Feralit", "Rừng Việt Nam"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "dia-ly",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Sông ngòi Việt Nam — Đặc điểm chung",
+      "content": "MẠNG LƯỚI SÔNG NGÒI:\n• 2.360 con sông dài > 10km — mạng lưới rất dày đặc\n• Chế độ nước theo mùa: mùa lũ chiếm 70–80% lượng nước năm\n• Nhiều phù sa: sông Hồng mang 100 triệu tấn phù sa/năm\n\nNGUYÊN NHÂN:\n• Mưa nhiều, tập trung theo mùa → nước thất thường\n• Địa hình dốc (đồi núi 3/4 diện tích) → nước chảy nhanh, tập trung nhanh",
+      "keyFormula": "3 hệ sông lớn: Sông Hồng (169.000 km²) | Sông Mê Kông (795.000 km² toàn lưu vực) | Sông miền Trung (ngắn, dốc, lũ nhanh)",
+      "example": {
+        "problem": "Tại sao lũ ở đồng bằng sông Cửu Long 'hiền' hơn lũ sông Hồng?",
+        "steps": [
+          "Sông Mê Kông chảy qua Biển Hồ (Campuchia) trước khi vào ĐBSCL",
+          "Biển Hồ hoạt động như hồ điều tiết khổng lồ: hấp thụ lũ khi mùa lũ, nhả nước khi mùa khô",
+          "ĐBSCL không có đê lớn → nước tràn từ từ, thấm chậm, rút chậm → lũ 'hiền'",
+          "Sông Hồng: không có hồ điều tiết lớn, lũ tập trung nhanh → dữ dội hơn"
+        ],
+        "result": "Biển Hồ = 'bộ điều tiết tự nhiên' làm lũ ĐBSCL nhẹ hơn sông Hồng."
+      },
+      "miniGame": {
+        "question": "Sông nào mang nhiều phù sa nhất Việt Nam?",
+        "options": ["Sông Mê Kông", "Sông Hồng", "Sông Đà", "Sông Cửu Long"],
+        "answer": "Sông Hồng",
+        "explanation": "Sông Hồng mang khoảng 100 triệu tấn phù sa/năm — nhiều nhất Việt Nam. Phù sa màu đỏ (từ khoáng vật giàu sắt ở Vân Nam, Trung Quốc) tạo nên tên gọi 'sông Hồng' và đồng bằng châu thổ màu mỡ."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Đất Việt Nam — Hai loại đất chính",
+      "content": "HAI LOẠI ĐẤT CHÍNH:\n\n1. ĐẤT FERALIT (chiếm ~65% diện tích):\n• Phân bố: vùng đồi núi (trung du, miền núi)\n• Đặc điểm: màu đỏ vàng, chua, nghèo dinh dưỡng do bị rửa trôi mạnh\n• Phù hợp: cây công nghiệp lâu năm (cà phê, cao su, chè, hồ tiêu)\n\n2. ĐẤT PHÙ SA (chiếm ~25%):\n• Phân bố: đồng bằng sông Hồng, ĐBSCL, dải ven sông\n• Đặc điểm: màu xám nâu, trung tính, giàu dinh dưỡng\n• Phù hợp: lúa nước, rau màu, cây ăn quả",
+      "keyFormula": "Feralit (đồi núi) → cây công nghiệp | Phù sa (đồng bằng) → lúa nước",
+      "example": null,
+      "miniGame": {
+        "question": "Tại sao Tây Nguyên trồng được nhiều cà phê, cao su?",
+        "options": ["Vì Tây Nguyên có nhiều mưa nhất cả nước", "Vì đất feralit đỏ bazan tơi xốp, thoáng khí, phù hợp cây công nghiệp", "Vì Tây Nguyên gần đường xuất khẩu", "Vì dân số Tây Nguyên đông nhất"],
+        "answer": "Vì đất feralit đỏ bazan tơi xốp, thoáng khí, phù hợp cây công nghiệp",
+        "explanation": "Tây Nguyên có đất feralit đỏ bazan hình thành trên nham thạch núi lửa — loại đất tơi xốp, giàu dinh dưỡng nhất trong nhóm feralit, rất phù hợp cho cà phê, cao su, hồ tiêu. Kết hợp khí hậu cao nguyên mát mẻ → điều kiện lý tưởng."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Sinh vật và tài nguyên rừng",
+      "content": "ĐA DẠNG SINH VẬT:\n• Vị trí giao thoa nhiều khu hệ → đa dạng loài rất cao\n• Rừng nhiệt đới ẩm thường xanh (chủ yếu), rừng rụng lá, rừng ngập mặn ven biển\n\nBIẾN ĐỘNG RỪNG:\n• 1943: ~14,3 triệu ha (độ che phủ ~43%)\n• 1990: ~9,2 triệu ha (chỉ còn ~27%) — suy giảm mạnh do chiến tranh, phá rừng\n• 2020: ~14,6 triệu ha (~42%) — phục hồi nhờ trồng rừng\n• Vấn đề: diện tích tăng nhưng CHẤT LƯỢNG rừng vẫn thấp (rừng trồng ít đa dạng hơn rừng tự nhiên)\n\nNGUYÊN NHÂN SUY GIẢM:\nChiến tranh + khai thác gỗ quá mức + đốt rừng làm rẫy + mở rộng đất nông nghiệp",
+      "keyFormula": "1943: 43% → 1990: 27% (mất nhiều nhất) → 2020: 42% (phục hồi số lượng, chất lượng vẫn thấp)",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Phân tích nguyên nhân và hậu quả của suy giảm tài nguyên rừng ở Việt Nam giai đoạn 1943–1990. Việc phục hồi diện tích rừng sau 1990 có giải quyết triệt để vấn đề không? Vì sao?",
+      "correctSteps": [
+        "Nguyên nhân suy giảm 1943–1990: Chiến tranh tàn phá + chất độc khai quang; khai thác gỗ quá mức; đốt rừng làm nương rẫy; mở rộng đất nông nghiệp do dân số tăng nhanh.",
+        "Hậu quả: Mất đa dạng sinh học; suy thoái đất (xói mòn, rửa trôi); lũ lụt nghiêm trọng hơn do mất khả năng giữ nước; biến đổi khí hậu cục bộ.",
+        "Phục hồi sau 1990: Diện tích tăng từ 27% lên 42% nhờ chính sách trồng rừng — NHƯNG chưa giải quyết triệt để.",
+        "Lý do: Rừng trồng chủ yếu là rừng kinh tế (bạch đàn, keo) — ít đa dạng sinh học hơn rừng tự nhiên; rừng nguyên sinh vẫn tiếp tục bị thu hẹp dù tổng diện tích tăng."
+      ],
+      "correctAnswer": "Phân tích đầy đủ nguyên nhân, hậu quả, và hạn chế của phục hồi",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Phân biệt 'diện tích rừng tăng' và 'chất lượng rừng tăng' — đây là điểm mấu chốt của câu hỏi."
+    },
+    {
+      "id": 2,
+      "question": "So sánh đặc điểm và giá trị kinh tế của đất feralit và đất phù sa ở Việt Nam. Giải thích tại sao ĐBSCL có năng suất lúa cao hơn ĐBSH dù đất cùng loại phù sa.",
+      "correctSteps": [
+        "Đất feralit: vùng đồi núi, màu đỏ vàng, chua, nghèo dinh dưỡng → phù hợp cây công nghiệp lâu năm (cà phê, cao su, chè).",
+        "Đất phù sa: đồng bằng, màu xám nâu, trung tính, giàu dinh dưỡng → phù hợp lúa, rau màu.",
+        "ĐBSCL năng suất cao hơn ĐBSH vì: Diện tích lớn hơn (40.000 vs 15.000 km²); không có đê → lũ tràn bổ sung phù sa hàng năm; khí hậu nóng quanh năm (2–3 vụ lúa/năm); hệ thống kênh rạch phong phú."
+      ],
+      "correctAnswer": "So sánh 2 loại đất + giải thích ĐBSCL năng suất cao hơn",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "ĐBSCL có lợi thế gì ĐBSH không có? Không có đê + khí hậu nóng quanh năm → trồng được mấy vụ lúa?"
+    },
+    {
+      "id": 3,
+      "question": "Trình bày đặc điểm của 3 hệ thống sông lớn ở Việt Nam (sông Hồng, sông Mê Kông, sông miền Trung). Hệ thống nào có tiềm năng thủy điện lớn nhất? Giải thích.",
+      "correctSteps": [
+        "Sông Hồng: lưu vực 169.000 km² (phần VN), nhiều phù sa đỏ, lũ tháng 7–8, nguồn gốc từ Trung Quốc.",
+        "Sông Mê Kông: lưu vực 795.000 km² toàn bộ, lũ tháng 9–10, điều hoà bởi Biển Hồ, phân thành 9 nhánh ở ĐBSCL.",
+        "Sông miền Trung: ngắn, dốc, lưu vực hẹp, lũ tháng 10–11, nhanh và dữ.",
+        "Tiềm năng thủy điện lớn nhất: Sông Hồng (và hệ thống sông Đà) — lưu lượng lớn + địa hình miền núi dốc cao → tiềm năng thủy điện lớn. Minh chứng: nhà máy thủy điện Hòa Bình, Sơn La trên sông Đà (nhánh sông Hồng)."
+      ],
+      "correctAnswer": "Sông Hồng có tiềm năng thủy điện lớn nhất",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Tiềm năng thủy điện phụ thuộc: lưu lượng nước lớn + địa hình dốc. Sông nào có cả 2 điều kiện này?"
+    },
+    {
+      "id": 4,
+      "question": "Cho bảng số liệu diện tích rừng Việt Nam:\n1943: 14,3 triệu ha | 1975: 9,9 triệu ha | 1990: 9,2 triệu ha | 2005: 12,6 triệu ha | 2020: 14,6 triệu ha\n\nNhận xét xu hướng biến động và giải thích giai đoạn giảm mạnh nhất.",
+      "correctSteps": [
+        "Xu hướng tổng thể: Giảm mạnh từ 1943–1990, sau đó phục hồi đến 2020.",
+        "Giai đoạn giảm mạnh nhất: 1943–1990 (mất 5,1 triệu ha, giảm 36%).",
+        "Giải thích: Chiến tranh 1954–1975 tàn phá rừng nặng nề (bom đạn, chất độc khai quang dioxin); sau 1975, phá rừng mở đất sản xuất, khai thác gỗ phục vụ tái thiết đất nước.",
+        "Giai đoạn phục hồi (1990–2020): Nhờ chính sách 'phủ xanh đất trống đồi núi trọc' (Chương trình 327, 661), trồng rừng kinh tế mở rộng, quản lý rừng chặt chẽ hơn."
+      ],
+      "correctAnswer": "Giảm mạnh nhất 1943–1990, phục hồi sau 1990",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Nhìn bảng số liệu: giai đoạn nào mất nhiều ha nhất? Nguyên nhân lịch sử nào xảy ra giai đoạn đó?"
+    }
+  ]
+}

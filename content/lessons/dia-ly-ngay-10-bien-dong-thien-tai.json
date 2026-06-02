@@ -1,0 +1,112 @@
+{
+  "id": "dia-ly-ngay-10-bien-dong-thien-tai",
+  "fileName": "dia-ly-ngay-10-bien-dong-thien-tai.json",
+  "title": "Ngày 10: Biển Đông & Thiên Tai Việt Nam",
+  "topics": ["Địa Lý", "Biển Đông", "Thiên Tai", "Bão Lũ"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "dia-ly",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Biển Đông và ảnh hưởng đến Việt Nam",
+      "content": "ĐẶC ĐIỂM BIỂN ĐÔNG:\n• Biển rìa Thái Bình Dương, nửa kín\n• Diện tích ≈ 3,5 triệu km² — một trong những biển lớn nhất thế giới\n• Nước ấm, giàu hải sản, nhiều dầu khí thềm lục địa\n\nẢNH HƯỞNG ĐẾN VIỆT NAM:\n• Khí hậu: mang hơi ẩm → mưa dồi dào; điều hoà nhiệt độ (mùa đông bớt lạnh, mùa hè bớt nóng so với cùng vĩ độ nội địa)\n• Địa hình ven biển: bãi triều, đầm phá, vịnh — đa dạng, đẹp\n• Tài nguyên: hải sản, dầu khí, du lịch, giao thông hàng hải quốc tế",
+      "keyFormula": "Biển Đông → 4 lợi ích: Khí hậu ôn hoà | Hải sản phong phú | Dầu khí thềm lục địa | Giao thông hàng hải quốc tế",
+      "example": null,
+      "miniGame": {
+        "question": "Biển Đông ảnh hưởng như thế nào đến khí hậu Việt Nam?",
+        "options": ["Làm Việt Nam lạnh hơn quanh năm", "Điều hoà nhiệt độ (mùa đông ấm hơn, mùa hè mát hơn) và cung cấp hơi ẩm gây mưa", "Gây ra bão tuyết ở miền Bắc", "Không ảnh hưởng đến khí hậu nội địa"],
+        "answer": "Điều hoà nhiệt độ (mùa đông ấm hơn, mùa hè mát hơn) và cung cấp hơi ẩm gây mưa",
+        "explanation": "Biển có nhiệt dung lớn → hấp thụ nhiệt mùa hè, nhả nhiệt mùa đông → điều hoà nhiệt độ. Hơi nước từ Biển Đông theo gió mùa vào đất liền → mưa dồi dào. Nhờ đó Việt Nam mưa nhiều (1.500–2.000mm/năm) dù một phần lãnh thổ nằm trong vùng ít mưa toàn cầu."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Các loại thiên tai và phân bố vùng",
+      "content": "4 LOẠI THIÊN TAI CHÍNH:\n\n🌀 BÃO: Trung bình 6–8 cơn/năm đổ bộ; tháng 7–11; mạnh nhất ở Trung Bộ (Nghệ An → Bình Thuận). Nguyên nhân: nằm trên đường đi của bão từ Biển Đông.\n\n🌊 LŨ LỤT: Nguy hiểm nhất ở miền Trung (sông ngắn, dốc) và ĐBSCL (lũ rộng, kéo dài). Gắn liền với mùa mưa.\n\n🏜️ HẠN HÁN: Nam Trung Bộ và Tây Nguyên vào mùa khô (tháng 12–4). Nguyên nhân: gió Lào khô nóng.\n\n⛰️ SẠT LỞ ĐẤT: Vùng đồi núi Tây Bắc, Tây Nguyên khi mưa lớn kéo dài. Đất dốc + mất rừng = nguy cơ cao.",
+      "keyFormula": "Miền Trung: BÃO + LŨ nhiều nhất | Nam Trung Bộ/Tây Nguyên: HẠN HÁN | Tây Bắc/Tây Nguyên: SẠT LỞ",
+      "example": {
+        "problem": "Một tỉnh miền Trung ven biển có thể gặp những thiên tai nào trong năm? Phân tích theo mùa.",
+        "steps": [
+          "Tháng 5–8 (đầu mùa hè): Gió Lào (gió Tây khô nóng) → khô hạn, nắng hạn",
+          "Tháng 9–11 (thu–đông): Bão từ Biển Đông đổ bộ → mưa to, lũ lụt dữ dội",
+          "Tháng 12–4 (đông–xuân): Gió mùa Đông Bắc + mưa phùn → rét, ẩm ướt",
+          "Quanh năm: Sạt lở đất ở vùng đồi núi phía Tây"
+        ],
+        "result": "Miền Trung chịu gần như đủ loại thiên tai quanh năm — địa phương 'đặc biệt khó khăn' về thiên tai."
+      },
+      "miniGame": {
+        "question": "Tại sao miền Trung Việt Nam chịu nhiều bão nhất cả nước?",
+        "options": ["Vì miền Trung có nhiều núi cao nhất", "Vì bờ biển miền Trung dài, trực tiếp đón bão đi theo hướng Tây-Tây Bắc từ Biển Đông", "Vì miền Trung gần xích đạo nhất", "Vì nhiệt độ biển ở miền Trung cao nhất"],
+        "answer": "Vì bờ biển miền Trung dài, trực tiếp đón bão đi theo hướng Tây-Tây Bắc từ Biển Đông",
+        "explanation": "Bão từ Thái Bình Dương di chuyển theo hướng Tây — Tây Bắc, đi qua Biển Đông rồi đổ bộ vào bờ biển miền Trung. Đây là hướng trực diện nhất. Bão thường đổ bộ từ tháng 9–11, trùng với mùa mưa → thiệt hại lớn."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Tiềm năng và thách thức của Biển Đông",
+      "content": "TIỀM NĂNG:\n• Hải sản: > 2.000 loài cá; xuất khẩu thủy sản hàng tỉ USD/năm\n• Dầu khí: bể Cửu Long, bể Nam Côn Sơn — trữ lượng lớn\n• Giao thông: nằm trên tuyến hàng hải quốc tế nhộn nhịp bậc nhất\n• Du lịch: bờ biển dài 3.260km, nhiều vịnh đẹp (Hạ Long, Nha Trang)\n\nTHÁCH THỨC:\n• Thiên tai: bão, nước biển dâng đe doạ vùng ven biển thấp (đặc biệt ĐBSCL)\n• Tranh chấp chủ quyền biển đảo: phức tạp với nhiều nước\n• Ô nhiễm biển: rác thải nhựa, dầu tràn, khai thác quá mức\n• Biến đổi khí hậu: bão mạnh hơn, triều cường cao hơn",
+      "keyFormula": "Tiềm năng 4P: Phong phú hải sản | Phong phú dầu khí | Phát triển du lịch | Phát triển giao thông",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Giải thích tại sao miền Trung Việt Nam thường xuyên chịu ảnh hưởng nặng nề nhất của bão và lũ lụt so với các vùng khác trong cả nước.",
+      "correctSteps": [
+        "Về bão: Bờ biển miền Trung dài, hướng đón trực diện bão di chuyển từ Biển Đông theo hướng Tây–Tây Bắc. Mùa bão tháng 9–11, trùng mùa mưa → thiệt hại nhân lên.",
+        "Về lũ lụt: Địa hình hẹp ngang (dải đồng bằng chỉ vài chục km), sông ngắn và dốc → nước tập trung cực nhanh, lũ lên nhanh dữ dội. Lượng mưa lớn (Huế 3.000mm/năm) do sườn đón gió Đông Bắc.",
+        "Yếu tố cộng hưởng: Bão đổ bộ kèm theo mưa lớn → lũ quét ngay sau bão → 'bão lũ kép' rất nguy hiểm.",
+        "Hạ tầng ứng phó: Dải đất hẹp, đồng bằng thấp, cơ sở hạ tầng chưa đồng bộ → thiệt hại lớn hơn."
+      ],
+      "correctAnswer": "Địa hình hẹp + sông dốc + đón bão trực tiếp + mưa lớn = lũ dữ dội nhất",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Hỏi: Tại sao cùng lượng mưa nhưng miền Trung lũ dữ hơn? Hãy nghĩ về hình dạng địa hình (hẹp ngang) và độ dốc của sông."
+    },
+    {
+      "id": 2,
+      "question": "Phân tích tiềm năng và thách thức của Biển Đông đối với sự phát triển kinh tế Việt Nam. Em cho rằng thách thức nào lớn nhất? Vì sao?",
+      "correctSteps": [
+        "Tiềm năng: Hải sản (> 2.000 loài, xuất khẩu lớn); Dầu khí (bể Cửu Long, Nam Côn Sơn); Giao thông hàng hải quốc tế; Du lịch biển (bờ biển 3.260km).",
+        "Thách thức: Thiên tai (bão ngày càng mạnh, nước biển dâng); Tranh chấp chủ quyền; Ô nhiễm môi trường biển; Khai thác quá mức.",
+        "Thách thức lớn nhất (quan điểm cá nhân có lý luận): Biến đổi khí hậu + nước biển dâng vì: ĐBSCL thấp (trung bình < 2m so với mực nước biển) → dâng 1m có thể nhấn chìm 40% ĐBSCL, đe doạ sinh kế 18 triệu dân và an ninh lương thực quốc gia.",
+        "Hoặc: Tranh chấp chủ quyền vì ảnh hưởng đến an ninh quốc gia và quyền khai thác tài nguyên lâu dài."
+      ],
+      "correctAnswer": "Phân tích đầy đủ tiềm năng và thách thức, có quan điểm cá nhân có lý luận",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Không có đáp án 'thách thức lớn nhất' duy nhất — quan trọng là em lập luận có cơ sở. Hãy dùng số liệu cụ thể (ĐBSCL, diện tích, dân số) để bảo vệ quan điểm."
+    },
+    {
+      "id": 3,
+      "question": "So sánh đặc điểm thiên tai ở miền Bắc, miền Trung và miền Nam Việt Nam. Vùng nào em cho là 'khắc nghiệt' nhất về thiên tai? Lý giải.",
+      "correctSteps": [
+        "Miền Bắc: Bão (ít hơn miền Trung), rét đậm rét hại (đặc biệt Tây Bắc), lũ quét và sạt lở ở vùng núi mùa mưa.",
+        "Miền Trung: Bão nhiều nhất + lũ dữ nhất + hạn hán + sạt lở → đầy đủ các loại thiên tai, tần suất cao nhất.",
+        "Miền Nam: Lũ ĐBSCL (hiền nhưng kéo dài, ngập diện rộng), hạn hán mùa khô Nam Trung Bộ, bão ít hơn miền Trung.",
+        "Khắc nghiệt nhất: Miền Trung — vì chịu đủ loại thiên tai với tần suất cao nhất, địa hình hẹp không có chỗ thoát, dân cư tập trung ven biển. Đây cũng là vùng khó phục hồi nhất sau thiên tai."
+      ],
+      "correctAnswer": "Miền Trung khắc nghiệt nhất — đủ loại thiên tai, tần suất cao",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Mỗi vùng có thiên tai đặc trưng. Vùng nào có NHIỀU LOẠI nhất, TẦN SUẤT cao nhất, THIỆT HẠI nặng nhất?"
+    },
+    {
+      "id": 4,
+      "question": "Giải thích tại sao mặc dù Việt Nam nằm trong vùng nhiệt đới, một số vùng vẫn chịu hạn hán nghiêm trọng. Nêu các biện pháp ứng phó.",
+      "correctSteps": [
+        "Nguyên nhân hạn hán: Mưa phân bố không đều theo mùa và theo vùng. Nam Trung Bộ và Tây Nguyên có mùa khô kéo dài (6 tháng, tháng 12–5).",
+        "Gió Lào (gió Tây khô nóng vượt Trường Sơn) làm tăng bốc hơi, giảm ẩm — đặc biệt ở Nghệ An, Hà Tĩnh, Quảng Bình mùa hè.",
+        "Rừng bị phá → giảm khả năng giữ nước → mạch nước ngầm suy giảm → hạn nghiêm trọng hơn.",
+        "Biện pháp ứng phó: Xây hồ chứa, đập nước dự trữ mùa mưa; Phục hồi rừng đầu nguồn; Chuyển đổi cơ cấu cây trồng (cây chịu hạn); Tưới tiết kiệm nước (nhỏ giọt, phun sương)."
+      ],
+      "correctAnswer": "Mùa khô kéo dài + gió Lào + mất rừng = hạn hán. Biện pháp: hồ chứa + trồng rừng + tưới tiết kiệm",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Việt Nam mưa nhiều nhưng tập trung vào mùa mưa → mùa khô khan. Gió Lào đóng vai trò gì ở miền Trung?"
+    }
+  ]
+}

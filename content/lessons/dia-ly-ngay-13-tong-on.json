@@ -1,0 +1,101 @@
+{
+  "id": "dia-ly-ngay-13-tong-on",
+  "fileName": "dia-ly-ngay-13-tong-on.json",
+  "title": "Ngày 13: Tổng Ôn & Luyện Đề Tổng Hợp Địa Lý",
+  "topics": ["Địa Lý", "Tổng Ôn", "Luyện Đề", "Mối Quan Hệ Nhân Quả"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "dia-ly",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "3 trụ cột kiến thức Địa lý chuyên",
+      "content": "Địa lý chuyên = 3 trụ cột:\n\n1. KIẾN THỨC LÝ THUYẾT:\n• Địa lý tự nhiên: vị trí, địa hình, khí hậu, sông ngòi, đất, sinh vật\n• Địa lý kinh tế-xã hội: dân cư, nông nghiệp, công nghiệp, dịch vụ\n\n2. KỸ NĂNG BẢN ĐỒ & BIỂU ĐỒ:\n• Đọc bản đồ, xác định tọa độ\n• Chọn đúng loại biểu đồ\n• Vẽ chính xác và nhận xét 3 bước\n\n3. TƯ DUY PHÂN TÍCH MỐI QUAN HỆ NHÂN QUẢ:\n• Vị trí → Khí hậu → Sông ngòi → Đất → Sinh vật → Kinh tế\n• Đây là chuỗi nhân quả quan trọng nhất trong Địa lý",
+      "keyFormula": "Chuỗi nhân quả: Vị trí địa lý → Khí hậu → Sông ngòi → Đất → Sinh vật → Kinh tế",
+      "example": {
+        "problem": "Áp dụng chuỗi nhân quả: Tại sao ĐBSCL là vựa lúa lớn nhất VN?",
+        "steps": [
+          "Vị trí: Nằm ở cực Nam, gần xích đạo → nhiệt độ cao quanh năm",
+          "Khí hậu: Nhiệt đới, 2 mùa rõ rệt, không có rét → trồng được 3 vụ lúa/năm",
+          "Sông ngòi: Mê Kông 9 nhánh + Biển Hồ điều tiết → nước tưới dồi dào, lũ 'hiền'",
+          "Đất: Phù sa màu mỡ, được bồi đắp hàng năm (không có đê) → dinh dưỡng cao",
+          "Diện tích: 40.000 km² → quy mô sản xuất lớn"
+        ],
+        "result": "5 yếu tố cộng hưởng → ĐBSCL là vựa lúa và vựa cá tôm của cả nước."
+      },
+      "miniGame": {
+        "question": "Mối quan hệ nào là ĐÚNG trong địa lý tự nhiên VN?",
+        "options": ["Khí hậu nhiệt đới → sông ngòi ít nước", "Địa hình 3/4 đồi núi → sông dốc → lũ nhanh", "Vị trí nội địa → mưa nhiều", "Đất feralit → phù hợp trồng lúa"],
+        "answer": "Địa hình 3/4 đồi núi → sông dốc → lũ nhanh",
+        "explanation": "Đây là chuỗi nhân quả đúng: địa hình đồi núi dốc → sông có độ dốc lớn → nước chảy nhanh, tập trung → lũ dữ. Đặc biệt ở miền Trung (hẹp ngang, sông ngắn dốc) → lũ tập trung cực nhanh."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Checklist tự đánh giá — sẵn sàng thi chuyên chưa?",
+      "content": "TỰ KIỂM TRA 10 CÂU HỎI QUAN TRỌNG:\n\n✓ Giải thích được: Vị trí địa lý → khí hậu VN nhiệt đới ẩm gió mùa?\n✓ Phân biệt khí hậu Bắc — Nam (ranh giới, đặc điểm, nguyên nhân)?\n✓ Giải thích tại sao miền Trung nhiều thiên tai nhất?\n✓ Đọc được bản đồ, xác định tọa độ, tính khoảng cách?\n✓ Chọn đúng biểu đồ (tròn/miền/đường/cột) theo từ khoá?\n✓ Vẽ và tính góc biểu đồ tròn chính xác?\n✓ Nhận xét biểu đồ theo 3 bước (chung → chi tiết → giải thích)?\n✓ Phân tích lý do ĐBSCL là vựa lúa, Tây Nguyên là vùng cà phê lớn nhất?\n✓ So sánh được ĐB sông Hồng và ĐBSCL?\n✓ Nêu được tiềm năng và thách thức của Biển Đông?",
+      "keyFormula": "10/10 câu trả lời được = sẵn sàng thi. Câu nào chưa chắc = quay lại ngày tương ứng để ôn.",
+      "example": null,
+      "miniGame": null
+    },
+    {
+      "id": 3,
+      "title": "Các cặp so sánh hay ra trong đề thi",
+      "content": "5 CẶP SO SÁNH THƯỜNG GẶP:\n\n1. ĐB SÔNG HỒNG vs ĐBSCL:\n• Diện tích: 15.000 km² vs 40.000 km²\n• Mật độ dân số: ~1.467 người/km² vs ~450 người/km²\n• Đặc trưng: có hệ thống đê vs không có đê lớn\n• Lúa: 2 vụ vs 3 vụ\n\n2. KHÍ HẬU MIỀN BẮC vs MIỀN NAM:\n• Miền Bắc: 4 mùa, mùa đông lạnh\n• Miền Nam: 2 mùa (mưa/khô), nóng quanh năm\n\n3. ĐỊA HÌNH ĐÔNG BẮC vs TÂY BẮC:\n• Đông Bắc: Núi thấp, hướng vòng cung\n• Tây Bắc: Núi cao nhất VN (Hoàng Liên Sơn, Fansipan)\n\n4. ĐẤT FERALIT vs ĐẤT PHÙ SA (đã học ngày 9)\n\n5. ĐỊA HÌNH ĐỒNG BẰNG vs ĐỒI NÚI: 25% vs 75% diện tích",
+      "keyFormula": "ĐBSH: nhỏ-đông-đê-2vụ | ĐBSCL: lớn-thưa-không đê-3vụ — đây là cặp so sánh hay thi nhất!",
+      "example": null,
+      "miniGame": {
+        "question": "ĐBSCL có thể trồng 3 vụ lúa/năm trong khi ĐBSH chỉ 2 vụ. Nguyên nhân chính là gì?",
+        "options": ["ĐBSCL có nhiều nước tưới hơn", "ĐBSCL nằm gần xích đạo hơn → nhiệt độ cao quanh năm, không có mùa đông lạnh", "ĐBSCL có đất tốt hơn", "ĐBSCL có dân số ít hơn nên đất rộng hơn"],
+        "answer": "ĐBSCL nằm gần xích đạo hơn → nhiệt độ cao quanh năm, không có mùa đông lạnh",
+        "explanation": "ĐBSCL ở vĩ độ ~10°N, khí hậu nóng quanh năm (nhiệt độ > 25°C), không có mùa đông → lúa có thể sinh trưởng quanh năm → 3 vụ. ĐBSH ở vĩ độ ~21°N, có mùa đông lạnh (tháng 12–2) → lúa không thể trồng mùa đông → chỉ 2 vụ chính."
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Phân tích ảnh hưởng của vị trí địa lý đến khí hậu Việt Nam. Viết đoạn văn ngắn 10–15 dòng.",
+      "correctSteps": [
+        "Vị trí địa lý: Việt Nam trải dài 8°34'B – 23°23'B, trong vùng nội chí tuyến bán cầu Bắc, giáp biển Đông phía Đông và Nam.",
+        "Hệ quả về nhiệt: Nằm trong vùng nhiệt đới → bức xạ mặt trời lớn → nền nhiệt cao quanh năm (trung bình 22–27°C).",
+        "Hệ quả về ẩm: Giáp biển rộng phía Đông và Nam → hơi ẩm dồi dào, gió mùa mang mưa vào → lượng mưa 1.500–2.000mm/năm.",
+        "Hệ quả về gió mùa: Nằm trong vùng gió mùa châu Á → chịu ảnh hưởng gió mùa Đông Bắc (mùa đông) và Tây Nam (mùa hè).",
+        "Hệ quả về phân hoá: Lãnh thổ trải dài → khí hậu phân hoá Bắc–Nam rõ rệt (ranh giới dãy Bạch Mã)."
+      ],
+      "correctAnswer": "Vị trí nội chí tuyến + giáp biển → nhiệt cao, ẩm nhiều, gió mùa, phân hoá Bắc-Nam",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Viết theo chuỗi: Vị trí (vĩ độ + giáp biển) → Hệ quả (nhiệt, ẩm, gió mùa) → Đặc điểm khí hậu cụ thể → Phân hoá."
+    },
+    {
+      "id": 2,
+      "question": "So sánh đặc điểm tự nhiên của vùng Đông Bắc và Tây Bắc Việt Nam. Giải thích sự khác nhau.",
+      "correctSteps": [
+        "ĐÔNG BẮC: Địa hình thấp hơn, núi hướng vòng cung (cánh cung Đông Triều, Bắc Sơn, Ngân Sơn) chụm vào Tam Đảo; nhiều cao nguyên đá vôi; chịu ảnh hưởng mạnh của gió mùa Đông Bắc (lạnh hơn).",
+        "TÂY BẮC: Địa hình cao nhất VN, núi hướng Tây Bắc–Đông Nam (dãy Hoàng Liên Sơn với đỉnh Fansipan 3.143m); thung lũng sâu (Mường Tè, Lai Châu); gió Lào gây nóng mùa hè.",
+        "GIẢI THÍCH khác nhau: Do lịch sử địa chất khác nhau — Tây Bắc nâng lên mạnh hơn trong kiến tạo Himalaya; Đông Bắc ổn định hơn → núi thấp hơn.",
+        "Hệ quả kinh tế: Đông Bắc → khai thác than (Quảng Ninh), du lịch (Hạ Long, Sa Pa). Tây Bắc → thủy điện lớn (Hòa Bình, Sơn La), trồng chè, cây ăn quả."
+      ],
+      "correctAnswer": "Đông Bắc: thấp, vòng cung. Tây Bắc: cao nhất VN, hướng TB-ĐN. Khác do lịch sử kiến tạo.",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "So sánh theo: Độ cao | Hướng núi | Ảnh hưởng khí hậu | Kinh tế. Fansipan (3.143m) ở Tây Bắc — cao nhất Đông Dương."
+    },
+    {
+      "id": 3,
+      "question": "Cho bảng số liệu diện tích rừng VN:\n1943: 14,3 triệu ha | 1990: 9,2 triệu ha | 2020: 14,6 triệu ha\n\n(a) Vẽ biểu đồ thích hợp.\n(b) Nhận xét và giải thích xu hướng biến động.",
+      "correctSteps": [
+        "(a) Biểu đồ phù hợp: Biểu đồ CỘT đơn — vì so sánh giá trị tuyệt đối (triệu ha) qua 3 thời điểm.",
+        "(b) Nhận xét: Rừng giảm mạnh từ 1943–1990 (mất 5,1 triệu ha); sau đó phục hồi từ 1990–2020 (tăng 5,4 triệu ha), năm 2020 gần bằng mức 1943.",
+        "Giải thích giảm 1943–1990: Chiến tranh (bom, chất độc khai quang); phá rừng làm rẫy; khai thác gỗ không bền vững.",
+        "Giải thích tăng 1990–2020: Chính sách trồng rừng (CT 327, 661); giao đất giao rừng cho dân; nhận thức môi trường nâng cao.",
+        "Lưu ý: Dù diện tích phục hồi nhưng chất lượng rừng (rừng nguyên sinh) vẫn tiếp tục giảm."
+      ],
+      "correctAnswer": "Biểu đồ cột; Giảm 1943-1990 do chiến tranh+phá rừng; Tăng 1990-2020 do chính sách trồng rừng",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "3 điểm dữ liệu, so sánh giá trị tuyệt đối → biểu đồ CỘT. Nhận xét: 2 giai đoạn (giảm và tăng). Giải thích theo lịch sử và chính sách."
+    }
+  ]
+}

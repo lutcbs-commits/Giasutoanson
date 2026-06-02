@@ -1,0 +1,112 @@
+{
+  "id": "dia-ly-ngay-11-kinh-te-viet-nam",
+  "fileName": "dia-ly-ngay-11-kinh-te-viet-nam.json",
+  "title": "Ngày 11: Kinh Tế Việt Nam — Nông Nghiệp & Công Nghiệp",
+  "topics": ["Địa Lý", "Nông Nghiệp", "Công Nghiệp", "Kinh Tế Việt Nam"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "dia-ly",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Nông nghiệp Việt Nam",
+      "content": "TRỒNG TRỌT — CÂY LƯƠNG THỰC:\n• Lúa gạo: cây trồng chính, tập trung ĐBSCL (> 50% sản lượng) và ĐBSH\n• Việt Nam là nước xuất khẩu gạo top 3 thế giới\n\nCÂY CÔNG NGHIỆP LÂU NĂM:\n• Cà phê: Tây Nguyên (Đắk Lắk đứng đầu) — đất đỏ bazan, khí hậu cao nguyên\n• Cao su: Đông Nam Bộ (Bình Dương, Bình Phước) — khí hậu nóng ẩm\n• Chè: Trung du Bắc Bộ (Thái Nguyên, Lâm Đồng)\n• Hồ tiêu: Đắk Nông, Gia Lai\n\nCHĂN NUÔI: Lợn, gia cầm (đồng bằng); Trâu bò (trung du, miền núi)\nTHUỶ SẢN: Nuôi trồng + đánh bắt, tập trung ven biển Nam Trung Bộ, ĐBSCL",
+      "keyFormula": "Lúa → ĐBSCL + ĐBSH | Cà phê → Tây Nguyên | Cao su → Đông Nam Bộ | Chè → Trung du Bắc Bộ",
+      "example": {
+        "problem": "Tại sao Tây Nguyên là vùng trồng cà phê lớn nhất cả nước?",
+        "steps": [
+          "Đất: Đất đỏ bazan (hình thành trên nham thạch núi lửa) — tơi xốp, giàu dinh dưỡng, thoáng khí",
+          "Khí hậu: Cao nguyên 500–1500m → mát mẻ, nhiệt độ 18–24°C, phù hợp cà phê robusta và arabica",
+          "Lượng mưa: 1.500–2.000mm/năm, mùa khô rõ rệt (giúp cà phê ra hoa đồng loạt)",
+          "Địa hình: Bằng phẳng trên cao nguyên → cơ giới hoá dễ, quy mô lớn"
+        ],
+        "result": "Tổ hợp đất + khí hậu + địa hình tạo điều kiện lý tưởng cho cà phê."
+      },
+      "miniGame": {
+        "question": "Vùng nào có sản lượng lúa gạo lớn nhất Việt Nam?",
+        "options": ["Đồng bằng sông Hồng", "Đồng bằng sông Cửu Long", "Tây Nguyên", "Đông Nam Bộ"],
+        "answer": "Đồng bằng sông Cửu Long",
+        "explanation": "ĐBSCL chiếm > 50% sản lượng lúa cả nước nhờ: diện tích lớn (40.000 km²), đất phù sa màu mỡ, khí hậu nóng quanh năm (3 vụ lúa/năm), hệ thống kênh rạch phong phú. Đây là 'vựa lúa' của Việt Nam và giúp VN xuất khẩu gạo hàng đầu thế giới."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Công nghiệp và hai vùng trọng điểm",
+      "content": "CÁC NGÀNH CÔNG NGHIỆP CHÍNH:\n• Khai thác: Dầu khí (thềm lục địa), than (Quảng Ninh)\n• Chế biến: Thực phẩm, dệt may, da giày\n• Công nghệ: Điện tử, lắp ráp (Samsung, Intel)\n• Xây dựng: Xi măng, thép\n\nHAI VÙNG CÔNG NGHIỆP TRỌNG ĐIỂM:\n\n1. ĐÔNG NAM BỘ (TP.HCM — Bình Dương — Đồng Nai):\n• Phát triển nhất, đa dạng nhất\n• Lý do: gần cảng biển, nguồn lao động đông, cơ sở hạ tầng tốt, FDI nhiều\n\n2. ĐỒNG BẰNG SÔNG HỒNG (Hà Nội — Hải Phòng — Quảng Ninh):\n• Công nghiệp nặng, điện tử, đóng tàu\n• Lý do: gần tài nguyên (than Quảng Ninh), cảng Hải Phòng, lao động có trình độ",
+      "keyFormula": "Đông Nam Bộ = trung tâm kinh tế phía Nam | ĐBSH = trung tâm kinh tế phía Bắc",
+      "example": null,
+      "miniGame": {
+        "question": "Tại sao Đông Nam Bộ là vùng công nghiệp phát triển nhất Việt Nam?",
+        "options": ["Vì có nhiều tài nguyên khoáng sản nhất", "Vì gần cảng biển, nguồn lao động đông, cơ sở hạ tầng tốt, thu hút đầu tư nước ngoài lớn", "Vì khí hậu thuận lợi nhất", "Vì dân số đông nhất"],
+        "answer": "Vì gần cảng biển, nguồn lao động đông, cơ sở hạ tầng tốt, thu hút đầu tư nước ngoài lớn",
+        "explanation": "Đông Nam Bộ có lợi thế tổng hợp: Cảng Sài Gòn/Cái Mép xuất khẩu thuận tiện; TP.HCM là trung tâm tài chính, dịch vụ; lịch sử phát triển công nghiệp từ trước 1975; thu hút FDI lớn nhất cả nước → tạo hệ sinh thái công nghiệp đa dạng."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Chuyển dịch cơ cấu kinh tế",
+      "content": "XU HƯỚNG CHUYỂN DỊCH:\n• Nông nghiệp: giảm tỉ trọng (từ ~40% GDP năm 1990 xuống ~14% năm 2020)\n• Công nghiệp: tương đối ổn định (~33–38%)\n• Dịch vụ: tăng mạnh (từ ~33% lên ~51% năm 2020)\n\nÝ NGHĨA: Đây là xu hướng TÍCH CỰC — phù hợp với công nghiệp hoá, hiện đại hoá.\n\nTuy nhiên nông nghiệp vẫn quan trọng vì:\n• Đảm bảo an ninh lương thực cho 100 triệu dân\n• Xuất khẩu nông sản mang lại ngoại tệ\n• Nguồn sinh kế của ~40% dân số nông thôn",
+      "keyFormula": "Cơ cấu kinh tế hiện đại = Dịch vụ > Công nghiệp > Nông nghiệp (51 : 33 : 14 năm 2020)",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Giải thích sự phân bố của các loại cây công nghiệp lâu năm ở Việt Nam (cà phê, cao su, chè). Tại sao mỗi loại lại tập trung ở vùng riêng?",
+      "correctSteps": [
+        "Cà phê → Tây Nguyên: Đất đỏ bazan tơi xốp, khí hậu cao nguyên mát mẻ (18–24°C), có mùa khô rõ rệt giúp cây ra hoa đồng loạt.",
+        "Cao su → Đông Nam Bộ: Khí hậu nóng ẩm quanh năm (nhiệt độ > 25°C), đất xám bạc màu/đất đỏ phù hợp, địa hình thoải.",
+        "Chè → Trung du Bắc Bộ (Thái Nguyên) và Lâm Đồng: Khí hậu ôn hoà, mát mẻ, ẩm ướt, sương mù nhiều → chè có hương vị đặc biệt.",
+        "Nguyên tắc chung: Mỗi cây trồng có yêu cầu sinh thái riêng → phân bố theo điều kiện đất + khí hậu phù hợp nhất."
+      ],
+      "correctAnswer": "Mỗi cây trồng phân bố theo điều kiện đất và khí hậu phù hợp",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Với mỗi loại cây, hỏi: Cần đất gì? Cần khí hậu ra sao? Rồi đối chiếu với đặc điểm tự nhiên từng vùng."
+    },
+    {
+      "id": 2,
+      "question": "Cho bảng cơ cấu GDP Việt Nam:\nNăm 2000: Nông nghiệp 24,5% | Công nghiệp 36,7% | Dịch vụ 38,8%\nNăm 2010: Nông nghiệp 18,9% | Công nghiệp 38,2% | Dịch vụ 42,9%\nNăm 2020: Nông nghiệp 14,8% | Công nghiệp 33,7% | Dịch vụ 51,5%\n\nNhận xét xu hướng chuyển dịch và đánh giá.",
+      "correctSteps": [
+        "Xu hướng: Nông nghiệp giảm liên tục (24,5% → 14,8%); Dịch vụ tăng mạnh (38,8% → 51,5%); Công nghiệp tăng nhẹ rồi giảm (36,7% → 33,7%).",
+        "Đánh giá tích cực: Đây là xu hướng công nghiệp hoá – hiện đại hoá đúng hướng. Kinh tế dịch vụ tăng = nền kinh tế phát triển cao hơn.",
+        "Lưu ý: Dù tỉ trọng nông nghiệp giảm nhưng giá trị tuyệt đối vẫn tăng (sản lượng lúa, cà phê tăng) → nông nghiệp hiện đại hoá chứ không suy thoái.",
+        "Biểu đồ phù hợp: Biểu đồ miền (cơ cấu + nhiều năm)."
+      ],
+      "correctAnswer": "Nông nghiệp giảm, dịch vụ tăng — xu hướng công nghiệp hoá tích cực",
+      "correctUnit": "",
+      "difficulty": "medium",
+      "hint": "Nhận xét 3 bước: xu hướng chung → chi tiết từng ngành → đánh giá (tốt/chưa tốt, vì sao)."
+    },
+    {
+      "id": 3,
+      "question": "Kể tên 3 tỉnh/thành có công nghiệp phát triển nhất Việt Nam và giải thích lý do từng nơi.",
+      "correctSteps": [
+        "TP. Hồ Chí Minh: Trung tâm kinh tế lớn nhất, cảng biển lớn (Cát Lái), dịch vụ tài chính phát triển, thu hút FDI lớn nhất.",
+        "Hà Nội: Thủ đô, trung tâm hành chính, lao động trình độ cao, gần sân bay quốc tế Nội Bài, phát triển điện tử (Samsung tại Thái Nguyên gần đó).",
+        "Bình Dương: Giáp TP.HCM, cơ sở hạ tầng khu công nghiệp tốt, thuế ưu đãi, đất giá rẻ hơn TP.HCM → thu hút FDI dệt may, điện tử lắp ráp.",
+        "Hoặc: Hải Phòng (cảng biển lớn miền Bắc, đóng tàu, Samsung), Quảng Ninh (than + du lịch + khu kinh tế), Đồng Nai (khu công nghiệp lớn, gần TP.HCM)."
+      ],
+      "correctAnswer": "TP.HCM, Hà Nội, Bình Dương (hoặc Hải Phòng, Đồng Nai)",
+      "correctUnit": "",
+      "difficulty": "easy",
+      "hint": "Nhớ 2 vùng trọng điểm: Đông Nam Bộ (TP.HCM, Bình Dương, Đồng Nai) và ĐBSH (Hà Nội, Hải Phòng). Giải thích lợi thế của từng nơi."
+    },
+    {
+      "id": 4,
+      "question": "So sánh lợi thế và hạn chế của nông nghiệp Việt Nam so với một số nước trong khu vực ASEAN. Đề xuất giải pháp nâng cao năng lực cạnh tranh.",
+      "correctSteps": [
+        "Lợi thế: Đất đai màu mỡ, khí hậu nhiệt đới đa dạng → nhiều loại nông sản; nhân công dồi dào; kinh nghiệm trồng lúa nước lâu đời; chi phí sản xuất thấp.",
+        "Hạn chế: Quy mô sản xuất nhỏ lẻ (ruộng manh mún); ứng dụng công nghệ chưa đồng đều; thương hiệu nông sản chưa mạnh; phụ thuộc thời tiết cao.",
+        "So sánh: Thái Lan có thương hiệu gạo jasmine nổi tiếng, chế biến sâu hơn. Indonesia có diện tích lớn nhưng năng suất thấp hơn. VN có năng suất lúa cao nhưng chưa nâng cao được giá trị gia tăng.",
+        "Giải pháp: Tích tụ đất đai (hợp tác xã quy mô lớn); ứng dụng công nghệ cao (nông nghiệp thông minh, tưới nhỏ giọt); xây dựng thương hiệu nông sản VN; phát triển công nghiệp chế biến sau thu hoạch."
+      ],
+      "correctAnswer": "Lợi thế: đất tốt, nhân công; Hạn chế: manh mún, thương hiệu yếu. Giải pháp: tích tụ đất + công nghệ + thương hiệu",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "So sánh với Thái Lan (gạo Jasmine) và Indonesia. VN mạnh về sản lượng nhưng yếu về giá trị gia tăng — đó là điểm cần cải thiện."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "dia-ly-ngay-14-bai-kiem-tra",
+  "fileName": "dia-ly-ngay-14-bai-kiem-tra.json",
+  "title": "Ngày 14: Bài Kiểm Tra Tổng Hợp Địa Lý (90 phút)",
+  "topics": ["Địa Lý", "Kiểm Tra", "Tổng Hợp", "Trắc Nghiệm"],
+  "processedAt": "2026-06-02T00:00:00.000Z",
+  "subject": "dia-ly",
+  "grade": "10",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Hướng dẫn làm bài kiểm tra",
+      "content": "BÀI KIỂM TRA TỔNG HỢP:\n• Thời gian: 90 phút\n• Thang điểm: 10\n• Phần I — Trắc nghiệm (3 điểm): 6 câu × 0,5đ\n• Phần II — Tự luận (7 điểm): 4 câu\n\nCHIẾN LƯỢC LÀM BÀI:\n• Đọc toàn bộ đề trước (5 phút)\n• Trắc nghiệm: 15 phút (đọc kỹ, tránh bẫy)\n• Tự luận: 70 phút (ưu tiên câu nhiều điểm)\n• Kiểm tra lại: 5 phút\n\nLƯU Ý: Bài tự luận địa lý cần:\n✓ Có luận điểm rõ ràng\n✓ Dẫn chứng số liệu cụ thể\n✓ Phân tích nguyên nhân — hệ quả\n✓ Trình bày sạch, có đánh đầu mục",
+      "keyFormula": "Điểm cao = Kiến thức đúng + Số liệu cụ thể + Phân tích nhân quả + Trình bày rõ ràng",
+      "example": null,
+      "miniGame": {
+        "question": "Trên bản đồ tỉ lệ 1:500.000, khoảng cách 3cm trên bản đồ tương ứng thực tế bao nhiêu?",
+        "options": ["1,5 km", "15 km", "150 km", "5 km"],
+        "answer": "15 km",
+        "explanation": "3cm × 500.000 = 1.500.000cm = 15.000m = 15km. Tỉ lệ 1:500.000 nghĩa là 1cm trên bản đồ = 500.000cm = 5km ngoài thực tế."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Ôn nhanh 6 câu trắc nghiệm mẫu",
+      "content": "ĐÁP ÁN 6 CÂU TRẮC NGHIỆM MẪU:\n\nC1. Bản đồ 1:500.000, 3cm = 15km → Đáp án B\n\nC2. Nguyên nhân chính tạo ra các mùa: Trục TĐ nghiêng 23°27' + giữ nguyên hướng khi quay quanh MT → Đáp án B\n\nC3. Ranh giới khí hậu Bắc–Nam: Dãy Bạch Mã (≈ vĩ tuyến 16°N) → Đáp án C\n\nC4. Gió mùa Đông Bắc: Lạnh khô (nửa đầu) + lạnh ẩm (nửa cuối, đi qua biển) → Đáp án B\n\nC5. ĐBSCL khác ĐBSH: Không có hệ thống đê bao lớn → Đáp án B\n\nC6. Biểu đồ tốc độ tăng trưởng qua các năm: Biểu đồ đường → Đáp án C",
+      "keyFormula": "Ghi nhớ 3 'bẫy' thường gặp: Bạch Mã (không phải Bến Hải); Lạnh khô/ẩm (không phải luôn lạnh ẩm); Tỉ trọng nhiều năm → Miền (không phải Tròn)",
+      "example": null,
+      "miniGame": {
+        "question": "Ranh giới khí hậu Bắc–Nam Việt Nam là dãy núi nào?",
+        "options": ["Sông Bến Hải", "Đèo Ngang", "Dãy Bạch Mã", "Đèo Cả"],
+        "answer": "Dãy Bạch Mã",
+        "explanation": "Dãy Bạch Mã (khoảng vĩ tuyến 16°N, gần Đèo Hải Vân, Thừa Thiên Huế) là ranh giới khí hậu Bắc–Nam. Phía Bắc: chịu gió mùa Đông Bắc → mùa đông lạnh. Phía Nam: dãy Bạch Mã chắn gió → nóng quanh năm. Lưu ý: Sông Bến Hải là ranh giới quân sự 1954–1975, không phải ranh giới khí hậu."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Định hướng sau bài kiểm tra",
+      "content": "SAU KHI LÀM XONG BÀI KIỂM TRA:\n\nĐÁNH GIÁ KẾT QUẢ:\n• 8–10 điểm: Xuất sắc — phù hợp học chuyên Địa\n• 6,5–7,5 điểm: Khá tốt — cần củng cố thêm tự luận\n• 5–6 điểm: Trung bình — xem lại kiến thức cơ bản\n• < 5 điểm: Cần ôn lại từ đầu\n\nTỰ HỎI:\n• Em thích TƯ DUY PHÂN TÍCH-TỔNG HỢP (Địa) hơn hay TÍNH TOÁN-LOGIC (Hoá)?\n• Em kiên nhẫn hơn với loại bài tập nào?\n• Em hình dung mình theo ngành xã hội/kinh tế/quốc tế (→ Địa) hay kỹ thuật/khoa học tự nhiên (→ Hoá)?\n\nNGUYÊN TẮC VÀNG: Nếu điểm 2 môn tương đương → chọn môn EM THÍCH HƠN. Niềm vui khi học sẽ đưa em đi xa hơn mọi lợi thế khác.",
+      "keyFormula": "Điểm số + Cảm giác khi học = 2 tiêu chí chọn môn chuyên",
+      "example": null,
+      "miniGame": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "BÀI KIỂM TRA — Phần tự luận Bài 1 (2 điểm):\nPhân tích đặc điểm khí hậu nhiệt đới ẩm gió mùa của Việt Nam. Trình bày sự phân hoá khí hậu Bắc–Nam.",
+      "correctSteps": [
+        "ĐẶC ĐIỂM KHÍ HẬU NHIỆT ĐỚI ẨM GIÓ MÙA (1đ): Nền nhiệt cao (22–27°C), bức xạ lớn do vị trí nội chí tuyến. Lượng mưa dồi dào (1.500–2.000mm/năm), độ ẩm >80% do tiếp giáp Biển Đông. Gió mùa: Đông Bắc (tháng 11–4, lạnh khô/ẩm) và Tây Nam (tháng 5–10, nóng ẩm, mưa nhiều).",
+        "PHÂN HOÁ BẮC–NAM (1đ): Ranh giới dãy Bạch Mã (~16°B). Miền Bắc: 4 mùa rõ rệt, mùa đông lạnh (Hà Nội <18°C tháng 1), có sương giá, sương muối. Miền Nam: 2 mùa (mưa tháng 5–11, khô tháng 12–4), nền nhiệt cao quanh năm (>25°C), không có mùa đông. Nguyên nhân: Miền Bắc chịu ảnh hưởng trực tiếp gió mùa Đông Bắc; miền Nam bị dãy Bạch Mã chắn + vĩ độ thấp hơn → nóng quanh năm."
+      ],
+      "correctAnswer": "Nhiệt đới ẩm gió mùa: nhiệt cao + mưa nhiều + 2 gió mùa. Phân hoá: Bắc 4 mùa, Nam 2 mùa, ranh giới Bạch Mã.",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Bài 1 chia 2 phần rõ: (1) Đặc điểm chung khí hậu, (2) Sự phân hoá Bắc-Nam. Mỗi phần ~1 đoạn. Luôn có số liệu cụ thể (nhiệt độ, lượng mưa)."
+    },
+    {
+      "id": 2,
+      "question": "BÀI KIỂM TRA — Phần tự luận Bài 2 (2 điểm):\nCho bảng: ĐB sông Hồng: Diện tích 15.000 km², Dân số 22 triệu, Sản lượng lúa 6,5 triệu tấn. ĐBSCL: Diện tích 40.000 km², Dân số 18 triệu, Sản lượng lúa 24 triệu tấn.\n(a) Tính mật độ dân số mỗi vùng.\n(b) Tính sản lượng lúa bình quân đầu người.\n(c) Nhận xét và giải thích sự khác biệt.",
+      "correctSteps": [
+        "(a) Mật độ dân số: ĐBSH = 22.000.000 / 15.000 = 1.467 người/km². ĐBSCL = 18.000.000 / 40.000 = 450 người/km².",
+        "(b) Sản lượng lúa bình quân: ĐBSH = 6.500.000 / 22.000.000 = 0,295 tấn/người. ĐBSCL = 24.000.000 / 18.000.000 = 1,333 tấn/người.",
+        "(c) Nhận xét: ĐBSH đông dân hơn 3,3 lần nhưng năng suất lúa bình quân chỉ bằng 1/4,5 ĐBSCL.",
+        "Giải thích: ĐBSCL diện tích lớn hơn 2,7 lần; khí hậu nóng quanh năm → 3 vụ lúa; không có đê → phù sa bồi đắp hàng năm → đất màu mỡ. ĐBSH: dân đông, ruộng manh mún, đô thị hoá thu hẹp đất, chỉ 2 vụ do mùa đông lạnh."
+      ],
+      "correctAnswer": "ĐBSH: 1467 người/km², 0,295 tấn/người. ĐBSCL: 450 người/km², 1,333 tấn/người.",
+      "correctUnit": "người/km²",
+      "difficulty": "medium",
+      "hint": "Mật độ = Dân số / Diện tích. Bình quân lúa = Sản lượng / Dân số. Giải thích: tại sao ĐBSCL ít người nhưng lúa nhiều hơn nhiều?"
+    },
+    {
+      "id": 3,
+      "question": "BÀI KIỂM TRA — Phần tự luận Bài 3+4 (3 điểm):\nBài 3: Giải thích tại sao miền Trung VN thường xuyên chịu ảnh hưởng nặng nề của bão lũ.\nBài 4 (Nâng cao): Phân tích tiềm năng và thách thức của Biển Đông đối với kinh tế VN.",
+      "correctSteps": [
+        "Bài 3 — Bão lũ miền Trung (1,5đ): Bão: Bờ biển dài, đón trực diện bão Biển Đông (hướng Tây–Tây Bắc), mùa bão 9–11. Lũ: Địa hình hẹp ngang, sông ngắn dốc → nước tập trung nhanh, lũ dữ. Mưa lớn (Huế 3.000mm). Bão + mưa lớn = 'bão lũ kép'. Hạ tầng ứng phó còn hạn chế.",
+        "Bài 4 — Biển Đông (1,5đ): Tiềm năng: Hải sản (>2.000 loài); Dầu khí (bể Cửu Long, Nam Côn Sơn); Giao thông hàng hải quốc tế; Du lịch biển (3.260km bờ biển). Thách thức: Thiên tai (bão, nước biển dâng đe doạ ĐBSCL thấp <2m); Tranh chấp chủ quyền; Ô nhiễm biển; Biến đổi khí hậu làm bão mạnh hơn."
+      ],
+      "correctAnswer": "Bài 3: địa hình hẹp+sông dốc+đón bão trực tiếp. Bài 4: 4 tiềm năng và 4 thách thức",
+      "correctUnit": "",
+      "difficulty": "hard",
+      "hint": "Bài 3: 3 lý do chính (địa hình, mưa lớn, đón bão trực tiếp). Bài 4: chia 2 phần rõ Tiềm năng/Thách thức, mỗi phần 3-4 ý có số liệu."
+    }
+  ]
+}

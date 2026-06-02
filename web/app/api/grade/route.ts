@@ -15,7 +15,7 @@ interface GradeRequest {
 }
 
 function buildEssayGradePrompt(req: GradeRequest): string {
-  const keyPoints = (req.correctSteps ?? []).join('\n');
+  const keyPoints = (req.correctSteps ?? []).slice(0, 6).map(s => truncate(s, 150)).join('\n');
   const subjectLabel: Record<string, string> = {
     'ngu-van': 'Ngữ văn lớp 9',
     'hoa-hoc': 'Hoá học lớp 10',
@@ -25,13 +25,13 @@ function buildEssayGradePrompt(req: GradeRequest): string {
   return `Bạn là giáo viên ${teacher} giàu kinh nghiệm.
 
 ĐỀ BÀI:
-${req.question}
+${truncate(req.question, 500)}
 
 CÁC Ý CHÍNH CẦN CÓ TRONG BÀI LÀM:
 ${keyPoints}
 
 BÀI LÀM CỦA HỌC SINH:
-${req.essayAnswer || '(Học sinh không viết gì)'}
+${truncate(req.essayAnswer || '(Học sinh không viết gì)', 2000)}
 
 Hãy chấm bài và trả về JSON với cấu trúc CHÍNH XÁC sau (không có text nào khác):
 
@@ -66,19 +66,21 @@ HƯỚNG DẪN CHẤM:
 - Output CHỈ là JSON thuần túy`;
 }
 
+function truncate(s: string, max: number) { return s.length > max ? s.slice(0, max) + '...' : s; }
+
 function buildGradePrompt(req: GradeRequest): string {
   const steps = Array.isArray(req.studentSteps) ? req.studentSteps : [];
-  const correctSteps = Array.isArray(req.correctSteps) ? req.correctSteps : [];
-  const studentStepsText = steps
-    .map((s, i) => `Bước ${i + 1}: ${s}`)
+  const correctSteps = (Array.isArray(req.correctSteps) ? req.correctSteps : []).slice(0, 5);
+  const studentStepsText = steps.slice(0, 5)
+    .map((s, i) => `Bước ${i + 1}: ${truncate(s, 120)}`)
     .join('\n');
   const correctStepsText = correctSteps.length > 0
-    ? correctSteps.map((s, i) => `Bước ${i + 1}: ${s}`).join('\n')
+    ? correctSteps.map((s, i) => `Bước ${i + 1}: ${truncate(s, 150)}`).join('\n')
     : '(Hãy tự xây dựng lời giải mẫu phù hợp với đề bài)';
 
   return `Bạn là giáo viên toán lớp 5. Hãy chấm bài làm của học sinh và trả về JSON.
 
-ĐỀ BÀI: ${req.question}
+ĐỀ BÀI: ${truncate(req.question, 400)}
 
 ĐÁP ÁN ĐÚNG:
 ${correctStepsText}
