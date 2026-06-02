@@ -112,7 +112,7 @@ export default function HomePage() {
       {/* Change subject button */}
       <div className="flex justify-end mb-4">
         <button onClick={handleChangeSubject}
-          className="text-xs font-bold text-gray-400 hover:text-gray-600 flex items-center gap-1 bg-white border border-gray-200 rounded-xl px-3 py-1.5 hover:border-gray-300 transition-all">
+          className="text-sm font-black text-gray-600 hover:text-gray-900 flex items-center gap-2 bg-white border-2 border-gray-200 hover:border-gray-400 rounded-2xl px-5 py-2.5 hover:shadow-md transition-all hover:-translate-y-0.5 active:scale-95">
           🔄 Đổi môn học
         </button>
       </div>
