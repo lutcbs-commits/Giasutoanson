@@ -103,7 +103,7 @@ ${content}
 Tạo JSON với cấu trúc sau (4 slides, 5 bài tập, tiếng Việt):
 {"title":"Tên bài","topics":["topic1","topic2"],"slides":[{"id":1,"title":"Tiêu đề","content":"Nội dung lý thuyết","keyFormula":"công thức hoặc rỗng","example":{"problem":"Ví dụ","steps":["B1","B2"],"result":"Đáp án"},"miniGame":null}],"exercises":[{"id":1,"question":"Đề bài","correctSteps":["B1","B2","B3"],"correctAnswer":"5","correctUnit":"kg","difficulty":"easy","hint":"Gợi ý"}]}
 
-Lưu ý: miniGame chỉ thêm cho 2 slides (question/options[4]/answer/explanation). correctAnswer chỉ ghi số. difficulty: easy/medium/hard.`;
+Lưu ý: content mỗi slide tối đa 3 câu. miniGame chỉ thêm cho 2 slides (question/options[4]/answer/explanation), null cho slide còn lại. correctAnswer chỉ ghi số. correctSteps tối đa 3 bước ngắn. difficulty: easy/medium/hard.`;
 }
 
 export async function processLesson(fileName: string): Promise<LessonData> {
@@ -135,7 +135,7 @@ export async function processLesson(fileName: string): Promise<LessonData> {
       model: 'llama-3.1-8b-instant',
       messages: [{ role: 'user', content: buildPrompt(pdfText, fileName) }],
       temperature: 0.7,
-      max_tokens: 4096,
+      max_tokens: 6000,
     });
   } catch (primaryErr) {
     const e = primaryErr as { status?: number };
@@ -153,14 +153,32 @@ export async function processLesson(fileName: string): Promise<LessonData> {
 
   let parsed: { title: string; topics: string[]; slides: LessonData['slides']; exercises: LessonData['exercises'] };
   try {
-    // Extract JSON robustly: find first { and last }
     const start = rawText.indexOf('{');
-    const end = rawText.lastIndexOf('}');
-    if (start === -1 || end === -1) throw new Error('No JSON object found');
-    const jsonStr = rawText.slice(start, end + 1);
+    if (start === -1) throw new Error('No JSON found');
+    let jsonStr = rawText.slice(start);
+    // If JSON was truncated, try to close it
+    const lastBrace = jsonStr.lastIndexOf('}');
+    if (lastBrace !== -1) jsonStr = jsonStr.slice(0, lastBrace + 1);
     parsed = JSON.parse(jsonStr);
   } catch {
-    throw new Error(`Groq API trả về JSON không hợp lệ. Raw: ${rawText.slice(0, 200)}`);
+    // Last resort: try to salvage partial JSON by closing open arrays/objects
+    try {
+      const start = rawText.indexOf('{');
+      if (start === -1) throw new Error('No JSON');
+      let partial = rawText.slice(start);
+      // Count unclosed braces/brackets and close them
+      let opens = 0, opensArr = 0;
+      for (const ch of partial) {
+        if (ch === '{') opens++;
+        else if (ch === '}') opens--;
+        else if (ch === '[') opensArr++;
+        else if (ch === ']') opensArr--;
+      }
+      partial += ']'.repeat(Math.max(0, opensArr)) + '}'.repeat(Math.max(0, opens));
+      parsed = JSON.parse(partial);
+    } catch {
+      throw new Error(`Groq API trả về JSON không hợp lệ. Raw: ${rawText.slice(0, 200)}`);
+    }
   }
 
   const id = getLessonId(fileName);
