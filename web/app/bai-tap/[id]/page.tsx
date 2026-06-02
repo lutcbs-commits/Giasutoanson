@@ -258,6 +258,7 @@ export default function BaiTapPage() {
               exerciseNumber={currentIndex + 1}
               totalExercises={total}
               onNext={handleNextMath}
+              subject={lesson.subject}
             />
           )}
         </div>

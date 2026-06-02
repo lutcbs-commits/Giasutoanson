@@ -8,6 +8,7 @@ interface ExerciseBlockProps {
   exerciseNumber: number;
   totalExercises: number;
   onNext: (correct: boolean, feedback: GradeFeedback | null) => void;
+  subject?: string;
 }
 
 const DIFFICULTY_LABELS = {
@@ -21,10 +22,17 @@ export default function ExerciseBlock({
   exerciseNumber,
   totalExercises,
   onNext,
+  subject,
 }: ExerciseBlockProps) {
+  const isEssay = subject === 'ngu-van';
+
+  // Math mode state
   const [steps, setSteps] = useState<string[]>(['', '', '']);
   const [answerNumber, setAnswerNumber] = useState('');
   const [answerUnit, setAnswerUnit] = useState('');
+  // Essay mode state
+  const [essayAnswer, setEssayAnswer] = useState('');
+
   const [showHint, setShowHint] = useState(false);
   const [grading, setGrading] = useState(false);
   const [feedback, setFeedback] = useState<GradeFeedback | null>(null);
@@ -33,14 +41,8 @@ export default function ExerciseBlock({
   const diff = DIFFICULTY_LABELS[exercise.difficulty] ?? DIFFICULTY_LABELS.medium;
   const submitted = feedback !== null;
 
-  function addStep() {
-    setSteps(prev => [...prev, '']);
-  }
-
-  function removeStep(i: number) {
-    setSteps(prev => prev.filter((_, idx) => idx !== i));
-  }
-
+  function addStep() { setSteps(prev => [...prev, '']); }
+  function removeStep(i: number) { setSteps(prev => prev.filter((_, idx) => idx !== i)); }
   function updateStep(i: number, value: string) {
     setSteps(prev => prev.map((s, idx) => idx === i ? value : s));
   }
@@ -49,19 +51,28 @@ export default function ExerciseBlock({
     setError(null);
     setGrading(true);
     try {
-      const filledSteps = steps.filter(s => s.trim() !== '');
+      const body = isEssay
+        ? {
+            question: exercise.question,
+            correctSteps: exercise.correctSteps,
+            correctAnswer: exercise.correctAnswer,
+            subject,
+            essayAnswer: essayAnswer.trim(),
+          }
+        : {
+            question: exercise.question,
+            correctSteps: exercise.correctSteps,
+            correctAnswer: exercise.correctAnswer,
+            correctUnit: exercise.correctUnit,
+            studentSteps: steps.filter(s => s.trim() !== ''),
+            studentNumber: answerNumber.trim(),
+            studentUnit: answerUnit.trim(),
+          };
+
       const res = await apiFetch('/api/grade', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          question: exercise.question,
-          correctSteps: exercise.correctSteps,
-          correctAnswer: exercise.correctAnswer,
-          correctUnit: exercise.correctUnit,
-          studentSteps: filledSteps,
-          studentNumber: answerNumber.trim(),
-          studentUnit: answerUnit.trim(),
-        }),
+        body: JSON.stringify(body),
       });
       const data = await res.json() as { success?: boolean; feedback?: GradeFeedback; error?: string };
       if (data.feedback) {
@@ -99,7 +110,6 @@ export default function ExerciseBlock({
           {exercise.question}
         </p>
 
-        {/* Hint toggle */}
         {exercise.hint && !submitted && (
           <div className="mt-4">
             <button
@@ -117,74 +127,91 @@ export default function ExerciseBlock({
         )}
       </div>
 
-      {/* Input area */}
+      {/* ── Input area ── */}
       {!submitted && (
         <div className="flex flex-col gap-4">
-          {/* Steps */}
-          <div>
-            <p className="text-xs font-black text-gray-500 uppercase tracking-wider mb-3">
-              ✏️ Lời giải của em (viết từng bước)
-            </p>
-            <div className="flex flex-col gap-2">
-              {steps.map((step, i) => (
-                <div key={i} className="flex items-center gap-2">
-                  <span className="shrink-0 w-7 h-7 rounded-full bg-tangerine-100 text-tangerine-700 text-xs font-black flex items-center justify-center">
-                    {i + 1}
-                  </span>
-                  <input
-                    type="text"
-                    value={step}
-                    onChange={e => updateStep(i, e.target.value)}
-                    placeholder={`Bước ${i + 1}: ...`}
-                    className="flex-1 rounded-xl border-2 border-gray-200 px-4 py-2.5 text-gray-800 font-medium text-sm focus:outline-none focus:border-tangerine-400 bg-white"
-                  />
-                  {steps.length > 1 && (
-                    <button
-                      onClick={() => removeStep(i)}
-                      className="shrink-0 text-gray-300 hover:text-red-400 text-lg font-bold transition-colors"
-                    >
-                      ×
-                    </button>
-                  )}
+          {isEssay ? (
+            /* ── Essay mode: single free-text textarea ── */
+            <div>
+              <p className="text-xs font-black text-gray-500 uppercase tracking-wider mb-3">
+                ✏️ Bài làm của em
+              </p>
+              <textarea
+                value={essayAnswer}
+                onChange={e => setEssayAnswer(e.target.value)}
+                placeholder="Viết bài làm của em vào đây..."
+                rows={8}
+                className="w-full rounded-2xl border-2 border-gray-200 px-4 py-3 text-gray-800 font-medium text-sm leading-relaxed focus:outline-none focus:border-pink-400 bg-white resize-y"
+              />
+            </div>
+          ) : (
+            /* ── Math mode: steps + number/unit ── */
+            <>
+              <div>
+                <p className="text-xs font-black text-gray-500 uppercase tracking-wider mb-3">
+                  ✏️ Lời giải của em (viết từng bước)
+                </p>
+                <div className="flex flex-col gap-2">
+                  {steps.map((step, i) => (
+                    <div key={i} className="flex items-center gap-2">
+                      <span className="shrink-0 w-7 h-7 rounded-full bg-tangerine-100 text-tangerine-700 text-xs font-black flex items-center justify-center">
+                        {i + 1}
+                      </span>
+                      <input
+                        type="text"
+                        value={step}
+                        onChange={e => updateStep(i, e.target.value)}
+                        placeholder={`Bước ${i + 1}: ...`}
+                        className="flex-1 rounded-xl border-2 border-gray-200 px-4 py-2.5 text-gray-800 font-medium text-sm focus:outline-none focus:border-tangerine-400 bg-white"
+                      />
+                      {steps.length > 1 && (
+                        <button
+                          onClick={() => removeStep(i)}
+                          className="shrink-0 text-gray-300 hover:text-red-400 text-lg font-bold transition-colors"
+                        >
+                          ×
+                        </button>
+                      )}
+                    </div>
+                  ))}
                 </div>
-              ))}
-            </div>
-            <button
-              onClick={addStep}
-              className="mt-2 text-xs font-bold text-tangerine-600 hover:text-tangerine-700 flex items-center gap-1"
-            >
-              + Thêm bước
-            </button>
-          </div>
+                <button
+                  onClick={addStep}
+                  className="mt-2 text-xs font-bold text-tangerine-600 hover:text-tangerine-700 flex items-center gap-1"
+                >
+                  + Thêm bước
+                </button>
+              </div>
 
-          {/* Answer */}
-          <div className="bg-sun-50 border-2 border-sun-200 rounded-2xl p-4">
-            <p className="text-xs font-black text-sun-700 uppercase tracking-wider mb-3">
-              📝 Kết quả (điền riêng số và đơn vị)
-            </p>
-            <div className="flex items-center gap-3 flex-wrap">
-              <div className="flex items-center gap-2">
-                <span className="text-sm font-bold text-gray-600">Kết quả:</span>
-                <input
-                  type="text"
-                  value={answerNumber}
-                  onChange={e => setAnswerNumber(e.target.value)}
-                  placeholder="Số (vd: 5)"
-                  className="w-28 rounded-xl border-2 border-sun-300 px-3 py-2 text-gray-800 font-black text-center focus:outline-none focus:border-sun-500 bg-white"
-                />
+              <div className="bg-sun-50 border-2 border-sun-200 rounded-2xl p-4">
+                <p className="text-xs font-black text-sun-700 uppercase tracking-wider mb-3">
+                  📝 Kết quả (điền riêng số và đơn vị)
+                </p>
+                <div className="flex items-center gap-3 flex-wrap">
+                  <div className="flex items-center gap-2">
+                    <span className="text-sm font-bold text-gray-600">Kết quả:</span>
+                    <input
+                      type="text"
+                      value={answerNumber}
+                      onChange={e => setAnswerNumber(e.target.value)}
+                      placeholder="Số (vd: 5)"
+                      className="w-28 rounded-xl border-2 border-sun-300 px-3 py-2 text-gray-800 font-black text-center focus:outline-none focus:border-sun-500 bg-white"
+                    />
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <span className="text-sm font-bold text-gray-600">Đơn vị:</span>
+                    <input
+                      type="text"
+                      value={answerUnit}
+                      onChange={e => setAnswerUnit(e.target.value)}
+                      placeholder="vd: kg"
+                      className="w-24 rounded-xl border-2 border-sun-300 px-3 py-2 text-gray-800 font-bold text-center focus:outline-none focus:border-sun-500 bg-white"
+                    />
+                  </div>
+                </div>
               </div>
-              <div className="flex items-center gap-2">
-                <span className="text-sm font-bold text-gray-600">Đơn vị:</span>
-                <input
-                  type="text"
-                  value={answerUnit}
-                  onChange={e => setAnswerUnit(e.target.value)}
-                  placeholder="vd: kg"
-                  className="w-24 rounded-xl border-2 border-sun-300 px-3 py-2 text-gray-800 font-bold text-center focus:outline-none focus:border-sun-500 bg-white"
-                />
-              </div>
-            </div>
-          </div>
+            </>
+          )}
 
           {error && (
             <div className="bg-red-50 border border-red-200 rounded-xl p-3 text-sm text-red-600 font-medium">
@@ -194,7 +221,7 @@ export default function ExerciseBlock({
 
           <button
             onClick={handleSubmit}
-            disabled={grading}
+            disabled={grading || (isEssay ? essayAnswer.trim().length < 10 : false)}
             className="w-full flex items-center justify-center gap-2 bg-gradient-to-br from-tangerine-500 to-tangerine-600 text-white font-black py-4 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-0.5 active:scale-95 disabled:opacity-60 disabled:cursor-not-allowed disabled:hover:translate-y-0"
           >
             {grading ? (
@@ -212,7 +239,7 @@ export default function ExerciseBlock({
         </div>
       )}
 
-      {/* Feedback */}
+      {/* ── Feedback ── */}
       {submitted && feedback && (
         <div className="flex flex-col gap-4 animate-fade-up">
           {/* Score */}
@@ -225,14 +252,14 @@ export default function ExerciseBlock({
             </div>
             <div>
               <p className="font-black text-gray-800 text-base">
-                {feedback.answerCorrect ? '🌟 Đáp án đúng!' : '💡 Đáp án chưa đúng'}
+                {feedback.score >= 8 ? '🌟 Xuất sắc!' : feedback.score >= 6 ? '💡 Khá tốt!' : '💪 Cần cải thiện'}
               </p>
               <p className="text-gray-600 text-sm font-medium mt-1">{feedback.overallFeedback}</p>
             </div>
           </div>
 
-          {/* Step feedback */}
-          {(feedback.stepFeedback ?? []).length > 0 && (
+          {/* Step feedback — math only */}
+          {!isEssay && (feedback.stepFeedback ?? []).length > 0 && (
             <div className="bg-white border-2 border-gray-100 rounded-3xl p-5 shadow-sm">
               <p className="text-xs font-black text-gray-500 uppercase tracking-wider mb-3">
                 Nhận xét từng bước
@@ -257,54 +284,68 @@ export default function ExerciseBlock({
             </div>
           )}
 
-          {/* Answer check */}
-          <div className={`rounded-2xl p-4 border-2 ${feedback.answerCorrect ? 'bg-grass-50 border-grass-200' : 'bg-tangerine-50 border-tangerine-200'}`}>
-            <p className="text-xs font-black uppercase tracking-wider mb-2 text-gray-500">Kiểm tra đáp án</p>
-            <div className="flex items-center justify-between flex-wrap gap-2">
-              <div>
-                <span className="text-xs text-gray-500 font-bold">Em ghi: </span>
-                <span className="font-black text-gray-800">
-                  {answerNumber || '(trống)'} {answerUnit}
-                </span>
+          {/* Answer check — math only */}
+          {!isEssay && (
+            <div className={`rounded-2xl p-4 border-2 ${feedback.answerCorrect ? 'bg-grass-50 border-grass-200' : 'bg-tangerine-50 border-tangerine-200'}`}>
+              <p className="text-xs font-black uppercase tracking-wider mb-2 text-gray-500">Kiểm tra đáp án</p>
+              <div className="flex items-center justify-between flex-wrap gap-2">
+                <div>
+                  <span className="text-xs text-gray-500 font-bold">Em ghi: </span>
+                  <span className="font-black text-gray-800">
+                    {answerNumber || '(trống)'} {answerUnit}
+                  </span>
+                </div>
+                <div>
+                  <span className="text-xs text-gray-500 font-bold">Đáp án đúng: </span>
+                  <span className="font-black text-grass-700">
+                    {feedback.modelSolution.answer} {feedback.modelSolution.unit}
+                  </span>
+                </div>
               </div>
-              <div>
-                <span className="text-xs text-gray-500 font-bold">Đáp án đúng: </span>
-                <span className="font-black text-grass-700">
-                  {feedback.modelSolution.answer} {feedback.modelSolution.unit}
-                </span>
-              </div>
+              <p className="text-sm font-medium text-gray-600 mt-2">{feedback.answerFeedback}</p>
             </div>
-            <p className="text-sm font-medium text-gray-600 mt-2">{feedback.answerFeedback}</p>
-          </div>
+          )}
 
           {/* Model solution */}
           <div className="bg-violet-50 border-2 border-violet-200 rounded-3xl p-5">
             <p className="text-xs font-black text-violet-700 uppercase tracking-wider mb-3">
               📖 Lời giải mẫu
             </p>
-            <div className="flex flex-col gap-2 mb-3">
-              {(feedback.modelSolution?.steps ?? []).map((step, i) => (
-                <div key={i} className="flex items-start gap-2">
-                  <span className="shrink-0 w-6 h-6 rounded-full bg-violet-500 text-white text-xs font-black flex items-center justify-center mt-0.5">
-                    {i + 1}
-                  </span>
-                  <p className="text-gray-700 font-medium text-sm">{step}</p>
+            {isEssay ? (
+              /* Essay: show as formatted text */
+              <div className="text-gray-700 font-medium text-sm leading-relaxed whitespace-pre-line">
+                {(feedback.modelSolution?.steps ?? []).join('\n\n')}
+              </div>
+            ) : (
+              /* Math: numbered steps + answer box */
+              <>
+                <div className="flex flex-col gap-2 mb-3">
+                  {(feedback.modelSolution?.steps ?? []).map((step, i) => (
+                    <div key={i} className="flex items-start gap-2">
+                      <span className="shrink-0 w-6 h-6 rounded-full bg-violet-500 text-white text-xs font-black flex items-center justify-center mt-0.5">
+                        {i + 1}
+                      </span>
+                      <p className="text-gray-700 font-medium text-sm">{step}</p>
+                    </div>
+                  ))}
                 </div>
-              ))}
-            </div>
-            <div className="bg-violet-100 rounded-xl p-3 border border-violet-200">
-              <span className="text-sm font-black text-violet-800">
-                Đáp số: {feedback.modelSolution.answer} {feedback.modelSolution.unit}
-              </span>
-            </div>
+                <div className="bg-violet-100 rounded-xl p-3 border border-violet-200">
+                  <span className="text-sm font-black text-violet-800">
+                    Đáp số: {feedback.modelSolution.answer} {feedback.modelSolution.unit}
+                  </span>
+                </div>
+              </>
+            )}
             {feedback.modelSolution.explanation && (
-              <p className="text-xs text-violet-600 font-medium mt-2">{feedback.modelSolution.explanation}</p>
+              <p className="text-xs text-violet-600 font-medium mt-3 border-t border-violet-200 pt-3">
+                {feedback.modelSolution.explanation}
+              </p>
             )}
           </div>
 
           {/* Next button */}
           <button
-            onClick={() => onNext(feedback.answerCorrect, feedback)}
+            onClick={() => onNext(feedback.score >= 5, feedback)}
             className="w-full flex items-center justify-center gap-2 bg-gradient-to-br from-grass-500 to-grass-600 text-white font-black py-3 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-0.5 active:scale-95"
           >
             {exerciseNumber < totalExercises ? '🎯 Câu tiếp theo →' : '🏆 Hoàn thành bài tập!'}

@@ -6,10 +6,58 @@ interface GradeRequest {
   question: string;
   correctSteps: string[];
   correctAnswer: string;
-  correctUnit: string;
-  studentSteps: string[];
-  studentNumber: string;
-  studentUnit: string;
+  correctUnit?: string;
+  studentSteps?: string[];
+  studentNumber?: string;
+  studentUnit?: string;
+  subject?: string;
+  essayAnswer?: string;
+}
+
+function buildEssayGradePrompt(req: GradeRequest): string {
+  const keyPoints = (req.correctSteps ?? []).join('\n');
+  return `Bạn là giáo viên Ngữ văn lớp 9 giàu kinh nghiệm ôn thi vào lớp 10 Hà Nội.
+
+ĐỀ BÀI:
+${req.question}
+
+CÁC Ý CHÍNH CẦN CÓ TRONG BÀI LÀM:
+${keyPoints}
+
+BÀI LÀM CỦA HỌC SINH:
+${req.essayAnswer || '(Học sinh không viết gì)'}
+
+Hãy chấm bài và trả về JSON với cấu trúc CHÍNH XÁC sau (không có text nào khác):
+
+{
+  "stepFeedback": [],
+  "answerCorrect": true,
+  "answerFeedback": "",
+  "overallFeedback": "Nhận xét chung 2–3 câu: điểm mạnh, điểm cần cải thiện, lời động viên",
+  "score": 7,
+  "modelSolution": {
+    "steps": [
+      "Đoạn 1 lời giải mẫu (viết thành đoạn văn đầy đủ, không phải gạch đầu dòng)",
+      "Đoạn 2 lời giải mẫu (tiếp theo, nếu cần)",
+      "Đoạn 3 lời giải mẫu (kết luận)"
+    ],
+    "answer": "",
+    "unit": "",
+    "explanation": "1 câu tóm tắt điểm cốt lõi của bài"
+  },
+  "diagram": null
+}
+
+HƯỚNG DẪN CHẤM:
+- score 9–10: Đủ ý chính, có dẫn chứng cụ thể, phân tích sâu, có cảm xúc, diễn đạt tốt
+- score 7–8: Đủ ý chính, có dẫn chứng, phân tích khá
+- score 5–6: Có ý nhưng thiếu dẫn chứng hoặc phân tích còn nông
+- score 3–4: Thiếu nhiều ý, hoặc chỉ kể lại không phân tích
+- score 0–2: Không viết hoặc lạc đề hoàn toàn
+- answerCorrect: true nếu score >= 5
+- modelSolution.steps: Viết lời giải mẫu dạng đoạn văn hoàn chỉnh (như bài văn thật), KHÔNG phải gạch đầu dòng. Mỗi phần tử là một đoạn văn.
+- Dùng ngôn ngữ thân thiện, khuyến khích học sinh
+- Output CHỈ là JSON thuần túy`;
 }
 
 function buildGradePrompt(req: GradeRequest): string {
@@ -78,12 +126,15 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Thiếu dữ liệu câu hỏi' }, { status: 400 });
     }
 
+    const isEssay = body.subject === 'ngu-van';
+    const prompt = isEssay ? buildEssayGradePrompt(body) : buildGradePrompt(body);
+
     const groq = new Groq({ apiKey });
     let completion;
     try {
       completion = await groq.chat.completions.create({
         model: 'llama-3.3-70b-versatile',
-        messages: [{ role: 'user', content: buildGradePrompt(body) }],
+        messages: [{ role: 'user', content: prompt }],
         temperature: 0.3,
       });
     } catch (primaryErr) {
