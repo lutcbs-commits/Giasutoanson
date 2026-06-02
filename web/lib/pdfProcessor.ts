@@ -91,74 +91,18 @@ async function extractTextFromPdf(pdfPath: string): Promise<string> {
   return data.text as string;
 }
 
-function buildPrompt(pdfText: string, fileName: string, lite = false): string {
-  const slidesReq = lite ? '3-4 slides' : '6-10 slides';
-  const exReq = lite ? '4-5 bài tập' : '8-12 bài tập';
-  const contentSlice = lite ? pdfText.slice(0, 10000) : pdfText.slice(0, 14000);
+function buildPrompt(pdfText: string, fileName: string): string {
+  const content = pdfText.slice(0, 3000);
+  return `GV toán lớp 5 VN. Tạo bài học từ tài liệu. Trả JSON thuần túy, không markdown.
 
-  return `Bạn là giáo viên toán tiểu học Việt Nam giàu kinh nghiệm, chuyên dạy lớp 5 chuẩn bị thi vào lớp 6.
+FILE: ${fileName}
+NỘI DUNG:
+${content}
 
-Dựa vào nội dung tài liệu toán sau đây, hãy tạo bài học tương tác cho học sinh lớp 5.
+JSON schema (4 slides, 5 bài tập):
+{"title":"...","topics":["..."],"slides":[{"id":1,"title":"...","content":"...","keyFormula":"","example":{"problem":"...","steps":["B1:...","B2:..."],"result":"..."},"miniGame":{"question":"...","options":["A","B","C","D"],"answer":"A","explanation":"..."}}],"exercises":[{"id":1,"question":"...","correctSteps":["B1:...","B2:...","B3:..."],"correctAnswer":"5","correctUnit":"kg","difficulty":"easy","hint":"..."}]}
 
-TÊN FILE: ${fileName}
-
-NỘI DUNG TÀI LIỆU:
-${contentSlice}
-
-Hãy tạo output JSON với cấu trúc CHÍNH XÁC như sau (không có text nào khác ngoài JSON):
-
-{
-  "title": "Tên bài học ngắn gọn, hấp dẫn",
-  "topics": ["chủ đề 1", "chủ đề 2"],
-  "slides": [
-    {
-      "id": 1,
-      "title": "Tiêu đề slide",
-      "content": "Nội dung giải thích rõ ràng cho học sinh lớp 5\\nCó thể dùng \\n để xuống dòng",
-      "keyFormula": "Công thức quan trọng nếu có (để trống string nếu không có)",
-      "example": {
-        "problem": "Ví dụ cụ thể từ tài liệu",
-        "steps": ["Bước 1: ...", "Bước 2: ...", "Bước 3: ..."],
-        "result": "Kết quả cuối cùng kèm đơn vị"
-      },
-      "miniGame": {
-        "question": "Câu hỏi kiểm tra nhanh (CHỈ thêm miniGame cho 3-4 slides)",
-        "options": ["Đáp án A", "Đáp án B", "Đáp án C", "Đáp án D"],
-        "answer": "Đáp án đúng (phải là một trong 4 options)",
-        "explanation": "Giải thích tại sao đáp án đó đúng"
-      }
-    }
-  ],
-  "exercises": [
-    {
-      "id": 1,
-      "question": "Câu hỏi bài toán có lời văn, đầy đủ dữ kiện, lấy sát từ tài liệu",
-      "correctSteps": [
-        "Bước 1: Tính ... = ... (phép tính cụ thể)",
-        "Bước 2: Tính ... = ... (phép tính cụ thể)",
-        "Bước 3: Vậy đáp án là ..."
-      ],
-      "correctAnswer": "5",
-      "correctUnit": "kg",
-      "difficulty": "easy",
-      "hint": "Gợi ý: Hãy đọc kỹ đề và xác định dữ kiện đã cho"
-    }
-  ]
-}
-
-YÊU CẦU:
-- Tạo ${slidesReq} lý thuyết từ cơ bản đến nâng cao
-- keyFormula: để trống string "" nếu không có công thức
-- example: null nếu slide không có ví dụ cụ thể
-- miniGame: CHỈ thêm cho 3-4 slides, để null cho các slide còn lại
-- Tạo ${exReq} TỰ LUẬN lấy từ tài liệu, đa dạng từ dễ đến khó
-- correctSteps: 2-5 bước giải chi tiết, mỗi bước ghi rõ phép tính
-- correctAnswer: CHỈ ghi con số (ví dụ "5", "12.5", "120")
-- correctUnit: đơn vị đo (ví dụ "kg", "cm", "m²", "giờ", "đồng", "" nếu không có đơn vị)
-- difficulty: "easy", "medium", hoặc "hard"
-- hint: gợi ý ngắn 1 câu giúp học sinh biết hướng làm
-- Viết tất cả bằng tiếng Việt, ngôn ngữ thân thiện với học sinh lớp 5
-- Output CHỈ là JSON thuần túy, không có markdown, không có backtick`;
+Yêu cầu: 4 slides (dạy lý thuyết), 5 bài tập tự luận từ tài liệu. miniGame chỉ cho 2 slides. correctAnswer chỉ ghi số. difficulty: easy/medium/hard. Tiếng Việt thân thiện lớp 5.`;
 }
 
 export async function processLesson(fileName: string): Promise<LessonData> {
@@ -187,10 +131,10 @@ export async function processLesson(fileName: string): Promise<LessonData> {
   let completion;
   try {
     completion = await groq.chat.completions.create({
-      model: 'llama-3.3-70b-versatile',
+      model: 'llama-3.1-8b-instant',
       messages: [{ role: 'user', content: buildPrompt(pdfText, fileName) }],
       temperature: 0.7,
-      max_tokens: 8192,
+      max_tokens: 4096,
     });
   } catch (primaryErr) {
     const e = primaryErr as { status?: number };
@@ -198,6 +142,9 @@ export async function processLesson(fileName: string): Promise<LessonData> {
       const body = ((primaryErr as Error).message ?? '').match(/"message":"([^"]+)"/)?.[1] ?? '';
       const retry = body.match(/try again in ([^"]+)/)?.[1] ?? '';
       throw new Error(`Groq hết quota ngày (100k token/ngày). ${retry ? `Thử lại sau ${retry}.` : 'Thử lại ngày mai.'}`);
+    }
+    if (e.status === 413) {
+      throw new Error('File PDF quá lớn để xử lý. Hãy thử file nhỏ hơn hoặc liên hệ admin.');
     }
     throw primaryErr;
   }
