@@ -195,7 +195,9 @@ export async function processLesson(fileName: string): Promise<LessonData> {
   } catch (primaryErr) {
     const e = primaryErr as { status?: number };
     if (e.status === 429) {
-      throw new Error('Groq đang bận (rate limit). Hãy thử lại sau 60 giây.');
+      const body = ((primaryErr as Error).message ?? '').match(/"message":"([^"]+)"/)?.[1] ?? '';
+      const retry = body.match(/try again in ([^"]+)/)?.[1] ?? '';
+      throw new Error(`Groq hết quota ngày (100k token/ngày). ${retry ? `Thử lại sau ${retry}.` : 'Thử lại ngày mai.'}`);
     }
     throw primaryErr;
   }
