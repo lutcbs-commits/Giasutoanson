@@ -16,7 +16,13 @@ interface GradeRequest {
 
 function buildEssayGradePrompt(req: GradeRequest): string {
   const keyPoints = (req.correctSteps ?? []).join('\n');
-  return `Bạn là giáo viên Ngữ văn lớp 9 giàu kinh nghiệm ôn thi vào lớp 10 Hà Nội.
+  const subjectLabel: Record<string, string> = {
+    'ngu-van': 'Ngữ văn lớp 9',
+    'hoa-hoc': 'Hoá học lớp 10',
+    'dia-ly': 'Địa lý lớp 10',
+  };
+  const teacher = subjectLabel[req.subject ?? ''] ?? 'giáo viên giàu kinh nghiệm';
+  return `Bạn là giáo viên ${teacher} giàu kinh nghiệm.
 
 ĐỀ BÀI:
 ${req.question}
@@ -126,7 +132,7 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Thiếu dữ liệu câu hỏi' }, { status: 400 });
     }
 
-    const isEssay = body.subject === 'ngu-van';
+    const isEssay = body.subject !== 'toan';
     const prompt = isEssay ? buildEssayGradePrompt(body) : buildGradePrompt(body);
 
     const groq = new Groq({ apiKey });

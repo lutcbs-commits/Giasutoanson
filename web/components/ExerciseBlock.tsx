@@ -24,7 +24,7 @@ export default function ExerciseBlock({
   onNext,
   subject,
 }: ExerciseBlockProps) {
-  const isEssay = subject === 'ngu-van';
+  const isEssay = subject !== 'toan';
 
   // Math mode state
   const [steps, setSteps] = useState<string[]>(['', '', '']);
